@@ -1,0 +1,389 @@
+{
+  "fichier": "QCM_Pharmacocinétique.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biodisponibilité absolue d’un principe actif:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale et intraveineuse \t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale et intramusculaire \t\t \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale sous une forme liquide et solide                 \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme générique est dite équivalente à une forme princeps si :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la moyenne  des mesures de sa biodisponibilité relative à la forme princeps est comprise entre 80 et 120% \t\toui      non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme générique est dite équivalente à une forme princeps si :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "si l’intervalle de confiance de la moyenne des biodisponibilités relatives mesurées \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est compris entre 0,8 et 1,2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La demi-vie d’élimination d’un principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dépend de la clairance systémique Cls \t\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "du volume de distribution Vd\t\t\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de Tmax et Cmax\t\t\t\t\t\t\t\t oui   non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biodisponibilité absolue d’un principe actif:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale et intraveineuse \t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale et intramusculaire \t\t \t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se calcule après son administration orale sous une forme liquide et solide                 \t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme générique est dite équivalente à une forme princeps si :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la moyenne  des mesures de sa biodisponibilité relative à la forme princeps est comprise entre 80 et 120% \t\t      non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme générique est dite équivalente à une forme princeps si :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "si l’intervalle de confiance de la moyenne des biodisponibilités relatives mesurées \t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est compris entre 0,8 et 1,2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La demi-vie d’élimination d’un principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dépend de la clairance systémique Cls \t\t\t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "du volume de distribution Vd\t\t\t\t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de Tmax et Cmax\t\t\t\t\t\t\t\t non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biodisponibilité absolue d’un principe actif:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "n’a pas d’importance dans le choix d’un médicament \t\t\t\t Vrai Faux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "peut être très variable si elle faible\t\t\t\t\t\t Vrai Faux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le risque d’accumulation d’un principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dépend de la  non linéarité de la cinétique\t\t\t\t \t             oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est présent si l’intervalle entre deux administration est inférieur à la demi-vie d’élimination          oui   non =============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La surveillance régulière des taux circulants est obligatoire O ou recommandée R",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "lors du traitement par les sels de Lithium\t\t\t\t\t             O         R\tlors du traitement par la Carbamazépine  \t\t\t\t\t             O         R \tlors du traitement par le Diazépam \t\t\t\t\t\t             O         R",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biodisponibilité absolue d’un principe actif:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "n’a pas d’importance dans le choix d’un médicament \t\t\t\t Faux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "peut être très variable si elle faible\t\t\t\t\t\t Vrai",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le risque d’accumulation d’un principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dépend de la  non linéarité de la cinétique\t\t\t\t \t             oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est présent si l’intervalle entre deux administration est inférieur à la demi-vie d’élimination          oui   =============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La surveillance régulière des taux circulants est obligatoire O ou recommandée R",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "lors du traitement par les sels de Lithium\t\t\t\t\t             O         \tlors du traitement par la Carbamazépine  \t\t\t\t\t              R \tlors du traitement par le Diazépam \t\t\t\t\t\t            facultative",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

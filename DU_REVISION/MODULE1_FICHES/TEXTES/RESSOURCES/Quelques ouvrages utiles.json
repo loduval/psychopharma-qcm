@@ -1,0 +1,74 @@
+{
+  "fichier": "Quelques ouvrages utiles.pptx",
+  "session": "RESSOURCES",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "QUELQUES OUVRAGES UTILES",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "NeuroPsychopharmacotherapy",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Editors Peter Riederer, Gerd Laux, Toshiharu Nagatsu, Weidong Le and Christian Riederer",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "eBook Springer 2021",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

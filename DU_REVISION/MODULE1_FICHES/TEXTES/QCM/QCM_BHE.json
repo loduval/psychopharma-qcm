@@ -1,0 +1,243 @@
+{
+  "fichier": "QCM_BHE.pptx",
+  "session": "QCM",
+  "total_slides": 2,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "BHE  QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La barrière Hémato Encéphalique(BHE) peut être désignée par les termes français ou étrangers suivants:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Barrière Sang-Cerveau\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Blood Brain Barrier \t\t\t \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Blut Hirn Shranke\t\t\t \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Barrière Hémato-Méningée\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L e coefficient de partage indiquant qu’une molécule est lipophile  suffit à résumer le passage d’une substance à travers la BHE\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les termes suivants sont adaptés à la Barrière Hémato Encéphalique :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Capillaires à jonction serrées \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Unité Neuro-Glio- Vasculaire\t\t \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Centre du vomissement                                                               oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Epithélium des plexus choroïdes \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’enzyme peroxydase du raifort est un traceur qui injecté dans la circulation cérébrale:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "reste dans la lumière du capillaire\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se dépose dans le parenchyme cérébral\t oui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "BHE  QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La barrière Hémato Encéphalique(BHE) peut être désignée par les termes français ou étrangers suivants:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Barrière Sang-Cerveau\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Blood Brain Barrier \t\t\t \t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Blut Hirn Shranke\t\t\t \t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Barrière Hémato-Méningée\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L e coefficient de partage indiquant qu’une molécule est lipophile  suffit à résumer le passage d’une substance à travers la BHE\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les termes suivants sont adaptés à la Barrière Hémato Encéphalique :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Capillaires à jonction serrées \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Unité Neuro-Glio- Vasculaire\t\t \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Centre du vomissement\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Epithélium des plexus choroïdes \t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’enzyme peroxydase du raifort est un traceur qui injecté dans la circulation cérébrale:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "reste dans la lumière du capillaire\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se dépose dans le parenchyme cérébral\t non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

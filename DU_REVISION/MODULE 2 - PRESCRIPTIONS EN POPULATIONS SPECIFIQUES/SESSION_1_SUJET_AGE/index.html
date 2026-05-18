@@ -1,0 +1,255 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 1 — Sujet Age — M2</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 2</a><div class="tb-crumb">M2 · <em>Session 1 — Sujet Age</em></div></div><div class="sess-hero"><div class="sh-tag">Module 2 — Session 1/8</div><h1>Session 1 — Sujet Age</h1><div class="sh-meta">1 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Psychotropes et sujet âgé</h3>
+
+<h4>Généralités</h4>
+
+<p><strong>Principaux enjeux chez le sujet âgé :</strong></p>
+<ul>
+<li>Troubles psychiatriques : une des 1ères causes de morbidité et de mortalité prématurée</li>
+<li>3/5èmes des sources d'incapacité liées au vieillissement</li>
+</ul>
+
+<p><strong>Dépression :</strong></p>
+<ul>
+<li>Prévalence élevée : 3% en population générale → 15 à 40% en institutions</li>
+<li>Sous-diagnostiquée et sous-traitée : non traitée dans 60% des cas</li>
+</ul>
+
+<p><strong>Suicide :</strong></p>
+<ul>
+<li>Population > 60 ans : 30% du total des suicides</li>
+</ul>
+
+<p><strong>Prescriptions de psychotropes :</strong></p>
+<ul>
+<li>75% des sujets âgés institutionnalisés ont au moins un psychotrope</li>
+<li>Risque de chutes, d'AVC…</li>
+<li>2010 : hausse du nombre d'hospitalisations de personnes âgées au sein des établissements publics</li>
+<li>En Psychiatrie : hausse de +14,6% pour les sujets de plus de 80 ans</li>
+</ul>
+
+<p><strong>Modifications pharmacodynamiques liées au vieillissement :</strong></p>
+<ul>
+<li>Diminution de l'absorption (diminution acidité, mobilité, afflux sanguin et surface gastro-intestinale)</li>
+<li>Diminution de la fixation protéique (diminution albuminémie)</li>
+<li>Augmentation du volume de distribution des médicaments lipophiles</li>
+<li>Diminution du métabolisme hépatique et de l'excrétion rénale</li>
+<li>Polymédication → interactions cytochrome P 450</li>
+</ul>
+
+<p><strong>Médicaments concernés :</strong></p>
+<ul>
+<li>Métabolisés par le cytochrome P450 : antihypertenseurs, anti-inflammatoires, benzodiazépines, antipsychotiques</li>
+<li>Inhibiteurs du cytochrome P450 : IPP, fluoxétine, paroxétine, venlafaxine</li>
+</ul>
+
+<h3>Thymorégulateurs</h3>
+
+<h4>Lithium chez le sujet âgé</h4>
+
+<p><strong>Évolution des prescriptions :</strong></p>
+<ul>
+<li>De moins en moins prescrit : diminution lithium, augmentation acide valproïque</li>
+<li>Ontario, 1993-2001 : Lithium 653 → 281 nouvelles prescriptions annuelles chez patients > 65 ans</li>
+<li>Acide valproïque : 183 → 1 090 nouvelles prescriptions</li>
+</ul>
+
+<p><strong>Pharmacocinétique :</strong></p>
+<ul>
+<li>Augmentation volume graisseux, diminution volume musculaire, diminution volume d'eau = augmentation du volume de distribution</li>
+<li>Diminution du taux de filtration glomérulaire = diminution clairance rénale</li>
+<li>Concentrations sériques thérapeutiques obtenues avec des posologies plus faibles</li>
+<li>Augmentation de la demi-vie d'élimination</li>
+<li>Effets neurotoxiques à des doses plus faibles que chez l'adulte</li>
+<li>Certains auteurs recommandent des concentrations plasmatiques thérapeutiques plus basses, de 0,4 à 0,8 mEq/l</li>
+</ul>
+
+<p><strong>Données d'efficacité :</strong></p>
+<ul>
+<li>Absence d'étude contrôlée randomisée spécifique</li>
+<li>Quelques études non contrôlées rétrospectives + analyse post hoc en faveur de son efficacité et de sa tolérance</li>
+</ul>
+
+<p><strong>Tolérance :</strong></p>
+<ul>
+<li>Incidence plus élevée des EI modérés à sévères comparativement aux sujets plus jeunes</li>
+<li>EI le plus fréquent = confusion (19,3%)</li>
+</ul>
+
+<p><strong>Complications rénales :</strong></p>
+<ul>
+<li>Incidence de l'insuffisance rénale aiguë = 1,5% par personne-année</li>
+<li>FDR = diurétiques, IEC</li>
+<li>Insuffisance rénale chronique = 1,2% à 34%</li>
+<li>FDR = âge, surdosage en Li, polyurie, ATCD d'altérations de la fonction rénale</li>
+<li>Diabète insipide = 1,8% à 85%</li>
+<li>La fréquence des EI rénaux chez le sujet âgé ne justifie pas de sous-prescrire le Li</li>
+</ul>
+
+<p><strong>Recommandations après 10 ans de lithium :</strong></p>
+<ul>
+<li>Réaliser une échographie rénale</li>
+<li>Si kystes ou anomalies : avis néphrologique</li>
+</ul>
+
+<p><strong>Hypercalcémie et hyperparathyroïdie induites :</strong></p>
+<ul>
+<li>EI le plus souvent asymptomatique</li>
+<li>Chez le sujet âgé EI susceptible d'être plus grave, surtout si coexiste une altération de la fonction rénale</li>
+<li>40% des cas rapportés concernaient des sujets > 60 ans</li>
+<li>Vigilance et surveillance régulière chez le sujet âgé</li>
+</ul>
+
+<p><strong>Effets neuroprotecteurs potentiels :</strong></p>
+<ul>
+<li>Chez l'animal : augmentation de la survie neuronale par inhibition de l'apoptose, régulation de l'autophagie, amélioration du fonctionnement mitochondrial, augmentation de la synthèse de facteurs neurotrophiques</li>
+<li>Chez l'homme : augmentation de l'expression des gènes anti-apoptose, inhibition du stress oxydatif cellulaire, synthèse de BDNF, épaississement cortical, augmentation de densité de la matière grise, augmentation du volume de l'hippocampe, inhibition de la GSK-3</li>
+</ul>
+
+<h4>Autres thymorégulateurs</h4>
+
+<p><strong>Divalproate - Valproate :</strong></p>
+<ul>
+<li>4 études rétrospectives positives</li>
+<li>Prévention des épisodes dépressifs : DVP > lithium</li>
+<li>Alternative au lithium en cas de CI</li>
+<li>Lien avec albumine → fraction libre plasmatique → posologies inférieures</li>
+<li>Dose initiale ≈ 125 mg/j ; doses moyennes : 800-1000 mg/j</li>
+<li>EI : Sédation, confusion, symptômes EP</li>
+<li>Interactions : Taux augmenté par</div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/1</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">47 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-h2">Psychotropes et sujet âgé</div></div><div class="slide-card"><div class="sn">Slide 2</div><div class="t-h2">Psychotropes et sujet âgé</div><div class="t-h2">Dr Nicolas HOERTEL</div><div class="t-h2">Pr Frédéric LIMOSIN</div><div class="t-h1">Service de Psychiatrie de l’adulte et du sujet âgé</div><div class="t-h1">Hôpitaux Universitaires Paris Ouest (AP-HP)</div><div class="t-h2">Corentin-Celton – HEGP</div><div class="t-h2">Université Paris Descartes</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Bienvenue dans ce module</div><div class="t-h1">Afin de le suivre dans les meilleures conditions, nous vous invitons à :</div><div class="t-sm">Vous isoler</div><div class="t-h2">Mettre un casque</div></div><div class="slide-card"><div class="sn">Slide 4</div><div class="t-sm">Généralités</div><div class="t-h2">Thymorégulateurs</div><div class="t-h2">Antidépresseurs</div><div class="t-h2">Benzodiazépines</div><div class="t-h2">Antipsychotiques</div></div><div class="slide-card"><div class="sn">Slide 5</div><div class="t-sm">Généralités</div></div><div class="slide-card"><div class="sn">Slide 6</div><div class="t-h2">PSA → principaux enjeux</div><div class="t-h2">Troubles psychiatriques</div><div class="t-h1">une des 1ères causes de morbidité et de mortalité prématurée chez le sujet âgé</div><div class="t-h1">3/5èmes des sources d’incapacité liées au vieillissement</div><div class="t-sm">Dépression</div><div class="t-h1">prévalence élevée : 3% en population générale → 15 à 40% en institutions</div><div class="t-h1">sous-diagnostiquée et sous-traitée : non traitée dans 60% des cas !</div><div class="t-sm">Suicide</div><div class="t-h1">population &gt; 60 ans  30% du total des suicides</div><div class="t-h2">Prescriptions de psychotropes</div><div class="t-h1">75% des sujets âgés institutionnalisés ont au moins un psychotrope</div><div class="t-h2">risque de chutes, d’AVC…</div><div class="t-h1">2010 : du nombre d’hospitalisations de personnes âgées au sein des établissements publics</div><div class="t-h1">En Psychiatrie : hausse de +14,6% pour les sujets de plus de 80 ans</div></div><div class="slide-card top"><div class="sn">Slide 7</div><div class="t-h1">Modifications pharmacodynamiquesliées au vieillissement</div><div class="t-h1"> de l’absorption ( acidité, mobilité, afflux sanguin et surface gastro-intestinale)</div><div class="t-h1"> de la fixation protéique ( albuminémie)</div><div class="t-h1"> du volume de distribution des médicaments lipophiles</div><div class="t-h1"> du métabolisme hépatique et de l’excrétion rénale</div><div class="t-h1">Polymédication  interactions cytochrome P 450</div><div class="t-h1">Métabolisés par le cytochrome P450 : antihypertenseurs, anti-inflammatoires, benzodiazépines, antipsychotiques</div><div class="t-h1">Inhibiteurs du cytochrome P450 : IPP, fluoxétine, paroxétine, venlafaxine</div></div><div class="slide-card"><div class="sn">Slide 8</div><div class="t-h2">Thymorégulateurs</div></div><div class="slide-card"><div class="sn">Slide 9</div><div class="t-h2">Recommandations en France</div><div class="t-h1">Llorca et al., Encéphale 2010; sup 4; sS86-s102.</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">Li chez le sujet âgé : de moins en moins prescrit…</div><div class="t-h2"> lithium   acide valproïque</div><div class="t-h2">Shulman et al., BMJ 2003</div><div class="t-h2">Ontario, 1993-2001</div><div class="t-h1">Nombre annuel de nouvelles prescriptions chez les patients &gt; 65 ans</div><div class="t-h2">Lithium  		653  281</div><div class="t-h2">Acide valproïque  	183  1 090</div><div class="t-h1">van Melick et al., Am J Geriatr Pharmacother 2012</div><div class="t-h2">Pays-Bas, 1996-2008</div><div class="t-h2">Patients âgés sous Li :</div><div class="t-h2">- de coprescriptions</div><div class="t-h1">pas + d’arrêts ou de substitutions que dans les autres tranches d’âge</div></div><div class="slide-card"><div class="sn">Slide 11</div><div class="t-h2">Pharmacocinétique</div><div class="t-h1"> volume graisseux,  volume musculaire,  volume d’eau</div><div class="t-h2">=  du volume de distribution1</div><div class="t-h1"> du taux de filtration glomérulaire	=  clairance rénale2</div><div class="t-h1">1 et 2  concentrations sériques thérapeutiques obtenues avec des posologies + faibles</div><div class="t-h1">Augmentation de la demi-vie d’élimination</div><div class="t-h1">Effets neurotoxiques à des doses + faibles que chez l’adulte</div><div class="t-h1">Certains auteurs recommandent des concentrations plasmatiques thérapeutiques plus basses, de 0,4 à 0,8 mEq/l</div><div class="t-h1">Foster, 1992 ; Sproule et al., Drugs &amp; Aging 2000</div></div><div class="slide-card"><div class="sn">Slide 12</div><div class="t-h2">Données d’efficacité</div><div class="t-h1">Absence d’étude contrôlée randomisée spécifique</div><div class="t-h1">que ce soit dans le traitement curatif des états d’excitation maniaque ou hypomaniaque</div><div class="t-h2">ou dans la prévention des rechutes</div><div class="t-h1">Quelques études non contrôlées rétrospectives</div><div class="t-h1">+ analyse post hoc de données issues d’un essai en double aveugle</div><div class="t-h1">	en faveur de son efficacité et de sa tolérance</div><div class="t-h2">chez le sujet âgé bipolaire</div><div class="t-h1">Aziz et al., Am J Geriatr Pharmacother 2006 ; VA/DoD, 2010</div></div><div class="slide-card"><div class="sn">Slide 13</div><div class="t-sm">Tolérance</div><div class="t-h1">Effets indésirables rapportés de façon rétrospective :</div><div class="t-h1">Incidence + élevée des EI modérés à sévères comparativement aux sujets plus jeunes (p&lt;0,02)</div><div class="t-h2">(Smith &amp; Helms, 1982)</div><div class="t-h2">Etude rétrospective sur 7 ans :</div><div class="t-h1">114 sujets âgés présentant un trouble de l’humeur sous Li</div><div class="t-h1">EI le plus fréquent = confusion (19,3%)</div><div class="t-h2">(Holroyd &amp; Rabins, 1994)</div></div><div class="slide-card top"><div class="sn">Slide 14</div><div class="t-h1">Prévalence des complications rénales</div><div class="t-h1">Rej et al., J Geriatric Psychiatry Neurology 2013</div><div class="t-h1">96 articles analysés, patients &gt; 65 ans</div><div class="t-h1">Incidence de l’insuffisance rénale aiguë = 1,5% par personne-année</div><div class="t-h2">FDR = diurétiques, IEC</div><div class="t-h1">Insuffisance rénale chronique = 1,2% à 34%</div><div class="t-h1">FDR = âge, surdosage en Li, polyurie, ATCD d’altérations de la fonction rénale</div><div class="t-h2">Diabète insipide = 1,8% à 85%</div><div class="t-h1">FDR = durée du traitement, posologie, forme retard, absence de réponse clinique</div><div class="t-h1">Au total, la fréquence des EI rénaux chez le sujet âgé ne justifie pas de sous-prescrire le Li</div><div class="t-h1">Recommandations après 10 ans de lithium</div><div class="t-h2">réaliser une échographie rénale</div><div class="t-h1">si kystes ou anomalies : avis néphrologique</div></div><div class="slide-card top"><div class="sn">Slide 15</div><div class="t-h1">Hypercalcémie et hyperparathyroïdie induites</div><div class="t-h2">EI le plus souvent asymptomatique</div><div class="t-h1">Fréquence mal connue chez le sujet âgé</div><div class="t-h1">Or, chez le sujet âgé EI susceptible d’être plus grave, surtout si coexiste une altération de la fonction rénale</div><div class="t-h1">Lehmann &amp; Lee, J Aff Disorders 2013</div><div class="t-h1">Analyse systématique des cas rapportés</div><div class="t-h1">40% des cas rapportés concernaient des sujets &gt; 60 ans</div><div class="t-h1">[Ca2+] sériques étaient &gt; chez les sujets &gt; 60 ans</div><div class="t-h1">Donc vigilance et surveillance régulière chez le sujet âgé</div></div><div class="slide-card top"><div class="sn">Slide 16</div><div class="t-h1">Le lithium prévient-il la maladie d’Alzheimer ?</div><div class="t-h1">Chez l’animal et sur des modèles de culture cellulaire :</div><div class="t-h1">Lithium  la survie neuronale par :</div><div class="t-h2">inhibition de l’apoptose</div><div class="t-h2">régulation de l’autophagie</div><div class="t-h2"> du fonctionnement mitochondrial</div><div class="t-h1"> de la synthèse de facteurs neurotrophiques</div><div class="t-h1">Chez l’homme, effets neuroprotecteurs du lithium par :</div><div class="t-h1"> de l’expression des gènes anti-apoptose</div><div class="t-h1">inhibition du stress oxydatif cellulaire</div><div class="t-h1">synthèse de brain-derived neurotrophic factor (BDNF)</div><div class="t-h2">épaississement cortical</div><div class="t-h2"> de densité de la matière grise</div><div class="t-h2"> du volume de l’hippocampe</div><div class="t-h1">inhibition de la glycogen synthase kinase-3 beta (GSK-3)</div><div class="t-h2">Forlenza et al., Drugs Aging 2012</div></div><div class="slide-card top"><div class="sn">Slide 17</div><div class="t-h1">Utilisation de Li associée à risque moindre de MA</div><div class="t-h2">Contexte = études contradictoires</div><div class="t-h1">Ex. : Hampel et al., J Clin Psychiatry 2009</div><div class="t-h1">A 10 semaines  aucun effet du lithium sur : activité GSK-3, biomarqueurs dosés dans le LCR, score ADAS-Cog</div><div class="t-h1">Forlenza et al., Br J Psychiatry 2011</div><div class="t-h1">Etude en double aveugle Li vs placebo chez des patients MCI</div><div class="t-h2">Après 12 mois de traitement :</div><div class="t-h1">Li ralentit la progression des altérations cognitives et fonctionnelles</div><div class="t-h1">Et  l’hyperphosphorylation de la protéine Tau</div><div class="t-h1"> des concentrations de P-tau dans le LCR (p=0,03)</div><div class="t-h1">processus clef du continuum MCI  MA</div></div><div class="slide-card"><div class="sn">Slide 18</div><div class="t-h2">Divalproate - Valproate</div><div class="t-h2">4 études rétrospectives positives</div><div class="t-h1">Prévention des épisodes dépressifs : DVP &gt; lithium</div><div class="t-h1">Alternative au lithium en cas de CI</div><div class="t-h1">Lien avec albumine  fraction libre plasmatique  posologies inférieures</div><div class="t-h1">Dose initiale ≈ 125 mg/j ; doses moyennes : 800-1000 mg/j</div><div class="t-h2">Sédation, confusion, symptômes EP</div><div class="t-h2">Interactions médicamenteuses</div><div class="t-h1">Taux augmenté par acide acétylsalicylique</div><div class="t-h1">Taux diminué par phénytoïne, carbamazépine</div></div><div class="slide-card"><div class="sn">Slide 19</div><div class="t-sm">Carbamazépine</div><div class="t-h1">Pas d’essais cliniques contrôlés dans cette population</div><div class="t-h1">Effets indésirables communs : vertiges, sédation, rash cutanés</div><div class="t-h1">EI graves : néphropathie, arythmie, porphyrie, insuffisance médullaire, SIADH</div><div class="t-h1">Interactions médicamenteuses : antagonistes calciques, cimétidine, érythromycine</div><div class="t-h2">Inducteur enzymatique</div><div class="t-h1">Dose initiale = 100 mg/j  max. de 300 à 800 mg/j</div></div><div class="slide-card"><div class="sn">Slide 20</div><div class="t-sm">Lamotrigine</div><div class="t-h1">2 essais ayant inclus des sujets âgés</div><div class="t-h1">Traitement en aigu de l’épisode dépressif (≠ épisode maniaque)</div><div class="t-h1">Maintenance : + grande efficacité sur la prévention des EDC / Li</div><div class="t-h1">EI : nausées, insomnie, somnolence, asthénie, rash cutanés (Stevens-Johnson : 0,1%)</div><div class="t-h1">Posologie initiale ≈ 25 mg/j, + 25 mg/j toutes les 2 semaines</div><div class="t-h1">Posologie moyenne cible : 100 à 300 mg/j</div></div><div class="slide-card"><div class="sn">Slide 21</div><div class="t-sm">Autres</div><div class="t-sm">Oxcarbazépine</div><div class="t-sm">Aucune donnée</div><div class="t-h2">300 mg/j  900-1200 mg/j</div><div class="t-sm">Gabapentine</div><div class="t-h2">Aucune étude contrôlée</div><div class="t-h1">Série de cas (épisode maniaque en association avec AP ou valproate)</div><div class="t-h1">Essai ouvert (EDM bipolaire en adjonction à Li + valproate)</div><div class="t-sm">Topiramate</div><div class="t-sm">Aucune donnée</div></div><div class="slide-card top"><div class="sn">Slide 22</div><div class="t-h1">Place des AP dans le traitement des TB (1)British Association for Psychopharmacology 2016</div><div class="t-sm">Manie</div><div class="t-h2">RCT versus placebo :</div><div class="t-h1">Rispéridone, olanzapine, quétiapine et halopéridol</div><div class="t-h1">Aripiprazole*, asénapine, cariprazine, palipéridone et ziprasidone</div><div class="t-h1">Clozapine : manie résistante (pas de RCT)</div><div class="t-sm">EDC</div><div class="t-sm">Quétiapine</div><div class="t-h1">Métabolite actif : norquétiapine ↔ transporteur NOR</div><div class="t-sm">Olanzapine</div><div class="t-sm">Lurasidone</div><div class="t-h1">Antagoniste des R D2, 5-HT2A, et 5-HT7</div><div class="t-h2">Agoniste partiel des R 5-HT1A</div><div class="t-sm">Cariprazine</div><div class="t-h1">Agoniste partiel et hautement sélectif des R D3 et D2</div><div class="t-h2">Aripiprazole (EDC unipolaire)</div><div class="t-h1">Goodwin et al., J Psychopharmacol 2016</div><div class="t-h1">Yildiz et al., 2011 et 2015 ; Li et al., 2015 ; Michl et al., 2014 ; Leucht et al., 2013 ;Cross et al., 2015</div><div class="t-h1">*et adolescents &gt;13 ans (max. 12 semaines)</div></div><div class="slide-card top"><div class="sn">Slide 23</div><div class="t-h1">Place des AP dans le traitement des TB (2)British Association for Psychopharmacology 2016</div><div class="t-h2">TRAITEMENT PROPHYLACTIQUE</div><div class="t-h1">RCT + données issues d’études naturalistes ++</div><div class="t-sm">OLANZAPINE</div><div class="t-sm">Monothérapie</div><div class="t-h1">↓ taux de récidives maniaques et dépressives</div><div class="t-sm">QUÉTIAPINE</div><div class="t-h1">Monothérapie ou en adjonction (+ Li ou valproate)</div><div class="t-h1">↓ taux de récidives maniaques et dépressives</div><div class="t-sm">LURASIDONE</div><div class="t-h2">En adjonction (+ Li ou valproate)</div><div class="t-h1">↓ taux de récidives maniaques et dépressives (+ efficace sur la polarité dépressive)</div><div class="t-h1">ARIPIPRAZOLE, ZIPRASIDONE ET PALIPÉRIDONE</div><div class="t-h2">Ziprazidone : en adjonction</div><div class="t-h2">↓ taux de récidives maniaques</div></div><div class="slide-card top"><div class="sn">Slide 24</div><div class="t-h1">Et chez le sujet âgé ? Quels niveaux de preuve ?</div><div class="t-h2">Neil et al., Age Ageing 2003</div><div class="t-h2">Sajatovic et al., Drugs Aging 2005</div><div class="t-h1">Young et al., Am J Geriatr Psychiatry 2007</div><div class="t-h1">Hoeh et al., J Geriatr Psychiatry Neurol 2003</div><div class="t-sm">(…)</div><div class="t-h1">“Small-scale and open-label trials and case studies”</div><div class="t-h2">“Preliminary reports”</div><div class="t-h1">“No controlled efficacy or effectiveness trials”</div><div class="t-h2">Aujourd’hui…10 ans plus tard?</div></div><div class="slide-card top"><div class="sn">Slide 25</div><div class="t-h2">Recommandations internationales</div><div class="t-h1">British Association for Psychopharmacology 2016</div><div class="t-h1">Même molécules, posologies réduites</div><div class="t-h2">WFSBP 2013 :		RAS</div><div class="t-h2">NICE 2014 et 2016 :	RAS</div></div><div class="slide-card top"><div class="sn">Slide 26</div><div class="t-h1">→ Pharmacoépidémiologie : « des RCT aux PCT »</div><div class="t-h1">Limites des essais thérapeutiques → AMM</div><div class="t-h2">Critères d’inclusion/non inclusion</div><div class="t-h1"> Sujets hyper sélectionnés, non représentatifs de la « vie réelle » (âge, sévérité, comorbidités, idées suicidaires…)</div><div class="t-h1">Déviations par rapport à la pratique clinique standard     (visites plus fréquentes, évaluations, échelles)</div><div class="t-h1">Alternatives désormais requises par les autorités de santé</div><div class="t-h2">Pragmatic Controlled Trials (PCT)</div><div class="t-h1">NIS: Etudes non interventionnelles de type suivis de cohortes</div></div><div class="slide-card top"><div class="sn">Slide 27</div><div class="t-h1">En pratique, quelles prescriptions ?</div><div class="t-h1">Rej et al., Int J Geriatr Psychiatry 2017</div><div class="t-h2">Ontario, Canada – 2006-2012</div><div class="t-h1">1443 patients bipolaires ≥ 66 ans à leur sortie d’hospitalisation</div><div class="t-h2">81,5% : ≥2 psychotropes</div><div class="t-sm">75,3% : APA</div><div class="t-h2">42,3% : BZD/zopiclone</div><div class="t-sm">38,5% : AD</div><div class="t-h2">35,4% : valproate</div><div class="t-h1">23,4% : lithium (1,4% en monothérapie)</div></div><div class="slide-card top"><div class="sn">Slide 28</div><div class="t-h1">AP : au final, quelles recommandations ? (1)</div><div class="t-h1">Peu de données spécifiques → extrapolation des données chez l’adulte &lt;65 ans</div><div class="t-h2">Limite n°1 = PROFILS DE TOLERANCE</div><div class="t-h1">1. Risque cardiovasculaire (Gareri et al., J Clin Psychopharmacol 2014 ; Szmulewicz et al., J Clin Psychiatry 2017)</div><div class="t-h1">2002 → risque accru de mortalité CV et d’AVC avec la rispéridone</div><div class="t-h1">EMA → restriction à 6 semaines de traitement dans l’indication « agressivité persistante dans la maladie d’Alzheimer modérée à sévère »</div><div class="t-h2">Olanzapine, clozapine</div><div class="t-h1">Le risque existe aussi avec les NLP classiques : thioridazine (↕ en 2005)</div><div class="t-h1">2. Effets secondaires neurologiques</div><div class="t-h1">Dystonies et akathisie + rares chez le sujet âgé</div><div class="t-h1">SEP et dyskinésies tardives 3 à 5 fois + fréquents que chez l’adulte + jeune</div><div class="t-h1">↑ risque de chutes et de traumatismes</div><div class="t-h2">3. Sédation/confusion</div></div><div class="slide-card"><div class="sn">Slide 29</div><div class="t-h2">Privilégier les APA</div><div class="t-h1">Posologies + faibles et augmentation très progressive</div><div class="t-h1">Tenir compte des interactions médicamenteuses éventuelles</div><div class="t-h1">Surveillance clinique + étroite et dosages plasmatiques + fréquents</div><div class="t-h2">Bilan préthérapeutique strict :</div><div class="t-h1">Pathologies CV personnelles et familiales (torsades de pointe)</div><div class="t-h2">Intervalle QTc*</div><div class="t-h1">FDR = âge &gt; 65 ans, bradycardie, F&gt;H</div><div class="t-h1">+ haut risque : ziprazidone, ilopéridone, quétiapine ; thioridazine, halopéridol, chlorpromazine, pimozide</div><div class="t-h1">+ bas risque : olanzapine, rispéridone, palipéridone, aripiprazole, asénapine, clozapine, brexpiprazole, lurasidone</div><div class="t-h1">Ionogramme sanguin (hypokaliémie et hypomagnésémie)</div><div class="t-h1">Traitements en cours allongeant le QTc</div><div class="t-h2">*Dietle A., US Pharm 2015</div><div class="t-h1">AP : au final, quelles recommandations ? (2)</div></div><div class="slide-card"><div class="sn">Slide 30</div><div class="t-h2">Antidépresseurs</div></div><div class="slide-card top"><div class="sn">Slide 31</div><div class="t-h1">Prise en charge de la dépression unipolaire du SAG (1)</div><div class="t-h1">Traitement antidépresseur : traitement de référence de l’EDC d’intensité moyenne à sévère ; en première intention :</div><div class="t-h1">Inhibiteurs de la recapture de la sérotonine (IRS) ++</div><div class="t-h1">Escitalopram 5 mg le matin avec possibilité d’augmenter à 10 mg le matin</div><div class="t-h1">Sertraline 25 puis 50 mg le matin pendant le repas, augmentation prudente par palier de 25 mg (jamais au-dessus de 200 mg/j)</div><div class="t-h1">Surveillance natrémie, ECG (QTc) et signes digestifs</div><div class="t-h1">Pas de tt anxiolytique systématique ; si nécessaire, préférer demi-vie courte type oxazepam 10 à 25 mg/prise ou lorazepam 0,5 à 1 mg/prise</div><div class="t-h1">Réponse différée : délai d’action + long (3 à 6 semaines)</div><div class="t-h1">Idéalement utiliser une échelle de dépression (ex. GDS) afin de déterminer l’évolution (réponse ou non)</div></div><div class="slide-card top"><div class="sn">Slide 32</div><div class="t-h1">Prise en charge de la dépression unipolaire du SAG (2)</div><div class="t-h1">Si caractéristiques psychotiques : discuter tt antipsychotique atypique (par exemple, rispéridone 0,25-2 mg/j ou olanzapine 2,5-10 mg/j) durée courte (jusqu’à rémission de ces symptômes)</div><div class="t-h1">Si caractéristiques mélancoliques : discuter inhibiteur de la recapture de la sérotonine et de la noradrénaline (IRSNa) type venlafaxine ou sismothérapie d’emblée</div><div class="t-h1">Si caractéristiques catatoniques : traitement par lorazépam selon protocole spécifique et ATD ou sismothérapie d’emblée</div></div><div class="slide-card top"><div class="sn">Slide 33</div><div class="t-h1">Prise en charge de la dépression unipolaire du SAG (3)</div><div class="t-h1">Autres axes fondamentaux du traitement :</div><div class="t-h2">Règles hygiéno-diététiques</div><div class="t-h1">Sevrage de toxiques/médicaments (avec réévaluation de la pertinence de l’ensemble des prescriptions)</div><div class="t-sm">PEC des FDR CV</div><div class="t-h2">PEC des déficits sensoriels</div><div class="t-h2">Education thérapeutique</div><div class="t-h1">Psychothérapies adaptées au sujet âgé (schémas cognitifs ++)</div><div class="t-sm">Sociothérapie</div></div><div class="slide-card top"><div class="sn">Slide 34</div><div class="t-h1">Si absence de réponse au traitement antidépresseur de première ligne :</div><div class="t-h2">Doser le traitement antidépresseur</div><div class="t-h1">Inhibiteur de la recapture de la sérotonine et de la noradrénaline (IRSNa)</div><div class="t-h1">Venlafaxine LP 37,5mg 1 matin avec augmentation progressive</div><div class="t-h1">Surveillance ionogramme sanguin, FC, TA, hypoTAO</div><div class="t-sm">Si rémission :</div><div class="t-h2">Poursuite 2 ans après rémission</div><div class="t-h1">Bilan neuropsychologique systématique</div><div class="t-h1">Prise en charge de la dépression unipolaire du SAG (4)</div></div><div class="slide-card top"><div class="sn">Slide 35</div><div class="t-h1">Stratégies pharmacologiques dans le cadre des dépressions résistantes</div><div class="t-h2">Association lithium</div><div class="t-h2">Switch pour un autre AD</div><div class="t-h1">Adjonction antipsychotique atypique</div><div class="t-h2">Adjonction méthylphénidate</div><div class="t-h2">Adjonction bupropion</div><div class="t-sm">Sismothérapie</div><div class="t-h1">Perspectives : kétamine (IVL ou eskétamine en spray nasal)</div></div><div class="slide-card"><div class="sn">Slide 36</div><div class="t-h2">Traitement symptomatique :</div><div class="t-h1">Relaxation, sophrologie, accompagnement</div><div class="t-h1">Anxiolytiques, cure courte, demi-vie courte</div><div class="t-h2">Traitement spécifique :</div><div class="t-h2">Antidépresseurs sérotoninergiques</div><div class="t-h1">Thérapies comportementales et cognitives ou autres psychothérapies</div><div class="t-h1">Kinésithérapie/psychomotricité (par exemple, ptophobie)</div><div class="t-sm">PEC sociale :</div><div class="t-h2">Lutter contre l’isolement social</div><div class="t-h1">Prise en charge des troubles anxieux du SAG</div></div><div class="slide-card"><div class="sn">Slide 37</div><div class="t-h2">Benzodiazépines</div></div><div class="slide-card"><div class="sn">Slide 38</div><div class="t-h2">Bon usage des benzodiazépines</div><div class="t-h1">2006 : prévalence instantanée des benzodiazépines anxiolytiques était 33,7% dans la tranche des 51-70 ans, et 48,5% chez les plus de 70 ans</div><div class="t-h1">BZD = 20 à 25 % des prescriptions inappropriées chez le sujet âgé</div><div class="t-h1">USA  projet d’interdiction de leur prescription chez le sujet âgé</div><div class="t-h1">Effets secondaires : troubles cognitifs, confusion, chutes</div><div class="t-h1">mémoire antérograde et mémoire épisodique/biographique</div><div class="t-h2">résolution de problème</div><div class="t-h1">difficultés d’acquisition de nouvelles informations</div></div><div class="slide-card top"><div class="sn">Slide 39</div><div class="t-h2">Benzodiazépines à demi-vie longue</div><div class="t-h2">Seuil généralement admis : &gt; 20h</div><div class="t-h1">Prazépam (Lysanxia) : 35-150h (métabolite actif)</div><div class="t-h2">Nordazépam (Nordaz) : 65h</div><div class="t-h2">Clorazépate (Tranxène) : 30-50h</div><div class="t-h2">Diazépam (Valium) : 32-47h</div><div class="t-h2">Alprazolam (Xanax) : 6-27h</div><div class="t-h1">Bromazépam (Lexomil), lorazépam (Témesta) : 10-20h</div><div class="t-h2">Oxazépam (Séresta) : 4-15h</div><div class="t-h1">Inappropriées chez le sujet âgé → risque iatrogénique sup.</div><div class="t-h2">Préférer les BZD à demi-vie courte</div><div class="t-h1">Et les stratégies non médicamenteuses</div><div class="t-h1">ÉVITER LE REPORT SYSTEMATIQUE DE PRESCRIPTION VERS D’AUTRES PSYCHOTROPES !!</div></div><div class="slide-card"><div class="sn">Slide 40</div><div class="t-h2">Antipsychotiques</div></div><div class="slide-card top"><div class="sn">Slide 41</div><div class="t-h1">Quels traitements antipsychotiques ?</div><div class="t-h1">Manque d’études contrôlées spécifiques ++</div><div class="t-h1">Dystonies et akathisie + rares chez le sujet âgé</div><div class="t-h1">Symptômes parkinsoniens et dyskinésies tardives aux NLP 3 à 5 fois + fréquents que chez l’adulte jeune</div><div class="t-h1">AP atypiques préférés aux neuroleptiques</div><div class="t-h1">Meilleur profil de tolérance neurologique</div><div class="t-h1">Mais tenir compte des FDR CV et athéromateux</div><div class="t-h1">Certains APA  AVC chez les sujets âgés déments</div><div class="t-h1">En termes de doses  posologies inférieures à celles préconisés chez l’adulte (Alexopoulos et al., 2004)</div></div><div class="slide-card"><div class="sn">Slide 42</div><div class="t-sm">LOS / VLOSLP</div><div class="t-sm">LOS</div><div class="t-h1">début des troubles après l’âge de 40 ans</div><div class="t-h1">ce qui représente environ 20 % de l’ensemble des cas de schizophrénie</div><div class="t-sm">VLOSLP</div><div class="t-h2">début des troubles après 60 ans</div><div class="t-h1">déficits sensoriels très fréquemment associés</div><div class="t-h1">dans la majorité des cas : contexte d’isolement social</div><div class="t-h1">fréquence d’une co-agrégation familiale de troubles de l’humeur, ce qui permet de s’interroger sur les limites nosographiques de cette entité, et de son «appartenance» réelle au spectre de la schizophrénie</div><div class="t-h1">D’autant plus que l’efficacité des antidépresseurs dans ces formes très tardives a été rapportée par plusieurs auteurs</div></div><div class="slide-card top"><div class="sn">Slide 43</div><div class="t-h1">Prise en charge thérapeutiquedes formes de schizophrénie à début tardif</div><div class="t-h1">Notamment dans le cadre des VLOSLP, il convient au préalable :</div><div class="t-h1">de tenir compte des éventuels déficits sensoriels associés</div><div class="t-h1">de lutter contre l’isolement social et relationnel</div><div class="t-h1">et de proposer une approche psychologique systématique</div><div class="t-sm">VLOSLP : AD ++</div><div class="t-h1">Sur le plan médicamenteux, on privilégiera les antipsychotiques atypiques, après évaluation des éventuels autres facteurs de risque d’accidents vasculaires</div><div class="t-h1">Concernant les posologies recommandées dans les VLOSLP, il est préconisé de débuter le traitement à une posologie correspondant à environ 1/10e de la posologie moyenne efficace dans le traitement de la schizophrénie de l’adulte</div></div><div class="slide-card top"><div class="sn">Slide 44</div><div class="t-h1">Antipsychotiques chez le sujet présentant un syndrome démentiel</div><div class="t-h1">AP souvent prescrits dans les troubles du comportement de la maladie d’Alzheimer et les épisodes de confusion aigue du sujet âgé</div><div class="t-h1">Or sur-risque de chutes, d’AVC et de décès</div><div class="t-h1">De plus, l’efficacité des AP dans les troubles du comportement est faible : limitée dans les troubles agressifs, non établie dans les autres symptômes psychocomportementaux de la démence, notamment dans l’agitation</div><div class="t-h1">AMM rispéridone : Traitement de courte durée (jusqu’à 6 semaines) de  l’agressivité persistante chez les patients présentant une démence d’Alzheimer modérée à sévère ne répondant pas aux approches non pharmacologiques et lorsqu’il existe un risque de préjudice pour le patient lui-même ou les autres.</div><div class="t-sm">AD</div></div><div class="slide-card"><div class="sn">Slide 45</div><div class="t-sm">Conclusion</div></div><div class="slide-card"><div class="sn">Slide 46</div><div class="t-sm">En pratique</div><div class="t-h2">Bien évaluer les indications</div><div class="t-h2">Limiter le nombre de psychotropes</div><div class="t-h2">Un seul psychotrope par classe</div><div class="t-h1">Débuter à une posologie plus faible que chez le non âgé</div><div class="t-h1">Augmentation posologique très progressive</div><div class="t-h1">Ne pas changer de molécule trop rapidement</div><div class="t-h1">Évaluation régulière de l’efficacité et de la tolérance</div><div class="t-h1">Ne pas sous-utiliser les approches non médicamenteuses</div></div><div class="slide-card"><div class="sn">Slide 47</div><div class="t-h2">Psychotropes et sujet âgé</div><div class="t-h2">Dr Nicolas HOERTEL</div><div class="t-h2">Pr Frédéric LIMOSIN</div><div class="t-h1">Service de Psychiatrie de l’adulte et du sujet âgé</div><div class="t-h1">Hôpitaux Universitaires Paris Ouest (AP-HP)</div><div class="t-h2">Corentin-Celton – HEGP</div><div class="t-h2">Université Paris Descartes</div></div></div></div><div class="bot-nav"><span></span><div class="bn-info">Session 1/8<br>Module 2</div><a class="bn-btn" href="../SESSION_2_ENFANT_ADOLESCENT/index.html">Session suiv. →</a></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>

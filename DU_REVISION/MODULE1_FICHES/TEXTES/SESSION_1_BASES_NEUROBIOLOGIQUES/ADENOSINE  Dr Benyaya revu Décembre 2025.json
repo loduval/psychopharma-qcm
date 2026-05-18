@@ -1,0 +1,2853 @@
+{
+  "fichier": "ADENOSINE  Dr Benyaya revu Décembre 2025.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 63,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADÉNOSINE",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADÉNOSINE, Modulateur à action « pleïotropique »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12 /2025",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce cours est donné à titre documentaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le rôle de l’adénosine est primordial dans le fonctionnement de tous les  organes, à commencer par l’encéphale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Son action est comme disent les québécois, « pleïotropique ».",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les aspects théoriques biochimiques et physiologiques sont très intéressants, mais les applications thérapeutiques en psychiatrie, sont inexistantes…",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Je vous encourage, cependant, à le lire !",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Propos liminaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ADENOSINE HIKMA 6 mg/2 mL, solution injectable",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La seule indication de l’Adénosine, en tant que telle, est le traitement des tachycardies jonctionnelles, y compris celles associées à une voie accessoire (syndrome de Wolff-Parkinson-White). Bolus              Conversion rapide en rythme sinusal .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Trois vignettes, en fin de cours, qui pourraient vous intéresser.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pléiotropique : Se dit d'un composé ou d'une substance qui peut agir sur plusieurs cibles, produisant des effets apparemment indépendants les uns des autres.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Un médicament ayant une action sur différents systèmes ou processus métaboliques peut ainsi être qualifié de pléiotropique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Office québécois de la langue française",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Grand dictionnaire terminologique -accessible « en ligne »-",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conseil pour accéder facilement au répertoire officiel des spécialités pharmaceutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Taper: Agence-prd.ansm.sante.fr   RSP et « cliquer » sur ANSM ,ou plus simplement encore",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Taper AMM Accueil et « cliquer »  sur Autorisation Accueil",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Adénosine, nucléoside, est formée de l’Adénine, base purique et d’un sucre, pentose, le Ribose.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La phosphorylation du Ribose conduit au nucléotide: Adénosine-monophosphate ou AMP.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Constituant de l’A.R.N.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’ Adénosine-tri- phosphate, ATP, porte deux liaisons phosphate dont l’hydrolyse est exergonique (source d’énergie cellulaire)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adénine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inosine-métabolite",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Analogues structuraux naturels de l’Adénosine: Bases Xanthiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les bases xanthiques d’origine végétale, connues « depuis toujours », ne sont plus classées dans les  alcaloïdes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Leurs actions physiologiques n’en sont pas moins intenses.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Caféine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Théophylline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Théobromine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Café, arbuste Coffea arabica et Coffea canephora",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Thé, arbuste Camellia thea et Thea sinensis",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cacao, arbuste Cacaoyer Theobroma⃰⃰ cacao",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nous reviendrons sur le rôle de ses composés dans les effets de l’Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "⃰⃰ Theobroma cacao: nourriture des dieux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pourquoi nous intéressons-nous à l’Adénosine?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histoire de la science et aspects épistémologiques ( A.N Drury et  A. Szent-Györgyi, 1929 )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modulateur à action « pléiotropique ».",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Ange gardien , Vengeur », des tissus lésés  par ischémie et hypoxie( parenchyme cérébral en particulier)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Anticonvulsivant endogène »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Régulateur endogène du sommeil » (Bascule Veille sommeil)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine, antagoniste de l’adénosine: troubles du sommeil ,troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DSM-5: Troubles liés à  la caféine. Troubles anxieux et troubles du sommeil induits par une substance",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aspects épistémologiques: Travaux de de A.N Drury et  A. Szent-Györgyi, 1929",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces travaux sont à l’origine de la caractérisation de l’Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dans son rôle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "régulateur « pléiotropique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The Journal of Physiology , 1929,68:213-237",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux de de A.N Drury et  A. Szent-Györgyi, 1929",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Postulat:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les cellules du myocarde sont sensibles aux variations de la composition du milieu intérieur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’analyse de l’activité cardiaque(fréquence, rythme) constitue donc une méthode d’étude pour identifier des composés ayant une action physiologique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préparations d’extraits tissulaires animaux (cœur, cerveau, rate, rein)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injection par voie I.V. à des animaux d’expérience : modification de l’activité cardiaque",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Extrait tissulaire d’un cœur de jeune bœuf",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration par voie I.V.(jugulaire) au Cobaye, enregistrement E.C.G. des effets:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Durée  espace PR :     augmentée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Bradycardie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration par voie I.V à d’autres animaux:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "arrêt de la fibrillation auriculaire provoquée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypotension par vasodilatation et bradycardie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux de de A.N Drury et  A. Szent-Györgyi, 1929",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Isolement et analyse de la substance efficace",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Substance = Acide Adénylique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action identique à celle de l’Adénosine, extraite des acides nucléiques de la levure de boulanger.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce premier article va ouvrir une voie de recherches qui tend vers l’infini …ou presque…",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Albert Szent-Györgyi 1893-1986",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Savant d’origine hongroise, Prix Nobel de Médecine et de Physiologie 1937.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Découverte de la Vitamine C; découverte de la dégradation des glucides comme source d’énergie.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Découverte de l’Actine et démonstration de la ATP en tant que source d’énergie de la contraction musculaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Encyclopaedia Universalis Thésaurus 1996,p:3519",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Courtoisie Caroline Duros",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Adénosine intracellulaire et extracellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence dans toutes les cellules et tous les liquides extracellulaires.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Demi-vie trop courte pour être considérée comme une hormone. C’est un modulateur paracrine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine intracellulaire:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Produite à partir de l’ATP, provenant elle même de l’ATP et de l’Adénosyl-homocystéine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après: Dunwiddie T.V., Masino S.A., Ann. Review Neurosc.,2001,24,31-55",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Latini S, Pedata F. J. Neurochem.,2001,79,463-484",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine intracellulaire",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Adénosine intracellulaire et extracellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine extracellulaire:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Produite à partir de l’ATP, par action d’un ecto-nucléotidase",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’équilibre des concentrations entre les deux milieux est assuré par des transporteurs membranaires.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dans les neurones, il n’y a pas de vésicules de stockage",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine extracellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après Huang Z.L. et al., Current Topics Medi. Chem.,2011, 11,1047-1057;erreur dans la formule de l’adénosine!",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Equilibre des concentrations intra et extracellulaire en Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si la concentration intracellulaire en ATP diminue à la suite d’une importante consommation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’énergie, la concentration en Adénosine va considérablement augmenter.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les transporteurs de nucléosides vont équilibrer les concentrations des deux milieux.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les cellules « baigneront » dans un liquide concentré en adénosine qui pourra transmettre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des messages paracrines « adénosinergiques ».",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dans le système nerveux central les cellules gliales⃰, astrocytes en particulier, participent à l’équilibre de ces concentrations.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cunha R.A. , Purinergic signalling,2005,1,111-134",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*La synapse n’est plus considérée comme étant bipartite ,mais plutôt tripartite",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "neurone présynaptique +neurone postsynaptique + cellule gliale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Equilibre des concentrations intra et extracellulaire en Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La concentration extracellulaire de l’Adénosine, en « allure stabilisée* » est comprise entre:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "20 et 300 nM (nanomole/litre)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors d’une agression hypoxique ou ischémique du parenchyme cérébral, elle peut atteindre la valeur de",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "30 µM (micromole/litre) ( x 800)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous reviendrons sur cette situation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*G. Canguilhem",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fredholm B.F. Expe. Cell.  Res.,2010,316, 1284-1288",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs de l’Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’adénosine va exercer son action paracrine en se liant à des sites protéiques qui répondent à la",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "définition de récepteur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On imagine l’ampleur des travaux biochimiques et génétiques qui ont permis de caractériser les",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "quatre récepteurs de l’adénosine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "R A1    RA 2A      RA 2B     RA 3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Nous ne parlerons que des récepteurs les plus exprimés: R A 1    RA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le cerveau est l’organe où les récepteurs R A 1  sont le plus exprimés.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Autrement dit le parenchyme cérébral est le tissu le plus riche en R A 1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs de l’Adénosine R A 1  RA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs de l’Adénosine R A 1  RA 2A  : Protéines plusieurs centaines d’amino-acides.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "7 Domaines transmembranaires. Récepteurs couplés à une protéine G intracellulaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "R A1 :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "protéine G i; négativement couplée à l’adénylate-cyclase=pas de formation d’AMP cyclique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "activation des courants potassiques sortants: hyperpolarisation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "inhibition des courants calciques entrants : inhibition de la libération de neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "RA 2A :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "protéine G s; positivement couplée à l’adénylate-cyclase= formation d’AMP cyclique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "facilitation des courants calciques entrants : activation de la libération de neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "activation d’une protéine kinase",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs de l’Adénosine R A 1  RA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après: Mazziotta C., Rotondo J.C. et al. Oncogene, 2022, 41,301–308",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Expression tissulaire des Récepteurs de l’Adénosine R A 1  RA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après: Sachdeva S., Gupta M. ,Saudi Pharmaceutical Journal,2013,31,245-253",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après: Jakobson K., Reitman M.L., Cells,2020,9,956",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Expression tissulaire",
+              "R A 1",
+              "R A 2A \n2A"
+            ],
+            [
+              "Elevée",
+              "Cerveau: Cortex ; Hippocampe; cervelet\n\nOreillette",
+              "Cerveau: Striatum\n\nPlaquettes;  Rate"
+            ],
+            [
+              "Intermédiaire",
+              "Cerveau: autres territoires \n\nFoie               Rein",
+              "Cœur Vaisseaux\n\nPoumons"
+            ],
+            [
+              "Faible",
+              "Pancréas  Poumons",
+              "Cerveau: autres territoires"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Affinité Adénosine  nM",
+              "70 à 150",
+              "100 à 300"
+            ],
+            [
+              "Affinité Adénosine  nM",
+              "1 à 10",
+              "30"
+            ],
+            [
+              "En fonction des conditions expérimentales",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Adénosine et régulation du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« De nos jours, l’Adénosine est considérée comme:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une substance endogène régulatrice du sommeil »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "In:  Reichert C.F., Deboer  T., Landolt H.P.,J. Sleep Res.2022,31,1-21",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Article aimablement transmis par le Professeur Joëlle Adrien",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et régulation du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et sommeil ,d’après le Professeur Joëlle Adrien  ( réf : voir dia 24)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Activité neuronale diurne: consommation de glycogène, d’ATP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ATP             AMP              Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sommeil à ondes lentes réparateur :reconstitution des réserves cérébrales de Glycogène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Démonstration du rôle de l’Adénosine dans des conditions extrèmes de privation de sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Accumulation d’Adénosine  \t     Action sur les récepteurs neuronaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A 1              A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bascule Veille sommeil",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "26",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et régulation du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et sommeil ,d’après le Professeur Joëlle Adrien",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Adénosine action sur les récepteurs A1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": ":",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation des  courants K+ sortants  \thyperpolarisation neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Inhibition des neurones  des voies Cholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(voir cours Acétylcholine dias: 9 à 12  et  27-28)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Inhibition des neurones Noradrénergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(voir cours Noradrénaline dia 21)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "27",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et régulation du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et sommeil ,d’après le Professeur Joëlle Adrien",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Adénosine action sur les récepteurs  A2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": ":  Stimulation de l’Adénylate cyclase           AMP cyclique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Stimulation des  neurones GABA   \t\tactivation de la libération de GABA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "28",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine et sommeil ,d’après le Professeur Joëlle Adrien",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chat:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Adénosine extracellulaire :  concentration maximale pendant l’éveil.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(noyaux gris centraux , cortex , hypothalamus), puis réduction pendant le sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si privation de sommeil              augmentation de la concentration 140 à 200 %",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration d’un inhibiteur de la capture de l’Adénosine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "facilitation de l’entrée dans le sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réactifs pharmacodynamiques: agonistes de synthèse des récepteurs A1:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Phényl-Isopropyl – Adénosine PIA et Cyclohéxyl Adénosine  :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "durée de veille diminuée durée de sommeil augmentée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine et Théophylline antagonistes non sélectifs A 1  A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Veille augmentée, retard de la survenue du sommeil et fragmentation du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Adénosine: signal homéostatique activé lors de la privation de sommeil",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "29",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régulation de la veille et du sommeil : les acteurs moléculaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "V. Fabre , J. Adrien , P. Bonnavion , M. Hamon",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bull. Acad. Nat. Méd., 2011, 195, no 7, 1551-1565",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le Noyau ventrolatéral  de la région pré-optique VLPO: « Centre du Sommeil* » ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèle de la Bascule  Veille sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*D’après  Dr Mauro Serafin, Faculté de Médecine de Genève, voir Dia63",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "30",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voir Référence  Dia 29",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Noyau ventrolatéral  de la région pré-optique VLPO: « Centre du Sommeil* » ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1918: Epidémie d’encéphalopathie virale léthargique: sommeil presque permanent= C. Von Economo: lésion  des noyaux de l’hypothalamus postérieur (ergotrope)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Chez certains malades, à l’inverse, observation d‘une insomnie permanente : lésions des noyaux de l’hypothalamus antérieur(trophotrope)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Plus de mille observations faites par ce neurologue!)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Lésions et stimulations de hypothalamus antérieur (chat)        « centre du sommeil ?»",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identification plus précise: région pré-optique de l’hypothalamus antérieur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Lésion de cette région            abolition du sommeil lent.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Enregistrements (hypothalamus antérieur) : augmentation de la fréquence de décharge avant ,ou associée à,  la synchronisation des ondes corticales (sommeil lent)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identification du noyau ventrolatéral pré-optique (VLPO) riche en GABA:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Centre du sommeil (?)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "31",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèle de la Bascule  Veille sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Noyau ventrolatéral pré-optique (VLPO) riche en GABA:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "projection  d’efférences vers les centres de la vigilance.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Et reçoit des afférences de ces centres de la vigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(noyau de Meynert et locus coeruleus p.ex.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Inhibition réciproque",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’activité de l’un inhibe celle de l’autre.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les neurones gabaergiques porteurs de récepteurs A 2A stimulés par l’Adénosine, accumulée pendant la veille, l’emportent sur les neurones des voies du système de veille.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voir Référence  Dia 29",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Quelques rappels sont faits dans la Dia 60",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lecture pour aller plus loin: Article référencé Dia 62",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dia 62 Dr Mauro Serafin",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "32",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2016",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TB :Télencéphale basal  :  Zone chez l’homme du Noyau de Meynert",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bascule Veille/Sommeil",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "34",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Texte reproduit avec l’aimable autorisation du Professeur Joëlle Adrien",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "35",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous avons tenté de dégager les idées générales de la thèse « adénosinergique » de la Bascule Veille Sommeil  et de transmettre ce que nous en avons compris, de façon livresque , après étude de différents articles.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous espérons avoir réussi, au moins partiellement, si tant est qu’une réussite puisse être partielle…!",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Professeur Michel*Jouvet ,éminent spécialiste, décrivait en 1984 les expériences «  en faveur d’un rôle majeur  de la Sérotonine dans le déclenchement du sommeil »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous ne sommes pas en mesure de dire si cette théorie est dépassée…",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* O. Benoit: Physiologie du sommeil. Chapitre1- mécanismes des états de sommeil. Masson,1984.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "36",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une myriade de dérivés de l’adénosine et des bases xanthiques, agonistes et antagonistes des récepteurs A1 et A2a  , a été synthétisée et  étudiée chez l’animal et parfois chez l’homme.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aucune de ces dérivés n’ a acquis le statut de médicament …!",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "37",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Propriétés bien connues de la caféine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets psychostimulants; stimulation de la vigilance (tests psychométriques).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets « anti-sommeil »  (latence d’endormissement augmentée, quantité de sommeil réduite,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nombreux éveils intra-sommeil).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet anxiogène: sensibilité particulière aux effets de la caféine, observée chez des patients",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "souffrant de trouble panique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le thé et le café sont interdits par certains mouvements religieux, Mormons et Adventistes, car ils « obscurcissent l’esprit » .",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "38",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Teneur en caféine de différentes boissons",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduit avec l’aimable autorisation du Docteur Mégane Erblang . voir Dia 42",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Boisson",
+              "Quantité de caféine  milligrammes"
+            ],
+            [
+              "Café filtre                       150 ml",
+              "90 -150"
+            ],
+            [
+              "Café « express »              60  ml",
+              "60-99"
+            ],
+            [
+              "Café « instantané »      150 ml",
+              "40-108"
+            ],
+            [
+              "Café décaféiné              150 ml",
+              "2-5"
+            ],
+            [
+              "Thé vert                         180 ml",
+              "33-37"
+            ],
+            [
+              "Thé noir                         180 ml",
+              "68-72"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "39",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduit avec l’aimable autorisation du Docteur Mégane Erblang . voir Dia 42",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "40",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduit avec l’aimable autorisation du Docteur Mégane Erblang . voir Dia  41",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’inhibition des phosphodiestérases nécessite des concentrations  en caféine, au minimum  dix fois supérieures à celles  inhibant les récepteurs  A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Log décimal . Conc.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "41",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Affinité de la caféine pour les récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur A 1  \t     10 µM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur A 2A      23 µM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fredholm B.B et al., Pharmacological Reviews,2011,63,1-34",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La publication de ce même auteur, datant de 1999 montrait une affinité de la caféine pour les récepteurs  A 2A supérieure  à celle exprimée pour les récepteurs A 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voir courbe Dia 40",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "42",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Influence des polymorphismes génétiques sur le sommeil et l’efficacité de la caféine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thèse de doctorat de l'université Paris-Saclay",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "présentée et soutenue à Evry, le 4 Novembre 2020 par Madame Mégane ERBLANG",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etablissement référent : Université d'Évry Val d’Essonne. Laboratoire de biologie de l'exercice pour",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la performance et la santé Spécialité Physiologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 43,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "43",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dictionnaire VIDAL 1971 O.V.P. page 250",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 44,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "44",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine et Troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Trouble Panique       \tDia 45",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Anxiété généralisée  \tDia 47",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine dans le DSM-5    \tDia  48",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 45,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "45",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine et Troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sensibilité à la caféine des patients souffrant de Trouble panique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Consommation d’une tasse de café                   Augmentation de l’anxiété et des troubles du sommeil   (échelles d’auto évaluation ).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evitement de la consommation de café",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence Voir Dia 46",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Patients\nTrouble panique",
+              "Sujets Témoins",
+              "Patients\nDépression",
+              "Sujets Témoins"
+            ],
+            [
+              "Consommation\nHabituelle de  caféine (mg/jour)",
+              "150 ± 141",
+              "217 ± 176",
+              "269 ± 230",
+              "293 ± 183"
+            ],
+            [
+              "Consommation dans les 24 h précédant l’étude",
+              "71 ± 82",
+              "174 ± 187",
+              "116 ± 129",
+              "256 ± 208"
+            ],
+            [
+              "Nombre de sujets",
+              "30",
+              "30",
+              "23",
+              "23"
+            ],
+            [
+              "Nombre de sujets\n ne consommant pas de café",
+              "20  (67%)",
+              "6  (20%)",
+              "2  (9%)",
+              "1  (3%)"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 46,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "46",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine et Troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Boulenger, J.P., Uhde, T.W., Wolff, E.A. III, and Post, R.M. Increased sensitivity to caffeine in patients with panic disorders: Preliminary evidence.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Archives of General Psychiatry,1984, 41, 1067-1071",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Boulenger J. Ph.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Attaque de Panique ,Trouble Panique et Agoraphobie Chapitre12.3 ,224-229",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Manuel de Psychiatrie ,4ème édition.  J.D Guelfi, F. Rouillon, L. Mallet",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elsevier Masson sas ,2021",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 47,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "47",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine et Troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Anxiété généralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absorption de 250 mg et 500 mg de caféine et de placébo par des:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "12 Patients souffrant d’anxiété généralisée (A.G.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "12  Patients souffrant de trouble panique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "12  Sujets témoins",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evaluation de l’intensité de l’anxiété (auto-évaluation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mesure de la transpiration",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mesure de la pression artérielle (systolique et diastolique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine absorbée par les patients  « A.G. »  \t     :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation des valeurs des résultats de ces trois mesures.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bruce M. et al., Arch. General Psychiatry,1992,49,867- 869",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 48,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "48",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caféine et Troubles anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La caféine dans le DSM-5  (Mini DSM-5)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Troubles liés à la caféine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Intoxication par  la caféine  p. 213",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sevrage de la caféine          p.214",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Trouble anxieux induit par une substance       p. 112-113 et tableau p.114",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Trouble du sommeil induit par une substance  p. 173      et tableau  p.174",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mini DSM-5 : Manuel Diagnostique et Statistique des Troubles mentaux critères diagnostiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Coordination générale de la traduction française  M.A Crocq et J.D. Guelfi",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elsevier Masson  sas 2016",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 49,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "49",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réf. Dia 49",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 50,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "50",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tableau reproduit avec l’aimable autorisation du Professeur François Jouret, CHU de Liège, Belgique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mécanismes de l’effet diurétique de la caféine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Marx B. , Scuvée E. , Scuvée-Moreau  J.,  Seutin V., Jouret F.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "médecine/sciences 2016 ; 32 : 485-90",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 51,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "51",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A titre d’information",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignettes »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette » Cardiologique                                                  Dias 52,53,54",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette »  Electro-convulsivothérapie (E.C.T.)             Dias 55,56,57",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette »  Historique                                                       Dias 58, 59",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 52,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "52",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Actions de l’Adénosine sur le cœur et les vaisseaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "D’après: Layland J., Carrick D., Lee M. et al., J.A.C.C. Journals, 2014,7,581-591",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A titre d’information",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette » Cardiologique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 53,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "53",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Actions sur le cœur et les vaisseaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vasodilatation coronarienne et globale:                 \t\tRA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet Hypotenseur (bradycardie et vasodilatation)  RA1            \t\tRA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet anti-agrégant plaquettaire \t\t\t\t\tRA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet chronotrope négatif \t\t    RA1        \t\tRA 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet inotrope négatif(oreillette)\t\t   RA1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet dromotrope négatif\t\t\t  RA1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nœud de Keith et Flack",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nœud d’Aschoff Tawara",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet suppresseur des tachycardies supraventriculaires     RA1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lésion du myocarde : augmentation rapide de la concentration extracellulaire en adénosine;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les effets décrits ci-dessus sont  considérés comme étant des effets protecteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vignette Cardiologique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 54,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "54",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vignette Cardiologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADENOSINE HIKMA 6 mg/2 mL, solution injectable",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Indications thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Conversion rapide en rythme sinusal des tachycardies jonctionnelles, y compris celles associées à une voie accessoire (syndrome de Wolff-Parkinson-White).",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une seule utilisation de l’Adénosine en Thérapeutique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 55,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "55",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine : antagoniste non sélectif des récepteurs   A 1       A 2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Adénosine « Anticonvulsivant endogène » ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette »  Electro-convulsivothérapie (E.C.T.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine et durée de la crise d’épilepsie provoquée par le",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "stimulus électrique lors des séances de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "sismothérapie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation of ECT Seizures with Caffeine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Coffey C.E. et al., Biol. Psychiatry.,1987,22,637-649",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine et durée de la crise d’épilepsie provoquée par le",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "stimulus électrique lors des séances de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "sismothérapie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 56,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "56",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vignette  Electro-convulsivothérapie E.C.T.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A titre d’information",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les spécialistes de l’E.C.T. s’accordent pour dire qu’une durée de la crise d’épilepsie généralisée déclenchée par le stimulus électrique doit être d’au moins 30 secondes, pour être efficace. Cette durée peut atteindre 120 secondes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cependant elle doit être interrompue par voie médicamenteuse, si elle est supérieure à 180 secondes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La répétition des séances provoque une élévation du seuil épileptogène. Certains praticiens américains ont eu recours à l’administration de caféine pour augmenter la durée de la crise sans augmentation de la valeur du stimulus électrique et ainsi éviter certains effets indésirables.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 57,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "57",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine et durée de la crise d’épilepsie provoquée par le stimulus électrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vignette  Electro-convulsivothérapie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Référence",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "voir Dia 54  (page 643)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 58,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "58",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Vignette » Historique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Phantastica, publié en 1924",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "par",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Professeur Louis Lewin, Université de Berlin",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Première",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Classification des",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "modificateurs de l’activité psychique »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 59,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "59",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vignette Historique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Phantastica, publié en 1924",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Groupe Excitentia",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Leur action  qui porte sur le cerveau, et particulièrement sur l’écorce cérébrale, est une action d’excitation pure.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les hommes sont attachés , d’une façon tenace, aux plantes à caféine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elles n’obscurcissent pas la conscience, d’un voile crépusculaire ou ténébreux ; elles ne dégradent pas l’individu, en annihilant totalement son libre arbitre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le café a, sur le cerveau , des effets excitants susceptibles d’accroitre un peu son rendement.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’effet excitant exercé est tranquille:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "il diminue la propension au sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "il empêche la fatigue d’apparaître, ou la rend moins perceptible",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’action aboutit à un accroissement de la capacité de travail, action bienfaisante et sans effets violents.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les plantes à Caféine et le café",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Citations extraites du livre « Phantastica »   P. B. Payot, Paris,1970,  Traduction Dr F. Gidon",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 60,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "60",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Compléments",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 61,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "61",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "«L’Hypothalamus est constitué d’une multitude de petits noyaux de cellules grises, répartis dans la paroi inférieure(plancher),et latérale du 3ème ventricule;",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "il se poursuit vers le bas par la tige pituitaire et l’hypophyse  »  (A)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« L’Hypothalamus est le véritable centre supérieur de tout le système organo-végétatif , sans liaison directe avec les organes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Hypothalamus antérieur est trophotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Hypothalamus postérieur est ergotrope » (B)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 62,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "62",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(A)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le système nerveux central, Pr. G.Braillon, Doin,1990",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« enseignement aussi concis que possible »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(B)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Voies et centres nerveux, Pr. A. Delmas , Masson,1981",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 63,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "63",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Libre accès « en ligne »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’éveil est une longue inhibition du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Université de Genève Campus n°87 Cécile Rudio",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Article « grand public »,très intéressant.   Dr Mauro Serafin",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fichier": "QCM_Statistiques.pptx",
+  "session": "QCM",
+  "total_slides": 3,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lecture critique d’article",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dr Porcher",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concernant les biais dans un essai contrôlé randomisé en deux bras parallèles, laquelle (lesquelles) des proposition suivantes est (sont)-elle(s) vraie(s) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1. L’essai peut être soumis à des biais de confusion même s’il est randomisé de façon adéquate",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2. L’essai peut être soumis à un biais d’attrition si le suivi des patients n’est pas le même dans les deux bras",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3. La mise en place d’une procédure de double aveugle permet de limiter les biais de sélection",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4. La mise en place d’une procédure de double aveugle permet de limiter les biais de performance",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5. La mise en place d’un comité d’adjudication indépendant permet de limiter les biais de performance",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réponses",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concernant les biais dans un essai contrôlé randomisé en deux bras parallèles, laquelle (lesquelles) des proposition suivantes est (sont)-elle(s) vraie(s) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1. L’essai peut être soumis à des biais de confusion même s’il est randomisé de façon adéquate",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2. L’essai peut être soumis à un biais d’attrition si le suivi des patients n’est pas le même dans les deux bras",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3. La mise en place d’une procédure de double aveugle permet de limiter les biais de sélection",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4. La mise en place d’une procédure de double aveugle permet de limiter les biais de performance",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5. La mise en place d’un comité d’adjudication indépendant permet de limiter les biais de performance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réponses 2 4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1156 @@
+{
+  "fichier": "IV-Glutamate ESKETAMINE_Dr Benyaya.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 23,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse Glutamatergique des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine et dépressions « malignes »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse Glutamatergique des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "S-Kétamine et dépressions « malignes »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Etats dépressifs Hypothèse « glutamatergique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse « monoaminergique des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Glutamate neurotransmetteur excitateur majeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rôle du Glutamate dans la physiopathologie hypothétique  des états dépressifs ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Premières observations de J .Crane:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitement de patients souffrant de tuberculose par la D-Cyclosérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D-Cyclosérine :agoniste partiel récepteurs NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes NMDA et modèles animaux « nosomimétiques* »  de la dépression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nage forcée de Porsolt ( modèle plutôt prédictif qu’isomorphe)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Résignation apprise Learned Helplessness",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stress léger chronique Mild Chronic Stress",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes NMDA et  récepteurs β adrénergiques chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dépression et  excitotoxicité glutamatergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*Terme crée par le Pr Paul Rossignol, Faculté de Pharmacie de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "D-Cyclosérine : Médicament antituberculeux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Observation des patients: virage maniaque de l’humeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Potentialisation du Marsilid ®, Iproniazide IMAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action orexigène et antiasthénique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction de la tension interpersonnelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "“It is difficult to explain why psychiatric benefits should have occurred almost immediately following drug administration”",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Crane J. Am.  J. Psychiatry, 1959 in :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rapid-acting glutamatergic antidepressants: the path to ketamine and beyond",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Krystal J.H. et al, Biol Psychiatry. 2013",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D-Cyclosérine  agoniste partiel NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fixation sélective d’un ligand radiomarqué 3 HTCP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A)    Potentialisation de cette fixation par divers ligands comme la glycine et",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la d-Sérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B)  La D-Cyclosérine n’entraine qu’une fixation maximale de 40%",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(activité intrinsèque α <1)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C)  La D-Cyclosérine va réduire, lorsque sa concentration augmente, la potentialisation  de la fixation de 3 HTCP  par la Glycine. La D-Cyclosérine se comporte alors comme un antagoniste",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D)  B+C = La D-Cyclosérine  est un agoniste partiel",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hood W.F. et al., Neuroscience Letters ,1989",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Monahan J; ,J.Neurochem,1989",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D-Cyclosérine            Ki site Glycine: 2330nM",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Mild Chronic Stress:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acquisition  par l’animal d’expérience du gout pour l’eau de boisson sucrée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Soumission pendant 3 semaines à une légère perturbation  de son lieu de vie(cage secouée tous les jours)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pert de l’appétence pour cette eau de boisson",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Restauration de cette appétence par les médicaments antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Learned Helplessness Renoncement appris, résignation apprise:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acquisition  par l’animal d’expérience d’un comportement résigné",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Soumission de l’animal à une situation agressive qu’il ne peut fuir",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Incapacité de l’animal à  réapprendre une ʺstratégie ʺ de fuite",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Restauration de cette capacité d’apprentissage par les médicaments antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nage forcée, Test dit de désespoir:(Nous l’avons souvent évoqué)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Modèles nosomimétiques* de la dépression et  prédictifs d’une activité antidépressive  d’une substance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Efficacité des antagonistes des récepteurs NMDA lors de ces sessions expérimentales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Brunello N., Barbaccia M.L et al., Neuropharmacology,1982",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes NMDA et  récepteurs β adrénergiques (β NA R) chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Au cours de la décennie 1980-1990 ont été démontrés par les travaux de Brunello, puis confirmés par d’autres les travaux d’autres auteurs, les faits suivants:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’administration d’un antidépresseur imipraminique à un animal, pendant 3 semaines entraine une désensibilisation des récepteurs βadrénergiques centraux(préparation tissulaire enrichie en membranes, cortex et hippocampe-rat)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cette désensibilisions n’a lieu que si les neurones sérotoninergiques(5HT) sont préservés. La destruction de ces neurones par une neurotoxine, 5-7- di OH- Tryptamine injectée dans les ventricules cérébraux empêche cette désensibilisation.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les voies noradrénergiques et sérotoninergiques coopèrent de façon positive",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La durée nécessaire à la désensibilisation des récepteurs  rend compte du délai d’action des médicaments antidépresseurs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Antagonistes NMDA  produisent chez l'animal, le même effet de désensibilisation des β NA R, si les voies HT sont intègres",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glutamate et  physiopathologie hypothétique  des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes NMDA et  récepteurs β adrénergiques chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Références générales:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Skolnik P. et al.,          \t\tPharmacopsychiatry,1996",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sanacora G. et al.,     \t\tNat. Rev. Drug. Discover,2009",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mathews D.C. et al., \t \tDrugs, 2012",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Krystal J.H. et al.,     \t\tBiological Psychiatry,2013",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Newport D.J. et al.,  \t\tAm.J.Psychiatry",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Premières observations de J .Crane",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes NMDA et modèles «nosomimétiques*»  de la dépression",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse « glutamatergique »  états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les effets excitotoxiques du glutamate sont bien connus.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cause ou conséquence des états dépressifs?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Stress",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Perte cellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Perte de cellules gliales (qui recyclent le glutamate)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rupture de l’homéostasie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Défaut de régulation du taux de",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glutamate extracellulaire,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la cellule ne lutte plus contre le neurotransmetteur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "excitotoxique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Propagation du phénomène excitotoxique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Brain Derived  Nerve Factor BDNF",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Facteur de croissance Nerveux ,Nerve Growth Factor, NGF,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Premier membre de la famille des neurotrophines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est produit  par le tissu innervé et contribue au développement et au maintien de caractéristiques des neurones qui innervent ce tissu.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Conservation  inter-espèces des séquences peptidiques; grande homologie inter-espèces.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Développement des neurones sensitifs de la racine dorsale de la moelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulation  de la tyrosine hydroxylase (SNA Sympathique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Développement des neurones cholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aloe et al. , J.Translational Med.,2012",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Effets des états de stress sur les cellules nerveuses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse de R. Duman",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors des états de stress, l’atrophie des neurones de l’Hippocampe est caractérisée par une réduction du nombre et de la longueur des dendrites et des épines synaptiques. Elle est la conséquence d’une réduction de la production de BDNF",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Lors des états de stress ,le nombre des cellules gliales, astrocytes et oligodendrocytes, diminue.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réduction de l’épuration du glutamate extracellulaire?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Activation de récepteurs  glutamatergiques  NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Duman, Dialogues in Clinical Neuroscience, 2014",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Conséquence",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Activation de récepteurs  glutamatergiques  NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A  Lors des états dépressifs l’activation des récepteurs NMDA portés par des neurones régulateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Gabaergiques » entraine une inhibition",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "des neurones glutamatergiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les récepteurs AMPA sont moins activés et la production de BDNF est réduite",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duman, Dialogues in Clinical Neuroscience, 2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Activation de récepteurs  glutamatergiques  NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "B   Si les récepteurs NMDA des neurones régulateurs « Gabaergiques »  sont bloqués, l’inhibition des neurones glutamatergiques est levée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les récepteurs AMPA sont activés et la production de BDNF est  de nouveau active",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duman, Dialogues in Clinical Neuroscience, 2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Médicament de l’anesthésie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Anesthésie dissociative »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacologie de la Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration de  kétamine en anesthésie générale provoque un état de profonde analgésie sans dissolution obligatoire de la conscience",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il y a une dissociation de l’activité électrique thalamo-corticale de celle qui est réticulaire et limbique:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression de la première et conservation de la seconde.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Pharmacologie de la S (+) Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Filiation structurale de la Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Structure des analgésiques centraux, morphiniques et analogie structurale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Molécules en «T» de A.H. Beckett",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Péthidine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phencyclidine PCP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TCP",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Molécules en «T» de A.H. Beckett",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules en T :« Nom donné par le chimiste britannique A.H. Beckett à des composés naturels ou de synthèse dont la configuration générale en forme de T,  avec en particulier un noyau aromatique phénolique et un azote à une distance déterminée. Cette configuration permet l’activation des récepteurs opioergiques et confère au moins  potentiellement des propriétés communes analgésiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Kétamine et la Phencyclidine sont apparentés à ces molécules en T.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces agents bloquent le canal ionique Des récepteurs NMDA »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dictionnaire des Sciences Pharmaceutiques et Biologiques Académie Nationale  de Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "T",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La Kétamine n’a  pas d’affinité pour les récepteurs :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine, muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Ki sont très supérieurs à 10 000 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Kétamine et récepteurs des neuromédiateurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La Kétamine n’a  d’affinité  que pour les récepteurs :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NMDA  Ki= 323 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "source de récepteurs: Cerveau antérieur de rat,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ligand radiomarqué  3H MK801",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Opioergiques sigma  Ki= 440 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "source de récepteurs: Cerveau de rat,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ligand radiomarqué  3H PCP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Kétamine et récepteurs des neuromédiateurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse de R. Duman &  N. Li: d’action  antidépressive de la Kétamine (2012)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Kétamine augmente paradoxalement la libération de Glutamate; mais la Kétamine bloque les récepteurs NMDA:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les neurones gabaergiques inhibiteurs des neurones glutamatergiques ne sont mis au silence . Les récepteurs AMPA sont activés par le glutamate libéré.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il s’ensuit une production de BDNF et une activation de la protéine mTOR qui elle même déclenche la synthèse  des protéines  des structures synaptiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors des études menées chez l’animal, la Rapamycine réduit l’effet de la Kétamine. La Kétamine réduit le temps d’immobilité lors du test de la nage forcée et s’oppose à la résignation apprise. La Kétamine restaure  l’appétence  pour l’eau de boisson  sucrée qui avait été abolie par le stress  léger chronique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Li, Lu, Dwyer et al., Biol Psychiatry, 2011",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Li , Lee, Lu, Dwyer, Banasr et al., Science,2010",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Configurations absolues de la Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "( Cahn, Ingold, Prelog )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Configuration  S",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Configuration  R",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "dextrogyre",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "lévogyre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Carbone asymétrique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "S- Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NMDA  Ki= 330 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ebert  B., Mikkelsen S. et al.,  Eur. J. Pharmacology ,1997",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "R-Kétamine S-Kétamine  et récepteurs NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "R- Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NMDA  Ki= 1400 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’affinité de la Kétamine pour les récepteurs NMDA est due à la S-Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Démonstration de l’effet antidépresseur rapide de la Kétamine perfusion I.V.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "lors des essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Food and Drug Administration:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Approbation d’une forme d’administration nasale de S-Kétamine pour le traitement des dépressions résistantes, en association à un antidépresseur donné per os",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,2088 @@
+{
+  "fichier": "Réglementation et agences Dr Benyaya.pptx",
+  "session": "SESSION_3_AGENCES_MEDICAMENT",
+  "total_slides": 37,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mise sur le marché",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aspects règlementaires généraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Lionel BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Titulaire du D.U  de Pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mise sur le marché",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aspects règlementaires généraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Commentaires oraux : Joseph Benyaya",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Professeur Marcel Legrain (1923-2003)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eminent néphrologue CHU Pitié Salpêtrière",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Première Commission d’A.M.M  française crée en 1978",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Président: Pr M. Legrain",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Professeur Jean-Pierre Bader (1926-2019)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eminent Gastro-Entérologue CHU Créteil Henri Mondor",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Première Commission révision des dictionnaires des spécialités pharmaceutiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Professeur René Jean  Royer  (1931-2019)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eminent Pharmaco-Toxicologue CHU Nancy",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Première Commission Nationale de Pharmacovigilance",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "SOMMAIRE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La procédure d’AMM centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais thérapeutiques: les trois phases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Accès au marché – Généralités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le CEPS – composition et missions",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise sur le Marché",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aspects règlementaires généraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Un médicament peut être mis sur le marché dans l’Espace économique européen (EEE) uniquement après avoir obtenu l’autorisation de mise sur le marché (AMM) auprès de l’autorité compétente d’un État membre (l’ANSM en France) ou sur décision de la Commission Européenne après évaluation par l’Agence Européenne des Médicaments (EMA).",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’obtention de l’AMM est un processus long et complexe",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une AMM est octroyée à la personne morale (le plus souvent un laboratoire pharmaceutique) qui en a fait la demande, communément appelée demandeur, et qui deviendra titulaire de l’AMM.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le demandeur doit soumettre un dossier de demande d’AMM aux autorités compétentes qui compile les données de développement relatives à la qualité, la tolérance et l’efficacité du médicament.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le dossier doit être établi selon le format CTD (Common Technical Document).",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le format CTD, dont les spécifications sont définies par l’ International Conference on Harmonization (ICH) est un format harmonisé et commun aux Régions Europe, Etats-Unis et Japon.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le format CTD se compose de 5 modules",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Module 1 (module spécifique selon la région - non exhaustif) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Documentation administrative (formulaires et certificats)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Plan de gestion des risques",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Proposition : Résumé des Caractéristiques du Produit / mentions de l’étiquetage / notice patient",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Module 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résumés des modules 3, 4 et 5 (établis par des experts)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Module 3. Qualité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Informations relatives à la qualité de la substance active et du produit fini",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Module 4. Non Clinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rapports d’études non cliniques (Pharmacologie/toxicologie)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Module 5. Clinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rapports d’études cliniques",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le format CTD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hors CTD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CTD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module 2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Une AMM peut être octroyée à l’issue de différentes procédures :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure centralisée (CP)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédures non centralisées",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure décentralisée (DCP)",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure de reconnaissance mutuelle (MRP)",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure nationale",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Chaque procédure dispose de spécificités propres en matière de responsabilités et dispositions juridiques tant pour les autorités compétentes que pour les titulaires d’AMM.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "« La Longue Marche du Médicament »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Editorial du Professeur Daniel Ginestet,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Eminent Psychiatre,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Paru il y a plus de 20 ans dans",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Psychiatrie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Actualités Médicales Internationales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue Fondée par le professeur Edouard Zarifian",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "z",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure de reconnaissance mutuelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure décentralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Procédure nationale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMM dans tous les États membres de l’UE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une AMM nationale étendue à un ou plusieurs États membres de l’UE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMM dans au moins 2 États membres de l’UE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMM nationale uniquement dans un État membre de l’UE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une AMM nationale délivrée dans chaque état membre à la fin de la procédure",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le dossier d’autorisation de mise sur le marché est un document vivant soumis à des modifications tout au long du cycle de vie du médicament.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ces modifications du dossier d’AMM, appelées variations qui font l’objet également d’une évaluation, doivent être soumises aux autorités compétentes par le titulaire de l’AMM dès que ce dernier prend connaissance de nouvelles données ou informations sur l’efficacité, la sécurité ou la qualité du médicament.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le titulaire de l’AMM a également pour obligation de soumettre des rapports périodique de sécurité. Ces rapports établis sur la base des informations issues de la pharmacovigilance (notifications d’effets indésirables, études de tolérance.…) ont pour objectif notamment d’évaluer le rapport bénéfices/risques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Autorisation de Mise sur le Marché et procédures d’enregistrement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "L’Agence Européenne des Médicaments (EMA - European Medicines Agency) est responsable de la gestion de la procédure centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une seule demande est déposée auprès l’EMA ; tous les États membres sont impliqués dans la procédure",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le Comité des médicaments à usage humain (CHMP) procède à une évaluation scientifique du dossier",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La durée de la  procédure centralisée est de 210 jours. Des « clock stops » sont possibles lorsque l’EMA requiert des informations ou des données complémentaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La procédure d’AMM centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "A la fin de la procédure, le CHMP adopte une opinion positive ou négative  et recommande à la Commission Européenne d’octroyer ou de ne pas octroyer l’AMM.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’AMM est par la suite octroyée sur décision de la Commission Européenne.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’AMM résultante est pan-européenne et valide dans tous les États membres de l’UE. Le même nom de marque (ou nom de fantaisie) est employé dans tous les États Membres. Le résumé des caractéristiques du produit (RCP), les mentions de l’étiquetage* et le texte de la notice sont identiques et traduits dans les 24 langues officielles de l’UE.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Le conditionnement extérieur  ou secondaire doit prévoir un espace appelé « Blue Box » réservé aux spécificités nationales (par ex. : conditions de prescription ou de délivrance spéciales, le code d’identification du produit, les pictogrammes…) qui sont dictées par l’autorité nationale compétente.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La procédure d’AMM centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La Procédure Centralisée est obligatoire pour les :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments dérivés des biotechnologies (par ex., les anticorps monoclonaux)  ou les médicaments de thérapie innovante (par ex., thérapie génique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments à usage humain contenant une nouvelle substance active et destinés au traitement du VIH, des maladies virales, des cancers, des maladies neurodégénératives, du diabète et des maladies auto-immunes et autres dysfonctionnements immunitaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments désignés comme « médicament orphelin »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La procédure d’AMM centralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  EudraLex - Volume 2. https://ec.europa.eu/health/documents/eudralex/vol-2_en",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Les essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Un essai clinique est une recherche biomédicale organisée et pratiquée sur l’Homme en vue du développement des connaissances biologiques ou médicales.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Définition de la Recherche biomédicale :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "«Essai clinique de médicaments visant à déterminer ou à confirmer leurs effets cliniques, pharmacologiques et pharmacodynamiques ou à mettre en évidence tout effet indésirable, ou à en étudier l'absorption, la distribution, le métabolisme et l'élimination, dans le but de s'assurer de leur innocuité ou de leur efficacité » (Article R1121-1 du Code de la Santé Publique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les essais cliniques, dans le cadre du développement d’un médicament en vue de l’obtention de l’AMM, sont conduits en quatre phase.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence :  https://www.ansm.sante.fr/Activites/Essais-cliniques/Qu-est-ce-qu-un-essai-clinique/(offset)/2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Essais de Phase 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essais menés sur un nombre limité de sujets sains, sous strict contrôle médical.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Objectif : déterminer le profil de tolérance du médicament, l’activité pharmacologique, les caractéristiques pharmacocinétiques, la dose maximale tolérée, la dose et la fréquence d’administration.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essais de Phase 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un nombre limité de malades est inclus dans ces essais (40 à 80 en moyenne).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais de phase II peuvent être comparatifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Objectif : confirmer l’activité clinique préliminaire et/ou pharmacologique du médicament à la dose recommandée à l’issue de la phase 1.      Psychiatrie: Critères diagnostiques issus du DSM et échelles  d’impressions cliniques globales et de psychopathologie quantitative validées; échelles d’évaluation  des effets indésirables (Echelle UKU  scandinave traduite en français) Fixation de critères de réponse au traitement comme par exemple 50% de réduction de l’intensité du syndrome évaluée par application de l’échelle validée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essais de Phase 3  Essais comparatifs du nouveau médicament versus un traitement dit  « de référence » ou un placébo afin de déterminer son efficacité.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un essai de phase 3 est dit « pivot » lorsqu’il a été soumis à l’appui de la demande d’AMM pour démontrer l’efficacité d’un médicament dans une indication donnée. Psychiatrie: cf. phase 2 La durée des essais peut varier en fonction du type d’épisode à traiter(acuité; prévention des rechutes; prévention des récidives)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais post AMM (Phase 4)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais se poursuivent tout au long de sa commercialisation. Des essais dits de Phase 4, sont réalisés dans des conditions proches de la prise en charge habituelle. L’objectif est de repérer d'éventuels effets indésirables rares non détectés durant les phases précédentes (pharmacovigilance) et de préciser les conditions d'utilisation pour certains groupes de patients à risques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.orpha.net/consor/cgi-bin/index.php",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Après avoir obtenu une AMM, un médicament peut être mis sur le marché directement s’il n’est pas remboursé par la sécurité sociale (médicaments non remboursables de prescription facultative ou obligatoire) .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si le laboratoire responsable de la commercialisation souhaite prétendre à la prise en charge, par l’assurance maladie, du coût du médicament (en ville ou l’hôpital), ce dernier doit dans un premier temps soumettre un dossier pour une évaluation par la commission de transparence de la Haute Autorité de Santé (HAS) .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La commission de transparence de la HAS procède à une évaluation, de l’intérêt clinique et du progrès thérapeutique vis-à-vis des traitements de référence, ainsi que de la place du médicament évalué dans la stratégie thérapeutique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La commission de la transparence à l’issue de l’évaluation rend un avis (public) sur la prise en charge du coût et le taux de remboursement du médicament par la solidarité nationale.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La prise en charge du coût du médicament par la sécurité sociale est décidée par le Ministre de la santé, le taux de remboursement par l’UNCAM et le prix fait l’objet d’une convention entre le CEPS et le laboratoire. Ces décisions font l’objet d’une publication au journal officiel.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Accès au marché – Généralités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Référence: UFR  sciences Pharmaceutiques Université de Caen",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Autorisation de Mise sur le Marché",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise sur le marché en non  remboursé : prix libre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Demande de prise en charge et prix aux  autorités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Marché ville",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prise en charge",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Par l’assurance maladie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prix négocié  (Publication au Journal  Officiel)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hopital",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agrément collectivités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prix libre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hopital",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agrément collectivités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Liste en sus de la T2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prix négocié",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Accès au marché – Généralités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Référence: UFR  sciences Pharmaceutiques Université de Caen",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Accès au marché – Généralités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CT  éligibilité à la prise en charge si données vs. comparateur actif (si disponible)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Service Médical Rendu (SMR)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amélioration du Service Médical Rendu  (ASMR)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Place dans la stratégie thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Population cible",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CEESP (Commission Evaluation Economique et  Santé Publique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": " Avis sur l’efficience (prévisible ou constatée)   du traitement (si ASMR I, II ou III)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Autorisation de mise sur  marché (AMM)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Commission  de la  Transparence  (CT)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "HAS",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prix et conditions  particulières  CEPS",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Avis",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Commercialisation à l’hôpital",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Commercialisation et",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "remboursement en ville",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prix / Conditions",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Critères d’évaluation :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Qualité  pharmaceutique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rapport bénéfice / Risque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Efficacité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tolérance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Principaux critères pris en compte :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Niveau d’ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Prix des comparateurs (UE)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Impact budgétaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Données médico-économiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conditions particulières: accords prix-  volume / coûts de traitement journalier,  encadrement forfaitaire, partage de  risque, études post-inscription...)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CEESP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CEESP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CEPS",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence: UFR  sciences Pharmaceutiques Université de Caen",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les critères d’évaluation par la Commission de Transparence (CT) :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Service Médical Rendu - SMR",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Amélioration du Service Médical Rendu - ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "… mais aussi :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La place dans la stratégie thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La population cible",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le caractère approprié du conditionnement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les études complémentaires indispensables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.has-sante.fr  -La HAS et l'accès au remboursement des médicaments - 28 mars 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Le SMR répond à la question : le médicament a t-il suffisamment d’intérêt clinique pour être pris en charge par la solidarité nationale ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il est apprécié pour chaque indication",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le SMR prend en compte 5 dimensions :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La gravité de l’affection",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’efficacité (quantité d’effet et sa démonstration) et les effets indésirables du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le caractère préventif, curatif, symptomatique du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa place dans la stratégie thérapeutique, au regard des autres thérapeutiques disponibles",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Son intérêt pour la santé publique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.has-sante.fr  - La HAS et l'accès au remboursement des médicaments - 28 mars 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’ASMR répond à la question : le médicament apporte-t-il un progrès par rapport aux traitements disponibles ? Si oui, lequel ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il est apprécié pour chaque indication, par rapport aux médications alternatives déjà disponibles",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ASMR I",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ASMR II",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ASMR III",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ASMR IV",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ASMR V",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Majeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Important",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modéré",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mineur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inexistante",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« garantie de prix européen »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Coût (donc prix) inférieur au comparateur le moins cher",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "« pas de surcoût global »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.has-sante.fr  - La HAS et l'accès au remboursement des médicaments - 28 mars 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ASMR I  Progrès thérapeutique majeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "bouleversement thérapeutique avec haut niveau de preuve",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "ASMR II ou III  Progrès important ou modéré",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "démonstration de supériorité en termes de morbi ou mortalité",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "ASMR IV  Progrès thérapeutique mineur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "progrès de faible ampleur par rapport à l’existant",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "ASMR V  Absence de progrès thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "défaut ou incertitude majeurs",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicament générique, biosimilaire, complément de gamme, non infériorité",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.has-sante.fr  - La HAS et l'accès au remboursement des médicaments - 28 mars 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Quelle est la différence entre SMR et ASMR ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "SMR = intérêt clinique   remboursement",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Défini réglementairement (5 dimensions)",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "ASMR = progrès thérapeutique   prix",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Non défini réglementairement",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Comparaison par rapport aux alternatives disponibles de :",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "La qualité de la démonstration",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "La quantité d’effet",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "La pertinence clinique de l’effet",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "La commission de transparence de la HAS – SMR & ASMR",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.has-sante.fr  - La HAS et l'accès au remboursement des médicaments - 28 mars 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le CEPS – composition et missions",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Comité économique des produits de santé (CEPS), organisme interministériel placé sous l’autorité conjointe des ministres chargés de la santé, de la sécurité sociale et de l’économie, est principalement chargé par la loi de fixer les prix des médicaments pris en charge par l’assurance maladie obligatoire.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Composition :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Président et Vice-président",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction de la sécurité sociale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction générale de la santé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction générale de la concurrence, de la consommation et de la répression des fraudes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction générale des entreprises",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Caisse nationale de l’assurance maladie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Union nationale des organismes d’assurance maladie complémentaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction générale de l’offre de soins - voix consultative",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Direction générale de la recherche – voix consultative",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La négociation du prix avec les industriels est principalement  basée sur le SMR, l’ASMR, le prix des  comparateurs et l’impact budgétaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://solidarites-sante.gouv.fr/ministere/acteurs/instances-rattachees/article/ceps-comite-economique-des-produits-de-sante",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La pharmacovigilance est la surveillance des médicaments et la prévention du risque d’effet indésirable résultant de leur utilisation, que ce risque soit potentiel ou avéré.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elle repose notamment sur :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le recueil basé sur la notification spontanée des effets indésirables par les professionnels de santé, les patients  et associations  agréées de patients et les industriels avec l’appui du réseau des 31 centres régionaux de pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’enregistrement et l'évaluation de ces informations",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La mise en place d'enquêtes ou d'études pour analyser les risques, la participation à la mise en place et au suivi des plans de gestion des risques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’appréciation du profil de sécurité d’emploi du médicament en fonction des données recueillies",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La prise de mesures correctives (précautions ou restriction d’emploi, contre-indications, voire retrait du produit) et la communication vers les professionnels de santé et le public",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La communication et la diffusion de toute information relative à la sécurité d'emploi du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://ansm.sante.fr/Declarer-un-effet-indesirable/Pharmacovigilance/Organisation-de-la-pharmacovigilance-nationale/(offset)/0",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "EFFETS INDÉSIRABLES QUI DOIVENT FAIRE L’OBJET D’UNE DECLARATION",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un effet indésirable suspecté d’être lié à l’utilisation d’un ou plusieurs médicaments qu’il soit grave ou non, listé ou non dans la notice patient, survenant dans des conditions d’utilisation conforme ou non conforme aux termes de l’AMM.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sont également concernés, les effets indésirables résultant :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un surdosage",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un mésusage",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un abus",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une erreur médicamenteuse",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une exposition professionnelle",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une interaction médicamenteuse",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un défaut de qualité d’un médicament ou de médicaments falsifiés",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une exposition en cours de grossesse (maternelle ou via le sperme)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une exposition paternelle (altération potentielle des spermatozoïdes)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’une exposition au cours de l’allaitement.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : Bonnes Pratiques de Pharmacovigilance 2018 - https://ansm.sante.fr/",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "EFFETS INDÉSIRABLES QUI DOIVENT FAIRE L’OBJET D’UNE DECLARATION (SUITE)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il convient également de déclarer :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "toute exposition à un médicament au cours de la grossesse ou de l’allaitement sans survenue d’effet indésirable",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "toute suspicion d’inefficacité thérapeutique",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "toute suspicion de transmission d’agents infectieux liée à un médicament",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "toute situation que le professionnel de santé juge pertinente de déclarer.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "De plus, même en l’absence d’effet indésirable, peut être déclaré directement à l’ANSM :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "toute erreur médicamenteuse potentielle ou avérée, ou tout risque d’erreur ;",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "tout défaut de qualité d’un médicament, susceptible d’avoir des conséquences pour la santé ou la sécurité des patients.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : Bonnes Pratiques de Pharmacovigilance 2018 - https://ansm.sante.fr/",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ORGANISATION NATIONALE ET INTERNATIONALE DE LA PHARMACOVIGILANCE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le système de pharmacovigilance comprend :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les acteurs locaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les professionnels de santé.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les patients et/ou les associations de patients.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un échelon régional",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "31 centres régionaux de pharmacovigilance et d'information sur les médicaments (CRPV) de France.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un échelon national",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L'Agence Nationale de Sécurité du Médicament et des Produits de santé (ANSM) ;",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "La pharmacovigilance des laboratoires pharmaceutiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un échelon international",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L'organisation nationale s'intègre dans une organisation européenne de la pharmacovigilance regroupée au sein de l'Agence Européenne du Médicament (European Medicines Agency - EMA) ;",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L'ANSM échange aussi avec d'autres institutions de sécurité sanitaires internationales telles que l'OMS (Uppsala Monitoring Center) et la FDA (USA).",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://ansm.sante.fr/Declarer-un-effet-indesirable/Pharmacovigilance/Organisation-de-la-pharmacovigilance-nationale/(offset)/0",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ORGANISATION DE LA PHARMACOVIGILANCE EUROPÉENNE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L' EMA  a permis d’organiser et de structurer un système de pharmacovigilance au niveau communautaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cette structure reproduit l’organisation française : recueil et validation décentralisés au niveau de chaque état membre, évaluation et avis et/ou décision centralisés au niveau européen.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La législation européenne en matière de pharmacovigilance vise à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- rationaliser le processus décisionnel de l'Union européenne sur les questions de sécurité des médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- garantir l’application des mesures à tous les médicaments à l’ensemble des états membres de l’UE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comité pour l’évaluation des risques en matière de pharmacovigilance (PRAC)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le PRAC, qui siège au sein de l’EMA, évalue les risques liés à l’utilisation des médicaments ainsi que les mesures de suivi et de gestion de ces risques, y compris :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la détection, l'évaluation, la minimisation et la communication du risque d'effets indésirables, tout en tenant compte de l'effet thérapeutique du médicament ;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la conception et l’évaluation d'études de sécurité post-autorisation ;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.ansm.sante.fr/Declarer-un-effet-indesirable/Pharmacovigilance/Organisation-de-la-pharmacovigilance-europeenne/(offset)/1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LES PLANS DE GESTION DES RISQUES (PGR)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les PGR participent à la surveillance des médicaments. Les PGR font partie du dossier d’AMM.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un PGR est requis pour tout médicament contenant une nouvelle substance active.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un PGR peut être mis en place après la commercialisation du produit si des changements significatifs interviennent (nouvelle indication, nouveau dosage, nouvelle voie d’administration, nouveau procédé de fabrication) ou si un risque important a été identifié après la mise sur le marché.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il permet de mieux caractériser ou prévenir les risques associés à un médicament, compléter les données disponibles au moment de la mise sur le marché, surveiller les conditions réelles d'utilisation. Il implique, si besoin, des mesures complémentaires aux activités de routine :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une pharmacovigilance renforcée sur certains des risques mis en évidence dans le PGR,",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "des études de sécurité d’emploi post-AMM et/ou des études d’utilisation,",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "des mesures additionnelles de réduction du risque (documents d’information pour les professionnels de santé ou les patients).",
+          "indent": 2
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.ansm.sante.fr/Activites/Surveillance-des-medicaments/Medicaments-faisant-l-objet-d-un-plan-de-gestion-des-risques/(offset)/2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LES PLANS DE GESTION DES RISQUES (PGR)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Des mesures dites de \"routine\" encadrent le bon usage du médicament :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les informations du Résumé des Caractéristiques du Produit pour les  professionnels",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "la notice pour les patients",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "le conditionnement du médicament (pictogramme)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "les conditions de prescription et  de délivrance",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lorsqu’elles semblent insuffisantes pour assurer un usage sûr et efficace, des mesures additionnelles de réduction du risque (MARR) peuvent être mises en œuvre.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les MARR sont destinées à prévenir ou réduire la probabilité de survenue d'effets indésirables, leur gravité et/ou l'impact sur le patient. Ce sont :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les lettres aux professionnels de santé",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "les documents d’information pour les professionnels de santé et/ou patients, sur divers supports : lettres, guides, check-list, brochures, cartes-patients, diaporamas de formation",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "les programmes d'accès restreint : distribution contrôlée, programme de prévention des grossesses",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence : https://www.ansm.sante.fr/Activites/Surveillance-des-medicaments/Mesures-additionnelles-de-reduction-du-risque/(offset)/1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Historique de l’évaluation des médicaments en vue de l’Autorisation de Mise sur le Marché",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Professeur Charles Caulin",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Article en accès libre EM Consulte",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

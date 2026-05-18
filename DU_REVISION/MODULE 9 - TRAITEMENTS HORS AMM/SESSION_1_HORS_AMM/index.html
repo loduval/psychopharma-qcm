@@ -1,0 +1,228 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 1 — Hors Amm — M9</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 9</a><div class="tb-crumb">M9 · <em>Session 1 — Hors Amm</em></div></div><div class="sess-hero"><div class="sh-tag">Module 9 — Session 1/1</div><h1>Session 1 — Hors Amm</h1><div class="sh-meta">1 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Les prescriptions hors AMM</h3>
+
+<h4>Définition et contexte</h4>
+<p><strong>Prescrire hors AMM</strong> consiste à :</p>
+<ul>
+<li>Écrire des ordonnances hors des indications de l'Autorisation de Mise sur le Marché du médicament (off-label use)</li>
+<li>Prescrire des médicaments non acceptés à la commercialisation dans le pays (unlicensed use)</li>
+</ul>
+<p>Ces prescriptions sont parfois bénéfiques au patient mais <strong>devraient être évitées le plus possible</strong>. Elles engagent plus la responsabilité médico-légale du prescripteur (notamment en cas d'effets indésirables) que lors de prescription suivant l'AMM.</p>
+
+<h4>Circonstances générales menant aux prescriptions hors AMM</h4>
+<ul>
+<li>Manque de données dans la littérature sur le médicament (manque absolu d'information)</li>
+<li>Manque de savoir du prescripteur (manque relatif d'information)</li>
+<li>Situations cliniques ne répondant pas ou seulement partiellement à un traitement psychopharmacologique</li>
+<li>Situations cliniques pour lesquelles un traitement reconnu efficace n'est cependant pas enregistré</li>
+<li>Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l'objet de peu ou pas d'études thérapeutiques</li>
+<li>Situations cliniques non incluses dans les systèmes de classification officiels, mais ayant néanmoins fait l'objet d'essais cliniques contrôlés</li>
+<li>Situations cliniques non incluses dans les systèmes de classification officiels et n'ayant pas fait l'objet d'études thérapeutiques</li>
+<li>Initiatives des patients eux-mêmes</li>
+</ul>
+
+<h4>Manque d'information absolu dans la littérature médicale</h4>
+<p>Le manque absolu d'information peut mener à une prescription hors AMM si :</p>
+<ul>
+<li>Le prescripteur ne trouve pas de réponse quant au traitement approprié au patient malgré la consultation d'experts et de la littérature médicale (surtout Pubmed)</li>
+<li>Des données contradictoires ne permettent pas de conclure</li>
+<li>Le prescripteur extrapole à une population pédiatrique ou gériatrique des résultats obtenus lors d'essais cliniques chez l'adulte</li>
+<li>Un patient souffre d'une maladie comorbide et appartient à une population chez laquelle le traitement prescrit n'a pas été étudié</li>
+</ul>
+
+<h4>Manque d'information relatif au sujet de la littérature médicale</h4>
+<p>Un manque d'information considéré comme relatif peut mener à des prescriptions hors AMM si le prescripteur :</p>
+<ul>
+<li>Ne consulte jamais la littérature médicale ou les notices du médicament</li>
+<li>Suit de façon insuffisante la formation post-graduée</li>
+<li>Se fie aux données des informations et de la publicité des industries pharmaceutiques lorsque celles-ci sont biaisées</li>
+<li>Demande conseil à une personne elle-même ignorante de la question posée</li>
+<li>Choisit par méconnaissance une dose du médicament ou une durée du traitement hors des recommandations</li>
+</ul>
+
+<h4>Situations cliniques résistantes au traitement</h4>
+<p>De nombreux essais cliniques ont été consacrés aux patients difficiles à traiter, avec la démonstration que la réponse au médicament est partielle, voire nulle.</p>
+
+<p>Dans ces circonstances, le prescripteur :</p>
+<ul>
+<li>Suit les recommandations de groupes d'experts au sujet des troubles psychiatriques qui ont résisté au traitement initial : ces recommandations sont généralement hors AMM, car fondées sur des associations de médicaments</li>
+<li>Essaie un traitement original qu'il considère justifié pour son patient, mais qui n'est pas validé</li>
+<li>Maintient une prescription considérée inutile par les experts</li>
+</ul>
+
+<p>Cela concerne notamment :</p>
+<ul>
+<li>Les troubles sévères et résistants (troubles de l'humeur, troubles anxieux, trouble obsessionnel-compulsif, troubles psychotiques et autres troubles sévères)</li>
+<li>Tous les troubles neurocognitifs au stade de déficit cognitif non démentiel (à l'exception des rares troubles neurocognitifs curables)</li>
+<li>La majorité des troubles neurocognitifs au stade de trouble neurocognitif majeur</li>
+</ul>
+
+<h4>Traitements efficaces mais non enregistrés</h4>
+<p>Il s'agit de situations cliniques correctement étudiées, avec la démonstration que la qualité de la réponse clinique à un médicament psychotrope est de bonne qualité, alors que le médicament n'est pas enregistré dans cette indication.</p>
+
+<p>Le prescripteur :</p>
+<ul>
+<li>Rédige une prescription potentiellement utile, mais hors AMM</li>
+<li><strong>Devrait systématiquement informer le patient de ce fait</strong></li>
+<li>Pratique une médecine en avance de mois ou années sur les décisions des autorités de contrôle</li>
+<li>Utilise des propriétés bénéfiques du médicament pour lesquelles l'industrie n'envisage pas de demander une AMM</li>
+</ul>
+
+<p>Exemples :</p>
+<ul>
+<li>Lors de trouble de stress post-traumatique, un antidépresseur autre que la paroxétine ou la sertraline</li>
+<li>Un antipsychotique ou un antidépresseur sédatif prescrit comme somnifère ou comme anxiolytique</li>
+<li>Un antiparkinsonien comme le pramipexole prescrit comme antidépresseur</li>
+<li>Le THC comme antidouleur, la kétamine, le méthylphénidate ou la psilocybine comme antidépresseur</li>
+<li>Prescription d'un médicament comme placebo actif, par exemple des vitamines</li>
+</ul>
+
+<h4>Troubles peu étudiés inclus dans les classifications officielles</h4>
+<p>Troubles reconnus dans le DSM-5 mais ayant fait l'objet de peu ou pas d'études thérapeutiques :</p>
+<ul>
+<li>Tous les troubles de la personnalité hormis les troubles de personnalité borderline et schizotypique</li>
+<li>Tous les troubles dissociatifs</li>
+<li>Mutisme sélectif</li>
+<li>Tous les troubles neurodéveloppementaux à l'exception du déficit de l'attention/hyperactivité et du syndrome de Gilles de la Tourette</li>
+<li>Anxiété de séparation</li>
+<li>Trichotillomanie</li>
+<li>Trouble réactionnel de l'attachement</li>
+<li>Tous les troubles à symptomatologie somatique et apparentée</li>
+<li>Pica et mérycisme</li>
+<li>Troubles de l'éveil en sommeil paradoxal, type somnamb</div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/1</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">25 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div></div><div class="slide-card"><div class="sn">Slide 2</div><div class="t-h2">Les prescriptions hors AMM</div><div class="t-h1">Pierre Schulz, psychiatre et pharmacologue</div><div class="t-h1">Ancien médecin-chef de l’Unité de psychopharmacologie des Hôpitaux universitaires de Genève</div><div class="t-h1">Ancien professeur chargé de cours à la Faculté de médecine de Genève</div><div class="t-h1">Ancien visiting clinical professor, Département de psychiatrie, Université de San Diego</div><div class="t-h2">www.psychopharmacologie.ch</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Bienvenue dans ce module</div><div class="t-h1">Afin de le suivre dans les meilleures conditions, nous vous invitons à :</div><div class="t-sm">Vous isoler</div><div class="t-h1">Pour cette présentation, je n’ajouterai pas de commentaire verbal aux diapositives. Mettre le casque permettrait cependant de vous concentrer sur le texte.</div></div><div class="slide-card top"><div class="sn">Slide 4</div><div class="t-h1">● Prescrire hors AMM consiste à écrire des ordonnances hors des indications de l’Autorisation de Mise sur le Marché du médicament (off-label use) ou pour des médicaments non acceptés à la commercialisation dans le pays (unlicensed use)</div><div class="t-h1">● Ces prescriptions sont parfois bénéfiques au patient.</div><div class="t-h1">● Elles ont lieu dans plusieurs circonstances (listées sur les deux prochaines diapositives et décrites individuellement sur les diapositives qui suivent).</div><div class="t-h1">● Les prescriptions hors AMM devraient être évitées le plus possible. Elles engagent plus la responsabilité médico-légale du prescripteur (notamment en cas d’effets indésirables) que lors de prescription suivant l’AMM.</div></div><div class="slide-card top"><div class="sn">Slide 5</div><div class="t-h1">Une série de circonstances générales peuvent mener à des prescriptions hors AMM :</div><div class="t-h1">● manque de données dans la littérature sur le médicament (manque      absolu d’information).</div><div class="t-h1">● manque de savoir du prescripteur (manque relatif d’information).</div><div class="t-h1">● situations cliniques ne répondant pas ou seulement partiellement à un traitement psychopharmacologique.</div><div class="t-h1">● situations cliniques pour lesquelles un traitement reconnu efficace n’est cependant pas enregistré.</div><div class="t-sm">(suite)</div></div><div class="slide-card top"><div class="sn">Slide 6</div><div class="t-h1">Une série de circonstances générales peuvent mener à des prescriptions hors AMM (suite) :</div><div class="t-h1">● situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques.</div><div class="t-h1">● situations cliniques non incluses dans les systèmes de classification officiels, mais ayant néanmoins fait l’objet d’essais cliniques contrôlés.</div><div class="t-h1">● situations cliniques non incluses dans les systèmes de classification officiels et n’ayant pas fait l’objet d’études thérapeutiques.</div><div class="t-h1">● initiatives des patients eux-mêmes.</div><div class="t-sm">(suite)</div></div><div class="slide-card top"><div class="sn">Slide 7</div><div class="t-h1">Manque d’information absolu dans la littérature médicale</div><div class="t-h1">Le manque absolu d’information peut mener à une prescription hors AMM si :</div><div class="t-h1">le prescripteur ne trouve pas de réponse quant au traitement approprié au patient malgré la consultation d’experts et de la littérature médicale (surtout Pubmed, que chacun devrait savoir utiliser).</div><div class="t-h1">des données contradictoires ne permettent pas de conclure.</div><div class="t-h1">le prescripteur extrapole à une population pédiatrique ou gériatrique des résultats obtenus lors d’essais cliniques chez l’adulte.</div><div class="t-h1">un patient souffre d’une maladie comorbide et appartient à une population chez laquelle le traitement prescrit n’a pas été étudié.</div></div><div class="slide-card top"><div class="sn">Slide 8</div><div class="t-h1">Manque d’information relatif au sujet de la littérature médicale</div><div class="t-h1">Un manque d’information considéré comme relatif peut mener à des prescriptions hors AMM si le prescripteur :</div><div class="t-h1">ne consulte jamais la littérature médicale ou les notices du médicament.</div><div class="t-h1">suit de façon insuffisante la formation post-graduée.</div><div class="t-h1">se fie aux données des informations et de la publicité des industries pharmaceutiques lorsque celles-ci sont biaisées.</div><div class="t-h1">demande conseil à une personne elle-même ignorante de la question posée.</div><div class="t-h1">choisi par méconnaissance une dose du médicament ou une durée du traitement hors des recommandations.</div></div><div class="slide-card top"><div class="sn">Slide 9</div><div class="t-h1">Situations cliniques ne répondant pas ou seulement partiellement à un traitement psychopharmacologique</div><div class="t-h1">De nombreux essais cliniques ont été consacrés aux patients difficiles à traiter, soit lors de décompensation aiguë, soit lors de prévention à long terme, avec la démonstration (essais cliniques randomisés comparatifs) que la réponse au médicament est partielle, voire nulle.</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">Situations cliniques ne répondant pas ou seulement partiellement à un traitement psychopharmacologique (suite 1)</div><div class="t-h1">Dans ces circonstances, le prescripteur :</div><div class="t-h1">suit les recommandations de groupes d’experts au sujet des troubles psychiatriques qui ont résisté au traitement initial : ces recommandations sont généralement hors AMM, car fondées sur des associations de médicaments, or celles-ci sont, à de rares exceptions près, hors AMM.</div><div class="t-h1">essaie un traitement original qu’il considère justifié pour son patient, mais qui n’est pas validé.</div><div class="t-h1">maintient une prescription considérée inutile par les experts (par exemple le maintien à trois mois ou plus d’un traitement antidépresseur s’étant montré inefficace).</div></div><div class="slide-card top"><div class="sn">Slide 11</div><div class="t-h1">Situations cliniques ne répondant pas ou seulement partiellement à un traitement psychopharmacologique (suite 2)</div><div class="t-h1">Lors de ces situations (listées selon les entités du DSM-5), le prescripteur écrit fréquemment une prescription hors AMM. Il s’agit de :</div><div class="t-h1">les troubles sévères et résistants (troubles de l’humeur, troubles anxieux, trouble obsessionnel-compulsif, troubles psychotiques et autres troubles sévères).</div><div class="t-h1">tous les troubles neurocognitifs au stade de déficit cognitif non démentiel (à l’exception des rares troubles neurocognitifs curables).</div><div class="t-h1">la majorité des troubles neurocognitifs au state de trouble neurocognitif majeur.</div></div><div class="slide-card top"><div class="sn">Slide 12</div><div class="t-h1">Situations cliniques pour lesquelles un traitement reconnu efficace n’est cependant pas enregistré</div><div class="t-h1">Il s’agit de situations cliniques correctement étudiées, avec la démonstration (essais cliniques randomisés comparatifs) que la qualité de la réponse clinique à un médicament psychotrope est de bonne qualité, alors que le médicament n’est pas enregistré dans cette indication.</div><div class="t-h1">Dans ces circonstances, le prescripteur :</div><div class="t-h1">rédige une prescription potentiellement utile, mais hors AMM.</div><div class="t-h1">devrait systématiquement informer le patient de ce fait.</div><div class="t-h1">pratique une médecine en avance de mois ou années sur les décisions des autorités de contrôle.</div><div class="t-h1">utilise des propriétés bénéfiques du médicament pour lesquelles l’industrie n’envisage pas de demander une AMM.</div></div><div class="slide-card top"><div class="sn">Slide 13</div><div class="t-h1">Situations cliniques pour lesquelles un traitement reconnu efficace n’est cependant pas enregistré (suite)</div><div class="t-h1">Quelques exemples de ces situations sont :</div><div class="t-h1">lors de trouble de stress post-traumatique, un antidépresseur autre que la paroxétine ou la sertraline, seules enregistrées dans cette indication.</div><div class="t-h1">un antipsychotique ou un antidépresseur sédatif prescrit comme somnifère ou comme anxiolytique.</div><div class="t-h1">un antiparkinsonien comme le pramipexole prescrit comme antidépresseur.</div><div class="t-h1">autres : le THC comme antidouleur, la kétamine, le méthylphénidate ou la psilocybine comme antidépresseur.</div><div class="t-h1">prescription d’un médicament, psychotrope ou non, comme placebo actif, par exemple des vitamines.</div><div class="t-h1">lors d’un trouble sous-syndromique, prescription d’un médicament enregistré pour le trouble passant le seuil d’inclusion dans les classifications officielles.</div><div class="t-sm">etc.</div></div><div class="slide-card top"><div class="sn">Slide 14</div><div class="t-h1">Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques</div><div class="t-h1">Lors de ces situations (listées selon les entités du DSM-5), le prescripteur écrit fréquemment une prescription hors AMM, à cause de l’absence d’essais cliniques.</div><div class="t-sm">Il s’agit de :</div><div class="t-h1">tous les troubles de la personnalité hormis les troubles de personnalité borderline et schizotypique.</div><div class="t-h2">tous les troubles dissociatifs.</div><div class="t-h2">mutisme sélectif.</div><div class="t-h1">tous les troubles neurodéveloppementaux à l’exception du déficit de l’attention/hyperactivité et du syndrome de Gilles de la Tourette.</div><div class="t-h2">anxiété de séparation.</div></div><div class="slide-card top"><div class="sn">Slide 15</div><div class="t-h1">Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques (suite 1)</div><div class="t-h2">Il s’agit de (suite) :</div><div class="t-h2">trichotillomanie.</div><div class="t-h1">trouble réactionnel de l’attachement.</div><div class="t-h1">tous les troubles à symptomatologie somatique et apparentée.</div><div class="t-h2">pica et mérycisme.</div><div class="t-h1">troubles de l’éveil en sommeil paradoxal, type somnambulisme et type terreur nocturne.</div></div><div class="slide-card top"><div class="sn">Slide 16</div><div class="t-h1">Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques (suite 2)</div><div class="t-h2">Il s’agit de (suite) :</div><div class="t-h2">éjaculation retardée.</div><div class="t-h1">trouble de l’intérêt pour l’activité sexuelle ou de l’excitation sexuelle chez la femme.</div><div class="t-h1">trouble lié à des douleurs génito-pelviennes ou à la pénétration.</div><div class="t-h2">pyromanie et kleptomanie.</div><div class="t-h1">trouble de l’usage d’hallucinogènes.</div><div class="t-h2">jeu d’argent pathologique.</div></div><div class="slide-card top"><div class="sn">Slide 17</div><div class="t-h1">Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques (suite 3)</div><div class="t-h2">Il s’agit de (suite) :</div><div class="t-h1">tous les troubles paraphiliques à l’exception de la pédophilie.</div><div class="t-h1">chaque trouble psychiatrique (spécifié ou non spécifié) lorsqu’il est associé (donc parfois dû) à une affection médicale: il existe quelques essais cliniques, mais peu ou pas d’autorisation AMM.</div><div class="t-h1">entité clinique telle que trouble mental non spécifié: il n’existe pas d’essais clinique par définition dans ces situations!</div></div><div class="slide-card top"><div class="sn">Slide 18</div><div class="t-h1">Situations cliniques incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques (suite 4)</div><div class="t-h2">Il s’agit de (suite) :</div><div class="t-h1">dernier chapitre de la section II du DSM-5, à savoir situations et problèmes du chapitre XXI de la CIM-10: facteurs influant sur l’état de santé et motifs de recours aux services de santé (codes Z00-Z99 et autres codes).</div><div class="t-h1">ces situations (échec scolaire ou professionnel, analphabétisme, conflit conjugal, parent à charge, lésions physiques, harcèlement, sévices sexuels, etc.) mènent à des difficultés psychiques dont certaines répondent aux critères d’un diagnostic du DSM-5 ou de la CIM-10 et c’est alors les recommandations pour ce diagnostic qu’il y a lieu de suivre.</div></div><div class="slide-card top"><div class="sn">Slide 19</div><div class="t-h1">Situations cliniques récemment incluses dans les systèmes de classification officiels, mais ayant fait l’objet de peu ou pas d’études thérapeutiques</div><div class="t-h1">Les concepteurs du DSM-5 ont introduit plusieurs nouvelles entités, alors que celles-ci n’avaient pas fait l’objet d’essais cliniques. Dans ces cas, la prescription est par définition hors AMM. Il s’agit de :</div><div class="t-h1">trouble disruptif avec dysrégulation émotionnelle.</div><div class="t-h2">désinhibition du contact social.</div><div class="t-sm">agoraphobie.</div><div class="t-h1">crainte excessive d’avoir une maladie.</div><div class="t-h1">facteurs psychologiques influençant d’autres affections médicales.</div><div class="t-h1">restriction ou évitement de l’ingestion d’aliments.</div><div class="t-h2">jeu d’argent pathologique.</div></div><div class="slide-card top"><div class="sn">Slide 20</div><div class="t-h1">Situations cliniques non incluses dans les systèmes officiels de classification, mais ayant néanmoins fait l’objet de quelques essais cliniques contrôlés-</div><div class="t-h1">Une série de situations cliniques, qui existent vraisemblablement mais n’ont pas été incluses dans la classification DSM-5 (et/ou dans celle de la CIM-10), ont néanmoins fait l’objet de quelques essais cliniques de médicaments. Ces situations ont des répercussions sociales et médicales menant à une demande de traitement. Il s’agit de :</div><div class="t-h2">agitation aiguë.</div><div class="t-sm">obésité.</div><div class="t-sm">fibromylagie.</div><div class="t-h2">fatigue chronique.</div><div class="t-h1">addictions comportementales autres que les jeux d’argent.</div></div><div class="slide-card top"><div class="sn">Slide 21</div><div class="t-h1">Situations cliniques non incluses dans les systèmes officiels de classification et n’ayant fait l’objet de quasiment aucun essais cliniques peu étudiées</div><div class="t-h1">Une série de situations cliniques, qui existent sûrement ou vraisemblablement, mais non incluses dans la classification DSM-5 (et/ou dans celle de la CIM-10). Il s’agit de :</div><div class="t-sm">mythomanie.</div><div class="t-h2">états de conscience modifiée.</div><div class="t-h1">stimulation sexuelle persistante chez la femme (persistent genital arousal).</div><div class="t-h1">troubles mentaux sous-syndromiques.</div><div class="t-h2">état d’épuisement ou burn-out.</div><div class="t-h1">troubles résistants au traitement médicamenteux.</div></div><div class="slide-card top"><div class="sn">Slide 22</div><div class="t-h2">Initiatives des patients eux-mêmes</div><div class="t-h1">Dans certaines situations, les patients eux-mêmes peuvent être à l’origine d’une prescription ou d’une prise de médicament hors AMM. Il s’agit de:</div><div class="t-h1">automédication, dont la prise d’un médicament non enregistré dans le pays d’importation.</div><div class="t-h1">continuation du traitement au-delà du délai prévu dans l’AMM.</div><div class="t-h1">prise de doses du médicament non prévues dans l’AMM.</div><div class="t-h1">demande de rédaction d’une ordonnance pour un proche.</div></div><div class="slide-card"><div class="sn">Slide 23</div><div class="t-sm">CONCLUSIONS</div><div class="t-sm">En résumé :</div><div class="t-h1">Pour les patients souffrant d’une entité clinique fréquente (et reconnue dans les systèmes officiels de classification CIM-10 ou DSM-5), il est généralement possible de prescrire un traitement médicamenteux dans le cadre d’une AMM.</div><div class="t-h1">Lorsque l’entité clinique n’a pas répondu au traitement, les recommandations de groupes d’expert portent souvent sur des traitements hors AMM, notamment du fait de l’association de médicaments.</div></div><div class="slide-card"><div class="sn">Slide 24</div><div class="t-h2">CONCLUSIONS (suite)</div><div class="t-sm">En résumé :</div><div class="t-h1">Une série de troubles psychiatriques (reconnus ou non dans les systèmes officiels de classification CIM-10 ou DSM-5) ont été peu étudiés sur le plan du traitement médicamenteux: dans ces situations, le prescripteur rédige souvent des ordonnances hors AMM.</div><div class="t-h1">Toute prescription hors AMM devrait être signalée comme telle au patient.</div></div><div class="slide-card"><div class="sn">Slide 25</div><div class="t-h2">MERCI DE VOTRE ATTENTION</div></div></div></div><div class="bot-nav"><span></span><div class="bn-info">Session 1/1<br>Module 9</div><span></span></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>

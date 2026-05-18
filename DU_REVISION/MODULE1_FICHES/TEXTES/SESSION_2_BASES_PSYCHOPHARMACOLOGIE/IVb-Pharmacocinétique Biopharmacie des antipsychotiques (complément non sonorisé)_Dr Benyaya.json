@@ -1,0 +1,735 @@
+{
+  "fichier": "IVb-Pharmacocinétique Biopharmacie des antipsychotiques (complément non sonorisé)_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 16,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Biopharmacie des antipsychotiques à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Complément",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module d’autoformation e-learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "11/2019, mise à jour  10/2020",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil  Aristada®: Un cas d’école",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "11/2019, mise à jour  09/2020",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biopharmacie des antipsychotiques à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Complément",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil  Aristada®: Un cas d’école",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil  Aristada®: Un cas d’école",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Cas de l’Aripiprazole Lauroxil  Aristada ®",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Suspension injectable de particules d’Aripiprazole administrée une fois par mois pour le traitement au long cours des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La vitesse de la mise à la disposition biologique est fonction de la solubilité des particules de leur taille et donc de la surface développée(Loi de Noyes et Whitney(cf. supra)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comment modifier la fréquence des administrations?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1injection /mois, 1injection/1,5mois,1/2mois?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Moduler la taille des particules",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmenter leur taille",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diminuer la surface développée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Créer une « nouvelle entité chimique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diminuer la vitesse de dissolution",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmenter la demi-vie apparente de la préparation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Système de Classification Biopharmaceutique des Principes Actifs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": false,
+      "textes": [],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Obtention de la Prodrogue d’Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fonction alcool primaire estérifiable",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N-méthylation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hydroxylation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide Laurique, acide gras saturé 12 carbones",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Prodrogue  1  Aripiprazole Lauroxil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rohde M., Mork N., Hakansson A. et al. Results in Pharm. Sciences,2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ","
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole et Aripiprazole Lauroxil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Propriétés physico-chimiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus insoluble dans l’eau",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus lipophile",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Solubilité dans l’eau mg/ml",
+              "Coefficient de partage octanol/eau   log P"
+            ],
+            [
+              "Aripiprazole",
+              "77 x10-4",
+              "5"
+            ],
+            [
+              "Aripiprazole Lauroxil",
+              "2,37x10-4",
+              "9"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Sort de la Prodrogue d’Aripiprazole dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Action des estérases tissulaires, réaction enzymatique en solution",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Absorption de ce composé et passage dans la circulation générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(N-méthyl-hydroxy Aripiprazole)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hydrolyse de la prodrogue2 qui donne naissance à l’Aripiprazole natif, dans la circulation générale, va suivre son propre sort.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dissolution très lente de l’ester très insoluble. La vitesse de  dissolution est le facteur limitant de la mise à la disposition biologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injection IM de la suspension aqueuse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prodrogue  1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prodrogue  2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rohde M., Mork N., Hakansson A. et al. Results in Pharm. Sciences,2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Sort de la Prodrogue d’Aripiprazole dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil Prodrogue à trois paliers*",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Premier palier:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dissolution de l’ester laurique du N-méthylène hydroxy Aripiprazole dans les liquides extracellulaires du muscle dans lequel s’est faite l’injection.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Deuxième palier:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hydrolyse de l’ester par les estérases tissulaires, passage dans la circulation générale  du N-méthyl-hydroxy Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Troisième palier:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hydrolyse  plasmatique de de N-méthyl-hydroxy Aripiprazole pour donner naissance au principe actif natif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Interprétation personnelle JB",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Sort de la Prodrogue d’Aripiprazole dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil Prodrogue à trois paliers",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Premier palier:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dissolution de l’ester laurique du N-méthylène hydroxy Aripiprazole dans les liquides extracellulaires du muscle dans lequel s’est faite l’injection.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce premier palier est le facteur limitant de la mise à la disposition biologique et",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "De lui dépend la demi-vie apparente de libération-élimination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rohde M., Mork N., Hakansson A. et al. Results in Pharm. Sciences,2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Sort de la Prodrogue d’Aripiprazole dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Traduction in vivo  par  mesure des  t max et Cmax* de:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "N-méthyl-hydroxy Aripiprazole2 et Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*Cf . Principes généraux  et pratiques  simplifiés de Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hard M. L. , Wehr A., Von Moltke L. Therapeutic Advances in Psychopharmacology 2019",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injection d’une dose de 662 mg d’Aripiprazole Lauroxil sous forme de suspension NanoCrystals®",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie IM Muscle deltoïde et muscle fessier 47patients",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "On voit donc que c’est bien le N-méthyl-hydroxy Aripiprazole qui est absorbé et qui passe  dans la circulation générale pour, après hydrolyse plasmatique,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "donner naissance au principe actif Aripiprazole",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "T max jours",
+              "C max ng /ml"
+            ],
+            [
+              "2  N-CH2OH Aripiprazole",
+              "7 à 10",
+              "20 à 25"
+            ],
+            [
+              "Aripiprazole",
+              "17 à 25",
+              "175 à 196"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Aripiprazole Lauroxil  Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ce tableau montre des valeurs  d’écart-type de la moyenne très élevées; cela indique une grande dispersion des résultats",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On remarque une linéarité apparente de la cinétique pour les posologies  1064mg/8semaines  882mg/6semaines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La valeur du coefficient d’accumulation retrouvée pour la posologie 441mg/4semaines montre que la linéarité en fonction du temps est perdue.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La demi vie apparente étant de 58  jours(43) l’intervalle de 28 jours entre deux injections est donc trop petit",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Valeurs  X   (S)",
+              "1064mg/8semaines",
+              "882mg/6semaines",
+              "441mg/4semaines"
+            ],
+            [
+              "Demi vie jours",
+              "54  (42)  n= 26 patients",
+              "55 (32)       n= 19",
+              "58 (43)   n=22"
+            ],
+            [
+              "SSC  tƮ  Jour x ng / ml\n1ère injection\nDernière injection\nCoefficient d’accumulation",
+              "3945     (2078)           n= 19\n     (3209)           n= 28\n2,0",
+              "(1697)       n= 11\n     (2612)      n= 23\n2,6",
+              "363     (391)                 n= 5\n 3522     (2229)        n= 28\n 9,7"
+            ],
+            [
+              "Cmax ng/ml\n1ère injection\nDernière injection",
+              "130     (63)                     32\n189     (80)                     28",
+              "(63)             31\n172    (81)             23",
+              "(30)                       31\n161  (110)                     28"
+            ],
+            [
+              "Tmax    jours    médiane   (étendue)\n1ère injection\nDernière injection",
+              "(30-56)                       32\n34   (0-63)                        28",
+              "42 (21-44)                 31\n20  (0-120)                23",
+              "(0-33)                     31\n28  (2-85)                     28"
+            ],
+            [
+              "Conc. circulante Moyenne   ng/ml",
+              "140  (57)                       28",
+              "131  (62)               23",
+              "126  (79)                      28"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Aripiprazole Lauroxil  Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Weiden P.J., Du Y ., Von Moltke L. CNS DRUGS 2020",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hard M. L. , Mills R.J., Sadler B.M., CNS DRUGS  2017",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tableau précédent issu des résultats des études référencées ci dessous",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Essai  Phase III    44 semaines  104 patients",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Essai  phase  I   8  semaines  79  patients",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rappel de Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Coefficient d’accumulation à l’état d’équilibre des concentrations circulantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "À l’état d’équilibre, la surface sous la courbe des concentrations sériques entre deux temps d’administration est égale à la surface sous la courbe des concentrations sériques extrapolée à l’infini pour une administration unique. Le rapport de ces deux valeurs donne le coefficient d’accumulation de la substance. Ce paramètre n’est valable que tant que la pharmacocinétique est linéaire en fonction des doses et en fonction du temps.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole Lauroxil  Aristada®: Un cas d’école",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recherche biopharmaceutique intéressante au plan théorique :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "«Drug Design»  très élégant",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise à la disposition biologique dépendant du coefficient de partage octanol/ eau  et de la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cinétique linéaire apparente pour les posologies  1064mg/8semaines  882mg/6semaines; cependant les valeurs des résultat d’analyse sont très dispersées:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une représentation de l’évolution des taux circulants, sur deux mois, en coordonnées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "semi-logarithmiques permet de minimiser graphiquement les dispersions(!!)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors de l’instauration du traitement une dose d’Aripiprazole doit être  administrée:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quotidiennement per os pendant 21 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par voie IM d’Aripiprazole Lauroxil NanoCrystals® +une dose unique de 30 mg per os",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’intérêt thérapeutique d’une telle forme galénique  est il à la hauteur des intérêts théoriques?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

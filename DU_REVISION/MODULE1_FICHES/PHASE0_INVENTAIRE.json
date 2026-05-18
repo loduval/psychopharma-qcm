@@ -1,0 +1,414 @@
+{
+  "module": "MODULE 1 - GENERALITES PHARMACOLOGIQUES",
+  "sessions": [
+    {
+      "session": "QCM",
+      "fichiers": [
+        {
+          "nom": "2020-QCM-Réponses_psychopharmacogie_génétique.pptx",
+          "slides": 26,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "2020-QCM-psychopharmacogie_génétique.pptx",
+          "slides": 27,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_ACETYLCHOLINE.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_BHE.pptx",
+          "slides": 2,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_Biopharmacie.pptx",
+          "slides": 2,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_DOPAMINE.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_GABA.pptx",
+          "slides": 2,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_GLUTAMATE.pptx",
+          "slides": 2,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_HISTAMINE.pptx",
+          "slides": 2,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_Introduction_générale.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_KETAMINE.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_Métabolisme_psychotropes_CYP450.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_NORADRENALINE.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_Pharmacocinétique.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_Pharmacodynamie_générale.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_SEROTONINE.pptx",
+          "slides": 6,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        },
+        {
+          "nom": "QCM_Statistiques.pptx",
+          "slides": 3,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_cours_modèles_animaux.pptx",
+          "slides": 5,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "QCM_réglementation_et_agences_du_médicament.pptx",
+          "slides": 4,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.2
+        }
+      ]
+    },
+    {
+      "session": "RESSOURCES",
+      "fichiers": [
+        {
+          "nom": "Psychotropes en psychiatrie.pptx",
+          "slides": 3,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "Quelques ouvrages utiles.pptx",
+          "slides": 4,
+          "images_total": 7,
+          "tableaux": 0,
+          "taille_mb": 0.8
+        }
+      ]
+    },
+    {
+      "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+      "fichiers": [
+        {
+          "nom": "ADENOSINE  Dr Benyaya revu Décembre 2025.pptx",
+          "slides": 63,
+          "images_total": 83,
+          "tableaux": 4,
+          "taille_mb": 86.6
+        },
+        {
+          "nom": "DOPAMINE Dr Benyaya revu  Octobre 2024.pptx",
+          "slides": 63,
+          "images_total": 75,
+          "tableaux": 6,
+          "taille_mb": 112.8
+        },
+        {
+          "nom": "GABA Dr Benyaya revu Octobre 2024.pptx",
+          "slides": 41,
+          "images_total": 52,
+          "tableaux": 1,
+          "taille_mb": 74.7
+        },
+        {
+          "nom": "GLUTAMATE revu 18112025 Dr BENYAYA.pptx",
+          "slides": 38,
+          "images_total": 68,
+          "tableaux": 0,
+          "taille_mb": 51.7
+        },
+        {
+          "nom": "GLYCINE Dr Benyaya revu Nov 2026.pptx",
+          "slides": 33,
+          "images_total": 53,
+          "tableaux": 0,
+          "taille_mb": 71.2
+        },
+        {
+          "nom": "I-Introduction à létude des bases neurobiologiques des effets des médicaments psychotropes_Dr Benyaya.pptx",
+          "slides": 47,
+          "images_total": 66,
+          "tableaux": 0,
+          "taille_mb": 78.1
+        },
+        {
+          "nom": "II-Pharmacodynamie générale (BHE) Dr Benyaya.pptx",
+          "slides": 26,
+          "images_total": 31,
+          "tableaux": 0,
+          "taille_mb": 37.6
+        },
+        {
+          "nom": "IV-Glutamate ESKETAMINE_Dr Benyaya.pptx",
+          "slides": 23,
+          "images_total": 32,
+          "tableaux": 0,
+          "taille_mb": 32.7
+        },
+        {
+          "nom": "Introduction aux cours du Dr Benyaya.pptx",
+          "slides": 1,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0.1
+        },
+        {
+          "nom": "NORADRENALINE Cours Dr Benyaya revu Octobre 2025.pptx",
+          "slides": 38,
+          "images_total": 68,
+          "tableaux": 10,
+          "taille_mb": 58.7
+        },
+        {
+          "nom": "SEROTONINE Dr Benyaya revu Nov 2026.pptx",
+          "slides": 90,
+          "images_total": 106,
+          "tableaux": 4,
+          "taille_mb": 163.1
+        },
+        {
+          "nom": "VII-Acetylcholine_Dr Benyaya.pptx",
+          "slides": 42,
+          "images_total": 47,
+          "tableaux": 3,
+          "taille_mb": 54.0
+        },
+        {
+          "nom": "VIII-Histamine_Dr Benyaya.pptx",
+          "slides": 36,
+          "images_total": 48,
+          "tableaux": 6,
+          "taille_mb": 42.9
+        },
+        {
+          "nom": "XI. Exemple de l eskétamine dans le traitement de la dépression résistante.pptx",
+          "slides": 185,
+          "images_total": 227,
+          "tableaux": 13,
+          "taille_mb": 169.9
+        }
+      ]
+    },
+    {
+      "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+      "fichiers": [
+        {
+          "nom": "I-Bases de psychopharmacologie_Dr Benyaya.pptx",
+          "slides": 0,
+          "images_total": 0,
+          "tableaux": 0,
+          "taille_mb": 0,
+          "erreur": "Bad CRC-32 for file 'ppt/media/media53.m4a'"
+        },
+        {
+          "nom": "II-Pharmacocinétique Principes simplifiés Revu_Dr Benyaya.pptx",
+          "slides": 71,
+          "images_total": 91,
+          "tableaux": 23,
+          "taille_mb": 76.1
+        },
+        {
+          "nom": "III-Pharmacocinétique Métabolisme_Dr Benyaya.pptx",
+          "slides": 39,
+          "images_total": 45,
+          "tableaux": 8,
+          "taille_mb": 45.3
+        },
+        {
+          "nom": "IV-Pharmacocinétique Biopharmacie des antipsychotiques_Dr Benyaya.pptx",
+          "slides": 33,
+          "images_total": 40,
+          "tableaux": 0,
+          "taille_mb": 33.3
+        },
+        {
+          "nom": "IVb-Pharmacocinétique Biopharmacie des antipsychotiques (complément non sonorisé)_Dr Benyaya.pptx",
+          "slides": 16,
+          "images_total": 6,
+          "tableaux": 3,
+          "taille_mb": 2.2
+        },
+        {
+          "nom": "V-Voie d administration intra-nasale (complément)_Dr Benyaya.pptx",
+          "slides": 40,
+          "images_total": 51,
+          "tableaux": 7,
+          "taille_mb": 26.0
+        },
+        {
+          "nom": "VI-Barrière hémato-méningée (complément non sonorisé)_Dr Benyaya.pptx",
+          "slides": 22,
+          "images_total": 6,
+          "tableaux": 0,
+          "taille_mb": 2.0
+        },
+        {
+          "nom": "VII. Les modèles animaux. Dr Noble.pptx",
+          "slides": 27,
+          "images_total": 49,
+          "tableaux": 3,
+          "taille_mb": 188.8
+        },
+        {
+          "nom": "VIII. Pharmacologie selon le sexe Pr Thibaut.pptx",
+          "slides": 43,
+          "images_total": 50,
+          "tableaux": 10,
+          "taille_mb": 117.5
+        }
+      ]
+    },
+    {
+      "session": "SESSION_3_AGENCES_MEDICAMENT",
+      "fichiers": [
+        {
+          "nom": "Réglementation et agences Dr Benyaya.pptx",
+          "slides": 37,
+          "images_total": 37,
+          "tableaux": 0,
+          "taille_mb": 20.5
+        }
+      ]
+    },
+    {
+      "session": "SESSION_4_PHARMACOGENETIQUE",
+      "fichiers": [
+        {
+          "nom": "1-Notions de pharmacogénétique des psychotropes_Dr Ramoz.pptx",
+          "slides": 16,
+          "images_total": 46,
+          "tableaux": 0,
+          "taille_mb": 27.3
+        },
+        {
+          "nom": "2-Génétique de la psychiatrie_Dr Ramoz.pptx",
+          "slides": 18,
+          "images_total": 42,
+          "tableaux": 1,
+          "taille_mb": 35.2
+        },
+        {
+          "nom": "3- Pharmacocinétique_Dr Ramoz.pptx",
+          "slides": 21,
+          "images_total": 27,
+          "tableaux": 3,
+          "taille_mb": 28.9
+        },
+        {
+          "nom": "4-Médicaments psychotropes_Dr Ramoz.pptx",
+          "slides": 17,
+          "images_total": 22,
+          "tableaux": 0,
+          "taille_mb": 29.5
+        },
+        {
+          "nom": "5-Schizophrénie_Dr Ramoz.pptx",
+          "slides": 25,
+          "images_total": 54,
+          "tableaux": 0,
+          "taille_mb": 32.0
+        },
+        {
+          "nom": "6-TDAH-ADHD_Dr Ramoz.pptx",
+          "slides": 25,
+          "images_total": 48,
+          "tableaux": 1,
+          "taille_mb": 32.0
+        },
+        {
+          "nom": "7-Dépression 1_Dr Ramoz.pptx",
+          "slides": 20,
+          "images_total": 40,
+          "tableaux": 0,
+          "taille_mb": 29.8
+        },
+        {
+          "nom": "8-Dépression 2_Dr Ramoz.pptx",
+          "slides": 22,
+          "images_total": 56,
+          "tableaux": 0,
+          "taille_mb": 30.1
+        },
+        {
+          "nom": "9-Dépression 3_Dr Ramoz.pptx",
+          "slides": 15,
+          "images_total": 46,
+          "tableaux": 0,
+          "taille_mb": 34.2
+        }
+      ]
+    }
+  ]
+}

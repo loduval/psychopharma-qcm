@@ -1,0 +1,1800 @@
+{
+  "fichier": "V-Voie d administration intra-nasale (complément)_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 40,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Module d’autoformation e-learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Administration des médicaments à effet systémique par voie nasale:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration « exotique »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Administration des médicaments à effet systémique par voie nasale:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Assessment report  Spravato®",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "November  2019 21    EMA/614876/2019",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Committee for Medicinal Products for Human Use (CHMP)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmaceutical form: \tNasal spray, solution",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Strength: \t28 mg",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Route(s) of administration: \tNasal use",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Active substance: \tEsketamine, HCl",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "The SNAP 101 Double-Blind, Placebo/Active- Controlled,  Safety, Pharmacokinetic, and Pharmacodynamic Study of INP105 (Nasal Olanzapine) in Healthy Adults",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stephen B. Shrewsbury,  Jasna Hocevar-Trnka, Kelsey H. Satterly et al.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "J Clin Psychiatry 2020;81(4)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La voie intranasale (voie I.N.) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Courtoisie Caroline Duros,  redessiné d’après  Isabelle Guerrin, Collège L. Pasteur, Petit-Couronne",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Administration des médicaments à effet systémique par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Minirin® :  Desmopressine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Analogue structural de l’Hormone Anti-Diurétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Traitement du diabète insipide",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Administration intranasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Obtention d’une Autorisation de Mise sur le Marché en 1980",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Administration des médicaments à effet systémique par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Exemples de médicaments couramment administrés par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "en France et à l’étranger",
+          "indent": 7
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hormones peptidiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Desmopressine analogue structural de ADH  traitement du Diabète insipide (Minirin® France)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Buseréline: analogue structural du LHRH        traitement du cancer de la prostate (Suprecur® UK)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nafaréline: analogue structural du LHRH        traitement de l’endométriose (Synarel® France)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Calcitonine: calcitonine de saumon                 traitement de l’ostéopathie dystrophique disséminée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(Maladie de Paget) (intérêt voie IN discuté)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Analgésiques centraux morphiniques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fentanyl (Instanyl® USA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hydromorphone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agoniste cholinergique nicotinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nicotine (Nicotrol® USA)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Administration des médicaments à effet systémique par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Exemples de médicaments couramment administrés par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "en France et à l’étranger",
+          "indent": 7
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagoniste morphinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Naloxone: traitement des surdosages d’héroïne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antimigraineux antagonistes des récepteurs 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sumatriptan",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Zolmitriptan",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagoniste des récepteurs DA de l’area postrema",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Métoclopramide (Pramidin®;Italie) traitement des nausées et vomissements",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Exemples de médicaments psychotropes et  neurotrope  administrés par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration des médicaments à effet systémique par voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépines:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diazépam (Valtoco® USA): Traitement des états de mal épileptique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Midazolam (Nayzilam ® USA): Prémédication anesthésique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagoniste des récepteurs Glu NMDA  proposé dans le traitement des dépressions résistantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eskétamine, « spray nasal » usage unique 28 mg 2 fois par semaine( à titre indicatif)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour plus de précisions consulter ema.europa.eu  Spravato® INN Esketamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagoniste des récepteurs DA2 / 5HT2 Antipsychotique à l’étude:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Olanzapine 5mg, sous forme de poudre propulsée par un gaz fluoré",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Technique du dispositif dite :Precision Olfactory Delivery",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La voie intranasale (voie I.N.) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Justification:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypervascularisation de la muqueuse nasale,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Intéressant rapport surface / volume",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La voie intranasale (voie I.N.) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Quelques considérations anatomiques et histologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Considérations livresques d’un pharmacien",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Voie intranasale ( I.N.): Considérations anatomiques et histologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le volume total des deux fosses nasales est de 10 à 20 ml ou cm3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le squelette osseux ou cartilagineux des  fosses nasales est tapissées par une muqueuse peu adhérente",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On distingue la zone respiratoire et la zone olfactive.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La zone respiratoire ou zone pituitaire est formée d’un épithélium pseudostratifié cylindrique et cilié comportant plusieurs types de cellules de 40 à 60 microns de hauteur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comme tout épithélium, il n’est pas vascularisé. L’épithélium repose sur une membrane basale(1micron d’épaisseur) qui le sépare du tissu sous-jacent, le chorion.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On distingue dans l’épithélium:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des cellules ciliés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des cellules caliciformes contenant des granules de mucus (glandes unicellulaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des cellules avec microvillosités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des cellules basales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les cils ont une longueur de 5 à 7 microns.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les microvillosités ont une longueur de 0,3 microns.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La surface totale développée, grâce aux microvillosités, de la muqueuse respiratoire nasale est de 130 cm2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Voie intranasale ( I.N.): Considérations anatomiques et histologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le chorion est très vascularisé et nourrit par diffusion, les cellules épithéliales.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dans le chorion se trouvent des glandes séromuqueuses qui élaborent le mucus , glycoprotéine réticulée et un liquide beaucoup plus fluide qui vont  former une double couche à la surface de l’épithélium. Ces glandes sont 40 fois plus nombreuses que les cellules caliciformes.Le nombre de ces glandes est estimé à 100 000 chez l’homme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La surface totale développée, grâce aux microvillosités, de la muqueuse respiratoire nasale est de 130 cm2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La zone olfactive:10 à 20 cm2 ; épithélium pseudostratifié  avec neurones bipolaires portant les récepteurs de l’olfaction. Le passage par cet zone permet un accès au L.C.R",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après des textes des Prs J.C. Czyba et C.Girod, Faculté de Médecine de  Lyon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "et  du Dr S. Carrillo , Faculté de Médecine de Montpellier",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ugwoke M.I. et al. Journal of Pharmacy and Pharmacology,2001",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Voie intranasale ( I.N.): Considérations anatomiques et histologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* D’après un texte du Dr F. Braccini, ORL ,Nice",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*La muqueuse nasale est richement vascularisée; le sang circule dans un réseau capillaire dense, complexe et comprenant de nombreuses anastomoses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce réseau vasculaire  a pour origine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’artère carotide externe         artère sphénopalatine (branche de l’artère maxillaire)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’artère carotide interne          artère éthmoïdales (collatérale de l’artère ophtalmique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "«Toutes les données confirment la complexité des mécanismes régulant la vasomotricité nasale »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Administration des médicaments par voie intranasale (voie I.N.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’absorption des médicaments à visée systémique, par voie intranasale, va se faire par passage transcellulaire passif, facilité ou actif pour les molécules lipophiles et paracellulaire (jonctions cellulaires) pour les molécules hydrophiles.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« L’épithélium nasal est particulier en ce sens qu’il permet l’absorption systémique de molécules hydrophiles dont la masse moléculaire est élevée telles que les polypeptides* »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* P. Le Corre, La Lettre du Pharmacologue,2001",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clairance mucociliaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le mucus sécrété et recouvrant l’épithélium protège l’organe. Le mucus visqueux va « piéger » les particules  xénobiotiques polluantes et infectieuses et les éliminer par déglutition ou expectoration. Ce  drainage perpétuel est donc assuré par le mucus et par les mouvements des cils des cellules épithéliales.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Cette clairance mucociliaire antéropostérieure se fait à la vitesse de 5 mm/mn, la durée totale du transport est de 20minutes.Cette clairance conditionne la durée de présence du principe actif au contact de l’épithélium nasal et donc sa biodisponibilité (parfois inférieure à 100%) »  P. Le Corre",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Possibilités d’administrer certains principes actifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules instables selon le pH des différents étages du tractus digestif",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules peptidiques détruites par les enzymes du tractus digestif",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules fortement dégradées lors du premier passage dans la circulation porto-cave",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules très polaires, ionisées(exemple des curares, ammoniums quaternaires non absorbés par voie digestive)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécules franchissant difficilement la Barrière Hémato-Encéphalique( passage direct dans le LCR par la muqueuse olfactive)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie non invasive",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intérêt  thérapeutique en pédiatrie, prémédication anesthésique,  en analgésie, en neurologie pour le traitement de la crise de migraine et des états de mal épileptique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt de la voie I.N.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inconvénients de la voie I.N.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Irritation possible de la muqueuse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Excrétions  muqueuse abondantes vont s’opposer à l’absorption du principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Risque de sous-dosage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nécessité d’un matériel adapté permettant de délivrer les doses utiles avec précision",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rédaction de protocoles d’administration rédigés avec rigueur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Quelques articles généraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Corre P., La Lettre du Pharmacologue, 2001,15,167-174",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Jacques J.M., Louvain Médical, 2016 ,135,223-230",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ugwoke M.I., Verbeke N. , Kinget R., 2001, Journal of Pharmacy and Pharmacology,,53,3-22",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ghori M.U., Mahdi M.H. ,Smith A.M., Conway B. R., Journal of Pharmacy and Pharmacology, 2001,53,3-22",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pathak Y., Drug Development and Delivery, 2018,March 2018",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pires A., Fortuna A., Alves G., Falcão A,  J. Pharm Pharm Sci., 2009,12 ,288-311",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Biodisponibilité  absolue ou relative des principes actifs administrés par voie I.N",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biodisponibilité  absolue ou relative des principes actifs administrés par voie I.N",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Principe actif",
+              "Biodisponibilité  %"
+            ],
+            [
+              "Diazépam ( Valtoco® USA)",
+              "97"
+            ],
+            [
+              "Midazolam (Nayzilam® USA)",
+              "44"
+            ],
+            [
+              "Hydromorphone 1mg",
+              "52"
+            ],
+            [
+              "Hydromorphone 2mg",
+              "57"
+            ],
+            [
+              "Fentanyl",
+              "75"
+            ],
+            [
+              "Eskétamine",
+              "48"
+            ],
+            [
+              "Olanzapine",
+              "100"
+            ],
+            [
+              "Sumatriptan",
+              "100 (relative voie orale)"
+            ],
+            [
+              "Zolmitriptan",
+              "100"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité  absolue ou relative des principes actifs Peptidiques  administrés par voie I.N",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Nombreux essais thérapeutiques  de l’ocytocine dans le traitement des troubles du spectre de l’autisme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Résultats toujours discutés (référence diapositive suivante)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Principe actif hormonal  peptidique",
+              "Biodisponibilité  %"
+            ],
+            [
+              "Buseréline Analogue LHRH",
+              "3"
+            ],
+            [
+              "Nafaréline Analogue LHRH",
+              "1,2 à 5,6"
+            ],
+            [
+              "Calcitonine de Saumon",
+              "3 à 5"
+            ],
+            [
+              "Desmopressine Analogue ADU",
+              "3 à 4"
+            ],
+            [
+              "Ocytocine*",
+              "2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": ".",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Yamasue H., Domes G",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Oxytocin and Autism Spectrum Disorders",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Current Topics in Behavioral Neurosciences, 2018;35:449-465.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombreux essais thérapeutiques  de l’ocytocine dans",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "le traitement des troubles du spectre de l’autisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résultats toujours discutés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Principes actifs Peptidiques  administrés par voie I.N",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Utilisation en Psychiatrie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eskétamine: Traitement des états dépressifs résistants",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Olanzapine: Traitement des états psychotiques aigus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aspects Pharmacocinétiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "D’après les données de Shrewsbury S.B., Hocevar-Trnka J. et al. J. Clin. Psychiatry ,2020",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Olanzapine 10 mg",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caractéristiques pharmacocinétiques en fonction de la voie d’administration chez les volontaires sains",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "OLANZAPINE 10mg\n Voie d’administration",
+              "Intra Musculaire \n N Patients = 2",
+              "Intra Nasale \nN Patients =9",
+              "Comprimé\nDélitement buccal rapide \n \nN Patients=18"
+            ],
+            [
+              "Cmax ng/ml",
+              "73 ±12\n \nCoeff. Variation :17%",
+              "74 ± 43\n \nCoeff. Variation :40%",
+              "17 ± 7\n \nCoeff. Variation :58 %"
+            ],
+            [
+              "SSC 0-∞ ng. h /ml",
+              "470 ± 0,4\n \nCoeff. Variation :0,09%",
+              "720 ± 340\n \nCoeff. Variation : 47%",
+              "470 ± 0,4\n \nCoeff. Variation : 42%"
+            ],
+            [
+              "Tmax minutes",
+              "15±0",
+              "9±4",
+              "169 ± 104"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Olanzapine 10 mg",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evolution, en fonction du temps des taux plasmatiques chez les volontaires sains",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "minutes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ng/ml",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après les données de Shrewsbury S.B., Hocevar-Trnka J. et al. J. Clin. Psychiatry ,2020",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Food and Drug Administration:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Approbation d’une forme d’administration nasale de S-Kétamine pour le traitement des dépressions résistantes, en association à un antidépresseur donné per os",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eskétamine administrée par voie intranasale :Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biodisponibilité absolue :48 %",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biodisponibilité absolue per os : 14 %",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tmax  20 à 40 minutes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cmax 56 mg: 60 ng/ml \t\t\tCmax 84 mg: 90 ng/ml",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentration circulante moyenne 0-24h:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique linéaire en fonction des doses pour les doses 56 et 84 mg",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique linéaire en fonction du temps, pas d’accumulation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Food and Drug Administration:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Approbation d’une forme d’administration nasale de S-Kétamine pour le traitement des dépressions résistantes, en association à un antidépresseur donné per os",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eskétamine administrée par voie intranasale :Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Variabilité  inter-individuelle:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "27 à 66% pour Cmax      18 à 45 % pour SSC 0-∞",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Variabilité due à l’âge sujet >65 ans",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cmax \t\t21 à 67 %",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "SSC 0-∞ \t18 à 38 %",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Transformation en Nor-eskétamine: 78%",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comparée à la Eskétamine, elle  3 à 6 fois moins d’affinité pour les récepteurs NMDA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Forme d’administration nasale de S-Kétamine pour le traitement des dépressions résistantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Evolution  des concentrations circulantes de S-Kétamine administrée  par voie intra-nasale et par voie I.V.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Présentation faite le Laboratoire Janssen",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Utilisation en Neurologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Midazolam: traitement des états de mal épileptique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sumatriptan : traitement de la crise de migraine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aspects Pharmacocinétiques et cliniques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "dQ /dt  mg/heure",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "heures",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vitesses d’absorptions  dQ /dt en  mg/heure en fonction du temps: comparaison des voies orale et nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sumatriptan administré par voie intranasale (20mg) ou par voie  orale (25mg)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie orale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24 sujets",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Volontaires sains",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "36 ans, âge moyen",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(22 à 49 ans)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duquenoy C. , Mamet J.P. . et al, Eur.J.Pharma.Sciences , 1998",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Utilisation en Neurologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Midazolam administré par voie intranasale (IN):",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement des états de mal épileptique: Evolution de la réponse au traitement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Midazolam administré par voie intranasale (IN):",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement des états de mal épileptique: Evolution de la réponse au traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« répondeurs »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« non-répondeurs »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Minutes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etat de mal non résolu  % patients",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "42 patients état de mal épileptique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(non-convulsif=24 patients )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "53±23 ans",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Midazolam  IN  dose médiane 5mg",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étendue:2,5-15 mg",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Suivi EEG",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Kay L., Merkel N., et al .Annals Clin. Trans. Neurol.,2019",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24 patients « répondeurs »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La voie intranasale (voie I.N.) : une voie d’administration des médicaments « exotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Utilisation en  Analgésie-anesthésie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Midazolam: Prémédication pédiatrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fentanyl :Analgésie en chirurgie dentaire spécialisé: l",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aspects Pharmacocinétiques et cliniques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Malinovski J.M. et al. Anesthesia, 1995 (CHU Nantes)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt de la voie intranasale pour l’administration du Midazolam   en prémédication pédiatrique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "voie intranasale\n10 patients",
+              "voie rectale\n10 patients",
+              "voie orale\n10 patients"
+            ],
+            [
+              "Dose Midazolam \nmg/kg",
+              "0,2",
+              "0,3",
+              "0,5"
+            ],
+            [
+              "Age ans",
+              "3,2±1,2",
+              "3,2±1,2",
+              "3,2±1,2"
+            ],
+            [
+              "Poids kg",
+              "14,8±3,3",
+              "16,1±2,9",
+              "16,2±3,5"
+            ],
+            [
+              "Durée\n de l’intervention  mn",
+              "25±11",
+              "21±15",
+              "27±21"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Malinovski J.M. et al. Anesthesia, 1995 (CHU Nantes)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt de la voie intranasale pour l’administration du Midazolam   en prémédication pédiatrique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "voie intranasale\n10 patients",
+              "voie rectale\n10 patients",
+              "voie orale\n10 patients"
+            ],
+            [
+              "Dose Midazolam \nmg/kg",
+              "0,2",
+              "0,3",
+              "0,5"
+            ],
+            [
+              "Concentration circulante ng/ml\nlors de l’abord IV",
+              "146 ± 51",
+              "104 ± 34",
+              "93 ± 63"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "minutes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie rectale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie orale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie nasale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Malinovski J.M. et al. Anesthesia, 1995 (CHU Nantes)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt de la voie intranasale pour l’administration du Midazolam   en prémédication pédiatrique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Sédation 1",
+              "Enfant calme \nne pleurant plus"
+            ],
+            [
+              "Sédation 2",
+              "Enfant calme et hypotonique"
+            ],
+            [
+              "Abord IV",
+              "Abord  IV possible:\nNi résistance, ni pleurs"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Analgésie en chirurgie dentaire spécialisée: Fentanyl administré par voie nasale ou intraveineuse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "24 patients",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Age moyen: 24 ans",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essai croisé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etude pharmacocinétique:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comparaison t max  et Surface Sous la Courbe  des concentrations sériques SSC0-3h",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Christrup L.L., Foster D. et al, Clinical Therapeutic, 2008",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dose Fentanyl µg  \t75\t\t    100\t\t\t150\t\t200",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie IN",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après les données de Christrup L.L., Foster D. et al, Clinical Therapeutic, 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Analgésie en chirurgie dentaire spécialisé: Fentanyl administré par voie nasale ou intraveineuse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dose Fentanyl µg  \t         75\t\t    100\t\t\t150\t\t200",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après les données de Christrup L.L., Foster D. et al, Clinical Therapeutic, 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Analgésie en chirurgie dentaire spécialisé: Fentanyl administré par voie nasale ou intraveineuse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Analgésie en chirurgie dentaire spécialisé: Fentanyl administré par voie nasale ou intraveineuse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après les données de Christrup L.L., Foster D. et al, Clinical Therapeutic, 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie IN",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie IV",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "Analgésie début\nminutes",
+              "7",
+              "2"
+            ],
+            [
+              "Analgésie durée\nminutes",
+              "56",
+              "59"
+            ],
+            [
+              "Tmax (moyenne)\nConcentrations circulantes \nminutes",
+              "12,8",
+              "6"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}

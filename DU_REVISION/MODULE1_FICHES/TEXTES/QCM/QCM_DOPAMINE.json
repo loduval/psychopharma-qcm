@@ -1,0 +1,479 @@
+{
+  "fichier": "QCM_DOPAMINE.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DOPAMINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les somas des neurones  formant les voies dopaminergiques  sont situés  dans:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Noyau Rouge\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Tegmentum ventral du Mésencéphale \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Locus Coeruleus\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Locus Niger\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Raphé du Tronc cérébral\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Dopamine (DA)est apparentée à",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Tyramine \t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Tyrosine \t\t \t\toui    non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Phénylalanine\t\t\t \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Tryptophane\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Noradrénaline\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’activation des récepteurs DA provoque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une synthèse intra-somatique d’’AMP cyclique\t \t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une inhibition de la\t synthèse intra-somatique d’’AMP cyclique \t\toui  non\t\tUne sécrétion de Prolactine\t\t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une inhibition de la sécrétion de Prolactine\t\t\t\toui  non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DOPAMINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les somas des neurones  formant les voies dopaminergiques  sont situés  dans:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Noyau Rouge\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Tegmentum ventral du Mésencéphale \t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Locus Coeruleus\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Locus Niger\t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Raphé du Tronc cérébral\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Dopamine (DA)est apparentée à",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Tyramine \t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Tyrosine \t\t \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Phénylalanine\t\t\t \toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Tryptophane\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Noradrénaline\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’activation des récepteurs DA provoque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une synthèse intra-somatique d’’AMP cyclique*\t \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une inhibition de la\t synthèse intra-somatique d’’AMP cyclique* \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une sécrétion de Prolactine\t\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une inhibition de la sécrétion de Prolactine\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Les récepteurs D1- D5 sont positivement couplés à l'adénylate cyclase et leur stimulation active la synthèse d'AMP cyclique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les récepteurs D2- D3-D4 sont négativement couplés à l'adénylate cyclase et leur stimulation inhibe la synthèse d'AMP cyclique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La dopamine est donc véritablement un neuromodulateur la différenciant de l'effet univoque  des neurotransmetteurs qui sont soit inhibiteurs soit  activateurs. C'est l'équilibre subtil des stimulations des différents récepteurs,plus ou moins exprimés dans les différentes régions du parenchyme cérébral, qui va moduler la réponse cellulaire finale.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DOPAMINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’hypothèse dopaminergique de la schizophrénie repose sur:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les effets des amphétamines qui aggravent les signes et les symptômes   \t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les effets antagonistes des récepteurs DA  exercés par les neuroleptiques\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La découvert des psychoses amphétaminiques \t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les effets hallucinogènes du LSD\t\t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’hypothèse dopaminergique de la schizophrénie stipule:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie centrale globale\t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hypodopaminergie centrale  globale  \t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie  corticale et une Hypodopaminergie sous corticale \t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie  sous -corticale et une Hypodopaminergie sous corticale \toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les substances suivantes augmentent le taux de DA extracellulaire dans le Striatum ventral de l’animal d’expérience",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alcool\t\t\t\t\t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "LSD\t\t\t\t  \t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nicotine\t\t\t\t\t\t\t \t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phénobarbital\t\t\t\t\t\t\t \toui  non\t\tCocaïne\t\t\t\t\t\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Scopolamine\t\t\t\t\t\t\t\toui  non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DOPAMINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’hypothèse dopaminergique de la schizophrénie repose sur:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les effets des amphétamines qui aggravent les signes et les symptômes   \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les effets antagonistes des récepteurs DA  exercés par les neuroleptiques\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La découvert des psychoses amphétaminiques \t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les effets hallucinogènes du LSD\t\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’hypothèse dopaminergique  actuelle de la schizophrénie stipule:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie centrale globale\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hypodopaminergie centrale  globale  \t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie  corticale et une Hypodopaminergie sous corticale \t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une Hyperdopaminergie  sous -corticale et une Hypodopaminergie corticale \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les substances suivantes augmentent le taux de DA extracellulaire dans le Striatum ventral de l’animal d’expérience",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alcool\t\t\t\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "LSD\t\t\t\t  \t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nicotine\t\t\t\t\t\t\t \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phénobarbital\t\t\t\t\t\t\t \tnon\t\tCocaïne\t\t\t\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Scopolamine\t\t\t\t\t\t\t\tnon",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

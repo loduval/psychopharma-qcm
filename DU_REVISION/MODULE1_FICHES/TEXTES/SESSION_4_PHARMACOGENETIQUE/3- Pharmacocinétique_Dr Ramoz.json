@@ -1,0 +1,853 @@
+{
+  "fichier": "3- Pharmacocinétique_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 21,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 3 Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dr nicolas ramoz, phd, inserm",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 3 Ramoz - Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à la pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métabolisme par acétylation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les cytochromes P450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le cas du CYP2D6",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les conséquences des variants métaboliseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à la pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Gènes impliqués en pharmacogénétique des psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Impact de la pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les facteurs pharmacocinétiques vont déterminer la qualité de la réponse aux psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Des variants génétiques des enzymes intervenant dans les phases 1 à 4 (absorption, métabolisme, distribution et élimination) peuvent réduire ou augmenter le métabolisme des psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Et en conséquence être à l’origine d’une mauvaise réponse et/ou d’une tolérance plus/moins bonne à un médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métabolisme par acétylation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "N-acétyl-transférase (NAT1 et NAT2)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "55000 bases, 7 exons",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Promoteur  1                       2 3 4  5  6 7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acétylation métabolique, de plusieurs voies métaboliques médicamenteuses comme l’isoniazide ou les sulfamides mais aussi plusieurs psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Variants génétiques : acétyleurs lents et dominants pour les acétyleurs rapides",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétyleurs lents : 50% chez Caucasiens mais 85% chez Japonais/Esquimaux et <20% chez Égyptiens/Israéliennes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les cytochromes P450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Le cytochrome P450 (CYP450)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hémoprotéines (protéines avec une molécule d'hème comme cofacteur)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Interviennent dans les réactions d'oxydoréduction de nombreuses molécules petites ou grosses",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agissent sur les substrats naturels du métabolisme endogène ou de xénobiotiques (polluants, toxines, drogues, médicaments, etc...)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Le cytochrome P450 (CYP450)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7000 bases, 9 exons",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Promoteur  1  2 3 4  5  6 7  8      9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "90% du métabolisme oxydatif des médicaments",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "14 familles (dont CYP1, CYP2, CYP3 et CYP4)",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "20 sous-familles (CYP1A, CYP2D, etc…)",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "6 isoenzymes (CYP3A4, CYP2D6, etc...)",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Chaque type de cytochrome P450 a une fonction différente",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP2C9 : biotransformation de la plupart des anti-inflammatoires non stéroïdiens (AINS), des antidiabétiques oraux, des anticoagulants oraux (acénocoumarol, warfarine), de la phénytoïne (anticonvulsant) et d'antihypertenseurs (losartan).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CYP2D6 : biotransformation de la codéine en morphine, de certains antiarythmiques et antidépresseurs, des bêta-bloquants et de neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP1A2 : biotransformation de la caféine et de la théophylline, de l'imipramine et du paracétamol.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP3A4 : biotransformation de la plupart des médicaments, par exemple de la codéine en norcodéine, ce qui l'inactive.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CYP2C19 : biotransformation du clopidogrel, du diazépam, de l'imipramine, du propranolol ou de l'oméprazole.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP11A1 : hydrolyse du cholestérol en prégnénolone. Aussi appelé CYP450scc ou P450scc (scc pour side-chain cleavage) ou enzyme de clivage de la chaîne latérale du cholestérol (cholesterol side-chain cleavage enzyme).",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP17A1 : hydroxylation de la prégnénolone en 17-hydroxyprégnénolone et de la progestérone, en 17-hydroxyprogestérone. Il permet aussi d'hydroxyler le corticostérone en cortisol, c'est une enzyme importante dans la stéroïdogénèse. Aussi appelée 17α-hydroxylase.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Principales familles des Cytochromes humains",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "P450",
+              "Familles",
+              "Isozymes",
+              "Fonctions"
+            ],
+            [
+              "CYP1",
+              "1",
+              "2",
+              "Xénobiotique et stéroïdes"
+            ],
+            [
+              "CYP2",
+              "6",
+              "12",
+              "Xénobiotiques"
+            ],
+            [
+              "CYP3",
+              "1",
+              "4",
+              "Xénobiotique et stéroïdes"
+            ],
+            [
+              "CYP4",
+              "1",
+              "1",
+              "Acides gras"
+            ],
+            [
+              "CYP7",
+              "1",
+              "1",
+              "Cholesterol"
+            ],
+            [
+              "CYP11",
+              "2",
+              "3",
+              "Stéroïdes"
+            ],
+            [
+              "CYP17",
+              "1",
+              "1",
+              "Stéroïdes"
+            ],
+            [
+              "CYP19",
+              "1",
+              "1",
+              "Aromatase"
+            ],
+            [
+              "CYP21",
+              "1",
+              "1",
+              "Stéroïdes"
+            ],
+            [
+              "CYP27",
+              "1",
+              "1",
+              "Cholestérol"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "CYP450 et médicaments métabolisés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Caractéristiques de CYP450 des psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "IMI:imipramine (antidépresseur tricyclique); IRS:inhibiteur de recapture de la sérotonine, NL: neuroleptiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "P450",
+              "Organes",
+              "Chromosome",
+              "Polymorphismes",
+              "Stimulable",
+              "Substrats"
+            ],
+            [
+              "CYP1A1",
+              "Plusieurs",
+              "15",
+              "Non",
+              "Oui",
+              ""
+            ],
+            [
+              "CYP1A2",
+              "Foie",
+              "15",
+              "Oui",
+              "Oui",
+              "IMI, caféine, NL"
+            ],
+            [
+              "CYP2C8",
+              "Foie, intestin",
+              "10",
+              "?",
+              "Non",
+              ""
+            ],
+            [
+              "CYP2C9",
+              "Foie, intestin",
+              "10",
+              "?",
+              "Non",
+              ""
+            ],
+            [
+              "CYP2C19",
+              "Foie",
+              "10",
+              "Oui",
+              "Non",
+              "Diazepam, IMI"
+            ],
+            [
+              "CYP2D6",
+              "Foie, intestin, reins, cerveau",
+              "22",
+              "Oui",
+              "Non",
+              "IMI, IRS, NL, opiacés"
+            ],
+            [
+              "CYP2E1",
+              "Foie, intestin, leukocytes",
+              "10",
+              "?",
+              "Oui",
+              "Alcool"
+            ],
+            [
+              "CYP3A3",
+              "Foie",
+              "7",
+              "?",
+              "Oui",
+              "Carbamazépine"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le cas du CYP2D6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Différents métaboliseurs : le cas CYP2D6",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métaboliseurs ultra-rapides/ultrarapid metabolizers",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métaboliseurs rapides/rapid metabolizers",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métaboliseurs lents/poor metabolizers",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Populations",
+              "% de métaboliseurs lents",
+              "Nombre de sujets"
+            ],
+            [
+              "Indonésiens",
+              "0,0%",
+              "104"
+            ],
+            [
+              "Asiatiques de l’Est",
+              "0,9%",
+              "453"
+            ],
+            [
+              "Egyptiens",
+              "1,4%",
+              "72"
+            ],
+            [
+              "Turques",
+              "3,4%",
+              "326"
+            ],
+            [
+              "Caucasiens",
+              "6,7%",
+              "4669"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les conséquences des variants métaboliseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Impact des métaboliseurs du CYP2D6 sur la réponse au traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métaboliseurs rapides",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Risque d’inefficacité (apparente), sauf si métabolites actifs",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métaboliseurs lents",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentration plasmatique plus élevée",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus d’effets indésirables",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sédation (apaisement mais parfois perte de la conscience)",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "DT (délirium tremens: forte agitation, tremblements, troubles de la conscience)",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "etc…",
+          "indent": 2
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Et des effets environnementaux peuvent aussi être prévalant !",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Stimulation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(tabac chez les sujets",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "schizophrènes par ex)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tabac",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hydrocarbones aromatiques",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CYP1A2",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Inhibition",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Compétitive (car très peu de sélectivité)",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "TCA & NL, …",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mais aussi alimentation… et donc culture",
+          "indent": 2
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Autocatalytique",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Baisse de la transcription",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

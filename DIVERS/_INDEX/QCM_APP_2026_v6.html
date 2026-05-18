@@ -1,0 +1,1690 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<!-- DARK-MODE-FORCED-2026-05-17 -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QCM Psychopharmacologie — v6</title>
+<style>
+:root {
+  /* === DARK MODE FORCÉ (aligné palette fiches sessions style GitHub dark) === */
+  /* Indigo/violet : conservés pour personnalité v6, légèrement éclaircis sur dark */
+  --primary-50:  #1e1e4a;
+  --primary-100: #2a2a6e;
+  --primary-300: #818cf8;
+  --primary-500: #818cf8;
+  --primary-600: #6366f1;
+  --primary-700: #4f46e5;
+  --primary-900: #312e81;
+  --accent-500:  #a78bfa;
+  --accent-600:  #8b5cf6;
+
+  /* Feedback : palette GitHub dark (saturée pour dark bg) */
+  --success:       #3fb950;
+  --success-light: rgba(63, 185, 80, 0.16);
+  --success-dark:  #56d364;
+  --warning:       #d29922;
+  --warning-light: rgba(210, 153, 34, 0.16);
+  --warning-dark:  #e3b341;
+  --error:         #f85149;
+  --error-light:   rgba(248, 81, 73, 0.16);
+  --error-dark:    #ff7b72;
+  --info:          #58a6ff;
+  --info-light:    rgba(88, 166, 255, 0.16);
+
+  /* Neutres : alignés sur les fiches (GitHub dark) */
+  --bg:           #0d1117;
+  --bg-elevated:  #161b22;
+  --card:         #1c2333;
+  --card-hover:   #22263a;
+  --text:         #e6edf3;
+  --text-muted:   #8b949e;
+  --text-subtle:  #6e7681;
+  --border:       #30363d;
+  --border-strong:#484f58;
+  --neutral-50:   #161b22;
+  --neutral-100:  #1c2333;
+
+  /* Ombres adaptées au dark (plus marquées) */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow:    0 4px 12px rgba(0, 0, 0, 0.5), 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
+  --shadow-primary: 0 8px 20px rgba(99, 102, 241, 0.45);
+
+  --radius-sm: 6px;
+  --radius:    10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+
+  --sidebar-width: 280px;
+}
+
+
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* ═════ LAYOUT ═════ */
+.app-shell {
+  display: grid;
+  grid-template-columns: var(--sidebar-width) 1fr;
+  min-height: 100vh;
+}
+
+/* ═════ SIDEBAR ═════ */
+.sidebar {
+  background: linear-gradient(180deg, var(--bg-elevated) 0%, var(--neutral-50) 100%);
+  border-right: 1px solid var(--border);
+  padding: 28px 18px;
+  position: sticky; top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  display: flex; flex-direction: column;
+}
+.sidebar-brand {
+  display: flex; align-items: center; gap: 10px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+.brand-icon {
+  width: 38px; height: 38px; border-radius: 10px;
+  background: linear-gradient(135deg, var(--primary-600), var(--accent-600));
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-size: 1.1rem; font-weight: 700;
+  box-shadow: var(--shadow-primary);
+}
+.brand-text h2 { font-size: 0.95rem; font-weight: 700; color: var(--text); }
+.brand-text p  { font-size: 0.7rem; color: var(--text-muted); }
+
+.sidebar-section-title {
+  font-size: 0.65rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .14em; color: var(--text-subtle);
+  margin: 8px 4px 10px;
+}
+.sidebar-section-title .count {
+  background: var(--primary-100); color: var(--primary-700);
+  padding: 1px 7px; border-radius: 999px; font-size: 0.6rem;
+  margin-left: 6px;
+}
+
+.synth-list {
+  display: flex; flex-direction: column; gap: 4px;
+  margin-bottom: 24px;
+}
+.synth-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 10px; border-radius: var(--radius-sm);
+  text-decoration: none; color: var(--text);
+  transition: background .15s, transform .15s;
+  border: 1px solid transparent;
+}
+.synth-item:hover {
+  background: var(--primary-50);
+  border-color: var(--primary-100);
+  transform: translateX(2px);
+}
+.synth-badge-mini {
+  background: linear-gradient(135deg, var(--primary-500), var(--accent-500));
+  color: white; font-size: 9px; font-weight: 800;
+  padding: 3px 6px; border-radius: 5px; min-width: 32px; text-align: center;
+  letter-spacing: .04em; flex-shrink: 0;
+}
+.synth-label { font-size: 0.78rem; font-weight: 500; }
+.synth-arrow { margin-left: auto; color: var(--text-subtle); font-size: 0.7rem; opacity: 0; transition: opacity .15s; }
+.synth-item:hover .synth-arrow { opacity: 1; }
+
+.sidebar-footer {
+  margin-top: auto; padding-top: 16px;
+  border-top: 1px solid var(--border);
+  font-size: 0.7rem; color: var(--text-muted);
+  line-height: 1.5;
+}
+.sidebar-footer strong { color: var(--text); }
+
+/* Mobile : sidebar devient off-canvas */
+.sidebar-toggle {
+  display: none;
+  position: fixed; top: 14px; left: 14px; z-index: 50;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 8px; width: 40px; height: 40px;
+  font-size: 1.2rem; cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.sidebar-backdrop {
+  display: none;
+  position: fixed; inset: 0; background: rgba(0,0,0,.4);
+  z-index: 40; opacity: 0; transition: opacity .2s;
+}
+.sidebar-backdrop.open { display: block; opacity: 1; }
+
+@media (max-width: 900px) {
+  .app-shell { grid-template-columns: 1fr; }
+  .sidebar {
+    position: fixed; top: 0; left: 0;
+    transform: translateX(-100%);
+    transition: transform .25s ease;
+    z-index: 45; width: 280px;
+  }
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-toggle { display: flex; align-items: center; justify-content: center; }
+  .main { padding-top: 64px; }
+}
+
+/* ═════ MAIN ═════ */
+.main {
+  padding: 28px 32px 60px;
+  max-width: 1100px; width: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 600px) { .main { padding: 64px 16px 40px; } }
+
+/* ═════ HEADER ═════ */
+.page-header {
+  display: flex; align-items: flex-start; justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.page-header h1 {
+  font-size: 1.4rem; font-weight: 700;
+  background: linear-gradient(135deg, var(--primary-700), var(--accent-600));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 2px;
+}
+.page-header p { font-size: 0.85rem; color: var(--text-muted); }
+.version-pill {
+  padding: 4px 10px; background: var(--primary-50); color: var(--primary-700);
+  border-radius: 999px; font-size: 0.7rem; font-weight: 700; letter-spacing: .04em;
+  border: 1px solid var(--primary-100); white-space: nowrap;
+}
+
+/* ═════ STATS TUILES ═════ */
+.stats-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;
+  margin-bottom: 24px;
+}
+@media (max-width: 600px) { .stats-grid { grid-template-columns: repeat(2, 1fr); } }
+.stat-tile {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 14px 14px;
+  display: flex; flex-direction: column; gap: 4px;
+  transition: transform .15s, box-shadow .15s, border-color .15s;
+  position: relative; overflow: hidden;
+}
+.stat-tile::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  background: var(--accent-gradient, linear-gradient(90deg, var(--primary-500), var(--accent-500)));
+  opacity: .9;
+}
+.stat-tile:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+.stat-icon { font-size: 1.1rem; opacity: .85; }
+.stat-value { font-size: 1.6rem; font-weight: 700; color: var(--primary-700); line-height: 1.1; }
+.stat-label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: .07em; font-weight: 600; }
+.stat-tile.tile-score::before { background: linear-gradient(90deg, var(--success), #34d399); }
+.stat-tile.tile-streak::before { background: linear-gradient(90deg, var(--warning), #fbbf24); }
+.stat-tile.tile-cumul::before { background: linear-gradient(90deg, var(--info), #22d3ee); }
+
+
+/* ═════ FILTRES ═════ */
+.section-block { margin-bottom: 22px; }
+.section-title {
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .12em; color: var(--text-muted);
+  margin-bottom: 10px; display: flex; align-items: center; gap: 8px;
+}
+.section-title-line { flex: 1; height: 1px; background: var(--border); }
+
+.card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); padding: 20px;
+  box-shadow: var(--shadow-sm);
+}
+
+.filters-grid {
+  display: grid; gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  margin-bottom: 14px;
+}
+.filter-group { display: flex; flex-direction: column; gap: 5px; }
+.filter-group label { font-size: 0.72rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: .06em; }
+select, input[type=number], button {
+  font-family: inherit; font-size: 0.875rem;
+  padding: 10px 12px; border: 1px solid var(--border);
+  border-radius: var(--radius-sm); background: var(--card); color: var(--text);
+  cursor: pointer; transition: border-color .15s, box-shadow .15s, background .15s;
+}
+select:hover, button:hover:not(:disabled), input[type=number]:hover { border-color: var(--primary-300); }
+select:focus, button:focus, input[type=number]:focus {
+  outline: none; border-color: var(--primary-500);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.18);
+}
+
+.toggles { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+.toggle {
+  display: flex; align-items: flex-start; gap: 10px;
+  font-size: 0.85rem; cursor: pointer; user-select: none;
+  padding: 8px 4px;
+}
+.toggle input { width: 18px; height: 18px; cursor: pointer; accent-color: var(--primary-500); margin-top: 2px; }
+.toggle-text { line-height: 1.45; }
+.toggle-text small { display: block; font-size: 0.72rem; color: var(--text-muted); margin-top: 1px; }
+
+.mode-radios {
+  display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap;
+  background: var(--neutral-100); padding: 6px; border-radius: var(--radius-sm);
+}
+.mode-radios label {
+  flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px;
+  cursor: pointer; font-size: 0.85rem; padding: 8px 12px;
+  border-radius: 6px; transition: background .15s, color .15s;
+}
+.mode-radios label:has(input:checked) {
+  background: var(--card); color: var(--primary-700); font-weight: 600;
+  box-shadow: var(--shadow-sm);
+}
+.mode-radios input { width: 14px; height: 14px; accent-color: var(--primary-500); }
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary-600), var(--accent-600));
+  color: white; border-color: transparent; font-weight: 600; font-size: 0.92rem;
+  padding: 12px 20px;
+  box-shadow: var(--shadow-primary);
+}
+.btn-primary:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px rgba(99, 102, 241, 0.28);
+}
+.btn-primary:disabled { background: var(--border-strong); color: white; cursor: not-allowed; box-shadow: none; }
+.btn-warning {
+  background: linear-gradient(135deg, var(--warning), #fb923c);
+  color: white; border-color: transparent; font-weight: 600;
+  box-shadow: 0 6px 16px rgba(245, 158, 11, 0.22);
+}
+.btn-warning:hover:not(:disabled) { transform: translateY(-1px); }
+.btn-secondary {
+  background: var(--neutral-100); color: var(--text); border-color: var(--border);
+}
+.btn-secondary:hover:not(:disabled) { background: var(--neutral-50); }
+.btn-ghost {
+  background: transparent; color: var(--text-muted); border-color: var(--border);
+}
+.btn-block { width: 100%; }
+
+/* ═════ QUIZ ═════ */
+.quiz-card { padding: 0; overflow: hidden; }
+.progress {
+  height: 5px; background: var(--neutral-100);
+  position: sticky; top: 0; z-index: 5;
+}
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary-500), var(--accent-500));
+  transition: width .35s ease;
+  border-radius: 0 3px 3px 0;
+}
+.question-content { padding: 24px 26px 22px; }
+.question-meta {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 14px; font-size: 0.75rem;
+  flex-wrap: wrap; gap: 8px;
+}
+.question-number {
+  font-weight: 700; color: var(--primary-700);
+  background: var(--primary-50); padding: 4px 10px; border-radius: 999px;
+  font-size: 0.72rem; letter-spacing: .03em;
+}
+.question-source-info {
+  font-size: 0.7rem; color: var(--text-muted);
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+}
+.meta-pill {
+  background: var(--neutral-100); padding: 3px 8px; border-radius: 4px;
+  font-size: 0.68rem; font-weight: 500;
+}
+.meta-pill code { font-family: 'SF Mono', Menlo, monospace; font-size: 0.65rem; }
+
+.badge-flag {
+  display: inline-flex; align-items: center; gap: 4px;
+  background: var(--warning-light); color: var(--warning-dark);
+  padding: 3px 9px; border-radius: 999px; font-size: 0.7rem; font-weight: 700;
+  cursor: help; position: relative; border: 1px solid var(--warning);
+}
+.badge-flag:hover .tooltip-flag,
+.badge-flag:focus-within .tooltip-flag { display: block; }
+.tooltip-flag {
+  display: none; position: absolute; top: calc(100% + 6px); right: 0;
+  background: var(--text); color: var(--bg-elevated); padding: 10px 14px;
+  border-radius: var(--radius-sm); font-size: 0.75rem; line-height: 1.5;
+  width: 320px; max-width: 90vw; z-index: 100;
+  font-weight: 400; text-align: left;
+  box-shadow: var(--shadow-lg);
+}
+
+.question-text {
+  font-size: 1.08rem; font-weight: 500; margin-bottom: 6px; line-height: 1.55;
+  color: var(--text);
+}
+.question-consigne {
+  font-size: 0.82rem; color: var(--text-muted);
+  font-style: italic; margin-bottom: 18px;
+}
+.pending-warning {
+  background: var(--warning-light); color: var(--warning-dark);
+  border: 1px solid var(--warning); border-radius: var(--radius);
+  padding: 14px 16px; margin-bottom: 16px; font-size: 0.85rem;
+  display: flex; align-items: flex-start; gap: 10px;
+  line-height: 1.5;
+}
+.pending-warning::before { content: '⚠️'; font-size: 1rem; flex-shrink: 0; }
+
+/* ═════ PROPOSITIONS ═════ */
+.propositions { list-style: none; }
+.proposition {
+  padding: 13px 16px; margin-bottom: 8px;
+  border: 1.5px solid var(--border); border-radius: var(--radius);
+  display: flex; align-items: flex-start; gap: 14px;
+  transition: all .15s; cursor: pointer;
+  min-height: 48px;
+  background: var(--card);
+}
+.proposition:hover:not(.disabled) {
+  border-color: var(--primary-300); background: var(--primary-50);
+}
+.proposition.disabled { cursor: default; }
+.proposition input[type=checkbox] {
+  width: 22px; height: 22px; cursor: pointer; flex-shrink: 0;
+  margin-top: 2px; accent-color: var(--primary-600);
+}
+.proposition.disabled input[type=checkbox] { cursor: default; }
+.prop-marker {
+  min-width: 30px; height: 30px;
+  border-radius: 50%; border: 2px solid var(--border-strong);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.78rem; font-weight: 700; color: var(--text-muted);
+  flex-shrink: 0; transition: all .15s;
+  background: var(--card);
+}
+.proposition:hover:not(.disabled) .prop-marker { border-color: var(--primary-500); color: var(--primary-700); }
+.prop-text { flex: 1; font-size: 0.92rem; line-height: 1.55; color: var(--text); }
+.prop-badge {
+  font-size: 0.68rem; font-weight: 700; padding: 4px 9px;
+  border-radius: 999px; align-self: center; white-space: nowrap;
+  letter-spacing: .02em;
+}
+
+/* Feedback granulaire */
+.proposition.f-exact { background: var(--success-light); border-color: var(--success); }
+.proposition.f-exact .prop-marker { background: var(--success); border-color: var(--success); color: white; }
+.proposition.f-exact .prop-badge { background: var(--success); color: white; }
+.proposition.f-incorrect { background: var(--error-light); border-color: var(--error); }
+.proposition.f-incorrect .prop-marker { background: var(--error); border-color: var(--error); color: white; }
+.proposition.f-incorrect .prop-badge { background: var(--error); color: white; }
+.proposition.f-missed { background: var(--warning-light); border-color: var(--warning); }
+.proposition.f-missed .prop-marker { background: var(--warning); border-color: var(--warning); color: white; }
+.proposition.f-missed .prop-badge { background: var(--warning); color: white; }
+
+
+/* Feedback global */
+.feedback {
+  padding: 14px 18px; margin-top: 18px;
+  border-radius: var(--radius); font-size: 0.92rem;
+  display: flex; align-items: center; gap: 14px;
+  border: 1.5px solid transparent;
+  animation: feedbackSlide .3s ease;
+}
+@keyframes feedbackSlide {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.feedback.exact     { background: var(--success-light); color: var(--success-dark); border-color: var(--success); }
+.feedback.partiel   { background: var(--warning-light); color: var(--warning-dark); border-color: var(--warning); }
+.feedback.incorrect { background: var(--error-light);   color: var(--error-dark);   border-color: var(--error); }
+.feedback-icon { font-size: 1.5rem; flex-shrink: 0; }
+.feedback-details { flex: 1; }
+.feedback-details strong { display: block; font-weight: 700; font-size: 0.95rem; margin-bottom: 2px; }
+.feedback-pts { font-size: 0.78rem; opacity: 0.9; }
+
+/* ═════ NAVIGATION ═════ */
+.nav-buttons {
+  display: flex; justify-content: space-between; align-items: center; gap: 10px;
+  padding: 14px 26px; background: var(--neutral-50);
+  border-top: 1px solid var(--border);
+}
+.nav-buttons .nav-spacer { flex: 1; }
+
+/* ═════ RÉSULTATS ═════ */
+.results-wrap {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.results-hero {
+  background: linear-gradient(135deg, var(--primary-50), var(--primary-100));
+  padding: 32px 26px 26px; text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+.results-hero h2 {
+  font-size: 0.85rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .12em; color: var(--primary-700);
+  margin-bottom: 14px;
+}
+.score-main {
+  display: flex; align-items: center; justify-content: center; gap: 36px;
+  flex-wrap: wrap;
+}
+.score-circle {
+  position: relative; width: 140px; height: 140px;
+  display: flex; align-items: center; justify-content: center;
+}
+.score-circle svg { transform: rotate(-90deg); }
+.score-circle .score-track { fill: none; stroke: rgba(99,102,241,.15); stroke-width: 12; }
+.score-circle .score-progress {
+  fill: none; stroke: var(--primary-600);
+  stroke-width: 12; stroke-linecap: round;
+  transition: stroke-dasharray .8s ease;
+}
+.score-circle.good .score-progress    { stroke: var(--success); }
+.score-circle.medium .score-progress  { stroke: var(--warning); }
+.score-circle.bad .score-progress     { stroke: var(--error); }
+.score-circle-center {
+  position: absolute; display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+}
+.score-pct {
+  font-size: 1.7rem; font-weight: 800; line-height: 1; color: var(--text);
+}
+.score-pct-unit { font-size: 0.9rem; color: var(--text-muted); }
+
+.score-note-box {
+  display: flex; flex-direction: column; align-items: center; gap: 4px;
+}
+.score-note-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: .1em; color: var(--text-muted); font-weight: 700; }
+.score-note-value {
+  font-size: 2.6rem; font-weight: 800; line-height: 1;
+  background: linear-gradient(135deg, var(--primary-600), var(--accent-600));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.score-note-max { font-size: 1.2rem; color: var(--text-muted); }
+.score-note-comment {
+  font-size: 0.78rem; padding: 3px 10px; border-radius: 999px;
+  margin-top: 4px; font-weight: 600;
+}
+.score-note-comment.good   { background: var(--success-light); color: var(--success-dark); }
+.score-note-comment.medium { background: var(--warning-light); color: var(--warning-dark); }
+.score-note-comment.bad    { background: var(--error-light);   color: var(--error-dark); }
+
+.results-summary {
+  margin: 18px auto 0; max-width: 480px;
+  font-size: 0.85rem; color: var(--text-muted); line-height: 1.55;
+}
+
+/* breakdown 4 catégories */
+.score-breakdown {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+  margin: 20px 26px;
+}
+@media (max-width: 600px) { .score-breakdown { grid-template-columns: repeat(2, 1fr); } }
+.bk-tile {
+  background: var(--neutral-50); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 14px 10px;
+  display: flex; flex-direction: column; gap: 4px; align-items: center;
+}
+.bk-value { font-size: 1.5rem; font-weight: 800; line-height: 1; }
+.bk-value.good     { color: var(--success); }
+.bk-value.partial  { color: var(--warning); }
+.bk-value.bad      { color: var(--error); }
+.bk-value.skip     { color: var(--text-subtle); }
+.bk-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); font-weight: 600; }
+
+/* À revoir — regroupement par module */
+.results-review { padding: 0 26px 22px; }
+.results-review h3 {
+  font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .1em; color: var(--text-muted);
+  margin-bottom: 12px; display: flex; align-items: center; gap: 8px;
+}
+.results-review h3 .badge-count {
+  background: var(--error-light); color: var(--error-dark);
+  padding: 1px 7px; border-radius: 999px; font-size: 0.7rem; font-weight: 700;
+}
+.module-group {
+  margin-bottom: 14px; border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden;
+  background: var(--card);
+}
+.module-group-header {
+  display: flex; align-items: center; gap: 12px;
+  padding: 12px 14px;
+  background: linear-gradient(90deg, var(--neutral-50), var(--neutral-100));
+  border-bottom: 1px solid var(--border);
+}
+.module-group-badge {
+  background: linear-gradient(135deg, var(--primary-500), var(--accent-500));
+  color: white; font-size: 0.7rem; font-weight: 800;
+  padding: 4px 9px; border-radius: 5px; letter-spacing: .04em;
+}
+.module-group-title { font-size: 0.85rem; font-weight: 600; flex: 1; }
+.module-group-count {
+  font-size: 0.75rem; color: var(--text-muted);
+  background: var(--card); padding: 2px 9px; border-radius: 999px;
+  border: 1px solid var(--border); font-weight: 600;
+}
+.module-group-link {
+  font-size: 0.72rem; color: var(--primary-700); font-weight: 600;
+  text-decoration: none; padding: 5px 11px;
+  background: var(--primary-50); border-radius: 999px;
+  border: 1px solid var(--primary-100);
+  transition: all .15s;
+}
+.module-group-link:hover { background: var(--primary-100); transform: translateY(-1px); }
+.missed-item-v6 {
+  padding: 10px 14px; display: flex; align-items: center; gap: 10px;
+  font-size: 0.82rem; border-bottom: 1px solid var(--border);
+}
+.missed-item-v6:last-child { border-bottom: none; }
+.missed-item-v6 .qid {
+  background: var(--neutral-100); padding: 2px 7px; border-radius: 4px;
+  font-family: 'SF Mono', Menlo, monospace; font-size: 0.7rem;
+  color: var(--text-muted); flex-shrink: 0;
+}
+.missed-item-v6 .qtext { flex: 1; color: var(--text); }
+.missed-item-v6 .qstatus {
+  font-size: 0.7rem; font-weight: 700; padding: 3px 8px; border-radius: 4px;
+}
+.missed-item-v6 .qstatus.partial { background: var(--warning-light); color: var(--warning-dark); }
+.missed-item-v6 .qstatus.bad     { background: var(--error-light);   color: var(--error-dark); }
+.missed-item-v6 .qstatus.skip    { background: var(--neutral-100); color: var(--text-muted); }
+.missed-item-v6 button {
+  background: transparent; border: 1px solid var(--border);
+  padding: 5px 11px; border-radius: 6px;
+  font-size: 0.72rem; cursor: pointer;
+}
+.missed-item-v6 button:hover { border-color: var(--primary-500); color: var(--primary-700); }
+
+.results-no-missed {
+  text-align: center; padding: 30px 20px;
+  font-size: 0.95rem; color: var(--success-dark); font-weight: 600;
+  background: var(--success-light); border-radius: var(--radius);
+  border: 1px solid var(--success);
+}
+
+.results-actions {
+  display: flex; gap: 10px; justify-content: center;
+  flex-wrap: wrap;
+  padding: 18px 26px 26px;
+  background: var(--neutral-50); border-top: 1px solid var(--border);
+}
+
+footer.app-footer {
+  margin-top: 30px; padding: 18px 0;
+  text-align: center; font-size: 0.72rem; color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}
+footer.app-footer button { font-size: 0.72rem; padding: 6px 12px; margin-top: 6px; }
+
+.hidden { display: none !important; }
+
+/* Animation entrée question */
+.quiz-card.entering { animation: cardSlide .25s ease; }
+@keyframes cardSlide {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+
+<button class="sidebar-toggle" id="sidebar-toggle" aria-label="Menu">☰</button>
+<div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+<div class="app-shell">
+
+  <!-- ═════ SIDEBAR ═════ -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">Ψ</div>
+      <div class="brand-text">
+        <h2>Psychopharma</h2>
+        <p>DU 2025-2026</p>
+      </div>
+    </div>
+
+    <div class="sidebar-section-title">
+      📚 Synthèses <span class="count">11</span>
+    </div>
+    <nav class="synth-list">
+      <a class="synth-item" href="SYNTHESES_v6.html#module-1">
+        <span class="synth-badge-mini">M01</span>
+        <span class="synth-label">Généralités</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-2">
+        <span class="synth-badge-mini">M02</span>
+        <span class="synth-label">Pop. spécifiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-3">
+        <span class="synth-badge-mini">M03</span>
+        <span class="synth-label">BZD & Anxiolytiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-4">
+        <span class="synth-badge-mini">M04</span>
+        <span class="synth-label">Hypnotiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-5">
+        <span class="synth-badge-mini">M05</span>
+        <span class="synth-label">ATD & Thymorég.</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-6">
+        <span class="synth-badge-mini">M06</span>
+        <span class="synth-label">Antipsychotiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-7">
+        <span class="synth-badge-mini">M07</span>
+        <span class="synth-label">Addictions</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-8">
+        <span class="synth-badge-mini">M08</span>
+        <span class="synth-label">Troubles sexuels</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-9">
+        <span class="synth-badge-mini">M09</span>
+        <span class="synth-label">Hors AMM</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-10">
+        <span class="synth-badge-mini">M10</span>
+        <span class="synth-label">Psychostimulants</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="SYNTHESES_v6.html#module-11">
+        <span class="synth-badge-mini">M11</span>
+        <span class="synth-label">Effets indésirables</span>
+        <span class="synth-arrow">→</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <strong>Sources vérifiées</strong><br>
+      ANSM · HAS · Manuel MSD<br><br>
+      <span id="sidebar-exam-info">Examen — chargement…</span>
+    </div>
+  </aside>
+
+  <!-- ═════ MAIN ═════ -->
+  <main class="main">
+
+    <div class="page-header">
+      <div>
+        <h1>QCM Psychopharmacologie</h1>
+        <p>DU 2025-2026 · Université Paris Cité</p>
+      </div>
+      <span class="version-pill">v6 — Multi-select</span>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-grid">
+      <div class="stat-tile">
+        <span class="stat-icon">📋</span>
+        <span class="stat-value" id="stat-visible">—</span>
+        <span class="stat-label">Visibles</span>
+      </div>
+      <div class="stat-tile tile-score">
+        <span class="stat-icon">🎯</span>
+        <span class="stat-value" id="stat-score">—</span>
+        <span class="stat-label">Score session</span>
+      </div>
+      <div class="stat-tile tile-streak">
+        <span class="stat-icon">🔥</span>
+        <span class="stat-value" id="stat-streak">0</span>
+        <span class="stat-label">Série EXACT</span>
+      </div>
+      <div class="stat-tile tile-cumul">
+        <span class="stat-icon">📊</span>
+        <span class="stat-value" id="stat-cumul">—</span>
+        <span class="stat-label">Cumul global</span>
+      </div>
+    </div>
+
+    <!-- Filtres -->
+    <div class="section-block" id="filters-section">
+      <div class="section-title">
+        🎚️ Filtres et mode
+        <span class="section-title-line"></span>
+      </div>
+      <div class="card" id="filters-area">
+        <div class="filters-grid">
+          <div class="filter-group">
+            <label for="f-module">Module</label>
+            <select id="f-module"><option value="all">Tous les modules</option></select>
+          </div>
+          <div class="filter-group">
+            <label for="f-session">Session</label>
+            <select id="f-session"><option value="all">Toutes</option></select>
+          </div>
+          <div class="filter-group">
+            <label for="f-format">Format</label>
+            <select id="f-format"><option value="all">Tous</option></select>
+          </div>
+          <div class="filter-group">
+            <label for="f-quantity">Quantité</label>
+            <select id="f-quantity">
+              <option value="all">Toutes</option>
+              <option value="10">10 aléatoires</option>
+              <option value="20">20 aléatoires</option>
+              <option value="50">50 aléatoires</option>
+              <option value="custom">Personnalisé…</option>
+            </select>
+          </div>
+        </div>
+        <div class="filter-group hidden" id="custom-qty-wrap" style="max-width: 200px; margin-bottom: 14px;">
+          <label for="f-custom-qty">Nombre personnalisé</label>
+          <input type="number" id="f-custom-qty" min="1" max="200" value="30">
+        </div>
+        <div class="toggles">
+          <label class="toggle">
+            <input type="checkbox" id="t-hide-pending" checked>
+            <span class="toggle-text">Masquer les questions en attente de validation médicale
+              <small>Recommandé (ON par défaut)</small>
+            </span>
+          </label>
+          <label class="toggle">
+            <input type="checkbox" id="t-include-external" checked>
+            <span class="toggle-text">Inclure le pilote externe M5 (25 Q)
+              <small>Sans effet si le toggle précédent est actif</small>
+            </span>
+          </label>
+        </div>
+        <div class="mode-radios">
+          <label><input type="radio" name="mode" value="training" checked> 🎓 Entraînement (feedback immédiat)</label>
+          <label><input type="radio" name="mode" value="exam"> 📝 Examen (feedback final)</label>
+        </div>
+        <button class="btn-primary btn-block" id="btn-start">Commencer le quiz →</button>
+      </div>
+    </div>
+
+    <!-- Quiz -->
+    <div class="card quiz-card hidden" id="quiz-area">
+      <div class="progress"><div class="progress-bar" id="progress-bar"></div></div>
+      <div class="question-content">
+        <div class="question-meta">
+          <span class="question-number" id="q-number"></span>
+          <span class="question-source-info" id="q-source"></span>
+        </div>
+        <div class="pending-warning hidden" id="q-pending">
+          Cette question est en attente de validation clinique. Les bonnes réponses ne sont pas encore définies dans la base source.
+        </div>
+        <div class="question-text" id="q-text"></div>
+        <div class="question-consigne hidden" id="q-consigne"></div>
+        <ul class="propositions" id="propositions"></ul>
+        <div class="feedback hidden" id="feedback"></div>
+      </div>
+      <div class="nav-buttons">
+        <button class="btn-ghost" id="btn-prev">← Précédent</button>
+        <span class="nav-spacer"></span>
+        <button class="btn-primary" id="btn-validate">Valider</button>
+        <button class="btn-primary hidden" id="btn-next">Suivant →</button>
+      </div>
+    </div>
+
+    <!-- Résultats -->
+    <div class="results-wrap hidden" id="results">
+      <div class="results-hero">
+        <h2>🎉 Quiz terminé</h2>
+        <div class="score-main">
+          <div class="score-circle" id="score-circle">
+            <svg width="140" height="140" viewBox="0 0 140 140">
+              <circle class="score-track" cx="70" cy="70" r="60"></circle>
+              <circle class="score-progress" cx="70" cy="70" r="60"
+                stroke-dasharray="0 377" id="score-progress-circle"></circle>
+            </svg>
+            <div class="score-circle-center">
+              <span class="score-pct" id="final-pct">0</span>
+              <span class="score-pct-unit">%</span>
+            </div>
+          </div>
+          <div class="score-note-box">
+            <span class="score-note-label">Note</span>
+            <div>
+              <span class="score-note-value" id="final-note">—</span><span class="score-note-max"> / 20</span>
+            </div>
+            <span class="score-note-comment" id="final-comment">—</span>
+          </div>
+        </div>
+        <p class="results-summary" id="score-detail"></p>
+      </div>
+
+      <div class="score-breakdown" id="score-breakdown"></div>
+
+      <div class="results-review" id="missed-section"></div>
+
+      <div class="results-actions">
+        <button class="btn-primary" id="btn-restart">↻ Recommencer (mêmes filtres)</button>
+        <button class="btn-secondary" id="btn-new-quiz">⚙ Nouveau quiz</button>
+        <button class="btn-warning" id="btn-bookmark-missed">★ Marquer ratées pour révision</button>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      <div id="db-info"></div>
+      <button class="btn-ghost" id="btn-clear-stats">Effacer mes stats cumulatives</button>
+    </footer>
+
+  </main>
+</div>
+
+
+<script>
+'use strict';
+
+// ═══════════════════════════════════════════════════════════════
+// CONFIG
+// ═══════════════════════════════════════════════════════════════
+const DB_URL = 'QCM_DATABASE_COMPLETE.json';
+const LS_KEY = 'QCM_APP_V6_state';
+const FLAGS_CLINIQUES = new Set([
+  'needs_clinical_review',
+  'inferred_from_guidelines',
+  'inferred_from_jurisdiction',
+  'source_corrected_lithium_to_isrs',
+  'source_text_corrected_between_slides',
+  'external_source',
+]);
+
+const MODULE_TITLES = {
+  M1:  'Généralités pharmacologiques',
+  M2:  'Populations spécifiques',
+  M3:  'BZD & Anxiolytiques',
+  M4:  'Hypnotiques & Sommeil',
+  M5:  'Antidépresseurs & Thymorégulateurs',
+  M6:  'Antipsychotiques',
+  M7:  'Addictions',
+  M8:  'Troubles sexuels',
+  M9:  'Traitements hors AMM',
+  M10: 'Psychostimulants',
+  M11: 'Effets indésirables',
+};
+function moduleSynthURL(mod) {
+  return `SYNTHESES_v6.html#module-${mod.slice(1)}`;
+}
+
+// ═══════════════════════════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════════════════════════
+let DB = null;
+let STATE = {
+  lastFilters: {},
+  totalQuestionsAnswered: 0,
+  totalExact: 0,
+  totalPartial: 0,
+  totalIncorrect: 0,
+  totalSkipped: 0,
+  sessionHistory: [],
+  bookmarkedIds: [],
+};
+let QUIZ = [];
+let IDX = 0;
+let RESULTS = [];
+let MODE = 'training';
+let STREAK = 0;
+let MAX_STREAK = 0;
+let LAST_FILTERS = null;
+
+// ═══════════════════════════════════════════════════════════════
+// LOCAL STORAGE
+// ═══════════════════════════════════════════════════════════════
+function loadState() {
+  try {
+    const raw = localStorage.getItem(LS_KEY);
+    if (raw) Object.assign(STATE, JSON.parse(raw));
+  } catch (e) { console.warn('LocalStorage load failed:', e); }
+}
+function saveState() {
+  try { localStorage.setItem(LS_KEY, JSON.stringify(STATE)); }
+  catch (e) { console.warn('LocalStorage save failed:', e); }
+}
+
+// ═══════════════════════════════════════════════════════════════
+// SCORING
+// ═══════════════════════════════════════════════════════════════
+function setEquals(a, b) {
+  if (a.size !== b.size) return false;
+  for (const x of a) if (!b.has(x)) return false;
+  return true;
+}
+function setIntersection(a, b) {
+  const out = new Set();
+  for (const x of a) if (b.has(x)) out.add(x);
+  return out;
+}
+
+/** @returns {{category: 'EXACT'|'PARTIEL'|'INCORRECT'|'SKIP', points: number}} */
+function computeScore(userSet, correctSet) {
+  if (correctSet.size === 0) return { category: 'SKIP', points: 0 };
+  if (userSet.size === 0) return { category: 'INCORRECT', points: 0 };
+  if (setEquals(userSet, correctSet)) return { category: 'EXACT', points: 1 };
+  const inter = setIntersection(userSet, correctSet);
+  if (inter.size === 0) return { category: 'INCORRECT', points: 0 };
+  const corr = inter.size;
+  const incorr = userSet.size - inter.size;
+  let pts = (corr - incorr) / correctSet.size;
+  pts = Math.max(0, Math.min(1, pts));
+  pts = Math.round(pts * 1000) / 1000;
+  return { category: 'PARTIEL', points: pts };
+}
+
+/** Note /20 à partir d'un % (arrondi 0.5) */
+function pctToNote20(pct) {
+  if (pct === null || pct === undefined) return null;
+  const raw = pct / 100 * 20;
+  return Math.round(raw * 2) / 2;
+}
+
+function noteComment(note20) {
+  if (note20 === null) return { label: '—', cls: '' };
+  if (note20 >= 16) return { label: 'Excellent · prêt(e) pour l\'examen', cls: 'good' };
+  if (note20 >= 14) return { label: 'Très bien · quelques ajustements', cls: 'good' };
+  if (note20 >= 12) return { label: 'Bien · à consolider', cls: 'medium' };
+  if (note20 >= 10) return { label: 'Passable · à retravailler', cls: 'medium' };
+  return { label: 'À reprendre · revoir les modules concernés', cls: 'bad' };
+}
+
+// ═══════════════════════════════════════════════════════════════
+// LOAD DB
+// ═══════════════════════════════════════════════════════════════
+async function loadDB() {
+  try {
+    const res = await fetch(DB_URL);
+    DB = await res.json();
+    if (DB.questions && !DB.all_questions) DB.all_questions = DB.questions;
+  } catch (e) {
+    console.error('Erreur chargement DB:', e);
+    DB = {
+      version: 'DEMO',
+      questions: [{
+        id: 'DEMO',
+        module: 'M1', session: 1, format: 'Demo',
+        question: 'Question de démonstration (base non chargée — exécuter via serveur HTTP local)',
+        propositions: [
+          { letter: 'A', text: 'Lance python3 -m http.server depuis DIVERS/_INDEX', correct: true },
+          { letter: 'B', text: 'Ouvre en file:// (ne marche pas pour fetch)', correct: false },
+        ],
+        answers_letters: ['A'], flags: [], notes: null,
+      }],
+      stats: { by_module: { M1: 1 } },
+    };
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════
+// HELPERS
+// ═══════════════════════════════════════════════════════════════
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+}
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+
+// ═══════════════════════════════════════════════════════════════
+// FILTERS
+// ═══════════════════════════════════════════════════════════════
+function isPending(q) {
+  if (!q.answers_letters || q.answers_letters.length === 0) return true;
+  return (q.flags || []).some(f => FLAGS_CLINIQUES.has(f));
+}
+function isExternal(q) {
+  return (q.flags || []).includes('external_source');
+}
+
+function applyFilters(opts) {
+  let qs = DB.questions.slice();
+  if (opts.module && opts.module !== 'all') qs = qs.filter(q => q.module === opts.module);
+  if (opts.session && opts.session !== 'all') qs = qs.filter(q => String(q.session) === String(opts.session));
+  if (opts.format && opts.format !== 'all') qs = qs.filter(q => q.format === opts.format);
+  if (opts.hidePending) {
+    qs = qs.filter(q => !isPending(q));
+  } else if (!opts.includeExternal) {
+    qs = qs.filter(q => !isExternal(q));
+  }
+  return qs;
+}
+
+function buildFilterUI() {
+  const modSel = document.getElementById('f-module');
+  const modCounts = {};
+  DB.questions.forEach(q => modCounts[q.module] = (modCounts[q.module] || 0) + 1);
+  Object.keys(modCounts).sort((a, b) => parseInt(a.slice(1)) - parseInt(b.slice(1))).forEach(m => {
+    const opt = document.createElement('option');
+    opt.value = m; opt.textContent = `${m} — ${MODULE_TITLES[m] || m} (${modCounts[m]})`;
+    modSel.appendChild(opt);
+  });
+  modSel.addEventListener('change', refreshSessionSelect);
+  refreshSessionSelect();
+
+  const fmtSel = document.getElementById('f-format');
+  const fmts = {};
+  DB.questions.forEach(q => fmts[q.format] = (fmts[q.format] || 0) + 1);
+  Object.keys(fmts).sort((a, b) => fmts[b] - fmts[a]).forEach(f => {
+    const opt = document.createElement('option');
+    opt.value = f; opt.textContent = `${f} (${fmts[f]})`;
+    fmtSel.appendChild(opt);
+  });
+
+  document.getElementById('f-quantity').addEventListener('change', e => {
+    document.getElementById('custom-qty-wrap').classList.toggle('hidden', e.target.value !== 'custom');
+  });
+  document.getElementById('t-hide-pending').addEventListener('change', refreshVisibleCount);
+  document.getElementById('t-include-external').addEventListener('change', refreshVisibleCount);
+  document.getElementById('f-module').addEventListener('change', refreshVisibleCount);
+  document.getElementById('f-session').addEventListener('change', refreshVisibleCount);
+  document.getElementById('f-format').addEventListener('change', refreshVisibleCount);
+  refreshVisibleCount();
+}
+
+function refreshSessionSelect() {
+  const mod = document.getElementById('f-module').value;
+  const sesSel = document.getElementById('f-session');
+  const prev = sesSel.value;
+  sesSel.innerHTML = '<option value="all">Toutes</option>';
+  if (mod === 'all') {
+    sesSel.disabled = true;
+    return;
+  }
+  sesSel.disabled = false;
+  const sesCounts = {};
+  DB.questions.filter(q => q.module === mod).forEach(q => {
+    sesCounts[q.session] = (sesCounts[q.session] || 0) + 1;
+  });
+  Object.keys(sesCounts).sort((a, b) => parseInt(a) - parseInt(b)).forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s; opt.textContent = `S${s} (${sesCounts[s]})`;
+    sesSel.appendChild(opt);
+  });
+  if (prev && sesSel.querySelector(`[value="${prev}"]`)) sesSel.value = prev;
+  refreshVisibleCount();
+}
+
+function readCurrentFilters() {
+  return {
+    module: document.getElementById('f-module').value,
+    session: document.getElementById('f-session').value,
+    format: document.getElementById('f-format').value,
+    quantity: document.getElementById('f-quantity').value,
+    customQty: parseInt(document.getElementById('f-custom-qty').value || 30),
+    hidePending: document.getElementById('t-hide-pending').checked,
+    includeExternal: document.getElementById('t-include-external').checked,
+    mode: document.querySelector('input[name="mode"]:checked').value,
+  };
+}
+function refreshVisibleCount() {
+  const f = readCurrentFilters();
+  const qs = applyFilters(f);
+  document.getElementById('stat-visible').textContent = qs.length;
+}
+
+// ═══════════════════════════════════════════════════════════════
+// QUIZ FLOW
+// ═══════════════════════════════════════════════════════════════
+function startQuiz(filtersOverride) {
+  const f = filtersOverride || readCurrentFilters();
+  LAST_FILTERS = f;
+  let qs = applyFilters(f);
+  qs = shuffle(qs);
+  let limit = qs.length;
+  if (f.quantity === '10') limit = 10;
+  else if (f.quantity === '20') limit = 20;
+  else if (f.quantity === '50') limit = 50;
+  else if (f.quantity === 'custom') limit = Math.max(1, Math.min(qs.length, f.customQty || 30));
+  qs = qs.slice(0, limit);
+  if (qs.length === 0) {
+    alert('Aucune question ne correspond aux filtres. Élargissez la sélection.');
+    return;
+  }
+  QUIZ = qs;
+  IDX = 0;
+  RESULTS = [];
+  MODE = f.mode;
+  STREAK = 0;
+  MAX_STREAK = 0;
+  document.getElementById('filters-section').classList.add('hidden');
+  document.getElementById('quiz-area').classList.remove('hidden');
+  document.getElementById('results').classList.add('hidden');
+  renderQuestion();
+}
+
+function renderQuestion() {
+  if (IDX >= QUIZ.length) { showResults(); return; }
+  const q = QUIZ[IDX];
+  const qArea = document.getElementById('quiz-area');
+  qArea.classList.remove('entering');
+  void qArea.offsetWidth;  // restart animation
+  qArea.classList.add('entering');
+
+  document.getElementById('q-number').textContent = `Question ${IDX + 1} / ${QUIZ.length}`;
+  const flagsBadge = (q.flags && q.flags.length > 0)
+    ? `<span class="badge-flag" tabindex="0">⚑ ${q.flags.length} flag${q.flags.length>1?'s':''}<span class="tooltip-flag">${q.flags.join(', ')}${q.notes ? '<br><br><i>'+escapeHtml(q.notes)+'</i>' : ''}</span></span>` : '';
+  document.getElementById('q-source').innerHTML = `
+    <span class="meta-pill">${q.module}</span>
+    <span class="meta-pill">S${q.session}</span>
+    <span class="meta-pill"><code>${escapeHtml(q.format)}</code></span>
+    <span class="meta-pill">${escapeHtml(q.file || '')}</span>
+    ${flagsBadge}
+  `;
+  document.getElementById('progress-bar').style.width = `${((IDX + 1) / QUIZ.length) * 100}%`;
+  document.getElementById('q-text').textContent = q.question;
+  const cons = document.getElementById('q-consigne');
+  if (q.consigne_type && q.consigne_type !== q.question) {
+    cons.textContent = q.consigne_type; cons.classList.remove('hidden');
+  } else {
+    cons.classList.add('hidden');
+  }
+  const pending = isPending(q);
+  document.getElementById('q-pending').classList.toggle('hidden', !pending);
+
+  const list = document.getElementById('propositions');
+  list.innerHTML = '';
+  const alreadyAnswered = RESULTS.find(r => r.qid === q.id);
+  (q.propositions || []).forEach((p) => {
+    const li = document.createElement('li');
+    li.className = 'proposition';
+    li.dataset.letter = p.letter;
+    const cb = document.createElement('input');
+    cb.type = 'checkbox'; cb.id = `prop-${IDX}-${p.letter}`;
+    cb.value = p.letter;
+    if (pending) cb.disabled = true;
+
+    if (alreadyAnswered) {
+      cb.disabled = true; li.classList.add('disabled');
+      const wasChecked = alreadyAnswered.userSet.has(p.letter);
+      cb.checked = wasChecked;
+      const isCorr = (q.answers_letters || []).includes(p.letter);
+      if (wasChecked && isCorr) { li.classList.add('f-exact'); li.appendChild(makeBadge('Bonne réponse')); }
+      else if (wasChecked && !isCorr) { li.classList.add('f-incorrect'); li.appendChild(makeBadge('À retirer')); }
+      else if (!wasChecked && isCorr) { li.classList.add('f-missed'); li.appendChild(makeBadge('Manquée')); }
+    }
+
+    const marker = document.createElement('span');
+    marker.className = 'prop-marker'; marker.textContent = p.letter;
+    const txt = document.createElement('span');
+    txt.className = 'prop-text'; txt.textContent = p.text;
+
+    li.prepend(cb);
+    li.insertBefore(marker, li.children[1]);
+    li.insertBefore(txt, li.children[2]);
+    li.addEventListener('click', (ev) => {
+      if (cb.disabled) return;
+      if (ev.target !== cb) cb.checked = !cb.checked;
+    });
+    list.appendChild(li);
+  });
+
+  // ─── 2 boutons distincts : btn-validate (Valider) + btn-next (Suivant) ───
+  const btnValidate = document.getElementById('btn-validate');
+  const btnNext = document.getElementById('btn-next');
+  const btnPrev = document.getElementById('btn-prev');
+  // Reset
+  btnValidate.classList.remove('btn-primary', 'btn-warning', 'btn-secondary');
+  btnValidate.disabled = false;
+  btnNext.disabled = false;
+  btnNext.classList.add('hidden');
+  btnValidate.classList.remove('hidden');
+
+  if (pending) {
+    // Q en attente : un seul bouton "Passer" qui avance directement
+    btnValidate.textContent = 'Passer (validation en attente) →';
+    btnValidate.classList.add('btn-warning');
+  } else if (alreadyAnswered) {
+    // Déjà répondu : cacher Valider, montrer Suivant (ou Voir le bilan)
+    btnValidate.classList.add('hidden');
+    btnNext.classList.remove('hidden');
+    if (IDX === QUIZ.length - 1) {
+      btnNext.textContent = '✓ Voir le bilan →';
+    } else {
+      btnNext.textContent = 'Question suivante →';
+    }
+  } else {
+    // Pas encore répondu : seul Valider est visible
+    btnValidate.textContent = 'Valider mes réponses';
+    btnValidate.classList.add('btn-primary');
+  }
+  btnPrev.disabled = (IDX === 0) || (MODE === 'exam' && !alreadyAnswered);
+
+  // Feedback global (entraînement)
+  const fb = document.getElementById('feedback');
+  if (alreadyAnswered && MODE === 'training' && !pending) {
+    showFeedback(alreadyAnswered);
+  } else {
+    fb.classList.add('hidden');
+  }
+  updateStats();
+}
+
+function makeBadge(text) {
+  const b = document.createElement('span');
+  b.className = 'prop-badge'; b.textContent = text;
+  return b;
+}
+
+function showFeedback(result) {
+  const fb = document.getElementById('feedback');
+  fb.classList.remove('hidden', 'exact', 'partiel', 'incorrect');
+  if (result.category === 'EXACT') {
+    fb.classList.add('exact');
+    fb.innerHTML = `<span class="feedback-icon">✅</span><div class="feedback-details"><strong>Bonne réponse complète</strong><div class="feedback-pts">+1 point · série EXACT : ${STREAK}</div></div>`;
+  } else if (result.category === 'PARTIEL') {
+    fb.classList.add('partiel');
+    fb.innerHTML = `<span class="feedback-icon">⚠️</span><div class="feedback-details"><strong>Partiellement bon</strong><div class="feedback-pts">+${result.points.toFixed(3)} pt · vous avez manqué ou ajouté des réponses</div></div>`;
+  } else {
+    fb.classList.add('incorrect');
+    fb.innerHTML = `<span class="feedback-icon">❌</span><div class="feedback-details"><strong>Réponse incorrecte</strong><div class="feedback-pts">0 point · à revoir dans le cours</div></div>`;
+  }
+}
+
+
+function validateOrNext() {
+  const q = QUIZ[IDX];
+  const pending = isPending(q);
+  const already = RESULTS.find(r => r.qid === q.id);
+
+  // Cas pending (SKIP) ─ pas d'increment STATE.totalSkipped (intentionnel : ne pollue pas le cumul)
+  if (pending) {
+    if (!already) {
+      RESULTS.push({
+        qid: q.id, category: 'SKIP', points: 0,
+        userSet: new Set(), correctSet: new Set(q.answers_letters || []),
+      });
+      STREAK = 0;
+    }
+    IDX++; renderQuestion(); return;
+  }
+
+  // Cas déjà répondu → on avance
+  if (already) { IDX++; renderQuestion(); return; }
+
+  // Cas validation initiale
+  const checked = [...document.querySelectorAll('#propositions input[type=checkbox]:checked')].map(c => c.value);
+  if (checked.length === 0) {
+    if (!confirm('Aucune proposition cochée. Valider quand même (réponse vide = INCORRECT) ?')) return;
+  }
+  const userSet = new Set(checked);
+  const correctSet = new Set(q.answers_letters || []);
+  const res = computeScore(userSet, correctSet);
+  res.qid = q.id; res.userSet = userSet; res.correctSet = correctSet;
+  RESULTS.push(res);
+
+  if (res.category === 'EXACT') {
+    STREAK++; MAX_STREAK = Math.max(MAX_STREAK, STREAK);
+    STATE.totalExact++;
+  } else {
+    STREAK = 0;
+    if (res.category === 'PARTIEL') STATE.totalPartial++;
+    else if (res.category === 'INCORRECT') STATE.totalIncorrect++;
+    // (SKIP géré dans le bloc pending ci-dessus ─ ne tombe jamais ici)
+  }
+  STATE.totalQuestionsAnswered++;
+  saveState();
+
+  if (MODE === 'training') {
+    renderQuestion(); // refresh affichage avec feedback + bouton "Suivant"
+    // Délai anti-clic-trop-rapide : on veut que l'utilisateur LISE le feedback
+    const btnNext = document.getElementById('btn-next');
+    btnNext.disabled = true;
+    btnNext.style.opacity = '0.5';
+    setTimeout(() => {
+      btnNext.disabled = false;
+      btnNext.style.opacity = '';
+    }, 800);
+  } else {
+    IDX++; renderQuestion();
+  }
+}
+
+function updateStats() {
+  const totalAnswered = RESULTS.filter(r => r.category !== 'SKIP').length;
+  const totalPoints = RESULTS.reduce((s, r) => s + r.points, 0);
+  const pct = totalAnswered > 0 ? Math.round((totalPoints / totalAnswered) * 1000) / 10 : null;
+  document.getElementById('stat-score').textContent = pct === null ? '—' : pct + ' %';
+  document.getElementById('stat-streak').textContent = STREAK;
+  const cumTotal = STATE.totalExact + STATE.totalPartial + STATE.totalIncorrect;
+  document.getElementById('stat-cumul').textContent =
+    cumTotal > 0 ? `${STATE.totalExact}/${cumTotal}` : '—';
+}
+
+// ═══════════════════════════════════════════════════════════════
+// SHOW RESULTS — note /20 + regroupement par module + liens fiches
+// ═══════════════════════════════════════════════════════════════
+function showResults() {
+  document.getElementById('quiz-area').classList.add('hidden');
+  document.getElementById('results').classList.remove('hidden');
+
+  const counted = RESULTS.filter(r => r.category !== 'SKIP');
+  const totalPts = counted.reduce((s, r) => s + r.points, 0);
+  const pct = counted.length > 0 ? Math.round((totalPts / counted.length) * 1000) / 10 : 0;
+  const note20 = pctToNote20(pct);
+  const comment = noteComment(note20);
+
+  // Score circle SVG animé
+  const circle = document.getElementById('score-circle');
+  const progressCircle = document.getElementById('score-progress-circle');
+  const circumference = 2 * Math.PI * 60; // r=60 → 376.99
+  circle.classList.remove('good', 'medium', 'bad');
+  if (pct >= 80) circle.classList.add('good');
+  else if (pct >= 60) circle.classList.add('medium');
+  else circle.classList.add('bad');
+  const dashOffset = circumference * (pct / 100);
+  setTimeout(() => {
+    progressCircle.setAttribute('stroke-dasharray', `${dashOffset} ${circumference}`);
+  }, 100);
+
+  document.getElementById('final-pct').textContent = pct.toFixed(1).replace('.', ',');
+  document.getElementById('final-note').textContent = note20 === null ? '—' : (Number.isInteger(note20) ? note20 : note20.toFixed(1).replace('.', ','));
+  const commentEl = document.getElementById('final-comment');
+  commentEl.className = 'score-note-comment ' + comment.cls;
+  commentEl.textContent = comment.label;
+
+  document.getElementById('score-detail').textContent =
+    `${counted.length} question${counted.length>1?'s':''} évaluée${counted.length>1?'s':''} · ${totalPts.toFixed(2)} pt cumulés · série EXACT max : ${MAX_STREAK}`;
+
+  // Breakdown 4 catégories
+  const exact = RESULTS.filter(r => r.category === 'EXACT').length;
+  const partial = RESULTS.filter(r => r.category === 'PARTIEL').length;
+  const incorrect = RESULTS.filter(r => r.category === 'INCORRECT').length;
+  const skipped = RESULTS.filter(r => r.category === 'SKIP').length;
+  document.getElementById('score-breakdown').innerHTML = `
+    <div class="bk-tile"><span class="bk-value good">${exact}</span><span class="bk-label">EXACT</span></div>
+    <div class="bk-tile"><span class="bk-value partial">${partial}</span><span class="bk-label">PARTIEL</span></div>
+    <div class="bk-tile"><span class="bk-value bad">${incorrect}</span><span class="bk-label">INCORRECT</span></div>
+    <div class="bk-tile"><span class="bk-value skip">${skipped}</span><span class="bk-label">SKIP</span></div>
+  `;
+
+  // À revoir — regroupement par module
+  renderMissedByModule();
+
+  // Save session history
+  STATE.sessionHistory.push({
+    date: new Date().toISOString(),
+    count: counted.length, exact, partial, incorrect, skipped,
+    score_pct: pct, note20,
+  });
+  if (STATE.sessionHistory.length > 100) STATE.sessionHistory.shift();
+  saveState();
+}
+
+/** Regroupe les questions ratées (≠ EXACT, ≠ SKIP) par module, avec liens fiches */
+function renderMissedByModule() {
+  const missed = RESULTS.filter(r => r.category !== 'EXACT' && r.category !== 'SKIP');
+  const section = document.getElementById('missed-section');
+  if (missed.length === 0) {
+    section.innerHTML = `<div class="results-no-missed">🎉 Aucune question ratée — bravo !</div>`;
+    return;
+  }
+
+  // groupBy module
+  const byModule = {};
+  missed.forEach(r => {
+    const q = QUIZ.find(qq => qq.id === r.qid);
+    if (!q) return;
+    (byModule[q.module] = byModule[q.module] || []).push({ q, r });
+  });
+
+  const modules = Object.keys(byModule).sort((a, b) => parseInt(a.slice(1)) - parseInt(b.slice(1)));
+
+  let html = `<h3>📖 À revoir par module <span class="badge-count">${missed.length}</span></h3>`;
+  modules.forEach(mod => {
+    const items = byModule[mod];
+    html += `
+      <div class="module-group">
+        <div class="module-group-header">
+          <span class="module-group-badge">${mod}</span>
+          <span class="module-group-title">${MODULE_TITLES[mod] || mod}</span>
+          <span class="module-group-count">${items.length} Q</span>
+          <a class="module-group-link" href="${moduleSynthURL(mod)}">📄 Synthèse</a>
+        </div>
+    `;
+    items.forEach(({ q, r }) => {
+      const statusClass = r.category === 'PARTIEL' ? 'partial' : r.category === 'INCORRECT' ? 'bad' : 'skip';
+      const statusLabel = r.category === 'PARTIEL' ? `Partiel (${r.points.toFixed(2)})` : r.category;
+      const qShort = q.question.length > 90 ? q.question.slice(0, 90) + '…' : q.question;
+      html += `
+        <div class="missed-item-v6" data-qid="${escapeHtml(q.id)}">
+          <span class="qid">${escapeHtml(q.id)}</span>
+          <span class="qtext">${escapeHtml(qShort)}</span>
+          <span class="qstatus ${statusClass}">${statusLabel}</span>
+          <button data-revoir="${escapeHtml(q.id)}">Revoir</button>
+        </div>
+      `;
+    });
+    html += `</div>`;
+  });
+  section.innerHTML = html;
+
+  // Attacher les handlers Revoir
+  section.querySelectorAll('button[data-revoir]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const qid = btn.getAttribute('data-revoir');
+      const idx = QUIZ.findIndex(qq => qq.id === qid);
+      if (idx >= 0) {
+        IDX = idx;
+        document.getElementById('results').classList.add('hidden');
+        document.getElementById('quiz-area').classList.remove('hidden');
+        renderQuestion();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    });
+  });
+}
+
+function bookmarkMissed() {
+  const missed = RESULTS.filter(r => r.category !== 'EXACT' && r.category !== 'SKIP');
+  if (missed.length === 0) { alert('Aucune question à marquer.'); return; }
+  const ids = missed.map(r => r.qid);
+  STATE.bookmarkedIds = [...new Set([...STATE.bookmarkedIds, ...ids])];
+  saveState();
+  alert(`${ids.length} question${ids.length>1?'s':''} marquée${ids.length>1?'s':''} pour révision.\nTotal marquées : ${STATE.bookmarkedIds.length}.`);
+}
+
+function backToFilters() {
+  document.getElementById('quiz-area').classList.add('hidden');
+  document.getElementById('results').classList.add('hidden');
+  document.getElementById('filters-section').classList.remove('hidden');
+  refreshVisibleCount();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function clearCumulStats() {
+  if (!confirm('Effacer toutes vos statistiques cumulatives (sessions, score, marqués) ?')) return;
+  STATE = {
+    lastFilters: {}, totalQuestionsAnswered: 0,
+    totalExact: 0, totalPartial: 0, totalIncorrect: 0, totalSkipped: 0,
+    sessionHistory: [], bookmarkedIds: [],
+  };
+  saveState();
+  updateStats();
+  alert('Statistiques effacées.');
+}
+
+
+// ═══════════════════════════════════════════════════════════════
+// SELF-TESTS (étendus pour v6)
+// ═══════════════════════════════════════════════════════════════
+function runSelfTests() {
+  const results = [];
+
+  // Test 1 : 191 questions
+  try {
+    const n = DB.questions.length;
+    results.push({ name: `DB charge ${n} questions`, ok: n === 191, detail: `${n} questions, version ${DB.version}` });
+  } catch (e) { results.push({ name: 'DB charge 191 questions', ok: false, detail: e.message }); }
+
+  // Test 2 : Filtre masquage (Fix 1.1 : 5 Q "filet de sécurité" maintenant cliniques → masquage logique uniforme)
+  try {
+    const f = { module: 'all', session: 'all', format: 'all', hidePending: true, includeExternal: true };
+    const visible = applyFilters(f);
+    const hidden = DB.questions.length - visible.length;
+    const expected = 126;  // Post Fix 1.2 (7 Q reflaggées needs_clinical_review)
+    const ok = visible.length === expected;
+    const clinical = DB.questions.filter(q => (q.flags || []).some(f2 => FLAGS_CLINIQUES.has(f2))).length;
+    const zeroAns = DB.questions.filter(q => !q.answers_letters || q.answers_letters.length === 0).length;
+    results.push({
+      name: `Filtre masquage : ${visible.length} visibles (attendu ${expected} post-Fix1.2, ${hidden} masquées)`,
+      ok,
+      detail: `flags_cliniques: ${clinical}, zero-answer: ${zeroAns}, union: ${hidden}`,
+    });
+  } catch (e) { results.push({ name: 'Filtre masquage', ok: false, detail: e.message }); }
+
+  // Test 3 : Scoring M1_S4_Q1 (3 cas)
+  try {
+    const q = DB.questions.find(qq => qq.id === 'M1_S4_Q1');
+    if (!q) throw new Error('M1_S4_Q1 introuvable');
+    const correct = new Set(q.answers_letters);
+    const r1 = computeScore(new Set(['1', '3', '5']), correct);
+    const r2 = computeScore(new Set(['1', '3']), correct);
+    const r3 = computeScore(new Set(['2', '4']), correct);
+    const ok = r1.category === 'EXACT' && r2.category === 'PARTIEL' && r3.category === 'INCORRECT';
+    results.push({
+      name: 'Scoring M1_S4_Q1 (EXACT/PARTIEL/INCORRECT)',
+      ok,
+      detail: `EXACT={1,3,5}→${r1.category}, PARTIEL={1,3}→${r2.category}(${r2.points}), INCORRECT={2,4}→${r3.category}`,
+    });
+  } catch (e) { results.push({ name: 'Scoring M1_S4_Q1', ok: false, detail: e.message }); }
+
+  // Test 4 : Pending detection M1_S1_Q11
+  try {
+    const q = DB.questions.find(qq => qq.id === 'M1_S1_Q11');
+    if (!q) throw new Error('M1_S1_Q11 introuvable');
+    const ok = isPending(q) && (!q.answers_letters || q.answers_letters.length === 0);
+    results.push({
+      name: 'M1_S1_Q11 détectée pending',
+      ok,
+      detail: `isPending=${isPending(q)}, flags=${JSON.stringify(q.flags)}`,
+    });
+  } catch (e) { results.push({ name: 'M1_S1_Q11 pending', ok: false, detail: e.message }); }
+
+  // Test 5 (nouveau v6) : 5 Q "filet de sécurité" Fix 1.1 désormais flaggées clinique
+  try {
+    const targets = ['M1_S2_Q5', 'M1_S2_Q6', 'M1_S2_Q13', 'M1_S3_Q2', 'M1_S3_Q7'];
+    const flagged = targets.filter(tid => {
+      const q = DB.questions.find(qq => qq.id === tid);
+      return q && (q.flags || []).includes('needs_clinical_review');
+    });
+    const ok = flagged.length === 5;
+    results.push({
+      name: `Fix 1.1 : 5 Q "filet de sécurité" portent needs_clinical_review`,
+      ok,
+      detail: `${flagged.length}/5 trouvées : ${flagged.join(', ')}`,
+    });
+  } catch (e) { results.push({ name: 'Fix 1.1 flag', ok: false, detail: e.message }); }
+
+  // Test 6 (nouveau v6) : conversion pct → note /20
+  try {
+    const cases = [
+      { pct: 100, expected: 20 },
+      { pct: 50, expected: 10 },
+      { pct: 0, expected: 0 },
+      { pct: 75, expected: 15 },
+      { pct: 33.3, expected: 6.5 },  // 6.66 arrondi à 0.5 près = 6.5
+    ];
+    const fails = cases.filter(c => pctToNote20(c.pct) !== c.expected);
+    const ok = fails.length === 0;
+    results.push({
+      name: `Note /20 : conversion correcte (${cases.length} cas)`,
+      ok,
+      detail: ok ? cases.map(c => `${c.pct}%→${c.expected}/20`).join(', ') : 'Fails: ' + JSON.stringify(fails),
+    });
+  } catch (e) { results.push({ name: 'Note /20', ok: false, detail: e.message }); }
+
+  // Test 7 (nouveau v6) : noteComment renvoie bon label
+  try {
+    const cases = [
+      { n: 18, expected: 'good' },
+      { n: 14, expected: 'good' },
+      { n: 12, expected: 'medium' },
+      { n: 10, expected: 'medium' },
+      { n: 5, expected: 'bad' },
+    ];
+    const fails = cases.filter(c => noteComment(c.n).cls !== c.expected);
+    const ok = fails.length === 0;
+    results.push({
+      name: `Commentaire note /20 (5 paliers)`,
+      ok,
+      detail: ok ? cases.map(c => `${c.n}/20→${c.expected}`).join(', ') : 'Fails: ' + JSON.stringify(fails),
+    });
+  } catch (e) { results.push({ name: 'Commentaire note', ok: false, detail: e.message }); }
+
+  // Log
+  const nOK = results.filter(r => r.ok).length;
+  console.log(`════════════════════════════════════════════`);
+  console.log(`%c✅ App v6 self-tests : ${nOK}/${results.length} OK`, 'font-weight:bold; color: #4f46e5;');
+  results.forEach(r => console.log(`  ${r.ok ? '✅' : '❌'} ${r.name} | ${r.detail}`));
+  console.log(`════════════════════════════════════════════`);
+  return { nOK, total: results.length, results };
+}
+
+// ═══════════════════════════════════════════════════════════════
+// SIDEBAR TOGGLE (mobile)
+// ═══════════════════════════════════════════════════════════════
+function setupSidebar() {
+  const toggle = document.getElementById('sidebar-toggle');
+  const sidebar = document.getElementById('sidebar');
+  const backdrop = document.getElementById('sidebar-backdrop');
+  const close = () => { sidebar.classList.remove('open'); backdrop.classList.remove('open'); };
+  toggle.addEventListener('click', () => { sidebar.classList.add('open'); backdrop.classList.add('open'); });
+  backdrop.addEventListener('click', close);
+  // Fermeture sur lien
+  sidebar.querySelectorAll('.synth-item').forEach(a => a.addEventListener('click', close));
+}
+
+// ═══════════════════════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════════════════════
+(async function init() {
+  loadState();
+  await loadDB();
+  buildFilterUI();
+  setupSidebar();
+  document.getElementById('db-info').textContent =
+    `Base : ${DB.version || '?'} · ${DB.questions.length} questions · examen ${DB.exam_date || '2026-06-23'}`;
+  document.getElementById('sidebar-exam-info').textContent =
+    `Examen : 23 juin 2026`;
+  updateStats();
+  document.getElementById('btn-start').addEventListener('click', () => startQuiz());
+  document.getElementById('btn-validate').addEventListener('click', validateOrNext);
+  document.getElementById('btn-next').addEventListener('click', () => { IDX++; renderQuestion(); window.scrollTo({top: 0, behavior: 'smooth'}); });
+  document.getElementById('btn-prev').addEventListener('click', () => { if (IDX > 0) { IDX--; renderQuestion(); } });
+  document.getElementById('btn-restart').addEventListener('click', () => startQuiz(LAST_FILTERS));
+  document.getElementById('btn-new-quiz').addEventListener('click', backToFilters);
+  document.getElementById('btn-bookmark-missed').addEventListener('click', bookmarkMissed);
+  document.getElementById('btn-clear-stats').addEventListener('click', clearCumulStats);
+  runSelfTests();
+})();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,588 @@
+{
+  "fichier": "4-Médicaments psychotropes_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 17,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 4 Ramoz -Médicaments psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 4 Ramoz - Médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différents groupes de psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments psychotropes : définition",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Groupes de médicaments utilisés pour traiter les troubles psychiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Classés en catégories en fonction de leurs principes actifs et actions physiologiques :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-anxiolytiques (tranquillisants)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-hypnotiques (somnifères)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-stabilisants de l'humeur et neuroleptiques (dits aussi antipsychotiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Qu’est qu’un psychotrope?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le terme psychotrope signifie littéralement « qui agit, qui donne une direction » (trope) « à l'esprit ou au comportement » (psycho)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Selon Jean Delay en 1957, « On appelle psychotrope, une substance chimique d'origine naturelle ou artificielle, qui a un tropisme psychologique, c'est-à-dire qui est susceptible de modifier l'activité mentale, sans préjuger du type de cette modification ».",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Un psychotrope, c’est un médicament?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un psychotrope est une substance qui agit principalement sur l'état du système nerveux central en y modifiant certains processus biochimiques et physiologiques cérébraux, sans préjuger de sa capacité à induire des phénomènes de dépendance, ni de son éventuelle toxicité.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En altérant de la sorte les fonctions du cerveau, un psychotrope induit des modifications de la perception, des sensations, de l'humeur, de la conscience (états modifiés de conscience) ou d'autres fonctions psychologiques et comportementales.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Conséquence de l’usage des psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L'usage répété peut conduire à une dépendance psychique et souvent aussi physique… comme pour certaines substances psychotropes ou drogues légales ou illégales comme l'alcool ou les opiacés.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La dépendance se traduit par l'ensemble des symptômes entraînés par l'arrêt de la prise d'une substance spécifique ; en cas de dépendance physique, le syndrome de sevrage en fait partie (tremblements, anxiété, agitation, dépression, nausées et état de malaise), voir un délirium tremens.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différents groupes de psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Différents groupes de psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Groupes et sous-groupes de psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments antidépresseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dépresseurs et antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les dépresseurs les plus connus sont les neuroleptiques, l'alcool, les opiacés, les barbituriques et les benzodiazépines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Leurs effets induisent:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une sensation d'étourdissement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une sensation de calme et de bien-être ce qui diminue l'anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "un effet antalgique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "parfois des nausées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "un relâchement musculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "un ralentissement des mouvements et des réflexes voire perte de la coordination motrice",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une somnolence",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En cas de surdose, ces substances peuvent entraîner la mort par dépression respiratoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antidépresseurs pharmaceutiques sont classés de la façon suivante:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibiteurs de la monoamine oxydase (IMAO)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antidépresseurs tricycliques (ATC)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibiteurs de la recapture de la sérotonine-noradrénaline (IRSNa)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antidépresseur noradrénergique et sérotoninergique spécifique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antidépresseurs tétracycliques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Thymorégulateurs (propriétés anti-épileptiques/ anticonvulsivantes):",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lithium",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valproate ou acide valproique (Dépakine)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carbamazepine (Tégretol)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lamotrigine (Lamictal)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments neuroleptiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Définition : Neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques (du grec neuron, nerf et leptos, qui affaiblit) encore appelés antipsychotiques (contre les symptômes florides/florissants des psychoses/idées délirantes, hallucinations) sont des médicaments psychotropes utilisés pour leur effet tranquillisant majeur, anti-délirant et pour lutter contre la désorganisation des pensées",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Utilisés dans le traitement de certains troubles psychiatriques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles bipolaires (Maniaco-dépressif)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Syndromes comportant des hallucinations, un délire et de l'agitation psychomotrice",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Neuroleptiques, différentes catégories",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques typiques : Premier neuroleptique, la chlorpromazine (molécule commercialisée sous le nom « Largactil »), utilisée 1950, découverte en France par Henri Laborit (travaux sur l’anesthésie), synthétisée par Rhône-Poulenc",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques de deuxième génération ou atypiques : plus spécifiques (moins d'effets indésirables, dont moteurs), parfois plus efficaces (notamment sur les schizophrénies dites « résistantes » et sur symptômes négatifs de la schizophrénie). Généralement antagonistes de la dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clozapine (Leponex)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Olanzapine, pamoate d'olanzapine (Zyprexa)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rispéridone, rispéridone microsphère (Risperdal)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quétiapine (Xeroquel)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ziprasidone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amisulpride (Solian)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Palmitate de palipéridone (Xeplion)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes partiels de la dopamine: Aripiprazole (Abilify)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "fichier": "QCM_GLUTAMATE.pptx",
+  "session": "QCM",
+  "total_slides": 2,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GLUTAMATE  QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le GLUTAMATE  est :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-acide\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un acide α  aminé di carboxylique \t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "plutôt neurotransmetteur \t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "plutôt neuromodulateur\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=======================================================================================Les récepteurs GLUTAMATE ionotropes:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "fonctionnent en coopérativité positive  \toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont perméable aux ions Chlorures\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux cations \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Sodium \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Potassium \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Calcium\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================= Le Glutamate en excès dans le milieu extracellulaire a des effets:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "protecteurs de la cellule \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "excitotoxiques\t\t\t\t\t\toui non  et si oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ces effets sont dus à:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une acidification du milieu \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une entrée massive d’ions Calcium dans la cellule \toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GLUTAMATE  QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le GLUTAMATE  est  :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-acide\t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un acide α  aminé di carboxylique \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "plutôt neurotransmetteur \t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "plutôt neuromodulateur\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=======================================================================================Les récepteurs GLUTAMATE ionotropes :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "fonctionnent en coopérativité positive  \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont perméable aux ions Chlorures\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux cations \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Sodium \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Potassium \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont  perméable aux ions Calcium\t\t ui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================= Le Glutamate en excès dans le milieu extracellulaire a des effets :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "protecteurs de la cellule \t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "excitotoxiques\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ces effets sont dus à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une acidification du milieu \t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une entrée massive d’ions Calcium dans la cellule \t oui",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

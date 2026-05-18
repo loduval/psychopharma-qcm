@@ -1,0 +1,1108 @@
+{
+  "fichier": "VI-Barrière hémato-méningée (complément non sonorisé)_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 22,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Passage des médicaments dans le parenchyme cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrières",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique BHE",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Passage des médicaments dans le parenchyme cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrières",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique (BHE)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La physiologie de la Barrière Hémato-Encéphalique peut apparaitre simple au premier abord.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Elle est maintenant d’une complexité telle que des équipes de recherche se consacrent à son étude.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "On citera:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le laboratoire de la physiopathologie de la Barrière Hémato-Encéphalique, Université d’Artois",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protections anatomiques et physiologiques du Système Nerveux Central: Rappel des évidences",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protections macroscopiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tissus durs: Rachis et boite crânienne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tissus mous: Méninges Dure mère Arachnoïde Pie mère",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protection liquidienne : Liquide céphalo-rachidien   LCR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Rôle protecteur  mécanique « amortisseur »",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Rôle  protecteur nutritionnel et immunitaire",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Rôle de protection métabolique, homéostasie: régulation des concentrations \textracellulaires en ions et neurotransmetteurs(GABA ; Glutamate)",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le LCR est totalement renouvelé toutes les 6 à 8 heures",
+          "indent": 2
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protections microscopiques: « les barrières » cf. infra",
+          "indent": 2
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cytologie quantitative du Système Nerveux Central, approche simplifiée : Rappel des évidences",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombre de cellules:  200 à 500 109",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurones; Névroglie; Cellules endothéliales vaisseaux, capillaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurones:10 à 20%",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cellules endothéliales: 10 à 25 %",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "capillaires à jonctions serrées donc non fenestrés avec faible nombre de vésicules \t\tde pinocytoses;",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "capacités enzymatiques de dégradation de molécules endogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "capacité de transport actif: influx et efflux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Névroglie:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Microglie 10à 15%; oligodendrocytes et cellules de Schwann; cellules épendymaires( épithélium des ventricules  et du canal de l’épendyme.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Astrocytes: cellules majoritaires du cerveau  40% Assurent le contact du neurone à son \tenvironnement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "( Référence: Heurtaux T. Thèse Nancy 1 02/11/2005)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "S.N.C: Tissus et  compartiments liquidiens- modalités d’échange",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Approche simplifiée : Rappel des évidences",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Compartiments liquidiens:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "LCR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sang",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Liquide interstitiel et  liquide intracellulaire (liquides du parenchyme proprement dit)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Echanges: se font au travers de « barrières »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Echanges Sang↔ LCR Barrière Hémo-Liquidienne ou Hémato-méningée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "épithélium des plexus choroïdes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Echanges Parenchyme Cérébral↔ LCR Barrière « Liquido-Tissulaire »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "épendyme et pie-mère",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Très perméable, échanges non sélectifs, mérite peu le nom de barrière *»",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Echanges Sang↔ liquides du parenchyme proprement dit",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique, la plus importante par sa superficie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après: A. Fabulas-Da Costa ,Thèse Université d’Artois, ED 446; *  phrase extraite du texte de cette thèse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "« La  Barrière Hémato-Encéphalique  ʺBHEʺ est une structure très efficace pour limiter les atteintes neurologiques des traitements à visée périphérique, mais devient l’obstacle majeur dans le cadre des traitements à visée cérébrale »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A. Fabulas-Da Costa ,Thèse Université d’Artois, ED 446",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "citation extraite du texte de cette thèse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "BHE",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Découverte de  la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux de Paul Ehrlich début du XXème siècle :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Injection par voie intraveineuse (IV) d’un colorant vital à un animal d’expérience. Dissection.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Coloration de l’ensemble des organes exception faite du cerveau «  le colorant n’ a pas d’affinité pour le tissu nerveux »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répétition de ces travaux:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Injection de Bleu Trypan dans le LCR,. Dissection. Seul le cerveau est coloré.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence du rôle du LCR:  comme médiateur du passage du sang vers le parenchyme cérébral et définition d’un mécanisme de passage de diverses substances du sang dans le LCR puis dans le parenchyme cérébral: barrière Hémo-Liquidienne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Apparition de la notion de barrière sang-cerveau Blut-Hirn Schranke",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dénomination de cette barrière :Barrière Hémato Encéphalique par des auteurs suisses en1921",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Saunders RN et al., Frontiers in Neurosciences,2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Découverte de  la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les médicaments pour pouvoir agir doivent atteindre la biophase, où se trouvent leur site d’action et dans le cas des médicaments psychotropes, ils doivent franchir la barrière hémato-encéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il n’ y a pas de contact direct entre le sang et le parenchyme cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les capillaires cérébraux n’ont pas de fenestrations; il n’ a pas de solution de continuité dans l’endothélium vasculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Découverte du rôle de la structure de ces capillaires dans le passage sang-cerveau de diverses substances: utilisation d’un traceur facilement repérable",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la peroxydase du raifort \tHorseradish Peroxydase HRP",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Découverte de  la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Technique histochimique utilisant cette protéine HRP d’une relative petite taille:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Injection voie IV;",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Atteinte des tissus par diffusion à travers les capillaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Facilement détectable par mise à profit d’une réaction d’oxydation d’un substrat, le produit de la réaction étant un composé opaque et brun.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injection dans la circulation cérébrale d’un animal d’expérience",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Localisation de la HRP dans la lumière des capillaires et dans les quelques rares vésicules de pinocytose.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pas de HRP dans l’endothélium vasculaire ni dans le tissu nerveux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Support de la BHE= Jonctions serrées des capillaires cérébraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reese TS and al., Journal of Cell Biology , 1967,34,207-217",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "« BHE »    Capillaire à jonctions serrées et capillaire normal",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Schéma 3   adapté de:  Molino Y., Thèse Université Aix-Marseille  18/12/2005",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "« BHE »    Capillaire à jonctions serrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cellules endothéliales à jonctions serrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "pas de fenestrations",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "peu de vésicules de pinocytose",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La couche de cellules endothéliales repose sur une lame basale et par endroits, sur les péricytes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La lame basale est entourée par les prolongements pédiculaires des astrocytes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les astrocytes sont au contact du neurone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La BHE est donc constituée par les capillaires à jonctions serrées et les astrocytes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les astrocytes sont impliqués dans la formation et le maintien des jonctions serrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les cellules endothéliales cérébrales isolées de leur environnement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "perdent leurs caractéristiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Des protéines complexes transmembranaires et intracytoplasmiques constituent les jonctions serrées",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique « BHE »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "rapports existant entre le neurone, les   astrocytes et les capillaires à jonctions serrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Unité Neuro-Glio-Vasculaire  « UNGV »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cellules vasculaires endothéliales (membrane basale)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Péricytes recouvrent une grande partie de la membrane basale et contribuent à la stabilité des micro-vaisseaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Matrice extracellulaire  produites par les cellules endothéliales",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cellules gliales au contact des capillaires et des neurones",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurones au contact des cellules gliales; les neurones influencent la formation des jonctions serrées s serrées",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Barrière Hémato-Encéphalique « BHE »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Représentations des rapports existant entre le neurone, les   astrocytes et les capillaires à jonctions serrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Unité Neuro-Glio-Vasculaire  « UNGV »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Schéma 1    adapté de : Del Zoppo G.J    N Engl J Med 2006; 354:553-555",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Schéma 2    adapté de:  Heurtaux  T.,   Thèse Université de Nancy 1 - 02/11/2005",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Schéma 3   adapté de:  Molino Y., Thèse Université Aix-Marseille  18/12/2005",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "BHE :Unité Neuro-Glio-Vasculaire  « UNGV »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "BHE :Unité Neuro-Glio-Vasculaire  « UNGV »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Schématisation des mécanismes de transport de diverses molécules à travers la Barrière Hémato-Encéphalique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schématisation des mécanismes de transport de diverses molécules à travers la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schéma adapté de la publication",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Wong AD, Ye M, Levy AF,  et al.: The blood-brain barrier: an engineering perspective.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Front. Neuroeng. 2013; 6: 7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mécanismes de transport de diverses molécules à travers la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La physiologie de la BHE est très complexe et nous n’en n’avons donné qu’un aperçu très simplifié",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Lipophilie des médicaments psychotropes n’est qu’une des conditions qui va faciliter l’atteinte de la biophase.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous rendons encore hommage aux auteurs des différentes thèses citées dont la lecture a permis l’écriture de ce modeste exposé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph Benyaya, Septembre 2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

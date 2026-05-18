@@ -1,0 +1,479 @@
+{
+  "fichier": "QCM_réglementation_et_agences_du_médicament.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Règlementation et agences du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une Autorisation de Mise sur le Marché (AMM) accordée à une spécialité pharmaceutique  :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est définitive\t\t\t\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Exige du titulaire des mise à jour constantes du dossier la concernant\t \t oui   non ======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’AMM  implique obligatoirement :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’agrément aux collectivités\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’inscription au livret thérapeutique de chaque hôpital\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================Le dossier de demande d’AMM d’un médicament  se fonde sur des documents  qui prouvent :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa qualité pharmaceutique\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa supériorité sur les traitements existants            oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Son efficacité thérapeutique   \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa  sécurité d’emploi \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa totale innocuité\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================La procédure de demande d’AMM peut être",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nationale                                                                                     \t\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Européenne et centralisée auprès de l’Agence Européenne du Médicament \toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Internationale et centralisée  auprès de la Food and Drug Administration \toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une Autorisation de Mise sur le Marché (AMM) accordée à une spécialité pharmaceutique  :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est définitive\t\t\t\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Exige du titulaire des mise à jour constantes du dossier la concernant\t \t oui   ======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’AMM  implique obligatoirement :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’agrément aux collectivités\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’inscription au livret thérapeutique de chaque hôpital\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================Le dossier de demande d’AMM d’un médicament  se fonde sur des documents  qui prouvent :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa qualité pharmaceutique\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa supériorité sur les traitements existants \tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Son efficacité thérapeutique   \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa  sécurité d’emploi \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sa totale innocuité\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================La procédure de demande d’AMM peut être",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nationale                                                                                     \t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Européenne et centralisée auprès de l’Agence Européenne du Médicament \toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Internationale et centralisée  auprès de la Food and Drug Administration \t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Règlementation et agences du médicament",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "La note  évaluant le Service Médical Rendu( SMR ) par un nouveau médicament  :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est fondée sur son  intérêt thérapeutique  \t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est  fondée   sur l’originalité de son mécanisme d’action \t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est attribuée par la commission d’AMM \t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La note évaluant l’ Amélioration du Service Médical Rendu( SMR ) par un nouveau médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est identique à celle du SMR\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est fondée sur les progrès  qu’il apporte\t\t\toui non\t\t\t\t Est attribuée par la commission  d’AMM  \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est attribuée par la commission  de Transparence\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conditionne son prix public \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================La déclaration de survenue d’effets indésirables, ou supposés tels, auprès des CRPV par exemple:\t\tEst facultative pour les pharmaciens d’officine  qui en ont connaissance \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est facultative pour les médecins libéraux            \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N’est obligatoire que pour les Praticiens Hospitaliers Universitaires\t\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "==============================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les demandes d’études de pharmacovigilance complémentaires  en Europe peuvent :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "être exigées par les Agences Nationales \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "être exigées par la FDA \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "être refusées par le laboratoire titulaire de l’AMM \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Règlementation et agences du médicament",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "La note  évaluant le Service Médical Rendu( SMR ) par un nouveau médicament  :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est fondée sur son  intérêt thérapeutique  \t\t\t  oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est  fondée   sur l’originalité de son mécanisme d’action \t\t  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est attribuée par la commission d’AMM \t\t\t   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La note évaluant l’ Amélioration du Service Médical Rendu( SMR ) par un nouveau médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est identique à celle du SMR\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est fondée sur les progrès  qu’il apporte\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est attribuée par la commission  d’AMM  \t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est attribuée par la commission  de Transparence\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conditionne son prix public \t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "========================================================================================La déclaration de survenue d’effets indésirables, ou supposés tels, auprès des CRPV par exemple:\t\tEst facultative pour les pharmaciens d’officine  qui en ont connaissance \t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est facultative pour les médecins libéraux            \t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N’est obligatoire que pour les Praticiens Hospitaliers Universitaires\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "==============================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les demandes d’études de pharmacovigilance complémentaires  en Europe peuvent :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "être exigées par les Agences Nationales \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "être refusées par le laboratoire titulaire de l’AMM \t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Règlementation et agences du médicament",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

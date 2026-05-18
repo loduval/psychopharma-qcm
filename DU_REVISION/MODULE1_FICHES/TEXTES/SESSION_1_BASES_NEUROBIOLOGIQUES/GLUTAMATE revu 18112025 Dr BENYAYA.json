@@ -1,0 +1,1376 @@
+{
+  "fichier": "GLUTAMATE revu 18112025 Dr BENYAYA.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 38,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes\t\t\tRevue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide glutamique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amino-Acide non essentiel; forme ionisée = Glutamate; Forme amidifiée= Glutamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Glutamate",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ni l’acide Glutamique ni le Glutamate ne franchissent la barrière Hémato-Encéphalique (BHE)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Glutamine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide Glutamique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CH2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CH",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1960: « Les formes anioniques des aminoacides dicarboxyliques , acide Glutamique et acide Aspartique exercent une puissante action excitatrice sur les neurones spinaux alors que les produits de leur décarboxylation GABA et  β Alanine et ont une action inhibitrice de l’excitation neuronale  »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1962: synthèse du premier dérivé méthylé de l’aminoacide  dicarboxylique, acide Aspartique , N-Méthyl-DL-Aspartate, aux propriétés excitatrices des neurones de mammifères et de crustacés.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence , par plusieurs équipes indépendantes des effets neurotoxiques d’injection de ces aminoacides diacides dans l’hippocampe et la rétine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Watkins J.C., Jane D.E:  Brit. J. Pharmacol, 2006",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fonnum. F :  J. Neurochemistry, 1984",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Biosynthèse : action d’une transaminase sur l’acide α-cétoglutarique   produite par le cycle de Krebs=> acide  glutamique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Séparation   des   compartiments   d’acide   glutamique  :  glutamate du métabolisme cellulaire général ; glutamate  neurotransmetteur : stockage sous forme de glutamine dans les astrocytes [réserve].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Stockage vésiculaire : transporteur vésiculaire couplé à une pompe à protons ; différent du transporteur membranaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Libération : sous influence d’un courant Ca2+.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Recapture : à partir du milieu extracellulaire synaptique ; transporteur couplé à une pompe Na+ K+. Les astrocytes régulent le taux extracellulaire de glutamate.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dégradation : inactivation par formation de glutamine [stockage astrocytaire] ; inactivation par transamination=> acide α-cétoglutarique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« A la différence des autres systèmes de neuromédiateurs l’organisation  du système Glutamatergique , comme le système GABA ergique, n’ a pas de localisation anatomique bien individualisée »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après  R. Bordet  et al. ,Neuropsychopharmacologie , Elsevier  Masson ,2019",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recyclage gliale de l’acide Glutamique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Glutamine, Métabolite et précurseur aux deux visages",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence du schéma de la diapositive 11",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The American Psychiatric Association Publishing",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Textbook of Psychopharmacology, sixth edition, 2024,edited by A.F. Schatzberg and Charles B. Nemeroff",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tome 1 Page: 89 ;  modifié",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Glutamine, métabolite et précurseur aux deux visages",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le catabolisme du GABA et du Glutamate  se déroule dans les cellules gliales et produit la Glutamine.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’anabolisme  du GABA et du Glutamate à partir d’un même précurseur, la  Glutamine, va se produire dans",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Leurs neurones respectifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le neurotransmetteur inhibiteur, par excellence, et le neurotransmetteur excitateur ,aussi par excellence, ont le même précurseur et leur catabolisme donne le même produit.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« l’organisme humain est partisan du moindre effort »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "X",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "N.B.: Ions Sodium et Calcium: flux entrant dans la cellule.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ion Potassium: flux sortant. L’augmentation de la concentration extracellulaire en ions K+ va créer un milieu dépolarisant et faciliter la dépolarisation des neurones adjacents (dia n° 20)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gielen M : Médecine. Science,2010,26:65-72 .En ligne",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Ionotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu: Agonistes Analogues naturel et de synthèse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Glutamate (Forme ionisée)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Coopérativité des récepteurs AMPA et NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Ionotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "K+",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "K+",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "K+",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Flux Sortant",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intensité, picoampères",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Evolution de l’intensité du courant transmembranaire post synaptique après activation des récepteurs AMPA permettant la levée de l’obstacle Mg2+ et activer les récepteurs NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Purves D.et al, Neurosciences, 2001,Sinauer",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs ionotropes  Canaux perméables aux cations: KAr",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les récepteurs   KAr présynaptiques fonctionnent en tant qu’ autorécepteurs  (neurones Glu)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ou hétéro-récepteurs (neurones GABA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ils vont réguler l’excitabilité neuronale( inhibition  des neurones Glu; excitation des neurones GABA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les récepteurs   KAr postsynaptiques  augmentent l’excitabilité de certaines voies de",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’hippocampe.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Leur importance a été mise en évidence par les premières études du Pr Y. Ben Ari :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’injection d’acide Kaïnique à des souris, dans l’hippocampe , provoque des crise d’épilepsie d’une certaine région, avec perte cellulaire et propagation de l’excitation dans les autres régions limbiques(modèle d’épilepsie temporale)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "26",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Premiers travaux    J.W Olney Science, 1969",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "“In newborn mice subcutaneous injections of monosodium glutamate induced acute neuronal necrosis in several regions of developing brain including the hypothalamus”",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "J.W Olney 1971",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "“Nécrose neuronale provoquée par  injection de Glutamate dans  l’ hypothalamus de souriceau",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les lesions sont nettement limitées aux cellules post synaptiques: l s dendrites des neurones cibles étaient fortement gonflées tandis que les  terminaisons présynaptiques étaient épargnées”",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "J.W Olney , Nature, 1978",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "50 nmoles Glutamate dans le striatum de rat => dégénérescence neuronale; modèle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neuropathologique de la maladie de Huntington",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(solution saline, solution GABA: aucune lesion du parenchyme striatal)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "27",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Excitotoxicité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "In Neurosciences , De Boeck, 5ème édition ,encadré page 123",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Excitotoxicité : en référence aux effets à la fois « excitateurs » et « toxiques » du Glutamate",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Conditions pathologiques : homéostasie du glutamate perturbée -  stimulation excessive des récepteurs ionotropes AMPA et NMDA=> influx important de Na+ et de Ca2+ dans  neurone post-synaptique=>dépolarisation des cellules =>cascade de voies intracellulaires => mort neuronale possible.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Entrée massive de Ca2+ dans le neurone post-synaptique, =>atteinte calcique irréversible d'origine mitochondriale=>  mort neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "28",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Entrée massive de Ca2+ dans le neurone post-synaptique, =>atteinte calcique irréversible d'origine mitochondriale=>  mort neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcium en excès :  stocké dans la mitochondrie (grande capacité de rétention du Ca2+)  =>chaine respiratoire perturbée=> production des ROS=> perméabilité au  Ca2+ =>libération  cytoplasmique du calcium accumulé=> cascade  de réactions => apoptose",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Concentration excessive du calcium intracellulaire active de nombreuses molécules:  \t             \t\t\tProtéases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Phospholipases ,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Endonucléases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NO synthétase",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "29",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ROS, Reactive Oxygen Species: composés oxygénés très réactifs tels que radicaux libres, peroxydes. Sces composés sont naturellement produits mais les cellules les dégradent grâce à des enzymes , des Vitamines C ,E  et le Glutathion",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Concentration excessive du calcium intracellulaire active de nombreuses molécules:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protéases : dégradation de de nombreuses protéines ayant un rôle physiologique important -protéines du cytosquelette, enzymes, récepteurs, échangeur Na +/Ca2+, (régulation du Ca2+ intracellulaire  )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Phospholipases : dégradation des lipides membranaires ; production d'acide arachidonique, potentiellement toxique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Endonucléases : clivent irrémédiablement l'ADN.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NO synthétase produit du monoxyde d'azote",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(NO), qui en s'associant avec les ions superoxydes, =>superoxyde d'azote (ONOO-) qui a un fort pouvoir oxydant.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "30",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "In Élodie BRISON Thèse  (PhD.) 2013  Université du Québec",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "31",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Le tissu cérébral lutte contre ses propres neurotransmetteurs excitateurs »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Potentialisation à Long Terme d’une jonction neuro-neuronale:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résultat d’une expérimentation:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Axones provenant du Cortex entorhinal du rat :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "stimulation par des trains d’ondes rapides( stimulation du neurone présynaptique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de l’activité des neurones du Gyrus dentelé( (post-synaptique),",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(comparée à une activité résultant d’une stimulation unique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cette capacité à produire une réponse amplifiée persiste plusieurs jours, voire \tplusieurs mois . (modèle de stockage de l’information)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Capacité inhibée par les antagonistes NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition de la LTP : inhibition de l’apprentissage (labyrinthe de Morris)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "32",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pour aller plus loin: Mémoire de M.A Martel ,Université du Québec, Trois-Rivières,2005",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Gyrus dentelé: partie de la circonvolution de l’hippocampe",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes non-compétitifs  des Récepteurs NMDA:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Haute affinité:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Phencyclidine (PCP)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine: anesthésique général; traitement des dépressions résistantes dites « malignes »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Cf.  Annexe diaporama glutamate Kétamine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Faibles affinité:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amantadine  Antiparkinsonien",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mémantine (diméthyl- Amantadine) : Antiparkinsonien; médicament du traitement de la maladie d’Alzheimer",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dextrométorphane Antitussif ;analgésique. analogue structural de la morphine; pas d’affinité pour les",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "récepteurs opioergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacologie :Antagonistes NMDAr",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "34",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacologie : Antagonistes NMDAr",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes non-compétitifs  des Récepteurs NMDA:",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Des chercheurs ont émis l'hypothèse voulant que l'activation soutenue des récepteurs NMDA (N-Méthyl-D-Aspartate) du système nerveux central par le glutamate, acide aminé excitateur, contribue à la pathogenèse de la maladie d'Alzheimer.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est émis comme principe que l’effet thérapeutique de la Mémantine s’exerce par son action antagoniste non compétitive sur le récepteur NMDA avec une affinité faible à modérée (canaux ouverts) et que la Mémantine se fixe préférentiellement aux canaux cationiques dépendant du récepteur NMDA.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elle bloque les effets de taux toniques anormalement élevés de glutamate qui pourraient entraîner une dysfonction neuronale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il n’y a pas de données cliniques montrant que la Mémantine prévient ou ralentit la neurodégénérescence, ni qu’elle modifie le cours du processus de démence sous-jacent chez les patients atteints de la maladie d’Alzheimer »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "35",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A propos de la Mémantine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lundbeck Canada  Ebixa® Mémantine résumé des caractéristiques du Médicament,   2016",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il y a dans la maladie d’Alzheimer une hypoactivité glutamatergique pré et postsynaptique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le processus dégénératif  a provoqué la nécrose* et l’apoptose* des neurones glutamatergiques et cholinergiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quand le diagnostic est posé, le processus pathologique a déjà « fait son œuvre » et il est peut être trop tard pour prévenir les effets excito-toxiques du Glutamate.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est difficile de transposer les effets protecteurs de la Mémantine mis en évidence sur des cellules en culture  au parenchyme cérébral ayant déjà souffert du processus pathologique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Cf. infra",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "36",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A propos de la Mémantine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Peut être est ce pour cette raison que la réévaluation des effets thérapeutiques de la Mémantine a amené les membres de la Commission de Transparence  à conclure :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mémantine (Ebixa®)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Traitement des patients atteints d'une forme modérée à sévère de la maladie d'Alzheimer. »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Compte tenu de ces éléments et du recul disponible, la Commission considère que le service médical rendu par les spécialités EBIXA est insuffisant pour justifier leur prise en charge par la solidarité nationale dans l’indication de l’AMM.(Octobre 2016)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "37",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLUTAMATE Glu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A propos de la Mémantine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Nécrose et apoptose cellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "38",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

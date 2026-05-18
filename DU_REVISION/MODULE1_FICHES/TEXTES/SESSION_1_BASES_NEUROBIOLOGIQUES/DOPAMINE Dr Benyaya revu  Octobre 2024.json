@@ -1,0 +1,3241 @@
+{
+  "fichier": "DOPAMINE Dr Benyaya revu  Octobre 2024.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 63,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DOPAMINE DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "DOPAMINE DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "DOPAMINE",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Structure catécholamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sort neuronal et extraneuronal du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Voies de la transmission dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets périphériques et hormonaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régulation de la motricité extrapyramidale: involontaire semi-volontaire et associée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pathologie: schizophrénie –Hypothèses dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine et substances toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Catéchol",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "amine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amine primaire avec fonction diphénol [ou catéchol] • catécholamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Précurseur : acide aminé essentiel, la phénylalanine, apporté par l’alimentation. La tyrosine est considérée comme le vrai précurseur, elle provient de l’alimentation ou de la transformation de la phénylalanine. C’est la tyrosine qui est transportée à travers la Barrière Hémato-Encéphalique (BHE).",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Sort neuronal du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phénylalanine\t      Tyrosine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "hydroxylase\thydroxylase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DOPA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "décarboxylase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biosynthèse : dans les terminaisons axonales où sont transportées les enzymes synthétisées dans le soma.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Libération : se fait après entrée du Ca2+ par les canaux calciques voltage dépendants • fusion des membranes vésiculaires  et plasmiques. Une fois le neuromédiateur fixé sur le récepteur ayant exercé son action, il est recapturé [100 molécules libérées, 1fixée] : économie et caractère phasique de l’influx",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Transporteur membranaire et vésiculaire : protéine à 12 domaines transmembranaires - énergie transporteur  fournie par la pompe métabolique [ATP, ATPase] Na+ /K+.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Ouabaïne inhibiteur de l’ATPase s’oppose à la recapture. La spécificité des transporteurs NA/DA n’est pas stricte, elle est  relative.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le transporteur vésiculaire est commun, l’énergie est fournie par une pompe à protons dans la vésicule.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DOPA=Di-hydroxy- Phényl Alanine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Phényl Alanine ,Tyrosine, DOPA, franchissent la Barrière Hémato-Encéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dopamine, à l’instar des autres neuromédiateurs, ne franchit pas la BHE. La BHE protège la biophase centrale des neuromédiateurs de la périphérie. En effet, si  ces derniers passaient dans cette biophase; aucune régulation centrale ne serait possible",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Phényl Alanine ,Tyrosine, DOPA et Barrière Hémato-Encéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La question de la  Barrière Hémato-Encéphalique (BHE) sera traitée dans le cours de pharmacodynamie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dégradation : action de la Mono Amine Oxydase intraneuronale et de la Catéchol-O-Méthyl Transférase gliale • formation d’’acide homovanillique : HVA [marqueur périphérique du métabolisme de la dopamine].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tronc cérébral : origine des noyaux regroupant les somas des neurones produisant la Dopamine, la  NorAdrénaline, la  Sérotonine ou 5 Hydroxy-Tryptamine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Somas des neurones  produisant la Dopamine DA : partie haute du tronc cérébral Locus Niger et Mésencéphale :  Tegmentum Ventral  [pédoncules cérébraux reliant le tronc au cerveau].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Trois voies principales     \t      «origine »   « tenants \"                                   projections « aboutissants »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nigrostriatale ou Nigro-striée:       Locus Niger  (substance noire)                                Corps striés  (striatum)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mésolimbique:                               Mésencéphale (tegmentum Ventral)\t\t      Système limbique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mésocorticale:\t\t      Mésencéphale (tegmentum Ventral)\t       Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Innervation dopaminergique nigrostriatale chez le rat    [d’après Lindvall & Fuxe]",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Innervation dopaminergique mésocorticale et mésolimbique chez le rat   [d’après Lindvall & Fuxe]",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dopamine Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Innervation dopaminergique centrale   chez  l’homme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "[d’après Hyman & Nestler ]  [simplifié]",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Actions physiologiques périphériques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet de vasodilatation [rénale, mésentérique, coronaire et cérébrale ].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet diurétique par diminution de la réabsorption tubulaire de Na+.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulation de la pression artérielle nocturne et de sa diminution [\"dip\"]. L’intégrité de la voie dopaminergique mésolimbique est nécessaire à cette chute physiologique nocturne de la pression artérielle moyenne. Cette absence de chute physiologique de la pression artérielle, en particulier chez les hypertendus [patients \"non dippers\"], augmente le risque de  complication cardiovasculaires.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets à dose élevée : stimulation des récepteurs adrénergiques Alpha1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "et Béta 1 [effets inotrope* et chronotrope** positifs].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine périphérique sécrétée par la médullosurrénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Actions physiologiques périphériques et centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La dopamine s’oppose à la sécrétion de la prolactine. Ce serait le facteur hypothalamique inhibiteur de la prolactine sécrétée par l’adénohypophyse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "[ PIF, Prolactin Inhibiting Factor ].  Cette inhibition est tonique. Les taux de prolactine circulante sont faibles. 5 à 25 ng/ml  ou Homme = 3 à 11ng/ml   Femme= 3 à 17 ng/ml",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hyperprolactinémie franche >35 ng/ml",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cette inhibition est progressivement levée au cours de la grossesse.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "150 à 250 ng/ml (3 ème trimestre)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les médicaments antagonistes des récepteurs dopaminergiques D2 entraînent une galactorrhée et une aménorrhée chez la femme et une gynécomastie chez l’homme.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques classiques: prévalence 33% à 71 %:   42 ng/ml en moyenne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antipsychotiques atypiques:  Amisulpride:  prévalence 41 %:   73 à 92 ng/ml (dose 500 ±  300mg/j",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rispéridone (taux circulants thérapeutiques):   prévalence  39% : 73 à 92 ng/ml",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "In Peuskens et al., 2014   CNS drugs      Besnard et al.,2018   L’Encéphale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets neuro-Humoraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques périphériques et centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les effets sur l’hormone de croissance [HGH] sont complexes, ces effets sont à la fois positifs et négatifs. La dopamine stimule la sécrétion de base de HGH [sécrétion tonique] mais inhibe la sécrétion de HGH stimulée par l’effort, l’hypoglycémie, le  sommeil lent [sécrétion phasique].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les enfants hyper actifs traités par les dérivés amphétaminiques (agonistes dopaminergiques indirects, libérant la dopamine et inhibant sa recapture*) ont une croissance plus lente. A la fin de l’adolescence ce retard est « rattrapé »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets neuro-Humoraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* On emploie le terme capture ou recapture; on peut aussi employer le mot captage qui est un terme d’hydrologie (captage d’une source) . Captation , mot technique du droit notarial, est à bannir",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques  centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dopamine est un neuromodulateur de la veille plutôt que du sommeil. Elle contribue à la vigilance de veille soutenue,  active, avec activation corticale, plus particulièrement avec activation de l’éveil comportemental.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les antagonistes dopaminergiques DA2 classiques [neuroleptiques classiques] entraînent une dissociation de l’éveil EEG et de l’éveil comportemental [activité motrice maintenue avec absence de tracé d’éveil lors de la stimulation de la  formation réticulée chez l’animal].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les lésions des neurones dopaminergiques, du Locus Niger ou du Mésencéphale, chez le rat, ont pour résultat une absence de réponse comportementale à une stimulation.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fonctions cognitives",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Comportements organisés chez l’animal :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Destruction des voies dopaminergiques par une neurotoxine comme la 6 Hydroxy Dopamine (6OH DA)* => syndrome caractéristique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "hyperactivité, désorganisation comportementale, difficulté d’ apprentissage \t\t\t\td’une tâche",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "difficulté d’initiation du mouvement (pour éviter un stimulus douloureux)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Comportements motivés chez l’animal :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stimulation des voies dopaminergiques=> stimulation d’un comportement motivé comme le comportement d’autostimulation  électrique intracérébrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*6OH DA injectée dans le  Cortex => capturée par les terminaisons neuronales DA  => formation de peroxydes toxiques =>mort neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fonctions cognitives",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Situations pathologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Maladie de Parkinson",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments dopaminergiques améliorent la mémoire immédiate",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse d’hypodopaminergie corticale et d’hyperdopaminergie sous corticale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "troubles des fonctions cognitives: attention soutenue, mémoire immédiate  de travail",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Motricité involontaire, semi-volontaire et associée (extra-pyramidale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Motricité volontaire régulée par la voie pyramidale, monosynaptique. Décussation pyramidale à 80%",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex pyramidal de la motricité volontaire, aire pré-rolandique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Motricité associée régulée par une  voie polysynaptique  dite extra-pyramidale –",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "part d’un cortex moteur associatif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "contrôle des noyaux gris centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "contrôlent cette aire motrice",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie indirecte inhibitrice",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie directe activatrice",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques périphériques et centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Motricité involontaire, semi-volontaire et associée (extra-pyramidale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Locus Niger [ou Substantia Nigra]             efférences neuronales dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Striatum = [voie  dopaminergique nigro striée]  striatum = origine des voies directe et indirecte, modulatrices du mouvement.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mouvement: exécuté, motivé, planifié, démarré  / un contexte appréhendé  par informations extéroceptives et proprioceptives",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "\"cortex moteurs \"            impulsion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "noyaux gris  centraux : modulation du  mouvement, Importance du  cortex associatif [information de l’environnement : extéroceptives et de l’état du corps : proprioceptives],  informant le cortex moteur pyramidal et extrapyramidal via le thalamus.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les noyaux gris centraux sont en « dérivation du système pyramidal » (ou voie cortico- spinale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Corps calleux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "IIIème ventricule",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ventricules latéraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Représentations très simplifiées: A- coupe coronale de cerveau passant par le 3ème ventricule",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B coupe de la parie haute du tronc cérébral",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Actions physiologiques  centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Motricité involontaire et semi-volontaire (extra-pyramidale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Voie nigro striatale dopaminergique (DA):",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "somas des neurones – Locus Niger         récepteurs DA du striatum",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le striatum régule les cortex moteurs et le cortex associatif",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "par une voie directe activatrice",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "par une voie indirecte inhibitrice",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le pallidum interne projette ses efférences directement sur le thalamus qui, lui, agira sur le cortex. Il s’agit d’une voie  striato-pallido thalamo corticale ou voie directe.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le pallidum externe qui projette ses efférences indirectement sur le thalamus via le noyau sous thalamique, puis le pallidum  externe. Il s’agit d’une voie striato-pallido sous thalamo pallido thalamo corticale ou voie indirecte",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Effets Centraux Motricité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "voie  Cortico -striato-pallido thalamo corticale ou voie directe",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Striatum",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thalamus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pallidum",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACTIVE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACTIVE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’activation de la double inhibition a pour résultat une activation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le mouvement est amplifié",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La voie directe permet l’initiation du mouvement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Dopamine active la voie directe",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le pallidum inhibiteur a été inhibé par le striatum inhibiteur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’inhibition du Thalamus  est levée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’après Pr N.Kubis",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets Centraux Motricité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie  Cortico-striato-pallido- sous thalamo- pallido- thalamo corticale ou voie indirecte",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Striatum",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thalamus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pallidum",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACTIVE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Noyaux sous thalamiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pallidum interne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACTIVE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "INHIBE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activés par la double inhibition",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thalamus activateur est inhibé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’inhibition de la double inhibition a pour résultat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une inhibition",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le mouvement est annihilé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La voie indirecte inhibe l’initiative du mouvement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Dopamine  inhibe faiblement la voie indirecte",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’après Pr N.Kubis",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Dopamine Effets centraux motricité",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Le système extra-pyramidal peut être comparé à un servomécanisme facilitant et harmonisant les influx qui suivent la voie commune. Celle-ci est néanmoins commandée par  le système pyramidal » Professeur André Delmas",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La perturbation du système extrapyramidal due à la  suppression totale ou partielle  de la libération de Dopamine consécutive à la destruction du Locus Niger  est à l’origine de la Maladie de Parkinson.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’inhibition exercée par la dopamine sur les neurones cholinergiques striataux est levée.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’inhibition des récepteurs DA striataux par les neuroleptiques provoque un syndrome parkinsonien et des effets extrapyramidaux. L’intensité de ce syndrome est réduite par les médicaments  antiparkinsoniens, dits de synthèse.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pendant longtemps on a attribué un rôle majeur à la cholinergie centrale dans la physiopathologie de la maladie de Parkinson. Cependant l’empirisme clinique a permis d’utiliser les alcaloïdes de la Belladone en ignorant tout du rôle de la cholinergie centrale dans cette maladie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Maladie de Parkinson :Une page d’histoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Texte de notre maitre , Paul Rossignol Professeur de Pharmacodynamie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Maladie de Parkinson : maladie neurodégénérative associant de façon asymétrique :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- bradykinésie, akinésie (signe négatif)",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- tremblement de repos, (signe positif)",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- rigidité, hypertonie musculaire, (signe positif)",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ralentissement psychique [\"bradypsychie\", \"viscosité mentale\"]. (signe négatif)",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Micrographie: écriture prise en charge par la motricité volontaire et ainsi « la micrographie permet d ’économiser de l’énergie psychique »(Pr Paul Rossignol)",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Origine: dégénérescence des neurones dopaminergiques du locus niger ou Substantia Nigra. (O.Hornykiewicz, Professeur de Neurologie à Vienne),",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "O. Hornykiewicz  a proposé la thérapeutique de substitution par la L-DOPA [la dopamine, comme tout  neuromédiateur, ne traversant pas la barrière hémato-encéphalique]. Injections IV - perfusion de L-DOPA, 5 à 100 mg /j.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": ".",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(Conception jacksonienne des signes positifs et négatifs)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs  de l’Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nicotiniques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs  de la Noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Béta β",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alpha α",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plusieurs types de récepteurs dopaminergiques?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Premiers travaux de J.Kebabian et D. Caine , Nature, 1979",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Plusieurs types de récepteurs dopaminergiques ? Premiers travaux de J.Kebabian et D. Caine , Nature, 1979",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Identification de ces ligands postérieure aux premiers travaux de Kebabian et Caine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les récepteurs D1 sont, dans le cerveau, les plus abondants",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "Tissu périphérique étudié",
+              "Parathyroïdes",
+              "Cellules mammotrophes Anté-Hypophyse"
+            ],
+            [
+              "Activation Adénylate Cyclase par Dopamine et analogues structuraux",
+              "OUI",
+              "NON"
+            ],
+            [
+              "Concentration  Dopamine  efficace",
+              "Micro-molaire   10-6 M",
+              "Nano-molaire   10-9 M"
+            ],
+            [
+              "Ligand radiomarqué utilisé",
+              "Cis Z Flupenthixol",
+              "(Spipérone)*"
+            ],
+            [
+              "Antagoniste Sélectif",
+              "(SCH 23390)*",
+              "Sulpiride"
+            ],
+            [
+              "Dénomination du Récepteur",
+              "D1",
+              "D2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs métabotropes à 7 domaines protéiques transmembranaires couplés à une protéine G et au GTP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Première approche",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hélice",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Boucle",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plusieurs centaines d’acides aminés",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs métabotropes à 7 domaines protéiques transmembranaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "couplés à une protéine G et au GTP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "et à l’adénylate- cyclase: stimulation pour DA1 inhibition pour DA2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Type DA1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Type DA2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Négatif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMPc",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Couplage Adénylate\nCyclase",
+              "Positif\nAMPc formé"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs métabotropes à 7 domaines protéiques transmembranaires couplés à une protéine G et au GTP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La biologie moléculaire, impliquant des analyses de combinaisons d’ARN messagers et d’ADN mettant en œuvre des techniques extrêmement complexes, a permis d’identifier différents  membres de la famille DA1 : DA1 et DA5",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "et DA2: DA2,  DA3  et DA4",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Tableau résumant la localisation des récepteurs DA et leur fonctionnalité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Répartition des différents types de récepteurs dopaminergiques dans le parenchyme cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Récepteur",
+              "D1",
+              "D5",
+              "D2",
+              "D3",
+              "D4"
+            ],
+            [
+              "Tissu",
+              "Cortex Frontal\nNoyaux Gris Centraux\nAmygdale \n\nHippocampe",
+              "Cortex\nLocus Niger\nThalamus\nHippocampe",
+              "Locus Niger \nMésencéphale\nStriatum Dorsal\nStriatum Ventral\n(Noyau Accumbens)",
+              "Striatum Ventral\n(Noyau Accumbens)\nBulbes olfactifs\n\nHippocampe\nHypophyse",
+              "Cortex\nMésencéphale\nAmygdale\nNoyau Accumbens\n\nHypophyse"
+            ],
+            [
+              "Couplage Adénylate\nCyclase",
+              "Positif\nAMPc formé",
+              "Positif\nAMPc formé",
+              "Négatif\n\nAMPc",
+              "Négatif\n\nAMPc",
+              "Négatif\n\nAMPc"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: Récepteurs D1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Positivement couplés à l’Adénylate Cyclase : AMP cyclique second messager",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activation:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "efficacité dans la Maladie de Parkinson; bonne efficacité des agonistes D1 dans les modèles animaux de de cette affection.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chez l’homme limitation de l’utilisation des ces agonistes D1, par les effets latéraux (hypotension et tachycardie de compensation).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activation:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Stimulation de la mémoire de travail…",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes « bénéfiques dans le traitement des troubles cognitifs inhérents à la schizophrénie? » Peu ou pas d’essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The American Psychiatric Association Publishing Textbook of Psychopharmacology (1) 6th Edition",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": ". Schatzberg, Alan F. (Editor), . Nemeroff, Charles B.,   page:75",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La difficile question des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Constantes Ki des différents médicaments antipsychotiques (nM, 10-9M) pour les différents types de récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*  Chlorpromazine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "**Cis Z Flupenthixol",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Constantes Ki: constantes d’inhibition de la liaison des ligands sélectifs: radiomarqués",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DA1, DA5 : SCH 23390   DA2 ,DA3 ,DA4 : Spipérone      récepteurs clonés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus le Ki est Faible, plus l’affinité est grande",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH PDSP Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CPZ*",
+              "FPX**",
+              "",
+              "Halopéridol",
+              "Amisulpride",
+              "Clozapine",
+              "Olanzapine",
+              "Quétiapine",
+              "Rispéridone",
+              "Aripiprazole"
+            ],
+            [
+              "D1",
+              "76",
+              "",
+              "16",
+              "1218",
+              ">10000",
+              "266",
+              "70,33",
+              "994",
+              "243",
+              "1173"
+            ],
+            [
+              "D2",
+              "2,73",
+              "",
+              "2,3",
+              "2,66",
+              "3",
+              "157",
+              "34,23",
+              "379",
+              "3,57",
+              "1,64"
+            ],
+            [
+              "D3",
+              "1,80",
+              "",
+              "",
+              "9,49",
+              "3,4",
+              "418",
+              "23",
+              "520",
+              "3 ,6",
+              "5,35"
+            ],
+            [
+              "D4",
+              "5,33",
+              "",
+              "",
+              "2,71",
+              "2369",
+              "26",
+              "14,33",
+              "2019",
+              "4,66",
+              "514"
+            ],
+            [
+              "D5",
+              "133",
+              "",
+              "",
+              "123",
+              ">10000",
+              "255",
+              "82",
+              "1625",
+              "289",
+              "2133"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Répartition des différents types de récepteurs dopaminergiques dans le parenchyme cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est admis que les récepteurs les plus exprimés sont les récepteurs rDA1 et rDA2 et que les rDA1 sont les plus abondants.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La localisation des récepteurs dopaminergiques  peut être ainsi résumée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les récepteurs D1 et  D5 sont les plus exprimés dans le cortex cérébral.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Leur densité est dix fois supérieure à celle des D2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les récepteurs D3 ,peu exprimés, sont essentiellement limbiques et leur expression dans le striatum dorsal est négligeable.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Tableau résumant  l’homologie des séquences peptidiques des protéines formant les récepteurs DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La grande homologie  des  rDA2 et  rDA3 d’une part et de rDA1 et  rDA5 d’autre part rend",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "extrêmement difficile la mise au point de ligands sélectifs des récepteurs D3.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "DA1",
+              "DA5",
+              "DA2",
+              "DA3",
+              "DA4"
+            ],
+            [
+              "DA1",
+              "100%",
+              "82%",
+              "44%",
+              "44%",
+              "42%"
+            ],
+            [
+              "DA2",
+              "44%",
+              "49%",
+              "100%",
+              "76%",
+              "54%"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dopamine récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La question des récepteurs D 3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Equipe de J.C Schwartz et P.  Sokoloff : découverte de récepteurs dopaminergiques exprimés essentiellement dans le système limbique : récepteurs DA3  (P. Sokoloff et al. , Nature 1990)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Naissance  d’immenses espoirs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action sélective d’un  médicament antagoniste des D3:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "effet antipsychotique  sans effets extrapyramidaux car absence de blocage des D2 striataux.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cependant l’intérêt thérapeutique de l’antagonisme sélectif de ces récepteurs est toujours discuté : les essais thérapeutiques « pilotes » menés avec des molécules antagonistes sélectives des D3 comme  le Nafadotride ou le BP 897 (agoniste partiel) n’ont pas montré d’effet réducteur des signes et des symptômes psychotiques. Cet antagoniste sélectif des récepteurs D3 est, près de 30 ans après la découverte de ce récepteur, est toujours attendu.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Dopamine récepteurs dopaminergiques: La question des récepteurs D3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les essais thérapeutiques menés avec des agonistes partiels sélectifs ou des antagonistes aussi sélectifs des D3 n’ont pas été concluants.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Cariprazine* a un grande affinité pour les récepteurs D3,mais n’est sélective de ces récepteurs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The American Psychiatric Association Publishing Textbook of Psychopharmacology (1) 6th Edition",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": ". Schatzberg, Alan F. (Editor), . Nemeroff, Charles B.,   page:75",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ki (nM, 10-9M) concentrations nanomolaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AMM  en France, mais non commercialisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Plus le Ki est Faible, plus l’affinité est grande",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aripiprazole: Valeurs différèrent de celle du tableau 34,mais du même ordre de grandeur. Conditions expérimentales différentes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Aripiprazole",
+              "Cariprazine"
+            ],
+            [
+              "D1",
+              "265",
+              ""
+            ],
+            [
+              "D2",
+              "0,34",
+              "0,49"
+            ],
+            [
+              "D3",
+              "0,80",
+              "0,085"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "39",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cariprazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ANALOGUES STRUCTURAUX Pharmacophore Dichlorophényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On ne retrouve pas le pharmacophore neuroleptique de Paul Janssen",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N- Butyl",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N- Ethyl",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2 médicaments  dérivés de la N-Alkyl- Dichloro-Phénylpipérazine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "40",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On retrouve dans la structure de ces deux médicaments un pharmacophore Phényl-Pipérazine sous forme dichlorée. Il présent tel quel ou substitué dans la structure de nombreux psychotropes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A bien y regarder ce pharmacophore est présent dans la structure de la Vortioxetine , de la Miansérine et , sous forme métachlorée, dans la Trazodone et dans",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous ne pensons pas qu’il s’agisse là de pures coïncidences…(observations personnelles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ANALOGUES STRUCTURAUX",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacophore Dichlorophényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole et  Cariprazine.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "41",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Parenthèse:  à-propos du Pharmacophore Phényl-Pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Phényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méta Chloro Phényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Di Chloro Phényl-pipérazine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "42",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Miansérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trazodone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cariprazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacophore Phényl-Pipérazine « dans tous ses états »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vortioxetine, Miansérine, Trazodone :médicaments antidépresseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 43,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Seeman et Lee et al, 1976 :relation log linéaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "inhibition de la  liaison de la dopamine à son récepteur -IC50, concentration inhibant de 50% de  la liaison  en fonction des  intervalle des dose thérapeutiques (mg/j).Plus les CI50 sont faibles, plus l’affinité est grande, plus les doses efficaces  sont faibles",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Doses en mg/j",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CI 50% en mole/l",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments  pharmacologiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 44,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Modèle de la pharmacopsychose amphétaminique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amphétamine, Métamphétamine: agonistes dopaminergiques indirects. inhibiteurs de la recapture de la DA, activateur de la libération de DA (« pool ») de DA nouvellement synthétisée. Administration à un individu sain: \"pharmacopsychose«   ≈  état psychotique aigu; administration au long cours                 psychose dite autonome, possible.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Psychiatres japonais : épidémie d’abus de substance amphétaminique après 1945. Analogie  pharmacopsychose et états  aigus schizophréniformes :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Automatisme mental » [symptômes de 1er rang de Kurt Schneider],",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hallucinations,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Idées de persécution",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "5 ans après arrêt total de la métamphétamine IV,  guérison pour 80% des patients",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "20 % : psychose autonome. Effet protecteur des neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments  pharmacologiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 45,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Modèle de la réactivation symptomatique psychotique par les dérivés amphétaminiques  (Laruelle et al .,1999)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "dérivés amphétaminiques : plus grande libération de dopamine chez sujets schizophrènes [état aigu] / sujets témoins ou sujets schizophrènes dont l’état est en rémission. [mesure du déplacement  d’un traceur radiomarqué, fixé sur le striatum, par la DA  endogène].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amphétamine => exacerbation des signes positifs et  amélioration des signes négatifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Technique Traceur: dérivé de benzamide marqué à l’Iode 123  123 I",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Detection des radiations émises :\tSingle-Photon computerized Emission Tomography  SPECT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tous ces arguments sont en faveur d’une « hyperdopaminergie » dans la schizophrénie, ce qui a fait dire à Laruelle que «  le  vent dopaminergique souffle sur les braises de la psychose »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mais….",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments  pharmacologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 46,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "faibles doses de neuroleptiques => amélioration des signes négatifs et désinhibition.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(sur quelle durée de traitement?)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Doses faibles=>inhibition  des autorécepteurs D2 => libération de DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>  Versant négatif =  hypodopaminergie?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "travaux de P. Simon et A. Puech, sulpiride;",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "travaux de P. Boyer  et al. avec",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "faibles doses d’Amisulpride : traitement de la prédominance des signes négatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "fortes doses d’Amisulpride: :    traitement de la prédominance des signes positifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments  pharmacologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 47,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Davis, 1991:intéressante revue générale= réflexion sur le rôle physiopathologique de la dopamine dans la schizophrénie :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’état clinique de certains patients résiste aux médicaments neuroleptiques,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "signes négatifs  peu amendés par les neuroleptiques antagonistes DA,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elargissement des ventricules cérébraux corrélé à un taux d’HVA  faible dans le liquide céphalo rachidien(LCR)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Anomalies corticales qui seraient  liées à une hypodopaminergie:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Baisse du débit sanguin cérébral,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation du rapport volume ventricules cérébraux / volume du cerveau,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Atrophie préfrontale",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "HVA acide homovanillique :métabolite de la dopamine ;si dopamine disponible concentration  faible =>concentration catabolite faible",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Davis KL, Kahn RS, Ko G, Davidson M. Dopamine in schizophrenia: a review and reconceptualization. Am J Psychiatry., 1991 ,148:1474-86.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments morphologiques et métaboliques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Versant négatif =  hypodopaminergie?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 48,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux de Pickar [1990] : HVA plasmatique et HVA LCR.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Proposition d’une origine corticale de l’HVA dans le LCR et une origine sous-corticale de l’HVA plasmatique.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Signes positifs corrélés à une augmentation de l’HVA plasmatique",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Signes négatifs corrélés  à une  diminution de l’HVA du LCR",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diminution HVA  du LCR   correspond à une aggravation de l’atrophie  cérébrale.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le débit sanguin cérébral augmente chez les patients schizophrènes à qui on a administré des agonistes DA directs  ou indirects [amphétamine].",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dissociation dopaminergique cortico sous corticale  dans la schizophrénie: hypodopaminergie corticale,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "hyperdopaminergie sous corticale.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pickar D et al.: Cerebrospinal fluid and plasma monoamine metabolites and their relation to psychosis. Arch. Gen. Psychiatry,1990,47,641-648; Thibaut et al. Biol Psy 1998",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments morphologiques et métaboliques-Versant négatif=Hypodopaminergie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 49,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résumé du modèle « bidirectionnel » selon Pickar",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DA ",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régions",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "sous corticales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Psychose",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pickar D et al.: Cerebrospinal fluid and plasma monoamine metabolites and their relation to psychosis. Arch. Gen. Psychiatry,1990,47,641-648",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Versant négatif =  hypodopaminergie?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 50,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Versant négatif =  hypodopaminergie?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le faisceau d’arguments  pharmacologiques en faveur d’un dérèglement dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine  stimulation des récepteurs DA limbique  de façon phasique :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "stimulation excessive lors des décharges phasiques   en réponse à un stimulus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> mauvaise interprétation des signaux extérieurs et mauvaise filtration des perceptions.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine stimulation des récepteurs DA  tonique :faible stimulation   => troubles de la pensée, du langage et des fonctions exécutives (apragmatisme).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dissociation dopaminergique cortico sous corticale:",
+          "indent": 5
+        },
+        {
+          "niveau": "H2",
+          "texte": "hyperdopaminergie sous corticale versant positif",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "hypodopaminergie corticale\t    versant négatif",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "In Jones HM, Pilowski L.S.: Dopamine and antipsychotic drug action revisited Br. J.Psychiatry 2002 181:271-5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 51,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie: Hypothèse d’un dérèglement de la Dopaminergie(DA) centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2004: Confirmation de cette hypothèse de dissociation dopaminergique dans la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Abi Dargham A.,  Int.J.psychophamacology,2004",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2017: Schizophrénie :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la libération de la dopamine dans le striatum",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction des décharges phasiques de Dopamine en réponse à un stimulus pertinent",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation des décharges spontanées phasiques de Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Maia T.V., Frank N.J., Biological Psychiatry,2017",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intérêt des agonistes dopaminergiques partiels  qui agiraient en fonction du  ʺclimat dopaminergiqueʺ",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction partielle des effets des signaux émis en excès vers les récepteurs DA sous corticaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Compensation partielle du défaut de signal  émis vers les récepteurs DA  corticaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dissociation DA cortico-sous corticale : Hyper-DA sous corticale  Hypo -DA corticale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 52,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Dopamine et substances toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 53,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine et substances  toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Travaux cardinaux de Di Chiara et Imperato",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 54,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dopamine et substances  toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les drogues  qui font  l’objet d’un consommation abusive augmentent préférentiellement  les concentrations synaptiques de Dopamine  dans le système limbique du rat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etude  de la libération de dopamine intracérébrale des neuromédiateurs par  microdialyse* des liquides extracellulaires chez le rat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Striatum dorsal: Noyau Caudé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Striatum ventral: Noyau Accumbens",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Equipes spécialisées; maitrise de la chirurgie stéréotaxique;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Méthodes de chimie analytique instrumentale  sensibles et précises .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "quantités mesurées: 10- 12      Mole =picomoles",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 55,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Cette méthode très élégante et très délicate à mettre en œuvre consiste à faire diffuser à travers une membrane semi-perméable formant un tube où circulent des liquides vitaux, les constituants du milieu extracellulaire. Selon le principe de la dialyse, les constituants du milieu extracellulaire vont diffuser du milieu le plus concentré [liquides extracellulaires] vers le moins concentré [milieu de dialyse]. On peut ainsi recueillir les neuromédiateurs libérés ou inhibés dans leur libération sous l’influence de différents traitements et en implantant la sonde de dialyse dans différentes structures de l’encéphale de l’animal de laboratoire.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Implantation stéréotaxique de la sonde de microdialyse dans la partie du cerveau à     explorer.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Convalescence des rats.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion du liquide vital",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recueil du dialysat.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Analyse du dialysat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Administration des substances à étudier",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion du liquide vital.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recueil du dialysat.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Analyse du dialysat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude du métabolisme intracérébral des neuromédiateurs par  micro-dialyse des liquides extracellulaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 56,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Etude du métabolisme intracérébral micro-dialyse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 57,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Etude du métabolisme intracérébral micro-dialyse des liquides extracellulaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Coupe coronale schématique du cerveau de rat - sonde de microdialyse horizontale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imité de Di Chiara et Imperato PNAS 1988",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 58,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "N Accumbens             N Caudé --------",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "% augmentation libération Dopamine (Dialysat N accumbens et N Caudé)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imité de Di Chiara et Imperato PNAS 1988",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 59,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "% augmentation libération Dopamine (Dialysat N accumbens et N Caudé)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imité de Di Chiara et Imperato PNAS 1988",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 60,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Dopamine et substances  toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Alcool",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amphétamine et dérivés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cocaïne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Morphine et dérivés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nicotine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tétrahydrocannabinol",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tous ces composés augmentent la libération de Dopamine dans les liquides extracellulaires du Noyau Accumbens (aboutissant de la voie DA mésolimbique )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tous ces composés  abaissent le seuil du déclenchement du comportement d’autostimulation intracérébrale électrique chez le rat (100 micro Ampères µA  à  ≈  50 µA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tous ces composés font l’objet d’un comportement d’auto administration",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 61,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Dopamine et substances  toxicomanogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tous ces composés  font l’objet d’un comportement d’auto administration",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si les voies mésolimbiques sont détruites par une neurotoxine comme la 6 Hydroxy Dopamine (6OH DA)*, alors le comportement d’auto administration s’éteint",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* (6OH DA) injectée dans le N. Accumbens capturée par les terminaisons neuronales DA  => formation de peroxydes toxiques =>mort neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 62,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Alcool :  agit sur les récepteurs GABA  avec inhibition des interneurones Gaba inhibant les neurones de l’aire tegmentale ventrale ( ATV origine de la voie mésolimbique)     (ʺ inhibition de l’inhibition ʺ)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amphétamine et dérivés : libération de Dopamine  inhibition de sa recapture",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cocaïne : inhibition de la recapture de la  Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Morphine et dérivés :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "agit sur les récepteurs « opioergiques » µ  avec inhibition des interneurones Gaba inhibant les neurones de l’aire tegmentale ventrale (origine de la voie mésolimbique)    (ʺ inhibition de l’inhibition ʺ)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nicotine : activation des neurones de l’ATV par stimulation de leurs récepteurs nicotiniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tétrahydrocannabinol (THC):",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation des neurones « opioergiques »=> activation des récepteurs µ => inhibition des interneurones Gaba inhibant les neurones de l’aire tegmentale ventrale (origine de la voie mésolimbique)   (ʺ inhibition de l’inhibition ʺ)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(effets  du THC bloqués par la Naloxone, anti-morphinique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dopamine: DA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 63,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "63",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Professeur Arvid Carlsson",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Prix Nobel de Médecine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2000",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

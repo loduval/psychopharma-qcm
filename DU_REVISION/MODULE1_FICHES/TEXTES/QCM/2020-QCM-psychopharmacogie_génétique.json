@@ -1,0 +1,943 @@
+{
+  "fichier": "2020-QCM-psychopharmacogie_génétique.pptx",
+  "session": "QCM",
+  "total_slides": 27,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 1- Ramoz - psychopharmacogénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-1.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La psychopharmacogénétique vise à ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Identifier les sujets génétiquement non-répondeurs à un médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Identifier les cellules malades",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Identifier la dose la plus adaptée à chaque individu pour un médicament donné",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Identifier le médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Identifier les sujets à risque de survenue d’un évènement indésirable pour un médicament donné",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-1.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Quels sont les domaines de la psychopharmacogénétique ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. La pharmacopée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. La pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. La psychanalyse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. La pharmacovigilance",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. La pharmacodynamique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 2 Ramoz – Génétique de la psychiatrie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-2.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La variabilité de la réponse médicamenteuse dépend ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. De l’humidité ambiante",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. De facteurs génétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. De facteurs physiologiques (sexe, âge ou poids)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. De facteurs d’exposition (alimentation, toxique, drogues)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. De la dureté de l’eau",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-2.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Qu’est-ce qu’un gène en pharmacogénétique ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Une démangeaison",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Une séquence spécifique de l’ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Un signal du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. L’information codant une protéine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Un concept massivement repris et détourné",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 3 Ramoz - Pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-3.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La pharmacocinétique implique les processus ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. D’absorption et de métabolisation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. De synthèse et d’expression",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. De distribution et d’élimination",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. De criblage et de sélection",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. D’aiguillage et de triage",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-3.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les cytochromes P450 ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Ce sont des hémoprotéines",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Ils agissent sur la synthèse des probiotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Ils interviennent dans les réactions d’oxydoréduction",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Des variants sont des métaboliseurs rapides ou des métaboliseurs lents",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Ils produisent du chrome",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 4 Ramoz - Médicaments psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-4.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Un psychotrope, c’est un médicament qui ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Il active la croissance capillaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Il réduit la synthèse de l’ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Il régule la température corporelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Il modifie la biochimie et physiologie cérébrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Il augmente la saturation en oxygène",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-4.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les catégories de psychotropes ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Les stimulants et hallucinogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Les diurétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Les antifongiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Les neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Les dépresseurs et antidépresseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 5 Ramoz – Schizophrénie et Pharmacogénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-5.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques et antipsychotiques ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Codéine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Chlorpromazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Fentanyl",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Rispéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Clozapine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-5.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cibles des antipsychotiques ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Récepteurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Récepteurs olfactifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Photorécepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Thermorécepteurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 6Dr Nicolas RAMOZPsychopharmacogenetique et trouble de l’hyperactivité avec déficit de l’attention tdah/adhd",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-6.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méthylphénidate, hyperactivité et gènes cibles de la pharmacogénétique ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Transporteur de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Transporteur du glutamate",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Transporteur de la dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Transporteur du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Transporteur de la noradrénaline",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-6.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méthylphénidate, atomoxétine, hyperactivité et cible pharmacogénétique commune ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Transporteur de la dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Transporteur de la noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Transporteur du glutamate",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Transporteur de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Transporteur de l’acétylcholine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 7 Ramoz – Dépression 1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-7.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression et action des antidépresseurs inhibiteurs de recapture de la sérotonine ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Meilleure réponse chez les porteurs de l’allèle L du variant 5HTTLPR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Aucun effet sur la réponse selon les variants du 5HTTLPR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Réponse moindre chez les porteurs de l’allèle s du variant 5HTTLPR",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Réponse dépendant du récepteur DRD6",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Réponse dépendant du récepteur 5HTR9",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-7.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Certains antidépresseur agissent sur ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. La croissance d’une cellule",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. La division des neurones",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. La diminution d’une cellule",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. La plasticité musculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. La plasticité synaptique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 8 Ramoz – Dépression 2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-8.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression, axe du stress et action des antidépresseurs sur des gènes cibles de la pharmacogénétique ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Récepteur de la corticotrophine ou CRHR1/CRF1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. L’interleukine 4 IL4",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. L’interleukine 5 IL5",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Récepteur DRD6",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. La cochaperone FKBP5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-8.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les études de pharmacogénomique sur la dépression permettent ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. D’identifier les gènes des récepteurs thermiques associés",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. De ne pas exclure l’implication de gènes de l’axe du stress",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. De confirmer l’implication de gènes protecteurs de la neurotoxicité",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. D’identifier des gènes spécifiques de l’antidépresseur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. De confirmer l’implication des photorécepteurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 9 Ramoz – Dépression 3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-9.1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression et pharmacoépigénétique, qu’est-ce que c’est ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. L’implication des épis de maïs dans la réponse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. La modification de l’expression de gènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. La modification de l’expression de petits ARN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Des modifications de l’ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Des modifications de l’environnement chimique de l’ADN, sans changer les gènes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "QCM-9.2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les antidépresseurs ont des actions pharmacoépigénétiques dans la dépression en ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1. Modifiant l’expression de miR-16",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2. Modifiant l’expression de miR-1202",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3. Changeant le code génétique du gène BDNF",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4. Changeant l’expression de l’actine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5. Diminuant la production de DRD6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

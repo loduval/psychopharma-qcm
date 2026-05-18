@@ -1,0 +1,1963 @@
+{
+  "fichier": "I-Introduction à létude des bases neurobiologiques des effets des médicaments psychotropes_Dr Benyaya.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 47,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« L’ombre que la main de l’auteur scientifique porte sur le papier, est une ombre subjective »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Professeur Jean-Philippe Assal C.H.U. de Genève",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Grandes définitions",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quelques exemples de psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Importance de la Formation réticulée activatrice de Moruzzi et Magoun",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sédatifs et anxiolytiques classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Psychostimulants",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neuroleptiques et Thymoanaleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Benzodiazépines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cycle de vie d’un neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments et action sur le devenir d’un neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Définitions du mot  « psychotrope » ( substantif et adjectif)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ensemble des substances chimiques d’origine naturelle ou artificielle qui ont un tropisme psychologique, c’est-à-dire qui sont susceptibles de modifier l’activité mentale sans préjuger de cette modification.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le psychotrope peut manifester des propriétés curatives vis-à-vis de maladies mentales ou perturber le psychisme. Il peut aussi agir sur le comportement animal.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicament qui affecte les fonctions  psychiques, le comportement ou l’expérience vécue traduction",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr J. Delay in  Manuel Alphabétique de Psychiatrie et dictionnaire de la Psychologie ( P.U.F.)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dictionnaire des Sciences Pharmaceutiques et Biologiques .académie de Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lexicon of Psychiatry, Neurology and the Neurosciences, Pr FJ Ayd",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Origine et définitions du mot «drogue» ; sens du mot « Drug »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Phantastica »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Proposition de la première classification des psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Introduction à l’étude des bases neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Drogue: du néerlandais: Droogen=séché (végétaux séchés pour les stabiliser)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-En Matière Médicale, appelée maintenant Pharmacognosie :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Drogue est la partie de la plante contenant les principes actifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pavot (Papaver Somniferum)  drogue= capsule  > latex> opium >",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Morphine  et  \tCodéine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rauwolfia Serpentina  drogue= racine >    Réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Belladone (Atropa Belladona ) drogue= feuille    >    Atropine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En Toxicologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "substance douée d’un effet psychotrope engendrant une dépendance physique et \tpsychique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les termes anciens accoutumance et assuétude gardent leur valeur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Introduction à l’étude des bases neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Drogue : 2ème sens",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Accoutumance:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etat progressivement acquis par un organisme qui oblige à augmenter les doses d’une substance active sur le psychisme pour retrouver l‘effet initial",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Assuétude:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nécessité impérieuse d’assouvir un besoin de consommation pour apaiser la souffrance due à l’état de manque,  avec émoussement du plaisir éprouvé. Englobe accoutumance et asservissement à une substance",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Terme moderne :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Addiction :    Addictus :personne rendue esclave par les dettes qu’elle a contractées",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perte du contrôle de la consommation d’une substance (doses, fréquence) et maintien de ce comportement malgré ses conséquences fâcheuses.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le « craving », recherche effrénée de la substance, fait partie de la définition de l’addiction",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Introduction à l’étude des bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Drogue: 2ème sens",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les auteurs américains parlent de Recreational Drugs pour les différencier",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "des Prescription ou Medicinal Drugs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le stade  dit de consommation « récréative » (répétée, en groupe, pour le plaisir) est le stade qui suit le premier stade , dit expérimental (solitaire de découverte), et qui précède les stades de consommation abusive, nocive confinant à la dépendance.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Quelques médicaments psychotropes classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hydrate de chloral : hypnotique sédatif",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barbituriques (famille chimique) : sédatifs hypnotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "antiépileptiques anesthésiques généraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Amphétamine : psychostimulant, action antagoniste de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "l’hyperkinésie de l’enfant",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine : psychostimulant",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Extrait alcoolique de Rauwolfia Serpentina (source de réserpine) : tranquillisant",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Quelques médicaments psychotropes classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Chlorpromazine : Neuroleptique (5 critères de J. Delay et P. Deniker)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Iproniazide : antituberculeux IMAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méprobamate et autres carbamates : tranquillisants",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Imipramine : Antidépresseur, thymoanaleptique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Benzodiazépines (famille chimique) :  propriétés tranquillisantes, hypnotiques, anti-convulsivantes, myorelaxantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Tous ces médicaments étaient couramment utilisés sans que l’on connaisse leur action sur le devenir des neuromédiateurs.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les connaissances chimiques, électrophysiologiques, pharmacodynamiques expérimentales comblaient ce vide.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’électrophysiologie portaient sur des enregistrements centraux locaux et corticaux, de potentiels évoqués, d’une activité spontanée de la formation réticulée de G. Moruzzi et H.W Magoun, ou après stimulation et par la mise en œuvre des préparations classiques de F. Bremer",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Quelques médicaments psychotropes classiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Citation d’un de nos maitres,le Professeur Guillaume Valette",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Il est à remarquer que, de plus en plus, la Pharmacodynamie s’oriente dans un sens biochimique. Les expériences sur l’organisme entier- l’animal le plus souvent- se complètent par des investigations non seulement sur les organes ou les tissus isolés, mais aussi sur les produits du fractionnement des éléments cellulaires, dont beaucoup de manifestations vitales ont certes disparu, mais au sein desquels subsistent diverses enzymes, médiateurs chimiques ou métabolites sur lesquels l’action médicamenteuse peut s’exercer. On parvient de la sorte à attribuer l’effet d’un médicament à une réaction chimique entre ce médicament et tel constituant de la substance vivante, à la libération d’un médiateur, à l’inactivation d’une enzyme etc…",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A la vérité, il y a peu d’exemples d’actions pharmacodynamiques où l’analyse du phénomène ait pu être poussée jusqu’à ce stade. »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "G. Valette, Professeur  de Pharmacodynamie, Faculté de Pharmacie de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Formation réticulée de G. Moruzzi et H.W Magoun",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Préparations classiques de F. Bremer",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hydrate de chloral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Barbiturique –Phénobarbital-Gardénal®",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Méprobamate Equanil®",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valnoctamide Nirvanil®",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sédatifs et tranquillisants classiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sédatifs et tranquillisants classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Barbituriques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille chimique ayant pour caractéristique un noyau hétérocyclique hydrogéné à 2 atomes d’azote et trois fonctions carbonyles (tri-oxo-hexahydro-pyrimidine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration à l’animal provoque:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une dépression de la Formation Réticulée activatrice ascendante (FRAA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une réduction des potentiels évoqués (PE) corticaux, dans les aires sensorielles, après stimulation des voies ascendantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une réduction des PE limbiques après stimulation directe de la FRAA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une réduction des PE dans la  FRAA après stimulation des voies ascendantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méprobamate Equanil®",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Son administration à la souris s’oppose aux crises  convulsives audiogéniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ou dues à la strychnine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Valnoctamide Nirvanil®",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’analogie structurale du Valnoctamide et de la Prégabaline est frappante",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Prégabaline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valnoctamide",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sédatifs et tranquillisants classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Valnoctamide Nirvanil®",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’analogie structurale du Valnoctamide et de la Prégabaline est frappante",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Prégabaline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valnoctamide",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Psychostimulants ou Noo-analeptiques « Amines d’éveil »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amphétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Méthylphénidate",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phényl éthylamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Caféine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Psychostimulants  classiques, caféine et « amines d’éveil »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Caféine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration à l’animal entraine une désynchronisation du tracé Electroencéphalographique (EEG)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(activité électrique corticale d’éveil)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Amphétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Encéphale isolé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration à l’animal entraine une désynchronisation du tracé Electroencéphalographique (EEG)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(activité électrique corticale d’éveil)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cerveau  isolé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cette activité est abolie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’amphétamine augmente l’activité d’autostimulation électrique limbique chez le rat (Modèle de J.Olds et P. Milner)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’amphétamine a été utilisée  avec un bénéfice thérapeutique chez les enfants hyperkinétiques dès 1937 (J. Bradley)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Amphétamine et hyperkinésie chez les enfants",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1937:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Première prescription d’amphétamine dans le traitement des  troubles du comportement chez les enfants J. Bradley \" Emma Pendleton Bradley Home\".",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "American Journal of Psychiatry",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réserpine est un alcaloïde indolique extrait des racines de la plante Rauwolfia Serpentina",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La structure est complexe, pentacyclique avec outre le noyau indole, un noyau hydro-quinolizine et une fonction alcool estérifiée par un reste trimétoxybenzoïque(porteur de l’activité tranquillisante)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les préparations à partir de la drogue, les racines, sont utilisées depuis très longtemps par la médecine ayurvédique pour calmer l’angoisse des sujets ayant été victimes d’une morsure de serpent.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En 1943 des extraits alcooliques des racines de Rauwolfia Serpentina ont été administrés  à 15 patients souffrant de divers troubles mentaux avec des résultats favorables sur l’insomnie et l’agitation motrice et psychique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les propriétés neuroleptiques proprement dites  de la réserpine isolée furent identifiées plus tard. Des propriétés réserpiniques furent retrouvées dans des médicaments de synthèse (tétrabénazine et oxypertine).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réserpine reste un réactif pharmacodynamique très important.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Rauwolfia Serpentina    Source de Réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Arbrisseau de 50 cm à 1 m de haut de la famille des apocynacées(« pervenches »)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Asie Méridionale:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inde, Indonésie, Malaisie, «Indochine »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rauwolfia Serpentina",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Racines",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réserpine : Premières observations des effets  sédatifs et tranquillisants",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1943:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Observations préliminaires du traitement des troubles mentaux  par un extrait alcoolique de Rauwolfia Serpentina (Gupta J.C. et al.)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Indian Medical Gazette",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Neuroleptique, Thymoanaleptique, régulateur de l’humeur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "26",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CPZ - IMIP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notez l’analogie structurale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Chlorpromazine CPZ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imipramine  IMIP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carbonate de Lithium",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Chlorpromazine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Premier neuroleptique , caractérisé par J.Delay et P. Deniker (5 critères)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dérivée d’un antihistaminique (Prométhazine Phénergan®) mais provoquant une importante déafférentation (H. Laborit)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La chlorpromazine exerce une dépression de l’activité spontanée de la FRAA et entraîne une disparition progressive de toute activité corticale électrique rapide. Elle provoque une abolition des potentiels évoqués corticaux par stimulation des collatérales des voies ascendantes aboutissant à la FRAA.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’activation directe de la FRAA est plus déprimée par la chlorpromazine quand le stimulus est plutôt rostral que caudal.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La chlorpromazine élève le seuil de la réaction d’éveil et entraine une dissociation de l’éveil EEG et de l’éveil comportemental.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "27",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Chlorpromazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Premier neuroleptique , caractérisé par J.Delay et P. Deniker (5 critères)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dérivée d’un antihistaminique (prométhazine, Phénergan®) mais provoquant une importante déafférentation (H. Laborit)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "28",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Imipramine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Premier  antidépresseur dit « tricyclique » structuralement proche de la chlorpromazine mais dénué d’activité neuroleptique. La dénomination « antidépresseur »  est due  à son activité anti-réserpine.  L’Imipramine s’oppose à la ptose palpébrale due à ce réactif dépresseur central.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Comme la chlorpromazine, elle exerce chez le chat une action synchronisante de l’activité électrique corticale. Mais, à la différence du neuroleptique, l’imipramine s’oppose aux effets sédatifs de la réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La physostigmine (Ésérine) , alcaloïde cholinomimétique extrait de la fève de Calabar, exerce une action dé-synchronisante de l’activité électrique corticale spontanée chez le chat. L’amphétamine produit le même effet.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’administration concomitante d’imipramine provoque la nécessité d’augmenter les doses efficaces de physostigmine, alors que les doses efficaces d’amphétamine deviendront plus faibles.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’imipramine s’oppose aux convulsions provoquées par l’Oxotrémorine, agent cholinergique. Elle s’oppose aussi à la réaction d’éveil EEG due à l’administration des alcaloïdes parasympathomimétiques et cholinomimétiques (arécoline, ésérine et nicotine)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "29",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Liane de 10 à 20 mètres",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afrique Occidentale:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cameroun, Gabon, Golfe de Guinée, Niger.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "30",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Physostigma Venenosum",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Source d’ Ésérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fève de Calabar",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aréquier ,Noix d’Arec source d’Arécoline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Palmier de  10 à 20 mètres",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noix d’Arec : taille d’un petit œuf",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inde, Malaisie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "31",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noix d’Arec",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Premier inhibiteur de la MonoAmine-Oxydase: Iproniazide",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "32",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Isoniazide: antituberculeux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les effets favorables sur l’humeur et sur l’appétit des patients tuberculeux traités par ces dérivés hydraziniques de l’acide iso-nicotinique avaient été remarqués par Jean Delay.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les propriétés inhibitrices de l’enzyme dégradant les catécholamines et la sérotonine) (IMAO) ont été mises en évidence pour l’iproniazide. (médiateurs porteurs d’une fonction amine unique)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Naissance de la famille des antidépresseurs Thymérétiques :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Iproniazide: antituberculeux, tuberculose osseuse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Inhibiteur de la MonoAmine-Oxydase non sélectif et non réversible :Tranylcypromine IMAO et Inhibiteur de la Recapture de la Sérotonine et de la NorAdrénaline IRSNA :  Milnacipran",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est curieux de retrouver dans l’IRSNA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "un  motif de l’IMAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tranylcypromine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Milnacipran",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments de la famille de la Benzodiazépine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "34",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chlordiazépoxide",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Di: deux   AZ: azote   Epine: Cycle à 7 sommets",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diazépine : Hétérocycle à 7 sommets avec deux hétéroatomes d’azote",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Benzodiazépine : Fusion d’un cycle benzénique et d’un hétérocycle Diazépine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments de la famille de la Benzodiazépine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépines : Terme qui désigne une famille chimique  de médicaments et qui, par glissement, désigne des médicaments anxiolytiques et hypnotiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces médicaments possèdent, de façon plus ou moins marquée, les propriétés suivantes:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypnotique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anxiolytique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anticonvulsivante",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Myorelaxante",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sédative?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "35",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Médicaments de la famille de la Benzodiazépine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces médicaments s’opposent à la rigidité de décérébration.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ils s’opposent à la réaction d’éveil provoquée chez l’animal par la stimulation du nerf sciatique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ils réduisent les potentiels évoquées dans la FRAA.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ils protègent la souris contre les stimuli sonores provoquant des convulsions.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Leur administration entraîne l’apparition d’ondes lentes de voltage élevé dans  le cortex l’hippocampe et l’amygdale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "36",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Médicaments de la famille de la Benzodiazépine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Représentation qualitative et quantitative des effets thérapeutiques selon le Professeur Marc Ansseau",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Faculté de Médecine Université de Liège",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "«Etoile de Liège » Ecole du Pr Jean Bobon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "37",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Diazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Clonazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduction et adaptation avec l’aimable autorisation du Professeur M. Ansseau",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Action des médicaments sur le Système Nerveux Central (Moëlle et Encéphale), D’après le Pr Henri Schmitt - 1976",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "38",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La diapositive suivante illustre la représentation des lieux d’action des médicaments du Système Nerveux central. L’identification de ces lieux d’action est le résultat d’études électrophysiologiques. On commença dans les années 1970 à s’intéresser à  l’effet des psychotropes sur le cycle de vie des neuromédiateurs: biosynthèse, sécrétion, recapture, fixation sur les « récepteurs », dégradation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "39",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action des médicaments sur le Système Nerveux Central (Moëlle et Encéphale)  D’après le Pr Henri Schmitt - 1976",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Représentations très schématiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cycle de vie d’un neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sites  sensibles à l’action des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "40",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Neurone : sites  sensibles à l’action des médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "41",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Identifications des effets des psychotropes sur le devenir d’un neuromédiateur: Quelques faits marquants",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition par l’imipramine de la capacité de concentration de Noradrénaline marquée , par des coupes de cerveaux de rat ( J. Axelrod et J.Glowinski,1965)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition de l’activité monooxydasique centrale par l’iproniazide, la Tranylcypromine et d’autres composés (Naissance de la classe des antidépresseurs Thymérétiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Proposition du pharmacophore neuroleptique par P. Janssen",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Découverte des seconds messagers intracellulaires:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adénosine MonoPhosphate cyclique  AMP cyclique, DiAcylGlycérol DAG, Inositol Triphosphate IP3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence des propriétés inhibitrices de la caféine exercée sur les enzymes  phosphodiestérases dégradant l’AMP cyclique second messager intracellulaire de l’action des neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "42",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 43,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Inhibition des récepteurs dopaminergiques  périphériques et centraux (striataux, limbiques , corticaux par les médicaments neuroleptiques (A.Carlsson)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence des propriétés d’activation de la libération de dopamine (DA) et d’inhibition de sa recapture par l’amphétamine (DA nouvellement synthétisée) et le méthylphénidate (DA stockée)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Déplétion  centrale des vésicules de stockage des monoamines par la réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition de la recapture du H75/12 marqué (agent dépléteur des vésicules de stockage de la sérotonine)  par la clomipramine; démonstration indirecte  de l’inhibition de la capture  neuronale de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mise en évidence d’un site de liaison sélectif des benzodiazépines sur le canal chlorure (Cl-) activé par l’acide gamma (γ) aminobutyrique (GABA)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les benzodiazépines( BZD) et les barbituriques (BB) augmentent l’intensité du courant d’ions chlorures  en augmentant la fréquence d’ouverture du canal (BZD) ou le temps d’ouverture (BB)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "43",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Identifications des effets des psychotropes sur le devenir d’un neuromédiateur: Quelques faits marquants",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 44,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Importance des propriétés antagonistes des récepteurs noradrénergiques Alpha1 des neuroleptiques pour les effets « antipsychotiques » (Réduction de l’hypervigilance anxieuse) (Hornykiewicz, Nature, 1980)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence des propriétés antagonistes des récepteurs présynaptiques noradrénergiques Alpha 2 de l’antidépresseur miansérine, considérée en 1976 comme un antihistaminique  « curieusement antidépresseur » (H. Schmitt)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A partir des propriétés biochimiques d’inhibition du catabolisme, d’inhibition de la recapture des monoamines et de l’antagonisme des récepteurs pré-synaptiques NA α2 et 5HT1a, a été formulée l’hypothèse d’un défaut  de transmission monoaminergique dans les états dépressifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mise en évidence de la participation de l’acétylcholine, donc des voies cholinergiques à l’éveil cortical. L’arécoline administrée à des sujets souffrant de dépression entraîne une réduction de la latence d’apparition du sommeil paradoxal. Ainsi la sensibilité à l’arécoline serait un trait de vulnérabilité dépressive(in Ph. Gaillard rapport CPNLF 1990)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "44",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identifications des effets des psychotropes sur le devenir d’un neuromédiateur: Quelques faits marquants",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 45,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Mise en évidence des conséquences cytoplasmiques et nucléaires de l’activation des récepteurs post-jonctionnels par le neuromédiateur dont la concentration synaptique augmente.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise à profit des propriétés anti-glutamatergiques de la Kétamine pour le traitement des dépressions résistantes, « dépressions malignes* »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "45",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Dénomination proposée dans l’ouvrage de S. Kasper et S. Montgomery: Treatment-resistant Depression  J. Wiley & sons, 2013",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identifications des effets des psychotropes sur le devenir d’un neuromédiateur: Quelques faits marquants",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 46,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il n’est pas fait référence aux données provenant des animaux chez lesquels un gène codant pour une protéine réceptrice a été invalidé(KO) (techniques extrêmement complexes et maitrisées par des équipes de recherche hautement spécialisées)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les résultats provenant d’expériences fondées sur la mise en œuvre de récepteurs clonés  après recours à différentes banques d’acides nucléiques et  manipulation de cultures de lignées cellulaires répertoriées  sont admis tels quels.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Nombreuses référence aux analogies structurales moléculaires pour mettre en lumière les effets agonistes, antagonistes, mimétiques de  différentes substances : réactifs pharmacodynamiques et médicaments.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Joseph Benyaya, Docteur en Pharmacie , AIHP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "46",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 47,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "En général, nous avons choisi d’écrire nous mêmes les formules développées des médicaments. Il existe certes des logiciels graphiques de chimie organique , que nous savons maniés ,mais leur acquisition est onéreuse. Nous restons ainsi fidèles à nos vénérés maîtres de la Faculté de Pharmacie de Paris, qui écrivaient toutes les formules au tableau de l’amphithéâtre .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Courtoisie de Caroline Duros",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "fichier": "QCM_Métabolisme_psychotropes_CYP450.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Métabolisme enzymatique des Médicaments Cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les  isoenzymes de la famille du Cytochrome P450 (CYP450) catalysent des réactions dans lesquels les substrats:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont des molécules endogènes\t\t  oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont des molécules xénobiotiques, exclusivement  oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La  partie non-peptidique liée à la chaine polypeptidique du  CYP450  est un:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Haptène \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hème \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Groupement  Prosthétique  \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les  isoenzymes de la famille du Cytochrome P450  ont une   structure apparentée à celle de :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Myoglobine \t\t\t\t\t  oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’ Hémoglobine (monomère) \t\t\t\t  oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Transferrine \t\t\t\t\t  oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Sidérophiline\t\t\t\t\t  oui   non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Métabolisme enzymatique des Médicaments Cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les  isoenzymes de la famille du Cytochrome P450 (CYP450) catalysent des réactions dans lesquels les substrats:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont des molécules endogènes\t\t  \toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sont des molécules xénobiotiques, exclusivement \tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La  partie non-peptidique liée à la chaine polypeptidique du  CYP450  est un:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Haptène \t\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hème \t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Groupement  Prosthétique  \t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les  isoenzymes de la famille du Cytochrome P450  ont une   structure apparentée à celle de :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Myoglobine \t\t\t\t  \toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’ Hémoglobine (monomère) \t\t\t  \toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Transferrine \t\t\t\t \tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Sidérophiline\t\t\t\t\tnon",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Métabolisme enzymatique des Médicaments Cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inhibiteurs du CYP 450 2D6 et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agomélatine\t\t\t                  oui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duloxétine \t\t\t\toui    non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine \t\t\t\toui    non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluvoxamine \t\t\t\toui    non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Milnacipran\t\t\t\toui    non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inhibiteurs du CYP 450 3A4  et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agomélatine\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duloxétine \t\t\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine \t\t\t     \t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluvoxamine \t\t\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Milnacipran\t\t\t\t oui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inducteurs du CYP 450 3A4  et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carbamazépine\t\t\t\toui non   ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carpipramine \t\t\t\toui non   ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gastrozépine \t\t\t\toui non   ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Métabolisme enzymatique des Médicaments Cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inhibiteurs du CYP 450 2D6 et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agomélatine\t\t\t                  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duloxétine \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluvoxamine \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Milnacipran\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inhibiteurs du CYP 450 3A4  et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agomélatine\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Duloxétine \t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine \t\t\t     \t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluvoxamine \t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Milnacipran\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les   substances suivantes sont des inducteurs du CYP 450 3A4  et sont susceptibles de modifier le métabolisme des médicaments qui leur sont associés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carbamazépine\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carpipramine \t\t\t\t  ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gastrozépine \t\t\t\t   ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

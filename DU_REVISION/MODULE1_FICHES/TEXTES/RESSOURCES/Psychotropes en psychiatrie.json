@@ -1,0 +1,121 @@
+{
+  "fichier": "Psychotropes en psychiatrie.pptx",
+  "session": "RESSOURCES",
+  "total_slides": 3,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM PSYCHOTROPES EN PSYCHIATRIE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr C. LEMOGNE",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) vraie(s) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A- la prescription conjointe d'un inhibiteur de recapture de la sérotonine et de certains antalgiques augmente le risque de syndrome sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B- la sertraline est déconseillée en cas d'insuffisance cardiaque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C- la prescription d'un antidépresseur par le médecin référent plutôt que par le psychiatre de liaison augmente son efficience",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D- l'insuffisance rénale chronique est une contre-indication absolue du lithium",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "E- le traitement pharmacologique du delirium repose en priorité sur le retrait des médicaments confusogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) vraie(s) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A- la prescription conjointe d'un inhibiteur de recapture de la sérotonine et de certains antalgiques augmente le risque de syndrome sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B- la sertraline est déconseillée en cas d'insuffisance cardiaque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C- la prescription d'un antidépresseur par le médecin référent plutôt que par le psychiatre de liaison augmente son efficience",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D- l'insuffisance rénale chronique est une contre-indication absolue du lithium",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "E- le traitement pharmacologique du delirium repose en priorité sur le retrait des médicaments confusogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réponse : A, C et E",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

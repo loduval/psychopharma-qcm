@@ -1,0 +1,499 @@
+{
+  "fichier": "QCM_ACETYLCHOLINE.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACETYL-CHOLINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les somas des neurones  formant les voies cholinergiques centrales sont situés  dans :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Noyau Rouge\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Tegmentum ventral du Mésencéphale \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Noyau Basal de Meynert\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Locus Niger\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Raphé du Tronc cérébral\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Acétyl-Choline est:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-acide\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-alcool\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une indolamine \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un ester d’amino-alcool \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Acétyl-Choline active des récepteurs centraux et périphériques:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs métabotropes \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux ions Sodium \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux ions Potassium \toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux anions \t\toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACETYL-CHOLINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les somas des neurones  formant les voies cholinergiques centrales sont situés  dans :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Noyau Rouge\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Tegmentum ventral du Mésencéphale \t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le  Noyau Basal de Meynert\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Locus Niger\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Raphé du Tronc cérébral\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Acétyl-Choline est:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-acide\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un amino-alcool\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "une indolamine \t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "un ester d’amino-alcool \t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Acétyl-Choline active des récepteurs centraux et périphériques:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs métabotropes \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux ions Sodium \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux ions Potassium \tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteurs canaux perméables aux anions \t\tnon",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACETYL-CHOLINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les composés suivants ont des propriétés anticholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Scopolamine\t\t \t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imipramine \t \t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rivastigmine\t\t\t \toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Clozapine\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Kétamine\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments antidépresseurs tricycliques sont:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antagonistes des récepteurs cholinergique nicotiniques\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antagonistes des récepteurs cholinergique muscariniques M1\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "atropiniques \t\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "parasympatholytiques\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les inhibiteurs des cholinestérases ,organo-phosphorés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent la densité de sommeil paradoxal \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent la densité de sommeil  avec mouvements oculaires rapides\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent le temps de latence d’apparition du sommeil paradoxal \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« réduisent la pression » de sommeil paradoxal \t\t \t\toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACETYL-CHOLINE QCM",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les composés suivants ont des propriétés anticholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Scopolamine\t\t \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Imipramine \t \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rivastigmine\t\t\t \tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Clozapine\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Kétamine\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments antidépresseurs tricycliques sont:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antagonistes des récepteurs cholinergique nicotiniques\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antagonistes des récepteurs cholinergique muscariniques M1\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "atropiniques \t\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "parasympatholytiques\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les inhibiteurs des cholinestérases ,organo-phosphorés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent la densité de sommeil paradoxal \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent la densité de sommeil  avec mouvements oculaires rapides\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "augmentent le temps de latence d’apparition du sommeil paradoxal \t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« réduisent la pression » de sommeil paradoxal \t\t \t\tnon",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

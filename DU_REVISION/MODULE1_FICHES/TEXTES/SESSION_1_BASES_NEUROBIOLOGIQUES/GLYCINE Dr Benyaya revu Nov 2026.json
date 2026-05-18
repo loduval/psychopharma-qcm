@@ -1,0 +1,1826 @@
+{
+  "fichier": "GLYCINE Dr Benyaya revu Nov 2026.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 33,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GLYCINE",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Joseph Benyaya",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GLYCINE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La Glycine, le plus simple des Amino-Acides,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "est  un neurotransmetteur, neuromodulateur aux deux visages !",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Courtoisie Caroline Duros",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etage médullaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etage cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous proposons ici un cours simplifié sur la Glycine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La démarche expérimentale, exposée plus loin qui a mené à la caractérisation des propriétés de cet amino-acide, en tant que neurotransmetteur, nous a paru  intéressante.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet inhibiteur au niveau de la moelle épinière:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Spasticité musculaire  expliquée par le défaut de transmission « glycinergique ».",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet activateur au niveau cérébral:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Co activation des récepteurs glutamatergiques NMDA.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En se référant à l’hypothèse du défaut de transmission glutamatergique, dans les psychoses schizophréniques: recherche de molécules facilitant le rôle de la Glycine.  (Décevant !)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le plus simple des Amino-Acides",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Absence de carbone asymétrique:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "pas de stéréo-isomères",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amino –Acide(A-A) non- essentiel; peut être synthétisé, dans l’organisme à partir de la Sérine ou de la Thréonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il représente 11,5%  du total des A-A ,constituant les protéines animales .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dans la moelle épinière ,il provoque une hyperpolarisation des motoneurones, inhibant ainsi leur excitabilité.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dans le cerveau, c’est un coagoniste des récepteurs  Glutamatergiques NMDA (site glycine);Glutamate neurotransmetteur excitateur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après A. Békri. Thèse 12/2019. Université de Montréal",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Une loi non écrite de la neurobiologie, valable dans la plupart des structures cérébrales, prévoit que l’effet des neurotransmetteurs inhibiteurs et excitateurs soit non échangeable, mais, en exception à cette \"loi\", la glycine constitue un cas très particulier »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Marco Diana, Chercheur CNRS à IBPS-Neuroscience Paris Seine - (CNRS/ Sorbonne Université/Inserm) 29/10/2019",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Selon le Professeur Jean-Pol Tassin, les neuromédiateurs sont:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- neurotransmetteurs, qui transmettent toujours le même type de signal: soit excitateur, soit inhibiteur( GLU,GABA)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- neuromodulateurs, dont la qualité du signal varie en fonction du récepteur de l’organe cible de la cellule cible",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "( ex: Dopamine et RDA1 et RDA2)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les diapositives 9 à 13 sont données à titre documentaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Glycine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet inhibiteur au niveau de la moelle épinière",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1965",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Moelle épinière du chat ,corne ventrale, et tronc cérébral -substance grise:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Concentration en Glycine très élevée ,comparée à celle des structures supérieures.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse du rôle de médiateur de la Glycine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Axiome:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Toute substance agissant comme  transmetteur  dans un tissu se trouve en concentration très élevée dans ce tissu »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "In Bowery N.G. ,Smart T.G. , Brit. J. Pharmacol. ,2006, 147: S109–S119",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet inhibiteur au niveau de la moelle épinière",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Moelle épinière du chat ,corne ventrale: Expériences électrophysiologiques complexes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition de la mise à feu des neurones spinaux par la Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hyperpolarisation de ces neurones.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Equivalence des effets inhibiteurs du GABA. et de la Glycine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Abolition très rapide des effets de la Glycine, sans abolition des effets du GABA, par la",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Strychnine*!                Sélectivité de la Strychnine pour un site de liaison?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(toxique bulbaire et médullaire: convulsions, opisthotonos, trismus, contractions musculaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Interneurones inhibiteurs : Sécrétion de Glycine par les cellules de Renshaw.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bowery N.G. ,Smart T.G. , Brit. J. Pharmacol. ,2006, 147: S109–S119",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cf. Dictionnaire de l’académie de pharmacie , « en ligne »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine: Site de liaison médullaire sélectif ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préparation tissulaire de moelle épinière et de tronc cérébral de chat enrichie en membranes neuronales:  Déplacement sélectif  de la liaison de la Strychnine radiomarquée par la Strychnine froide",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Existence d’un site de liaison sélectif",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ordonnée: concentration  Strychnine radiomarquée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Abscisse: concentration  Strychnine « froide »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Young A.B., Snyder S.H., P.N.A.S. 1973, 70,283é-2836",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Glycine: Site de liaison médullaire sélectif ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préparation tissulaire de moelle épinière et de tronc cérébral de chat enrichie en membranes neuronales: déplacement sélectif de la liaison de la Strychnine radiomarquée par la Glycine froide \t\t\t\tExistence d’un site de liaison sélectif de  la Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ordonnée: concentration  Strychnine radiomarquée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Abscisse: concentration  Glycine « froide »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Young A.B., Snyder S.H., P.N.A.S. 1973, 70,283é-2836",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "du  site de liaison médullaire sélectif au récepteur GLYCINERGIQUE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Glycine: récepteur canal  Chlorure avec 5 sous unités protéiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "similaire au récepteur GABA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "SYNAPSE  GLYCINERGIQUE  INHIBITRICE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Représentation schématique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’après Bowery N.G. ,Smart T.G. , Brit. J. Pharmacol. ,2006, 147: S109–S119   modifiée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GLYCINE",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qu’il faut retenir:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Glycine: neurotransmetteur inhibiteur dans la moelle épinière",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs: Canaux Chlorure",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neurones glycinergiques= Cellules de Renshaw; leur stimulation provoque une sécrétion de Glycine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Transporteurs axonaux et astrocytaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rôle régulateur de l’excitabilité des neurones moteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« L’augmentation pathologique de l’excitabilité des neurones moteurs peut conduire à une cascade d’événements toxiques calcium-dépendants, menant à leur dégénérescence; elle est définie par le terme général d’excitotoxicité »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sina Sangari, Thèse Doct. Neurosc., Paris VI, 26/09/206",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Callister R.J., Graham BA., Front. Mol. Neurosci. 2010, 3,13,1-13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Co activation des récepteurs glutamatergiques NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse du défaut de transmission glutamatergique, dans les psychoses schizophréniques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recherche de molécules facilitant le rôle de la Glycine, pour leur traitement.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse du défaut de transmission glutamatergique, dans les psychoses schizophréniques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "fondée sur les propriétés psychodysleptiques de la Kétamine.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les propriétés psychodysleptiques des anesthésiques généraux, Kétamine et Phencyclidine sont connues depuis longtemps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces substances entrainent par fois, lors du réveil, un état de conscience modifiée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perceptions temporo-spatiales perturbées, hallucinations,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "expérience dite de dépersonnalisation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Je quitte mon corps…je flotte au dessus de lui »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr Georges Mion:  Kétamine, ANETTE ,2 -ème édition,2012,280 pages",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Pharmacologie de la Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration de  kétamine en anesthésie générale provoque un état de profonde analgésie sans dissolution obligatoire de la conscience",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il y a une dissociation de l’activité électrique thalamo-corticale  de l’activité électrique réticulaire et limbique:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression de la première et conservation de la seconde.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicament de l’anesthésie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Anesthésie dissociative »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« La Kétamine garde un champ d’application important en anesthésie pédiatrique:  Sédation, analgésie maintien de la ventilation spontanée, administrations orale IM ou rectale possibles » (Pr G. Mion )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr Georges Mion:  Kétamine, ANETTE ,2 -ème édition,2012,280 pages",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Filiation structurale de la Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Structure des analgésiques centraux, morphiniques et analogies structurales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Molécules en «T» de A.H. Beckett",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Péthidine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phencyclidine PCP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TCP Tenocyclidine : réactif pharmacodynamique; antagoniste typique des récepteurs NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "T",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "La Kétamine n’a  d’affinité  que pour les récepteurs :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NMDA  Ki= 323 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "source de récepteurs: Cerveau antérieur de rat,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ligand radiomarqué  3H MK801",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Opioergiques sigma  Ki= 440 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "source de récepteurs: Cerveau de rat,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ligand radiomarqué  3H PCP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Kétamine et récepteurs des neuromédiateurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Kétamine et Phencyclidine: provoquent un état de conscience modifiée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perceptions temporo-spatiales perturbées, hallucinations,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "expérience dite de dépersonnalisation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Je quitte mon corps…je flotte au dessus de lui »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« La Kétamine*, peut produire un état psychique s’apparentant aux pharmacopsychoses, avec signes  positifs(hallucinations) et signes négatifs(désorganisation).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour certains auteurs, il s’agirait d’une décompensation, révélant un état psychotique infra clinique  sous-jacent . La consommation de Kétamine peut révéler une vulnérabilité psychotique » Pr G. Mion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Kétamine en tant que drogue",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr Georges Mion:  Kétamine, ANETTE ,2 -ème édition,2012,280 pages",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine , en tant qu’anesthésique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Expérience délirante aigüe ? Analogie avec une épisode psychotique aigu?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kétamine , en tant que drogue",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vulnérabilité psychotique révélée, pharmacopsychose",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Kétamine n’a  d’affinité  que pour les récepteurs :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NMDA  Ki= 323 nM;  antagoniste",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Opioergiques sigma  Ki= 440 nM agoniste",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recherche de substances amplifiant  la transmission glutamatergiques centrale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nouvelle voie du traitement médicamenteux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "psychoses schizophréniques?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amplification de la transmission glutamatergiques centrale, via la Glycine coagoniste des R NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par l’administration de Glycine, adjuvant du traitement neuroleptique   « antipsychotique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par administration de Sérine, qui a un effet antagoniste de la Phencyclidine (P.C.P.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par augmentation  de la disponibilité synaptique de la glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition neuronale ou glial du transport de la Glycine (transporteurs T Gly inhibés )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition enzymatique du catabolisme de la Glycine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amplification de la transmission glutamatergiques centrale, via la Glycine coagoniste des R NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration de Glycine, adjuvant du traitement neuroleptique   « antipsychotique »:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absence d’efficacité lors des essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration de Sérine, qui a un effet antagoniste de la Phencyclidine(P.C.P.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La P.C.P.  abolit l’inhibition du reflexe de sursaut chez le petit rongeur, la Sérine le",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "rétablit (essai prédictif d’un effet dit antipsychotique)*",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absence d’efficacité lors des essais thérapeutiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*voir vignette pharmacodynamie animale expérimentale: dias 29 à 33",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "26",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amplification de la transmission glutamatergiques centrale, via la Glycine coagoniste des R NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par augmentation  de la disponibilité synaptique de la Glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition des transporteurs T Gly , neuronaux ou gliaux,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bitopertine (Roche)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "20 ans de travaux !",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réussite des essais de pharmacodynamie animale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la concentration de Glycine dans le L.C.R. : chez le rat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "et chez les volontaires sains, en fonction des doses.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résultats des essais de Phase II , schizophrénie:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "encourageants, car amélioration des signes négatifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résultats des essais de Phase III , schizophrénie: extrêmement décevants.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absence d’effets/Placébo",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Abandon de la Bitopertine, en tant que médicament du traitement des psychoses schizophréniques !",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "E. Pinard et al. Chimia ,2018,72,477-484",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "27",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amplification de la transmission glutamatergiques centrale, via la Glycine coagoniste des R NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par augmentation  de la disponibilité synaptique de la Glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition des transporteurs T Gly , neuronaux ou gliaux,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Peyrovian B. al. Act. Pschytr. Scand., 09/2025. accessible « en ligne »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Sarcosine, la Cyclosérine et l’Iclépertine sont des inhibiteurs des transporteurs, neuronaux ou gliaux, de la Glycine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les résultats des essais thérapeutiques sont décevants et ces substances sont restées   à l’état de réactifs pharmacodynamiques et n’ont pas atteint le statut de médicament.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "28",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glycine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet activateur au niveau cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypothèse: défaut de transmission glutamatergique, dans les psychoses schizophréniques?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amplification de la transmission glutamatergiques centrale, via la Glycine coagoniste des R NMDA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par augmentation  de la disponibilité synaptique de la Glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition enzymatique  du catabolisme de la Glycine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Luvadaxistat. Résultats intéressants chez l’animal. Certains résultats positifs chez les patients souffrant de schizophrénie(Troubles cognitifs, Phase II).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pas de confirmation et pas de répétabilité de  ces résultats lors des essais de Phase III.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pas de possibilité d’enregistrement du Luvadaxistat, dans le traitement des troubles cognitifs concomitants des psychoses schizophréniques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Terry-Lorenzo R.T. et al., International Journal of Neuropsychopharmacology, 2025,pyae066. accessible en ligne",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "29",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "inhibition du comportement de sursaut par signalement préalable",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Prepulse  Inhibition Startle  Reflex (aspects simplifiés)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Petit rongeur « agressé » par un signal sonore intense 110 dB            contractions musculaires         Sursauts: réflexe de protection",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Si le signal sonore intense est précédé d’un signal de faible intensité 70 dB: \t\t\t\tréflexe aboli ou au moins atténué.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "120dB 40  ms",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "120dB 40 millisecondes ms",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "70 dB 40  ms",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "80 ms",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’après Clause A. et al. ,J. Neurosci. Methods, 2011, 200: 63–67",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "30",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Appareillage de mesure de l’inhibition du comportement de sursaut pré-signalé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Imetronic ,modifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "70 dB",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "31",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "inhibition du comportement de sursaut par signalement préalable",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Prepulse  Inhibition Startle  Reflex (aspects simplifiés)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les dérivés amphétaminiques, l’Apomorphine, les agonistes dopaminergiques indirects et directs  et la Phencyclidine, antagoniste des R NMDA abolissent cette inhibition.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les neuroleptiques classiques, la clozapine dans une moindre mesure, s’opposent à cette abolition.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le Diazépam et l’Imipramine n’ont aucun effet.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cette méthode d’étude de pharmacodynamie animale permet d’identifier des molécules qui pourront avoir un effet réducteur des syndromes psychotiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "32",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Imetronic, 33380 Marcheprime",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Entreprise française de construction d’appareils de mesures automatisées",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "pour les laboratoires de Neurosciences.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Site « en ligne »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A titre de documentation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Emmanuel Pinard et al.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Glycine Transporter Type I (GlyT1) Inhibitor, Bitopertin: A Journey from Lab to Patient",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Chimia72 (2018)477–484",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Article très intéressant retraçant « la longue marche du médicament* »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Locution empruntée au titre d’un éditorial écrit par le Professeur Daniel Ginestet ",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "source": "Moodle https://moodle.u-pariscite.fr/course/view.php?id=12073",
+  "date_extraction": "2026-03-29",
+  "modules": {
+    "MODULE 1 - GENERALITES PHARMACOLOGIQUES": {
+      "SESSION_1_BASES_NEUROBIOLOGIQUES": [
+        "ADENOSINE  Dr Benyaya revu Décembre 2025.pptx",
+        "DOPAMINE Dr Benyaya revu  Octobre 2024.pptx",
+        "GABA Dr Benyaya revu Octobre 2024.pptx",
+        "GLUTAMATE revu 18112025 Dr BENYAYA.pptx",
+        "GLYCINE Dr Benyaya revu Nov 2026.pptx",
+        "I-Introduction à létude des bases neurobiologiques des effets des médicaments psychotropes_Dr Benyaya.pptx",
+        "II-Pharmacodynamie générale (BHE) Dr Benyaya.pptx",
+        "Introduction aux cours du Dr Benyaya.pptx",
+        "IV-Glutamate ESKETAMINE_Dr Benyaya.pptx",
+        "NORADRENALINE Cours Dr Benyaya revu Octobre 2025.pptx",
+        "SEROTONINE Dr Benyaya revu Nov 2026.pptx",
+        "VII-Acetylcholine_Dr Benyaya.pptx",
+        "VIII-Histamine_Dr Benyaya.pptx",
+        "XI. Exemple de l eskétamine dans le traitement de la dépression résistante.pptx"
+      ],
+      "SESSION_2_BASES_PSYCHOPHARMACOLOGIE": [
+        "I-Bases de psychopharmacologie_Dr Benyaya.pptx",
+        "II-Pharmacocinétique Principes simplifiés Revu_Dr Benyaya.pptx",
+        "III-Pharmacocinétique Métabolisme_Dr Benyaya.pptx",
+        "IV-Pharmacocinétique Biopharmacie des antipsychotiques_Dr Benyaya.pptx",
+        "IVb-Pharmacocinétique Biopharmacie des antipsychotiques (complément non sonorisé)_Dr Benyaya.pptx",
+        "V-Voie d administration intra-nasale (complément)_Dr Benyaya.pptx",
+        "VI-Barrière hémato-méningée (complément non sonorisé)_Dr Benyaya.pptx",
+        "VII. Les modèles animaux. Dr Noble.pptx",
+        "VIII. Pharmacologie selon le sexe Pr Thibaut.pptx"
+      ],
+      "SESSION_3_AGENCES_MEDICAMENT": [
+        "Réglementation et agences Dr Benyaya.pptx"
+      ],
+      "SESSION_4_PHARMACOGENETIQUE": [
+        "1-Notions de pharmacogénétique des psychotropes_Dr Ramoz.pptx",
+        "2-Génétique de la psychiatrie_Dr Ramoz.pptx",
+        "3- Pharmacocinétique_Dr Ramoz.pptx",
+        "4-Médicaments psychotropes_Dr Ramoz.pptx",
+        "5-Schizophrénie_Dr Ramoz.pptx",
+        "6-TDAH-ADHD_Dr Ramoz.pptx",
+        "7-Dépression 1_Dr Ramoz.pptx",
+        "8-Dépression 2_Dr Ramoz.pptx",
+        "9-Dépression 3_Dr Ramoz.pptx"
+      ]
+    },
+    "MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES": {
+      "SESSION_1_SUJET_AGE": [
+        "Psychotropes et sujet âgé_Dr Hoertel.pptx"
+      ],
+      "SESSION_2_ENFANT_ADOLESCENT": [
+        "Cours.DU.Psychopharmaco.Part1.pptx",
+        "Cours.DU.Psychopharmaco.Part2.pptx",
+        "Cours.DU.Psychopharmaco.Part3.pptx",
+        "Cours.DU.Psychopharmaco.Part4.pptx",
+        "Cours.DU.Psychopharmaco.Part5.pptx",
+        "Cours.DU.Psychopharmaco.Part6.pptx"
+      ],
+      "SESSION_3_GROSSESSE_ALLAITEMENT": [
+        "Grossesse et allaitement.Part1.Genéralités.pptx",
+        "Grossesse et allaitement.Part2.Antipsychotiques.BZD.TSO. Autres.pptx",
+        "Grossesse et allaitement.Part3. Antidepresseurs.pptx",
+        "Grossesse et allaitement.Part4.Thymoregulateurs.pptx",
+        "Grossesse et allaitement.Part5.ECT. Conclusions.pptx"
+      ],
+      "SESSION_4_MILIEU_CARCERAL": [
+        "Psychiatrie en milieu pénitentiaire_Dr Fovet.partie1.pptx",
+        "Psychiatrie en milieu pénitentiaire_Dr Fovet.partie2.pptx",
+        "Psychiatrie en milieu pénitentiaire_Dr Fovet.partie3.pptx"
+      ],
+      "SESSION_5_INSUFFISANCES_ORGANIQUES": [
+        "Insuffisance (s) organique (s).Partie 1_Pr Le Jeunne.pptx",
+        "Insuffisance (s) organique (s).Partie 2_Pr Le Jeunne.pptx"
+      ],
+      "SESSION_6_TROUBLES_COMPORTEMENT_ALIMENTAIRE": [
+        "Psychopharmacologie TCA 2019-2020_Dr Duriez_Diaporama 1.pptx",
+        "Psychopharmacologie TCA 2019-2020_Dr Duriez_diaporama 2.pptx",
+        "Psychopharmacologie TCA 2019-2020_Dr Duriez_diaporama 3 (2).pptx"
+      ],
+      "SESSION_7_TROUBLES_NEUROCOGNITIFS": [
+        "Prise en charge patients porteurs de troubles neurocognitifs_Dr Louchart de la Chapelle.pptx"
+      ],
+      "SESSION_8_PSYCHIATRIE_LIAISON": [
+        "Psychotropes en psychiatrie de liaison_Pr Lemogne.pptx"
+      ]
+    },
+    "MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES": {
+      "SESSION_1_RAPPEL_CLINIQUE_TROUBLES_ANXIEUX": [
+        "Rappel clinique_Pr Thibaut.pptx"
+      ],
+      "SESSION_2_BENZODIAZEPINES": [
+        "Benzodiazépines_Pr Thibaut.pptx"
+      ],
+      "SESSION_3_ANXIOLYTIQUES_NON_BZD": [
+        "Anxiolytiques non benzodiazépiniques_Pr Thibaut.pptx"
+      ],
+      "SESSION_4_RECOMMANDATIONS_TROUBLES_ANXIEUX": [
+        "Recommandations dans le traitement des troubles anxieux_Pr Thibaut.pptx"
+      ]
+    },
+    "MODULE 4 - HYPNOTIQUES ET SOMMEIL": {
+      "SESSION_1_HYPNOTIQUES_BZD": [
+        "Hypnotiques de type benzodiazépinique_Dr Staner.pptx"
+      ],
+      "SESSION_2_HYPNOTIQUES_NON_BZD": [
+        "Hypnoptiques non-benzodiazépiniques_Dr Staner.pptx"
+      ]
+    },
+    "MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS": {
+      "SESSION_1_ANTIDEPRESSEURS": [
+        "I-Antidépresseurs indication et mécanismes d action_Pr Lançon.pptx",
+        "II-Antidépresseurs classe pharmacologique_Pr Lançon.pptx",
+        "III-Conduite du traitement dans lEDM_Pr Lançon.pptx",
+        "III.1-Antidépresseurs recommandations dépression majeure_Pr Thibaut.pptx"
+      ],
+      "SESSION_2_THYMOREGULATEURS": [
+        "Les Thymorégulateurs. Pr Henry.pptx",
+        "Les troubles bipolaires_Pr Henri.pptx",
+        "Recommandations nationales et internationales sur le traitement du trouble bipolaire_Pr Thibaut.pptx"
+      ]
+    },
+    "MODULE 6 - ANTIPSYCHOTIQUES": {
+      "SESSION_1_ANTIPSYCHOTIQUES": [
+        "1. Conduite du traitement antipsychotique Pr Franck revu 2023.pptx",
+        "2. Effets indésirables des antipsychotiques revu 2023 Pr Franck.pptx",
+        "3. Complément sur les antipsychotiques Pr Thibaut.PPTX",
+        "4. Schizophrénie résistante au traitement Pr Thibaut.pptx",
+        "5. Pour en savoir plus les antipsychotiques_Pr Thibaut.pptx"
+      ]
+    },
+    "MODULE 7 - ADDICTIONS": {
+      "SESSION_1_ALCOOL": [
+        "Trouble de l usage de l alcool. 1. Evaluation de la consommation.Pr Thibaut.pptx",
+        "Trouble de l usage de l alcool. 2. Partie clinique. Pr Thibaut.pptx",
+        "Trouble de l usage de l alcool. 3. Prise en charge du sevrage.Pr Thibaut..pptx",
+        "Trouble de l usage de l alcool. 4. Réduction de consommation ou maintien de l abstinence. Pr Thibaut.pptx",
+        "Trouble de l usage de l alcool. 5. usage mésusage et femmes. Pr Thibaut.pptx"
+      ],
+      "SESSION_2_TABAC": [
+        "Tabac. Dr Le Faou.pptx",
+        "Tabac. Pr Thibaut (complément 2023).pptx"
+      ],
+      "SESSION_3_SUBSTANCES_ILLICITES": [
+        "Amphétamines_Pr Thibaut.pptx",
+        "Cannabis-Pr Thibaut revu 2023.pptx",
+        "Cocaine. Bref rappel clinique Dr Karila.pptx",
+        "Cocaine. Partie 2. Prise en charge Dr Karila.pptx",
+        "Nouvelles drogues de synthèse_Pr Thibaut.pptx",
+        "TSO Partie 1. Méthadone_Pr Thibaut.pptx",
+        "TSO Partie 2 Buprénorphine. Pr Thibaut Revu 2023.PPTX"
+      ],
+      "SESSION_4_ADDICTIONS_COMPORTEMENTALES": [
+        "Traitement des Addictions comportementales hors addictions sexuelles - rappel clinique_Pr Thibaut.pptx",
+        "Traitement des Addictions comportementales hors addictions sexuelles - traitements pharmacologiques_Pr Thibaut.pptx"
+      ],
+      "SESSION_5_ADDICTIONS_MEDICAMENTS": []
+    },
+    "MODULE 8 - TROUBLES SEXUELS": {
+      "SESSION_1_HYPOFONCTIONNEMENT": [
+        "Hypofonctionnement sexuel_Pr Thiounn.pptx"
+      ],
+      "SESSION_2_1_ADDICTIONS_SEXUELLES": [
+        "Addictions sexuelles_Pr Thibaut. Part 1.pptx",
+        "Addictions sexuelles_Pr Thibaut. Part 2.pptx"
+      ],
+      "SESSION_2_2_TROUBLES_PARAPHILIQUES": [
+        "Module 8 2.2 Troubles paraphiliques - Agresseurs sexuels.F Thibaut. Part 1.pptx",
+        "Troubles paraphiliques - Agresseurs sexuels_Pr Thibaut. Part 2.pptx"
+      ]
+    },
+    "MODULE 9 - TRAITEMENTS HORS AMM": {
+      "SESSION_1_HORS_AMM": [
+        "Prescription hors AMM_Pr Schulz.pptx"
+      ]
+    },
+    "MODULE 10 - PSYCHOSTIMULANTS": {
+      "SESSION_1_PSYCHOSTIMULANTS": [
+        "Traitements psychostimulants_ REVU JUIN 2024 Pr Florence Thibaut.pptx"
+      ]
+    },
+    "MODULE 11 - EFFETS INDESIRABLES": {
+      "SESSIONS_1_2_EFFETS_AP_ATD": [
+        "Effets secondaires des traitements_Partie 1 Antipsychotiques_ Pr Thibaut.pptx",
+        "Effets secondaires des traitements_Partie 2 antidépresseurs et thymorégulateurs_ Pr Thibaut.pptx"
+      ],
+      "SESSION_3_TROUBLES_METABOLIQUES": [
+        "Cours syndrome Métabolique revu 2023 Pr Thibaut.pptx"
+      ],
+      "SESSION_4_EFFETS_SEXUELS": [
+        "Effets secondaires sexuels des psychotropes. Pr Thibaut 2024.pptx"
+      ]
+    }
+  }
+}

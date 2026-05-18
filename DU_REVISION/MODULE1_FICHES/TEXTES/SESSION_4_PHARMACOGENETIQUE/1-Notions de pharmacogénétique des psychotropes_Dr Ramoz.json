@@ -1,0 +1,530 @@
+{
+  "fichier": "1-Notions de pharmacogénétique des psychotropes_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 16,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 1- psychopharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dr Nicolas RAMOZ, PhD, INSERM",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 1 Ramoz - psychopharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la pharmacogénétique/ et la pharmacogénomique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Qu’est-ce que la psychopharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Introduction Pharmacogénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction : La réponse à un médicament est variable d’une personne à une autre (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nous ne sommes pas tous égaux devant les médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction : La réponse à un médicament est variable d’une personne à une autre (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1/ Les médicaments, même prescrits selon les règles, sont une cause importante de morbidité et de mortalité :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "128 000 hospitalisations liées à l’iatrogénie médicamenteuse en 2002 (France)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10 à 20% des malades admis en soins d’urgence",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus de 400 produits ont été incriminés, dont le plus souvent les anticoagulants, les diurétiques et les psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Introduction : La réponse à un médicament est variable d’une personne à une autre (III)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2/ La réponse au traitement des patients est plus ou moins efficace",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le taux de non-répondeur est compris entre 20 et 50 % des sujets traités, exemple 40% des sujets déprimés sont non-répondeurs, et entre 30 et 60% avec un psychotrope selon les études publiées",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le taux de rémission est lui aussi entre 20 et 50 % des sujets",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la pharmacogénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la pharmacogénétique (1)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude de la variabilité interindividuelle de la séquence de notre ADN responsable d'une variabilité de réponse à certains médicaments (en neuropsychiatrie)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Etude de 1 ou + gènes : Pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A partir du phénotype",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est transmis",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est observé",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Approche clinique",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "->Comprendre les mécanismes",
+          "indent": 2
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la pharmacogénétique (2)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Etude du génome entier : Pharmacogénomique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1/A partir du phénotype",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est transmis",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est observé",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Approche clinique",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "->Confirmer et valider les mécanismes de la cible du médicament",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "2/A partir du génotype",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est hérité",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce qui est testé",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "Approche moléculaire",
+          "indent": 2
+        },
+        {
+          "niveau": "H1",
+          "texte": "->Découvrir de nouveaux traitements et cibles",
+          "indent": 2
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la psychopharmacogénétique (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il existe plusieurs sous domaines dans la pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique est l’un d’eux bien spécifique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique est la science qui cherche à traiter un patient, souffrant d’un trouble neuropsychiatrique, selon un médicament et son patrimoine génétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’évaluation de la réponse au traitement en santé mentale se fait à travers une évaluation clinique qualitative et des questionnaires qui évaluent des dimensions cliniques à l’aide d’échelles quantitatives",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la psychopharmacogénétique (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique vise à:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Identifier les sujets non-répondeurs à un médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Identifier les sujets à risque de survenue d’un évènement indésirable pour un médicament donné",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Prévoir la dose la plus adaptée à chaque individu pour un médicament donné",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la psychopharmacogénétique (III)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique est apparue avec le développement du lithium dans le trouble bipolaire, et des neuroleptiques dans la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique est donc étroitement liée au développement des psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Parce que la psychopharmacogénétique est l’étude de la réponse aux psychotropes, elle nous aide à comprendre leur efficacité et leur mécanisme et aussi à appréhender les effets indésirables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Les domaines de la psychopharmacogénétique (IV)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Absorption, distribution, métabolisme, excrétion",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacodynamique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Activité biologique",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

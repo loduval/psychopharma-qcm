@@ -1,0 +1,489 @@
+{
+  "fichier": "QCM_Pharmacodynamie_générale.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’interaction drogue-récepteur  est analogue à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’interaction  enzyme-substrat\t\t\t\t\t\t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’interaction « pansement » gastrique-muqueuse gastrique  \t\t \t oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une drogue au sens pharmacodynamique expérimental est aussi appelée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ligand\t\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Substrat \t\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Substance mimétique\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Ki d’une « drogue » caractérise",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’affinité pour un récepteur, de manière directe \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’affinité pour un récepteur, de manière indirecte   \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une activité antagoniste\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour pouvoir agir, tout médicament doit se fixer sur un récepteur ,un transporteur, une enzyme:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "oui                    non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’interaction drogue-récepteur  est analogue à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’interaction  enzyme-substrat\t\t\t\t\t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’interaction « pansement » gastrique-muqueuse gastrique  \t\t \t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une drogue au sens pharmacodynamique expérimental est aussi appelée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ligand\t\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Substrat \t\t\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Substance mimétique\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Ki d’une « drogue » caractérise",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’affinité pour un récepteur, de manière directe \t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’affinité pour un récepteur, de manière indirecte   \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Une activité antagoniste\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour pouvoir agir, tout médicament doit se fixer sur un récepteur ,un transporteur, une enzyme:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour pouvoir comparer les Ki de médicaments d’une même série chimique il faut préciser :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La structure de la molécule \t\t\t \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la source des récepteurs\t\t\t \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "le ligand radiomarqué de référence \t\t \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’activité spécifique du ligand en dilution isotopique \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "====================================================================================\tUn agoniste partiel",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est un principe  actif peu efficace \t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est un principe  actif peu toxique\t\t\t\t\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » agoniste en l’absence d’agoniste plein \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » agoniste en présence d’agoniste plein \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » antagoniste en l’absence d’agoniste plein\t\t oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » antagoniste en présence d’agoniste plein \t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ne doit pas faire oublier la notion de compétition  attachée à sa définition \t\tvrai faux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Plus la valeur du  Ki d’une drogue est faible:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son activité est faible \t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son affinité pour le récepteur est faible \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son activité antagoniste est faible \t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son affinité pour le récepteur est grande \t\t\t\toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Pharmacodynamie générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour pouvoir comparer les Ki de médicaments d’une même série chimique il faut préciser :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La structure de la molécule \t\t\t \t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la source des récepteurs\t\t\t \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "le ligand radiomarqué de référence \t\t \t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’activité spécifique du ligand en dilution isotopique \t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "====================================================================================\tUn agoniste partiel",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est un principe  actif peu efficace \t\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est un principe  actif peu toxique\t\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » agoniste en l’absence d’agoniste plein \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » agoniste en présence d’agoniste plein \t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » antagoniste en l’absence d’agoniste plein\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "se comporte comme un « petit » antagoniste en présence d’agoniste plein \t\t oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ne doit pas faire oublier la notion de compétition  attachée à sa définition \t\tvrai",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Plus la valeur du  Ki d’une « drogue » est faible:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son activité est faible \t\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son affinité pour le récepteur est faible \t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son activité antagoniste est faible \t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plus son affinité pour le récepteur est grande \t\t\t\t oui",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

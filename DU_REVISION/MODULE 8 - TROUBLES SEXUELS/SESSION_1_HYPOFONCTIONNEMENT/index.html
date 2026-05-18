@@ -1,0 +1,280 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 1 — Hypofonctionnement — M8</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 8</a><div class="tb-crumb">M8 · <em>Session 1 — Hypofonctionnement</em></div></div><div class="sess-hero"><div class="sh-tag">Module 8 — Session 1/3</div><h1>Session 1 — Hypofonctionnement</h1><div class="sh-meta">1 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Hypofonctionnement sexuel - Diagnostic et prise en charge</h3>
+<p><strong>Pr Nicolas THIOUNN</strong></p>
+
+<h3>Considérations sur la sexualité</h3>
+
+<h4>Définition générale</h4>
+<ul>
+<li>Considérée par l'OMS depuis 1974 comme une composante essentielle de la qualité de vie</li>
+<li>Basée avant tout sur le désir (libido)</li>
+<li>Dépend de l'histoire sexuelle personnelle</li>
+<li>Dépend de l'état de santé mentale et physique</li>
+<li>Dépend de l'environnement affectif, personnel et professionnel</li>
+</ul>
+
+<h4>Le désir sexuel</h4>
+<ul>
+<li>Composante hormonale et non hormonale du désir sexuel</li>
+<li>Composante organique et composante psychologique</li>
+</ul>
+
+<h4>Phases de l'activité sexuelle</h4>
+<ul>
+<li>Phase d'excitation</li>
+<li>Phase de plateau</li>
+<li>Orgasme</li>
+<li>Résolution et phase réfractaire chez l'homme</li>
+</ul>
+
+<h4>Modalités de l'activité sexuelle</h4>
+<ul>
+<li>En couple le plus souvent</li>
+<li>Pénétration mais pas toujours</li>
+<li>Ou seul (masturbation)</li>
+</ul>
+
+<h4>Spécificités par genre</h4>
+<p><strong>Chez l'homme :</strong></p>
+<ul>
+<li>Érection</li>
+<li>Éjaculation (pas d'éjaculation si pas d'orgasme)</li>
+</ul>
+
+<p><strong>Chez la femme :</strong></p>
+<ul>
+<li>Lubrification</li>
+<li>Autres modifications notamment vulvaires</li>
+</ul>
+
+<h3>Définition de l'hypofonctionnement sexuel</h3>
+
+<p><strong>Diminution ou absence d'activité sexuelle</strong></p>
+<p>La prise en charge dépend de la demande du patient</p>
+
+<p>Si l'absence d'activité sexuelle est de diagnostic facile, l'hypofonctionnement sexuel devrait se définir par rapport à une norme qui n'existe pas et se définirait selon les notions suivantes :</p>
+<ul>
+<li>Diminution par rapport à une antériorité</li>
+<li>Demande du patient qui en souffre</li>
+<li>Demande du conjoint ou partenaire</li>
+<li>L'hypofonctionnement sexuel est dépendant de l'âge</li>
+</ul>
+
+<h3>Causes de l'hypofonctionnement sexuel</h3>
+
+<h4>Causes intrinsèques</h4>
+
+<p><strong>Diminution ou absence de désir sexuel :</strong></p>
+<ul>
+<li>Cause psychogène : dépression primitive ou réactionnelle</li>
+<li>Cause organique : insuffisance hormonale primitive ou iatrogènes : médicamenteuses principalement</li>
+</ul>
+
+<p><strong>Difficultés sexuelles :</strong></p>
+<ul>
+<li><strong>Homme :</strong> dysfonction érectile, éjaculatoire, orgasmique (causes médicamenteuses possibles)</li>
+<li><strong>Femme :</strong> dyspareunie, vaginisme, dysfonction orgasmique</li>
+</ul>
+
+<p><strong>Pathologies associées :</strong></p>
+<ul>
+<li>Cancers, troubles de la mobilité, troubles psychiatriques</li>
+</ul>
+
+<h4>Causes extrinsèques</h4>
+<ul>
+<li>Difficultés relationnelles</li>
+<li>Difficultés professionnelles</li>
+<li>Associations possibles avec d'autres pathologies, effet iatrogène sur la sexualité des traitement médicamenteux</li>
+</ul>
+
+<h3>Prise en charge</h3>
+
+<h4>Approche générale</h4>
+<ul>
+<li>Écouter les attentes du patient</li>
+<li>Orienter les questions selon les différentes composantes de la sexualité :
+  <ul>
+    <li>Désir / Libido</li>
+    <li>Chez l'homme : érection / plaisir - orgasme / éjaculation (seul ou avec partenaire)</li>
+    <li>Chez la femme : lubrification – sécheresse / dyspareunie / plaisir – orgasme (seule ou avec partenaire)</li>
+  </ul>
+</li>
+<li>Déterminer s'il s'agit d'une difficulté personnelle et/ou liée au couple</li>
+<li>Donner les conclusions diagnostiques</li>
+<li>Proposer des orientations thérapeutiques</li>
+</ul>
+
+<h4>Prise en charge des troubles du désir</h4>
+
+<p><strong>Cause psychogène :</strong> dépression primitive ou réactionnelle, désintérêt de la sexualité, difficultés liées au couple :</p>
+<ul>
+<li>Prise en charge psychologique et sexologique si besoin</li>
+</ul>
+
+<p><strong>Cause organique :</strong> insuffisance hormonale primitive ou iatrogène</p>
+<ul>
+<li>Rééquilibrer si possible</li>
+<li>Si impossible car traitement antihormonal impossible à stopper (cancer, ...) : prise en charge psycho sexologique pour tenter de rétablir un désir affectif et traitement des conséquences de l'insuffisance hormonale (dysfonction érectile, lubrification, ...)</li>
+</ul>
+
+<h4>Prise en charge des difficultés sexuelles</h4>
+
+<p><strong>Homme :</strong></p>
+<ul>
+<li><strong>Dysfonction érectile :</strong> iatrogène médicamenteux (anti HTA, psychotropes, traitement hormonaux, ...) : modification du traitement si possible, et si besoin : IPDE5, PGE1 endo-urètral ou intra-caverneux, vacuum, prothèses d'érection</li>
+<li><strong>Dysfonction éjaculatoire :</strong> iatrogène (alpha bloquants), post opératoire (définitif)</li>
+<li><strong>Dysfonction orgasmique :</strong> iatrogène (antidépresseurs) ou psychogène (prise en charge sexologique)</li>
+</ul>
+
+<p><strong>Femme :</strong></p>
+<ul>
+<li><strong>Dyspareunie :</strong> traitement locaux, avis gynécologique et sexologique</li>
+<li><strong>Vaginisme :</strong> prise en charge sexologique</li>
+<li><strong>Dysfonction orgasmique :</strong> prise en charge sexologique</li>
+</ul>
+
+<h4>Prise en charge des causes extrinsèques</h4>
+
+<p><strong>Difficultés relationnelles :</strong></p>
+<ul>
+<li>Le plus souvent « conjugopathies » parfois insolubles, prise en charge sexologique du couple s'il est d'accord</li>
+</ul>
+
+<p</div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/1</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">20 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-h1">Hypofonctionnement sexuel, diagnostic, prise en charge</div><div class="t-h2">Nicolas THIOUNN</div></div><div class="slide-card top"><div class="sn">Slide 2</div><div class="t-h1">Hypofonctionnement sexuel, diagnostic, prise en charge</div><div class="t-h1">Diminution ou absence d’activité sexuelle</div><div class="t-h1">La prise en charge dépend de la demande du patient</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Bienvenue dans ce module</div><div class="t-h1">Afin de le suivre dans les meilleures conditions, nous vous invitons à :</div><div class="t-sm">Vous isoler</div><div class="t-h2">Mettre un casque</div></div><div class="slide-card top"><div class="sn">Slide 4</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-sm">Définition</div><div class="t-h2">Éléments du diagnostic</div><div class="t-h2">Prise en charge</div><div class="t-h2">Orientations thérapeutiques</div><div class="t-sm">Conclusion</div></div><div class="slide-card top"><div class="sn">Slide 5</div><div class="t-h1">Hypofonctionnement sexuelNicolas THIOUNN</div></div><div class="slide-card top"><div class="sn">Slide 6</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h1">Si l’histoire sexuelle d’un Homme (ou femme) donne la clef de sa vie, c’est parce que dans la sexualité de l’Homme projette sa manière d’être à l’égard du monde, c’est-à-dire à l’égard du temps et à l’égard des autres Hommes.</div><div class="t-h1">Maurice MERLEAU-PONTY, Phénoménologie de la perception, Gallimard, Paris, 1945, p.195</div></div><div class="slide-card top"><div class="sn">Slide 7</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h1">Considérée par l’OMS depuis 1974 comme une composante essentielle de la qualité de vie</div><div class="t-h1">Basée avant tout sur le désir (libido)</div><div class="t-h1">Dépend de l’histoire sexuelle personnelle</div><div class="t-h1">Dépend de l’état de santé mentale et physique</div><div class="t-h1">Dépend de l’environnement affectif, personnel et professionnel</div></div><div class="slide-card top"><div class="sn">Slide 8</div><div class="t-h1">Considérations sur la sexualité : le désir</div><div class="t-h1">Composante hormonale et non hormonale du désir sexuel</div><div class="t-h1">Composante organique et composante psychologique</div></div><div class="slide-card top"><div class="sn">Slide 9</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h2">Phases de l’activité sexuelle :</div><div class="t-h2">Phase d’excitation</div><div class="t-h2">Phase de plateau</div><div class="t-sm">Orgasme</div><div class="t-h1">Résolution et phase réfractaire chez l’homme</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h2">L’activité sexuelle :</div><div class="t-h2">En couple le plus souvent</div><div class="t-h2">Pénétration mais pas toujours</div><div class="t-h2">Ou seul (masturbation)</div></div><div class="slide-card top"><div class="sn">Slide 11</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h2">L’activité sexuelle chez l’homme:</div><div class="t-sm">Érection</div><div class="t-h1">Éjaculation (pas d’éjaculation si pas d’orgasme)</div></div><div class="slide-card top"><div class="sn">Slide 12</div><div class="t-h2">Considérations sur la sexualité</div><div class="t-h2">L’activité sexuelle chez le femme:</div><div class="t-sm">Lubrification</div><div class="t-h1">Autres modifications notamment vulvaires</div></div><div class="slide-card top"><div class="sn">Slide 13</div><div class="t-h1">Hypofonctionnement sexuel, définition</div><div class="t-h1">Diminution ou absence d’activité sexuelle :</div><div class="t-h1">Si l’absence d’activité sexuelle est de diagnostic facile, l’hypofonctionnement sexuel devrait se définir par rapport à une norme qui n’existe pas et se définirait selon les notions suivantes :</div><div class="t-h1">Diminution par rapport à une antériorité</div><div class="t-h2">Demande du patient qui en souffre</div><div class="t-h2">Demande du conjoint ou partenaire</div><div class="t-h1">L’hypofonctionnement sexuel est dépendant de l’âge</div></div><div class="slide-card top"><div class="sn">Slide 14</div><div class="t-h2">Hypofonctionnement sexuel, causes</div><div class="t-h1">Causes d’une activité sexuelle faible, diminuée ou absente :</div><div class="t-h2">Causes intrinsèques :</div><div class="t-h1">Diminution ou absence de désir sexuel</div><div class="t-h1">Cause psychogène : dépression primitive ou réactionnelle</div><div class="t-h1">Cause organique : insuffisance hormonale primitive ou iatrogènes : médicamenteuses principalement</div><div class="t-h2">Difficultés sexuelles :</div><div class="t-h1">Homme : dysfonction érectile, éjaculatoire, orgasmique (causes médicamenteuses possibles)</div><div class="t-h1">Femme : dyspareunie, vaginisme, dysfonction orgasmique</div><div class="t-h2">Pathologies associées</div><div class="t-h1">Cancers, troubles de la mobilité, troubles psychiatriques, …</div><div class="t-h2">Causes extrinsèques :</div><div class="t-h2">Difficultés relationnelles</div><div class="t-h2">Difficultés professionnelles</div><div class="t-h1">Associations possibles avec d’autres pathologies, effet iatrogène sur la sexualité des traitement médicamenteux</div></div><div class="slide-card top"><div class="sn">Slide 15</div><div class="t-h1">Hypofonctionnement sexuel, prise en charge</div><div class="t-h2">Prise en charge :</div><div class="t-h2">Écouter les attentes du patient</div><div class="t-h1">Orienter les questions selon les différentes composantes de la sexualité :</div><div class="t-sm">Désir / Libido</div><div class="t-h1">Chez l’homme : érection / plaisir - orgasme / éjaculation (seul ou avec partenaire)</div><div class="t-h1">Chez la femme : lubrification – sécheresse / dyspareunie / plaisir – orgasme (seule ou avec partenaire)</div><div class="t-h1">Déterminer s’il s’agit d’une difficulté personnelle et/ou liée au couple</div><div class="t-h1">Donner les conclusions diagnostiques</div><div class="t-h1">Proposer des orientations thérapeutiques</div></div><div class="slide-card top"><div class="sn">Slide 16</div><div class="t-h1">Hypofonctionnement sexuel, prise en charge</div><div class="t-h1">Prise en charge des troubles du désir :</div><div class="t-h1">Diminution ou absence de désir sexuel</div><div class="t-h1">Cause psychogène : dépression primitive ou réactionnelle, désintérêt de la sexualité, difficultés liées au couple :</div><div class="t-h1">Prise en charge psychologique et sexologique si besoin</div><div class="t-h1">Cause organique : insuffisance hormonale primitive ou iatrogène</div><div class="t-h1">rééquilibrer si possible, si impossible car traitement antihormonal impossible à stopper (cancer, …), prise en charge psycho sexologique pour tenter de rétablir un désir affectif et traitement des conséquences de l’insuffisance hormonale (dysfonction érectile, lubrification, … )</div></div><div class="slide-card top"><div class="sn">Slide 17</div><div class="t-h1">Hypofonctionnement sexuel, prise en charge</div><div class="t-h1">Prise en charge des difficultés sexuelles :</div><div class="t-sm">Homme :</div><div class="t-h1">Dysfonction érectile : iatrogène médicamenteux (anti HTA, psychotropes, traitement hormonaux, …) : modification du traitement si possible, et si besoin : IPDE5, PGE1 endo-urètral ou intra-caverneux, vacuum, prothèses d’érection</div><div class="t-h1">Dysfonction éjaculatoire : iatrogène (alpha bloquants), post opératoire (définitif)</div><div class="t-h1">Dysfonction orgasmique : iatrogène (antidépresseurs) ou psychogène (prise en charge sexologique)</div><div class="t-sm">Femme :</div><div class="t-h1">Dyspareunie : traitement locaux, avis gynécologique et sexologique</div><div class="t-h1">Vaginisme : prise en charge sexologique</div><div class="t-h1">Dysfonction orgasmique : prise en charge sexologique</div></div><div class="slide-card top"><div class="sn">Slide 18</div><div class="t-h1">Hypofonctionnement sexuel, prise en charge</div><div class="t-h1">Prise en charge des troubles des causes extrinsèques :</div><div class="t-h2">Difficultés relationnelles :</div><div class="t-h1">Le plus souvent « conjugopathies » parfois insolubles, prise en charge sexologique du couple s’il est d’accord</div><div class="t-h2">Difficultés professionnelles :</div><div class="t-h1">Prise en charge psychologique, médecine du travail, reconversion professionnelle</div></div><div class="slide-card top"><div class="sn">Slide 19</div><div class="t-h1">Hypofonctionnement sexuel, conclusion</div><div class="t-h1">Comprendre la cause de l’hypofonctionnement sexuel</div><div class="t-h2">Évaluer son retentissement</div><div class="t-h2">Expliquer le diagnostic</div><div class="t-h1">Proposer les orientations thérapeutiques</div></div><div class="slide-card"><div class="sn">Slide 20</div><div class="t-sm">NOUVEAU 2025</div><div class="t-h1">Risques oculaires avec Sildenafil (IPDE5):</div><div class="t-h1">Risque X 3 de oedeme maculaire, dégénerescence maculaire, autres maculopathies (Kim et al. JAMA Opht 2025)</div></div></div></div><div class="bot-nav"><span></span><div class="bn-info">Session 1/3<br>Module 8</div><a class="bn-btn" href="../SESSION_2_1_ADDICTIONS_SEXUELLES/index.html">Session suiv. →</a></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>

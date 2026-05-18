@@ -1,0 +1,1067 @@
+{
+  "fichier": "7-Dépression 1_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 20,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 7 Ramoz – Depression 1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 7 Ramoz – Dépression 1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dépression, critères et réponse au traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différentes voies biologiques : système sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différentes voies biologiques : système neuroprotecteur/neuroplastique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression, critères et réponse au traitement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La dépression et la réponse au traitement (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Au moins cinq des symptômes suivants doivent avoir été présents pendant une durée de deux semaines et avoir représenté un changement par rapport au fonctionnement antérieur et au moins un des symptômes : soit (1) une humeur dépressive, soit (2) une perte d’intérêt ou de plaisir:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1-Humeur dépressive présente pratiquement toute la journée, signalée par le sujet (p. ex., pleure)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2-Diminution marquée de l’intérêt pour les activités (signalée par le sujet ou observée par les autres)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "3-Perte ou gain de poids ou diminution ou augmentation de l’appétit",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "4-Insomnie ou hypersomnie presque tous les jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-Agitation ou ralentissement psychomoteur presque tous les jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "6-Fatigue ou perte d’énergie presque tous les jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "7-Sentiment de dévalorisation ou de culpabilité excessive ou inappropriée (qui peut être délirante)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "8-Diminution de l’aptitude à penser ou à se concentrer ou indécision presque tous les jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "9-Pensées de mort récurrentes (pas seulement une peur de mourir), idées suicidaires récurrentes sans plan précis ou tentative de suicide ou plan précis pour se suicider",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Echelle HADS (Hospital Anxiety and Depression scale 14items)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Echelle de dépression de Hamilton (16 ou 21 items)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si reduction du score de 50% alors réponse au traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si score <8 alors rémission",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La dépression et la réponse au traitement (II)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différentes voies biologiques : système sérotoninergique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La dépression un carrefour neurobiologique:hypothèse monoaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression, déficit en sérotonine (trouble de l’humeur), en dopamine (trouble du plaisir) et noradrénaline (inhibition)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noradrénaline",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Quel gène candidats en psychopharmacogénétique?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Transporteur de recapture de la sérotonine codé par le gène 5-HTT/SLC6A4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Effet spécifique du transporteur de recapture de la sérotonine 5-HTT/SLC6A4 ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les TTT antidépresseurs n’ont pas des profils comparables…",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Est-ce que cela signifie qu’ils n’auront pas le même impact PGx?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Deux polymorphismes génétiques majeurs du 5HTT/SLC6A4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Promoteur    1         2     3    4    5  6   7        8  9  10 11   12      13    14",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HTTLPR\tVNTR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "528 bp (L)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "484 bp (S)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’allèle L du 5-HTTLPR induit une activité transcriptionnelle 2 à 3 fois supérieure que l’allèle s, après transfection (Heils et al 1996)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "PGx du variant 5HTT/LPR du SLC6A4 dans la dépression majeure (MDD) (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Variant s associé à la dépression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Variant s également associé à une mauvaise réponse au traitement (ΔHAM-D<50%)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zanardi et al, JCPP 2000",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "PGx du variant 5HTT/LPR du SLC6A4 dans la dépression majeure (MDD) (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pas d’association",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Population européennes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Smeraldi et al., 1998: fluvoxamine/UP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "102  patients MDD avec des traits psychotiques :  LL, Ls>ss",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Zanardi et al., 2000: paroxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "64 non-psychotiques MDD : ll> ls et ss",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Zanardi et al., 2001: fluvoxamine/UP,BP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Extension à 155 UP/BP : l>s",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pollock et al., 2000: paroxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "USA MDD avant 60 ans. Réponse plus rapide chez LL",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rausch et al. 2002:  fluoxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Efficacité de ll>ss, pour la Fluoxetine, mais aussi pour le placebo !",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Durham et al. 2004: Setraline",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "N=205 patients déprimés seniors avec réponse plus rapide chez les patients LL",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "PGx du variant 5HTT/LPR du SLC6A4 dans la dépression majeure (MDD) (III)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Population asiatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Kim et coll., 2000 : Coréens",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "120 UP  s>L",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Yoshida et coll., 2002: Japonais",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "66 patients s>L",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Yu et coll., 2002: Chinois",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "120 MDD L>s",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Effets des traitements antidépresseurs très pléiotropesExemple : voie de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "IRSN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bupropion*",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mirtazapine*",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sismothérapie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tricycliques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nd",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT1A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○ ou ↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "IMAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ISRS",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↓",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "St. Nerf Vague *",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nd",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nd",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "*Ces traitements augmentent décharge des neurones 5-HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Agomélatine*",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nd",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "nd",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "↑",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Blier et al, 1980-2013",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fonction des",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "autorécepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT1A  (soma)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fonction des",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "autorécepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "terminaux 5-HT1B",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fonction des",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "récepteurs α2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "terminaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réponse des",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "postsynaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT1A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet net sur la",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "transmission",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "○",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différentes voies biologiques : système neuroprotecteur/neuroplastique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs potentiels de risque impliqués dans la MDD donnent des clés pour définir les gènes candidats en PGx",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Kendler (2002) Am J Psychiatry. Jul; 159(7): 1133-45",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs neurotrophiques et dépression : gènes candidats prometteurs pour PGx",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Différences chez les sujets porteur du variant Val/Val et Val/Met du gène BDNF",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "-Administration de BDNF : augmentation de manière dose-dépendante du 5-HIAA (métabolite de la sérotonine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "- Souris invalidées pour le BDNF ont un dysfonctionnement de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Egan et al. (2003) Cell, 112: 257-269",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

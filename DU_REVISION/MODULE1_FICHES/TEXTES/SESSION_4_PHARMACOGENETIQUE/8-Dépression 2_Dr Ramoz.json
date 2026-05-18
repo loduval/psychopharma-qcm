@@ -1,0 +1,683 @@
+{
+  "fichier": "8-Dépression 2_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 22,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 8 Ramoz – Depression 2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 8 Ramoz – Dépression 2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et axe HypothalamoHypophysaireSurrénal (HPA)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et PGx de l’axe HPA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et Pharmacogénomique de l’axe HPA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et axe HypothalamoHypophysaireSurrénal (HPA)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et axe HypothalamoHypophysaireSurrénal (HPA)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’axe HPA est impliqué dans la régulation du stress et de l’anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’hyperactivité HPA peut-être impliqué durant la réponse au traitement par un antidépresseur (récepteur du cortisol CR1 sur l’hippocampe)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plusieurs études de PGx consacrées à l’axe HPA dans la réponse à un antidépresseur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Etude de PGx du gène CRHR1 dans la dépression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gène CRHR1 : 3 Tag SNPs génotypés chez 80 méxicains traités à la Fluoxetine, au Desipramine ou un Placebo",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Avec une forte ou faible anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Homogénéité des patients pour l’haplotype GAC avec une diminution de 70% de HAM-D (réponse au TTT)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mais pas d’effet chez les patients non anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Licinio et al. (2004) Mol Psychiatry, 9: 1075-82",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Axe du stress / Axe hypothalamo-pituitaire adrénergique (HPA)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "corticotropin releasing factor",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Corticolibérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adrenocorticotropic hormone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Corticotrophine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cortisol élevée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Et dépression",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et PGx de l’axe HPA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (I): gène FKBP5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "294 MDD et 339 contrôles; 57 SNPs 8 gènes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gènes corticoïdes : CRH et AVP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur Glucocorticoïde: NR3C1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5 cochaperones des GR: BAG1, STUB1, TEBP, FKBP4 et FKBP5 (+27 autres SNPs)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Binder et al, Nature Genetics 2004",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TOTAL",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ISRS",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TCA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mirtazapine/antaHTR2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Association quelque soit le traitement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (III)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réplication sur une cohorte indépendante",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Comment agit FKBP5?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Facteur de rétrocontrôle négatif des récepteurs aux glucocorticoïdes (GR)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1/FKBP5 fixe GR, réduit l’affinité du cortisol",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2/Réduit la translocation nucléaire vers les GRE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "3/Réduit l’expression de gènes dont FKBP5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (IV)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Quel sens à notre association (lien biologique entre le gène et la réponse clinique) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "+FKPB5 chez porteur TT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Corrélation FKBP5/TT et +cortisol",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CC",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (V)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Quel sens à notre association (lien biologique entre le gène et la réponse clinique) ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Profil neuroendocrine des FKBP5/TT intermédiaire entre contrôles et patients CC/CT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Patients TT (rare) de FKBP5 associés à une meilleure réponse au traitement car profil neuroendocrinien spécifique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et Pharmacogénomique de l’axe HPA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La meilleure étude de PGx de la MDD (VI): une histoire sans fin",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénomique et protocole STAR*D",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacogénomique de la dépression avec la voie sérotonine (5HTT, HTR2A, etc…)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénomique de la dépression, suite",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Uher et al, AJP 2010",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Binder et al, AGP 2010",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacogénomique de la dépression avec les voies CRF, de neuroinflammation et de neurotoxicité",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénomique et antidépresseurs des voies sérotonine ou noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tansey et al, PlosMedicine 2012",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Escitalopram",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Citalopram",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nortriptyline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réboxétine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Profils pharmacogénomiques différents selon la spécificité de l’antidépresseur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "PGx et dépression : identification et validation de voies physiopathobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets pléïtropes des substances et des cibles de PGx",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Possibilité de médecine personnalisée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

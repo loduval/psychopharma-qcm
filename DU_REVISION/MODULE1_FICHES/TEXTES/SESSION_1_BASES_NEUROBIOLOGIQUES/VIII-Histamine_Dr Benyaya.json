@@ -1,0 +1,2438 @@
+{
+  "fichier": "VIII-Histamine_Dr Benyaya.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 36,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Histamine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Joseph BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine et allergie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antihistaminiques antiallergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biosynthèse et dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs périphériques et centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments psychotropes ayant des propriétés antagonistes de récepteurs H1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H:     Pourquoi nous y intéressons nous?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les médicaments antihistaminiques anti allergiques classiques sont à  l’origine  de la conception:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des premiers  neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "( Chlorpromazine et dérivés de la Phénothiazine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des premiers  antidépresseurs imipraminiques (Imipramine et dérivés dits « Tricycliques »)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "De certains tranquillisants comme l’Hydroxyzine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets antihistaminiques des médicaments psychotropes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet sédatif parfois recherché",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets sédatifs et orexigènes considérés comme indésirables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour certains auteurs, la « puissance » des antidépresseurs  imipraminiques serait due à l’association des propriétés inhibitrices de la recapture des neuromédiateurs aux propriétés anticholinergiques et antihistaminiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "F.E. Bloom, D.J. Kupfer , Raven Press, 1995",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Amine biogène » avec radical éthylamine: qui est  retrouvé dans DA , 5HT (décarboxylation des amino- acides précurseurs  )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ne traverse pas la Barrière Hémato Encéphalique (BHE) comme les autres monoamines",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Histamine est largement présente dans le règne animal. Chez les mammifères :présente dans tous les tissus:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Sa teneur est élevée dans les tissus cutanés et muqueux , tissu de revêtement qui sont les plus exposés aux agressions  aux traumatismes  et aux infections; elle est concentrée dans des granules des mastocytes , cellules basophiles disséminées dans le tissu conjonctif, localisées de préférence autour des petits vaisseaux et des organes à muscles lisses »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Son effet stimulant de la sécrétion gastrique est connu depuis 1920",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "B. Halpern, S Bonfils  Enc.Universalis",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Histamine était autrefois classée parmi les substances « Autacoïdes »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces substances sont qualifiées d’ubiquitaires(omniprésentes); ont un rôle physiologique ou physiopathologique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Elles sont libérées par un tissu en réponse à une agression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Elles ont une durée de vie courte",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Elles agissent prés du lieu de synthèse et de sécrétion pour réparer les effets de l’agression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "On disait que, dans l’allergie comme dans l’inflammation, le mécanisme de défense va au-delà de son but et crée un état pathologique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dictionnaire des Sciences Pharmaceutiques et Biologiques Acad. Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dans  « Le » Goodman & Gilman’s  The Pharmacological Basis of Therapeutics",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Autacoïds  fait l’objet d’un chapitre de la IX -ème édition et dans la XII édition , le terme Autacoïds est réservé aux  médiateurs lipidiques de l’allergie et de l’inflammation",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Autacoïdes »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dans « Le »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Goodman & Gilman’s  The Pharmacological Basis of Therapeutics",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Autacoïds »  « fait l’objet d’un chapitre de la IX -ème édition. Dans la XII édition , le terme Autacoïds est réservé aux médiateurs lipidiques de l’allergie et de l’inflammation.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H   Allergie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les propriétés de l’Histamine se manifestent lors des réactions allergiques,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "[ou d’hypersensibilité immédiate à un allergène prenant valeur d’un  antigène]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors de ces réactions, l’Histamine  est libérée des granules de stockage",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "des cellules mastocytaires des muqueuses, de la peau et  des granulocytes basophiles du sang (improprement appelés polynucléaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’allergie et l’anaphylaxie sont connues depuis un siècle environ.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réaction de Shutz- Dale est aussi connue depuis cette époque:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un animal de laboratoire (Cobaye) est sensibilisé par injection d’albumine de l’œuf.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un fragment d’iléon est prélevé et suspendu in vitro dans un liquide survie oxygéné",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mis en présence de l’ovalbumine, l’iléon va se contracter (effet du à la libération d’Histamine)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les effets de l’Histamine vont être éprouvés lors des crises d’allergie* :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dilatation des artères de petit calibre,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "augmentation de la perméabilité capillaire,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "contraction des muscles lisses  bronchiques (Asthme allergique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "stimulation des terminaisons nerveuses [prurit, douleur].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réaction de protection a dépassé son but et est excessive ; les conséquences sont néfastes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les antihistaminiques sont  une des grandes découvertes de la chimie thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H   Allergie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« *L’anaphylaxie est une réaction d’hypersensibilité (ou allergique) systémique, généralisée, sévère, pouvant engager le pronostic vital . Elle survient dans un délai de quelques minutes à quelques heures, après l’exposition à un facteur déclenchant »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Société Française de Médecine d’Urgence",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Travaux du Laboratoire de Chimie Thérapeutique (Institut Pasteur)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pr Ernest Fourneau",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pr  Daniel  Bovet  : Antihistaminiques dérivés de l’éthylène-diamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ernest Fourneau",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Daniel Bovet  Prix Nobel 1957:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antihistaminiques et curares de synthèse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr  Daniel  Bovet  : Antihistaminiques dérivés de l’éthylène-diamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les composés dérivés de l’éthylène diamine substituée par deux groupes aromatique et deux groupes aliphatiques protègent les cobayes contre plusieurs centaines de doses mortelles d’histamine . Un pharmacophore général a été mis en évidence X= oxygène O Carbone C",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antihistaminiques dérivés de l’éthylène-diamine et analogues structuraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "On retrouve dans la Prométhazine et dans l’Hydroxyzine  l’enchainement éthylène diamine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "HistamineHis   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A partir de la prométhazine , antihistaminique dérivé de l’éthylène diamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Obtention de la Chlorpromazine, premier Neuroleptique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Obtention de l’Imipramine , premier Thymoanaleptique dit « Tricyclique »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biosynthèse et dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biosynthèse a lieu in situ, par décarboxylation d’un aminoacide, l’Histidine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Enzyme : histidine décarboxylase ou HDC)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Histidine est un amino acide essentiel chez l’enfant âgé de moins de 1 an",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Au niveau central, la biosynthèse de l’HA est stimulée à chaque mise à  feu des neurones His .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Histamine est dégradée par méthylation suivie d’une désamination  oxydative  (MAO B)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Histidine est un aminoacide essentiel chez le  nourrisson",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Périphériques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antihistaminiques classiques :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition des effets de l’Histamine se manifestant lors de l’allergie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Incapacité à inhiber des effets de l’Histamine ou de l’Histalog stimulant la sécrétion gastrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Histalog",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Deux types de récepteurs? Définis par l’action des agonistes et des antagonistes?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Périphériques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Deux types de récepteurs? Définis par l’action des agonistes et des antagonistes?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs H1: activés par Histamine, inhibés par les Antihistaminiques anti- allergiques. \t          Non activés par Histalog. Manifestations de l’allergie. Médicaments « Anti H1 »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs H2: activés par Histamine,  non-inhibés par les Antihistaminiques anti- allergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "activés par Histalog; Sécrétion gastrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments du traitement des ulcères gastriques et duodénaux  « Anti H2 »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Centraux ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets  hypno-sédatifs  et orexigènes des « Anti H1 classiques »:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments franchissant la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets anti H1 des psychotropes: Effets  hypno-sédatifs  et orexigènes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ki pour récepteurs H1 très faible => forte affinité => effets sédatifs et hypno-sédatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets analgésiques de l’Histamine ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Existence de récepteurs centraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Centraux ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise en évidence des récepteurs centraux histaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Auto-historadiographie d’encéphales de cobayes à qui des molécules radiomarquées ont été administrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste H1 ,franchissant la BHE, marqués à l’Iode 125",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste H2, franchissant la BHE, marqués à l’Iode 125",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise en évidence par le Pr J Ch. Schwartz et son équipe INSERM du récepteur H3 central = Autorécepteur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste H3, franchissant la BHE, marqué au Tritium 3H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les pharmacologues disposent d’agonistes et d’antagonistes sélectifs des  3 récepteurs His.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs centraux histaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "S. J. Hilla, C. R. Ganellin, H. Timmerman, J. C. Schwartz",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Classification of Histamine Receptors",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacological Reviews Vol. 49, No. 3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Récepteurs H1\nCouplés à Protéine Gq\n\n 2nds messagers= IP3 et DAG\n\nPotentialisation de AMP cyclique\n\nAccumulation intra- neuronale d’ions Calcium Ca2+",
+              "Récepteurs H2\nCouplé à Protéine Gs\n\n2ndmessager=\nAMP cyclique",
+              "Récepteurs H3\nAutorécepteur \nInhibition synthèse  et libération \nd’histamine\nInhibition libération: \nACh, DA,NA,5HT"
+            ],
+            [
+              "Cortex    Cervelet (couche granulaire)\n\nThalamus \n\nN. Accumbens   Hippocampe",
+              "Cortex \n\nStriatum\n\nAmygdale",
+              "Cortex \n\nStriatum\n\nLocus Niger"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise en évidence des  voies histaminergiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces voies seraient elles ʺparallèlesʺ  aux voies des autres neuromédiateurs et prendraient elles leur origine dans la partie haute du mésencéphale?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Méthodes immunochimiques et enzymatiques pour l’identification de ces voies.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Origine: Corps mamillaires, partie de l’hypothalamus.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Projections diffuses dans tout l’encéphale avec une voie descendante parcourant le tronc cérébral pour atteindre la moëlle.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "64 000 neurones histaminergiques intracérébraux (H.L. Haas,2008)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mise en évidence des  voies histaminergiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« La localisation exclusive des somas neuronaux dans les noyaux mamillaires de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "l’hypothalamus ainsi que les projections très diffuses dans tout le cerveau suggèrent que les fonctions des neurones His ne sont pas de réguler des activités très spécifiques du cerveau mais plutôt de moduler des activités plus générales comme le métabolisme énergétique ou les états d’éveil »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Analogie existant entre les voies Noradrénergiques et les voies Histaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "M. Garbarg ,INSERM Pr J. Ch. Schwartz",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Voies Histaminergiques cérébrales (64 000 neurones)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Origine: Corps Mamillaires (Hypothalamus) Projections: Ensemble de l’encéphale, y compris Hypothalamus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CM: Corps Mamillaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après  JC Schwartz 1986, J Z Nowak 1994 M. Garbarg,1995",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aspects historiques: encéphalite virale  léthargique de Von Economo:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neuropathologie:  Lésions de l’Hypothalamus.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse  de l’hypersomnie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Destruction des noyaux contenant les somas des neurones His",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse  de l’insomnie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Destruction des neurones Gabaergiques inhibant les neurones His",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H L. Haas, O A. Sergeeva,  O Selbach",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine in the Nervous System",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Physiol Rev 88: 1183–1241, 2008",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la durée de sommeil lent par administration d’un inhibiteur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "de l’Histidine Décarboxylase(pas de formation d’histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la durée de sommeil lent par administration  d’un agoniste sélectif des récepteurs H3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H L. Haas, O A. Sergeeva,  O Selbach",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine in the Nervous System",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Physiol Rev 88: 1183–1241, 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la durée d’éveil par administration d’un antagoniste sélectif des récepteurs H3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la durée d’éveil par administration d’un agoniste sélectif des récepteurs H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activité des neurones His  est maximale pendant les phases d’éveil ; ces neurones sont mis au silence pendant le sommeil   (y compris le sommeil paradoxal)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’activité reprend au réveil une fois l’état de vigilance bien installé",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "BétaHistine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "BétaHistine ,  médicament indiqué dans le traitement des vertiges",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste des récepteurs H3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« inhibe les autorécepteurs inhibiteurs »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "effet psychostimulant chez le sujet âgé\t)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes des récepteurs H3: vers une nouvelle famille de psychostimulants?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "J .Ch.  Schwartz",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régulations endocriniennes hypothalamiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets sur la sécrétion des hormones neurohypophysaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Stimulation des neurones:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "synthétisant l’hormone antidiurétique Arginine – Vasopressine;   Synthétisant l’Ocytocine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets sur la sécrétion des hormones adénohypophysaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action sur les Releasing Factors hypothalamiques  ou Libérines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Stimulation de la sécrétion d’ACTH et Prolactine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition de la sécrétion de l’Hormone de croissance  hGH et de la TSH",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "H L. Haas, O A. Sergeeva,  O Selbach",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Histamine in the Nervous System",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Physiol Rev 88: 1183–1241, 2008",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régulations  de la température corporelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injection systémique d’Histidine, précurseur de l’Histamine,  chez le rat => Hypothermie et augmentation du temps passé sous une lampe calorifère",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Burimamide premier Antagoniste H2 : injection dans le III -ème ventricule chez le rat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>s’oppose à l’hypothermie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réponse histaminergique thermorégulatrice peut être biphasique : hypothermie puis hyperthermie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hyperthermie favorise la libération d’Histamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La réponse histaminergique thermorégulatrice peut être biphasique : hypothermie puis hyperthermie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste H1: inhibe l’hyperthermie provoquée par l’injection d’Histamine dans la partie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "antérieure de l’Hypothalamus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H L. Haas, O A. Sergeeva,  O Selbach",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine in the Nervous System",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Physiol Rev 88: 1183–1241, 2008",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régulations  de la prise de nourriture",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste H3 Thiopéramide: levée de l’inhibition de la biosynthèse et de la libération d’Histamine:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "injection dans le III -ème ventricule chez le rat => effet anorexigène.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet aboli par la Chlorphéniramine, antagoniste H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H L. Haas, O A. Sergeeva,  O Selbach",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine in the Nervous System",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Physiol Rev 88: 1183–1241, 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibiteur de l’enzyme de la biosynthèse de l’Histamine : Histidine Décarboxylase HDC:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "injection dans le III -ème ventricule chez le rat =>  augmentation de la prise de nourriture",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes  H3  : Nouveaux médicaments adjuvants du traitement de l’obésité?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Psychotropes possédant des propriétés antihistaminiques centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets sédatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets orexigènes pouvant entrainer une prise de poids",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* NIMH: National Institute of Mental Health Banque de données Ki accessible el ligne Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Examen des Ki*,de la liaison d’un ligand sélectif radiomarqué, de différents médicaments psychotropes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Antihistaminiques H1 classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* sédation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valeurs des constantes d’inhibition Ki du récepteur H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute affinité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les antihistaminiques H1 modernes ne franchissent pas, ou peu, la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NIMH: National Institute of Mental Health Banque de données Ki accessible el ligne Ki Database",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antihistaminique H1 Classique",
+              "Ki  nM"
+            ],
+            [
+              "Chlorphéniramine *",
+              "2,5"
+            ],
+            [
+              "Hydroxyzine*",
+              "2"
+            ],
+            [
+              "Prométhazine*",
+              "2,90"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "* sédation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valeurs des constantes d’inhibition Ki du récepteur H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Antidépresseurs Imipraminiques classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute affinité",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseurs Imipraminiques classiques",
+              "Ki  nM"
+            ],
+            [
+              "Amitriptyline*",
+              "0,9 à1,1"
+            ],
+            [
+              "Clomipramine",
+              "12 à 31"
+            ],
+            [
+              "Doxépine*",
+              "0,68"
+            ],
+            [
+              "Imipramine",
+              "2 à 26"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "* sédation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valeurs des constantes d’inhibition Ki du récepteur H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Antidépresseurs  inhibiteurs α 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute affinité",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseurs  inhibiteurs α 2",
+              "Ki nM"
+            ],
+            [
+              "Miansérine*",
+              "1"
+            ],
+            [
+              "Mirtazapine* (« Azamiansérine »)",
+              "0,9 à 1,6"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "* sédation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valeurs des constantes d’inhibition Ki du récepteur H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuroleptiques classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute affinité",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Neuroleptiques classiques",
+              "Ki nM"
+            ],
+            [
+              "Chlorpromazine*",
+              "2 à 32"
+            ],
+            [
+              "Lévomépromazine*",
+              "1,6"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "* sédation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valeurs des constantes d’inhibition Ki du récepteur H1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "§ Drugs R D (2015),M. Corena-Mc Leod",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute affinité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antipsychotique",
+              "Ki nM"
+            ],
+            [
+              "Aripiprazole",
+              "28"
+            ],
+            [
+              "Clozapine*",
+              "2 à 7"
+            ],
+            [
+              "Olanzapine*",
+              "2,77"
+            ],
+            [
+              "Palipéridone §",
+              "3,4 à 34"
+            ],
+            [
+              "Quétiapine",
+              "6 à 21"
+            ],
+            [
+              "Rispéridone",
+              "22,45"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Histamine His   H",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Paul Portier et Charles Richet( Prix Nobel 1913)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Découverte de l’anaphylaxie lors d’une croisière océanographique organisée par le Albert 1er de Monaco: explorer la vie marine entre les Iles du Cap Vert et les Açores",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La découverte de l'anaphylaxie,  par Gabriel RICHET",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Histoire des Sciences Médicales - Tome 37 n° 4 – 2003",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Disponible   ʺ en ligne ʺ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux sur la Prométhazine (Phénergan®)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Directeur de l’unité Inserm immunobiologie \t(1965-1976).",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bernard Halpern",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Chaire de Médecine Expérimentale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Collège de France 1961-1975",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

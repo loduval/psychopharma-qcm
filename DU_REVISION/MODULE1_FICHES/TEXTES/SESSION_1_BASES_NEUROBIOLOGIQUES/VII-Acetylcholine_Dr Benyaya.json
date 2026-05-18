@@ -1,0 +1,1903 @@
+{
+  "fichier": "VII-Acetylcholine_Dr Benyaya.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 42,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ACETYLCHOLINE ACh",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Structure  ester d’amino-alcool",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Biosynthèse libération dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Voies de la transmission centrale; noyau de Meynert",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteur nicotinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteur muscarinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments psychotropes antagonistes des récepteurs muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets périphériques parasympathiques  et endocriniens",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets centraux, apprentissage et mémoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets centraux, motricité:  équilibre Cholinergie Dopaminergie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph  BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ACETYLCHOLINE ACh",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ester d’amino alcool.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ammonium quaternaire [N+ fixation sur charge - du récepteur] différent des autres NM : amines primaires pour la  plupart.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rôle de neurotransmetteur excitateur [action ionique rapide, activation des récepteurs nicotiniques ].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rôle de neuromodulateur [action métabolique lente, activation des récepteurs muscariniques ].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuromédiateur ganglionnaire du système Parasympathique et Sympathique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuromédiateur effecteur du système Parasympathique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neuromédiateur central primordial",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Précurseur : choline : origine alimentaire [œufs, abats, végétaux] ; origine métabolique : recyclage de la choline    ; méthylation de l’éthanolamine provenant de la dégradation de la phosphatidyl-éthanolamine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Capture : par transport actif par le neurone [passe la barrière Hémato-Encéphalique BHE], biosynthèse dans la terminaison axonale où se trouve la Choline Acétyl-transférase [après transport axonal].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Libération : sous influence d’un courant Ca2+, à partir des vésicules de stockage. Cette libération est bloquée par  les toxines botuliques et tétaniques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dégradation : une fois fixée sur les récepteurs et son action exercée, pour rendre le récepteur à nouveau fonctionnel  et traduire le caractère phasique de l’influx, l’Ach est dégradée par les cholinestérases. Acétylcholinestérase  AChE et pseudo cholinestérase [Butyryl Cholinestérase] BuChE [2 fois moins abondante et surtout présente  dans les neurones limbiques].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Étant donnée la proximité de ChATransféraseT et AChEstérase, l’acétylcholine diffuse peu.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sort neuronal du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une seule réaction : choline +AcétylCoEnzymeA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AChEstérase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ACtransférase",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie : dans les démences type Alzheimer, l’Acétyl Choline neuronale diminue [perte neuronale] ; les activités de l’Acétyl-Choline –Estérase  et de  la Butyl-Choline-Estérases sont augmentées dans les neurofibrilles et les plaques séniles.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Étudiés chez le rat et les primates",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "- Rat : neurones Chol corticaux et limbiques partent de groupes de somas de neurones Chol  Ch1 à Ch4 qui forment un complexe  situé à  la base du cerveau antérieur –",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "- Primates : on retrouve aussi 4 constellations de somas de  neurones Chol Ch1 à Ch4 qui se recouvrent à la base du cerveau antérieur. Le groupe Ch4 est le noyau de Meynert  [substance innominée]. C’est le plus important des 4 [très développé chez les primates et les cétacés]. Projections corticales  et limbiques [amygdale], autres groupes projections vers hippocampe et circonvolution du corps calleux. 90% des neurones  du noyau de Meynert sont cholinergiques. Anatomie rat + primates           présomptions de la configuration des transmissions cholinergiques centrales chez l’homme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine Centrale :    Noyaux et voies cholinergiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Noyau cholinergique chez le rat pour hypothèses chez l’homme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Innervation cholinergique chez le rat ;hypothèses chez l’homme  [d’après Picciotto]]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine Centrale :    Noyaux et voies cholinergiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Noyaux pédonculo-pontins",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "mésencéphale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "pont",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine Centrale :    Noyaux et voies cholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Représentation schématique d’un  encéphale de chat montrant les  noyaux et les voies cholinergiques  régulant l’éveil et le sommeil  paradoxal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "[d’après B.E. Jones, simplifié]",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Voies Cholinergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Représentation schématique des voies  cholinergiques chez l’homme avec l’origine  dans le noyau basal de Meynert",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "[dans la substance innominée]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "et les projections néocorticales et limbiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine Centrale :    Noyaux et voies cholinergiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Schématisation d’une coupe coronale  pratiquée entre l’hypophyse et le pont",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "montrant le noyau basal de Meynert  [d’après Pusco, simplifié]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine Centrale :    Noyaux et voies cholinergiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs nicotiniques :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur canal, ionotrope, formé de 5 sous-unités protéiques transmembranaires autour d’un axe de quasi symétrie - partie protéique extracellulaire la plus importante - aspect de \"rivet\".",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les sites  de fixation des ligands agonistes et antagonistes se situent sur les sous-unités et l’activation du récepteur passe par  l’activation des 2 sites qui sont en coopérativité positive [activation 1 facilité activation 2].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le récepteur peut prendre  différentes conformations spatiales [transitions allostériques : \"autres volumes\"] en fonction des ligands [repos, activité, état désensibilisé].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etat activé :le flux ionique sodique dépolarisant est multiplié par 250 .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces transitions peuvent être facilitées par des substances se fixant sur des sites différents des sites actifs [site  allostérique activé par la  galantamine].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs nicotiniques :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le récepteur nicotinique est le premier récepteur a avoir été isolé à partir de l’organe électrique de différents poissons.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il est localisé au niveau d’une  jonction neuro-musculaire: les propriétés contractiles ont été perdues; la capacité d’engendrer des potentiels d’action s’est développée; il pèse plusieurs centaines de grammes.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La protéine réceptrice a été isolée par chromatographie d’affinité; le poids moléculaire de chaque sous unité est d’environ 40 000",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(D’après Pr J. Wépierre)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces travaux sont l’œuvre du Professeur J.P Changeux et de son équipe du Collège de France",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Professeur J.P Changeux - Collège de France",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs nicotiniques : Représentations schématiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Représentation d’un récepteur nicotinique  à 5 sous-unités protéiques (structure quaternaire)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur nicotinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "S",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "B  C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "P",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Modèle reconstitué par microscopie  électronique du récepteur nicotinique   [N. Unwin 1993]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "S : domaine extra -membranaire faisant synapse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "B : domaine hydrophobe membranaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "en contact avec la bicouche de phospholipide",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C : partie intracytoplasmique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "P : protéine cytoplasmique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur nicotinique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nicotine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D Tubocurarine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": ": Récepteurs métabotropes en général couplés à une protéine G.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En fonction de la nature de la protéine G , les réponses sont différentes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de  la formation d’AMP cyclique, second messager)  par activation de l’Adénylate-cyclase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction de la formation d’AMP cyclique  par inhibition de l’Adénylate-cyclase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Stimulation de la phospholipase C • 2  seconds messagers  formés : diacylglycérol et inositol triphosphate (hydrolyse du  phosphatidylinositol membranaire )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation des courants potassiques lents entrants = allongement de la durée de la repolarisation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition du courant potassique M sortant=augmentation de l’excitabilité cellulaire ,facilitation de la répétition des potentiels d’action",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La question des seconds messagers cytoplasmiques est traitée dans le  cours de  pharmacologie générale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Couplage à une Protéine G; les réactions intracellulaires dépendent de la nature de la protéine G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs  transmembranaires du neuromédiateur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs muscariniques  Représentation schématique plane",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Représentation plane  d’un récepteur cholinergique muscarinique métabotrope à 7 domaines protéiques transmembranaires [enchaînement peptidique de plusieurs centaines d’aminoacides]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Structure  secondaire de la protéine  hélice",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Structure tertiaire  de la protéine   regroupement globulaire des hélices",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs muscariniques: différents types(R ACh m)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "R ACh m",
+              "Adénylate Cyclase AMPc",
+              "Phospholipase C\nIP3 et DAG\n(2nd messager)",
+              "Courant Potassique",
+              "Courant calcique",
+              "Localisation tissulaire",
+              "Localisation Centrale"
+            ],
+            [
+              "m1",
+              "Activation",
+              "Activation",
+              "Inhibition du courant potassique M sortant=\nExcitabilité augmentée",
+              "Activation",
+              "Muqueuse gastrique sécrétion acide",
+              "Striatum\nHippocampe \nCortex"
+            ],
+            [
+              "m2",
+              "Inhibition",
+              "Inhibition",
+              "Activation des courants potassiques lents entrants=\nallongement de la durée de la repolarisation",
+              "Inhibition",
+              "Cœur \nChronotrope –\nInotrope –\nDromotrope -",
+              "Rôle mineur dans le SNC"
+            ],
+            [
+              "m3",
+              "Activation",
+              "Activation",
+              "Inhibition du courant potassique M sortant=\nExcitabilité augmentée",
+              "Activation",
+              "Muscles lisses  bronches, intestin vaisseaux\n(vasodilatation) \nSalive +  Larmes +\nSphère urogénitale",
+              "Très faible expression dans le SNC"
+            ],
+            [
+              "m4",
+              "Inhibition",
+              "Inhibition",
+              "Activation des courants potassiques lents entrants=\nallongement de la durée de la repolarisation",
+              "Inhibition",
+              "Iris \nMyosis",
+              "Striatum\nHippocampe \nCortex"
+            ],
+            [
+              "m5",
+              "Activation",
+              "Activation",
+              "Inhibition du courant potassique M sortant=\nExcitabilité augmentée",
+              "Activation",
+              "",
+              "Neurones dopaminergiques cholinosensibles"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Muscarine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Arécoline ,Esérine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pilocarpine  ( Pilocarpus Jaborandi )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Atropine et autres alcaloïdes (Scopolamine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments bronchodilatateurs  dérivés  de l’atropine: Ipratropium et  Tiotropium",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antispasmodiques atropiniques: Tiémonium",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antiparkinsoniens de synthèse: Bipériden , Trihéxyphénidyle, Tropatépine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs Muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments aux effets atropiniques: effets indésirables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les médicaments antidépresseurs imipraminiques possèdent des propriétés anticholinergiques ce qui ,selon certains auteurs, renforcerait leur effet thymoanaleptiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les neuroleptiques classiques phénothiaziniques possèdent des propriétés anticholinergiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les propriétés anticholinergiques des  antipsychotiques atypiques: Clozapine et  Olanzapine , sont très marquées.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Olanzapine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Clozapine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Calculs J.B",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "affinités relatives pour les récepteurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "DA2",
+              ""
+            ],
+            [
+              "5HT2A",
+              ""
+            ],
+            [
+              "5HT1A",
+              ""
+            ],
+            [
+              "NAα1",
+              ""
+            ],
+            [
+              "Hist. H1",
+              ""
+            ],
+            [
+              "Ach M1",
+              ""
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Goodnick, 2002"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Système nerveux périphérique autonome, parasympathique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neuromédiateur ganglionnaire du système nerveux sympathique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neuromédiateur ganglionnaire et effecteur du système nerveux parasympathique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les actions les plus caractéristiques sont : fonction trophotrope, fonction d’entretien de l’organisme. Il assure l’autonomie  de fonctionnement de l’organisme quand les paramètres ambiants sont modifiés :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "stimulation des sécrétions [lacrymale,  salivaire]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "actions chronotrope [fréquence cardiaque] inotrope [force de contraction] et dromotrope [vitesse de  conduction des influx] sont négatives.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’activité contractile des muscles lisses est augmentée : [péristaltisme intestinal ; bronchoconstriction ; muscles de l’iris ; muscles ciliaires [pour vision de près] .",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Système neurohumoral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hormones corticosurrénaliennes : leur sécrétion est augmentée par l’Ach ; les agonistes cholinergiques et les inhibiteurs  de l’acétylcholinestérase [AChE] agissent sur la libération des CRH hypothalamique [corticotrophic releasing hormone  ou releasing factor ou liberine] qui stimulera l’ACTH [Adreno Cortico Trophic Hormone].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hormone de croissance HGH [Human Growth Hormone] : les médicaments qui potentialisent les transmissions cholinergiques  augmentent la sécrétion phasique de l’hormone de croissance [HG]. Les antagonistes cholinergiques abolissent la sécrétion  de HGH en réponse à l’action GHRH [Libérine Hypothalamique de HGH].",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Fonction neuromusculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’acétylcholine est le neuromédiateur de la traduction motrice de l’influx nerveux transmis au muscle  [ jonction neuromusculaire ou plaque motrice].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Influx transporté par le nerf périphérique • libération d’acétylcholine [transduction neurochimique de l’influx nerveux] •  activation des récepteurs nicotiniques, ouverture des canaux Na+, entrée massive de Na+ dans la cellule [1m sec.] •  potentiel d’action musculaire • propagation du potentiel d’action • libération de Ca2+ dans la fibre musculaire •  Ca2+ se fixe sur la troponine et permet l’interaction de la tropomyosine et de l’actine avec l’activation de l’ATPase.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’acétylcholine ayant exercé son action, est hydrolysée et libère le site nicotinique pour permettre une repolarisation et  une nouvelle action.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse de J. Szerb(1965) : les dernières synapses néocorticales seraient cholinergiques. Les antagonistes cholinergiques  muscariniques comme l’atropine, abolissent la réaction d’éveil EEG lors de la stimulation de la formation réticulée. Cet éveil  cortical est aboli après destruction des neurones cholinergiques prenant naissance à la base du cerveau antérieur et  se projetant de façon diffuse à tout le cortex.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Des neurones cholinergiques contrôlant l’éveil trouvent aussi leur  origine dans la formation réticulée mésencéphalique. La sécrétion d’acétylcholine corticale est augmentée lors de  l’activité électrique spontanée de l’éveil, lors du sommeil paradoxal et par stimulation de la formation réticulée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La néostigmine et les agonistes cholinergiques, muscariniques ou nicotiniques augmentent l’activité électrique  corticale dite   rapide.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Eveil cortical",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "On observe une augmentation, dans une nuit de sommeil, de la densité de sommeil paradoxal provoquée par  les anticholinestérasiques organo-phosphorés. Une réduction de la densité de sommeil paradoxal avec augmentation de sa  latence d’apparition est provoquée par les antidépresseurs imipraminiques anticholinergiques. Les cellules  neuronales de la formation réticulée pontine, dont l’activité spontanée est augmentée lors du sommeil paradoxal,  sont cholinergiques ou au moins cholinosensibles.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Génération d’ondes ponto géniculo occipitales : potentiels phasiques observés dans le pont, \"Le pont suffit au  sommeil paradoxal\". Les potentiels diffusent aux corps genouillés [thalamus postérieur, autrefois appelé couches optiques]  et au cortex occipital [cortex visuel]. Lors du sommeil paradoxal, l’activité \"PGO\" est transmise aux noyaux  oculomoteurs [III, IV, VIèmes paires de nerfs crâniens]. Lors du sommeil paradoxal il y a cessation de l’activité des  neurones sérotoninergiques \"REM off \".",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Apprentissage et Mémoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "► Labyrinthe avec choix alterné imposé : la nourriture se trouvera systématiquement dans la branche opposée  à celle où elle se trouvait dans la session précédente.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "► Labyrinthe aquatique de Morris ou piscine de Morris est un dispositif qui permet d’explorer une tâche  impliquant la mémoire spatiale procédurale, mémoire de travail.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Méthodes d’étude chez l’animal",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Ce labyrinthe aquatique se présente sous la  forme d’une piscine en plexiglas de 1 m  de diamètre, de 50 cm de hauteur, de 35  cm de profondeur et emplie d’ eau, rendue opaque. Une plate-forme de 10  cm de diamètre est placée juste  au-dessous du niveau de l’eau dans le  quadrant NE : les rats partent des  position NW, SE et SW. Une caméra  vidéo enregistre le déplacement des rats L’acquisition du chemin dans le labyrinthe aquatique se fait au cours de  3 séances d’apprentissage  pendant 4 jours consécutifs. Le point de départ  NW, SE, SW étant attribué au hasard à chaque  fois. Des repères se trouvent autour de la « piscine »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trajectoire 1 : début de recherche de stratégie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trajectoire 2 : accès direct, diminution du temps de",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "découverte et d’atteinte de la plateforme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trajectoire 3 : temps de thigmotactisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux; apprentissage et mémoire, méthodes d’étude chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Labyrinthe aquatique de Morris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux; apprentissage et mémoire, méthodes d’étude chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "rats de laboratoire entraînés à visiter un labyrinthe, en T, : une des branches avec nourriture.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1ère  séance :nourriture branche gauche",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2ème séance: nourriture branche droite",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "et ainsi de suite( nourriture dans  branche opposée à celle de la session  précédente)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’animal apprend à reconnaître la branche d’intérêt",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux; apprentissage et mémoire, méthodes d’étude chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si administration à l’animal  d’ antagonistes muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’ antagonistes nicotiniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>    Défaut d’apprentissage par défaut de rétention mnésique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si administration à l’animal  d’ antagonistes muscariniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’ antagonistes nicotiniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ne franchissant pas la Barrière Hémato-Encéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> aucun effet!",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "D’une manière générale et simplifiée on peut dire que :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Apprentissage et mémoire sont facilités chez les souris de 8,5 mois alimentées en choline : capacités identiques à  celles des souris jeunes de 3,5 mois. Chez les souris de 8,5 mois carencées en choline, leur capacité d’apprentissage  ressemble à celle des souris très âgées [23 mois].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la destruction des noyaux cholinergiques,",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’administration des antagonistes muscariniques entraînent :",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "une augmentation du nombre d’erreurs lors des stimulations pour que l’animal restitue ce qu’il a appris,",
+          "indent": 4
+        },
+        {
+          "niveau": "H2",
+          "texte": "une augmentation de la durée des sessions d ’apprentissage,",
+          "indent": 4
+        },
+        {
+          "niveau": "H2",
+          "texte": "une diminution du temps de rétention mnésique,",
+          "indent": 4
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’administration de substances qui stimulent les signaux cholinergiques entraînent globalement  une augmentation des capacités mnésiques de l’animal.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux; apprentissage et mémoire, résultats des études menées  chez l’animal",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire:équilibre Acétylcholine /Dopamineapproche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets centraux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamineapproche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les alcaloïdes de la Belladone sont des médicaments symptomatiques de la maladie de Parkinson",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les antiparkinsoniens dits de synthèse sont des parasympatholytiques, anti muscariniques, qui ont aussi  une action centrale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les étude neuro-pathologiques ont montré que les Locus Niger des patients  souffrant de la maladie  de Parkinsonien sont décolorés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Découverte des propriétés thérapeutiques de la L-DOPA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le syndrome parkinsonien du aux médicaments neuroleptiques sont amendés par les antiparkinsoniens, anticholinergiques, dits de synthèse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamineapproche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les dyskinésies tardives, dues au traitement  neuroleptique classique au long cours, aurait pour soubassement une sensibilisation des récepteurs dopaminergiques, par rétrocontrôle compensant l’inhibition prolongée de ces récepteurs.(Hypothèse)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si on administre des antiparkinsoniens anticholinergiques, les dyskinésies sont aggravées. Cela voudrait dire qu’une compensation de l’hypersensibilité dopaminergique assurée par l’Acétylcholine est inhibée .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les dystonies provoquées chez le singe par administration d’halopéridol:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "sont réduites par administration d’Apomorphine, agoniste dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "mais ont aggravées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "par administration d’α Méthyl para Tyrosine, inhibiteur de la biosynthèse de Dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "par administration de physostigmine, inhibiteur des choline-estérases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On comprend par ce qui vient d’être dit qu’il existe un équilibre au sein du striatum entre la stimulation des récepteurs dopaminergiques et les interneurones cholinergiques. L’inhibition de l’un favorisant l’expression de l’autre",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamineapproche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Etude du métabolisme intracérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Implantation d’une sonde de micro-dialyse pour l’analyse de la modification  de la composition du liquide extracellulaire du striatum sous l’influence de différents réactifs pharmacodynamiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Equipes spécialisées; maitrise de la chirurgie stéréotaxique;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Méthodes de chimie analytique instrumentale  sensibles et précises:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "quantités mesurées: 10- 12 Molaire       picomoles",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cette méthode très élégante et très délicate à mettre en œuvre consiste à faire diffuser à  travers une membrane semi-perméable formant un tube où circulent des liquides vitaux, les  constituants du milieu extracellulaire. Selon le principe de la dialyse, les constituants du milieu  extracellulaire vont diffuser du milieu le plus concentré [liquides extracellulaires] vers le moins  concentré [milieu de dialyse]. On peut ainsi recueillir les neuromédiateurs libérés ou inhibés  dans leur libération sous l’influence de différents traitements et en implantant la sonde de  dialyse dans différentes structures de l’encéphale de l’animal de laboratoire.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Implantation stéréotaxique de la sonde de microdialyse dans la partie du cerveau à     explorer.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Convalescence des rats.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion du liquide vital.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recueil du dialysat.   Analyse du dialysat",
+          "indent": 5
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Administration des substances à étudier",
+          "indent": 5
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion du liquide vital.",
+          "indent": 8
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recueil du dialysat.  Analyse du dialysat",
+          "indent": 8
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude du métabolisme intracérébral des neuromédiateurs par  micro-dialyse des liquides extracellulaires",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamineapproche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude du métabolisme intracérébral micro-dialyse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sonde de micro-dialyse verticale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamine approche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux de   Y  Ikarashi et al., Etude du métabolisme du striatum (rat) par micro-dialyse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion de SCH23390                       Concentration en  ACh  [ ACh ]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion de N 434  \t\t\t[ ACh ]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet d’un antagoniste dopaminergique DA1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet d’un agoniste dopaminergique  DA2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet d’un antagoniste dopaminergique  DA2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion de Sulpiride  \t\t\t[ ACh ]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet des agonistes dopaminergiques indirects: Amphétamine     libération DA ; Nomifensine   recapture  DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perfusion  des agonistes DA indirects   \t\t\t[ ACh ]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Brain Research  Bulletin,1997",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux de   Y  Ikarashi et al., Etude du métabolisme du striatum (rat) intracérébral  par micro-dialyse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet  de la destruction des neurones dopaminergiques DA par administration d’une neurotoxine capturée par ces neurones DA la voie nigro-striée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration  intra cérébrale de 6 Hydroxy dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentration Dopamine  dans le dialysat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentration Acétylcholine   dans le dialysat",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Equilibre ACh   DA: inhibition tonique des interneurones cholinergiques  par  la dopamine activant les récepteurs dopaminosensibles de ces interneurones",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine et motricité involontaire et semi volontaire: équilibre Acétylcholine /Dopamine approche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Brain Research  Bulletin,1997",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acétylcholine: Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "What Is New about New Antidepressants?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Steven L. Dubovsky Psychother Psychosom. 2018;87(3):129-139",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": ".",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En 1972, notre maitre , le Professeur Paul Rossignol nous enseignait, en pharmacodynamie , la méthode d’étude des antidépresseurs: recherche d’une activité  protectrice des convulsions provoquées  par l’Oxotrémorine, substance cholinergique .",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« The wheel is come full circle »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Target receptor                      \t\t\t\t  Medication examples",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Muscarinic cholinergic\t \t\t\t \t  Scopolamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Comment :  This is based on observations that receptors increase the glutamate release and \t\t\t\t\t\tthe role of acetylcholine in mediating punishment.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

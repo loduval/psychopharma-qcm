@@ -1,0 +1,1117 @@
+{
+  "fichier": "5-Schizophrénie_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 25,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 5 Ramoz – Schizophrenie et Pharmacogenetique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 5 Ramoz – Schizophrénie et Pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La réponse pharmacologique en schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs génétiques et neurobiologies de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neuroleptiques et schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénétique et pharmacogénomique de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions : Pharmacogénétique et schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La réponse pharmacologique en schizophrénie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Qu’est-ce que la réponse au traitement en psychiatrie?Exemple de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1/ Eradication des symptômes et retour des  « fonctions hautes » => guérison",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2/ Réduction des symptômes ? rémission",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3/ Amélioration de quelques traits ? réponse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réponse au traitement:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réduction de 50% d’un ou de plusieurs symptômes après 8 à 12 semaines de traitement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs génétiques et neurobiologies de la schizophrénie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Relation entre pharmacogénétique et la génétique de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Héritabilité de la schizophrénie est élevée (estimée entre 80% et 90%)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des gènes impliqués complexe:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phénotype et génotype hétérogène",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs épigénétiques (régulation chimique de l’expression des gènes)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phénocopie (fausse schizophrénie) et pénétrance incomplète (prédisposé à la schizophrénie mais n’est pas apparue)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Polygénique avec interaction(s) possible(s) = existence de plusieurs/nombreux facteurs génétiques",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Le spectre de la  schizophrénie et l’impact des gènes impliqués",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Impact génétique faible   Impact génétique élevé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(ou forte complexité           (ou basse complexité)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse : les neurones hyperactives de dopamine (DA) mésolimbiques provoquent les symptômes positifs de la psychose et les neurones DA mésocorticaux sous-actifs provoquent les symptômes négatifs, cognitifs et affectifs de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tardif AAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "PrécoceAAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Faible sensibilité TTT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réponse au TTT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sporadique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Schizophrénie familiale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hébephrènique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Paranoïde et catatonïque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La saga du gène DRD3 (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteur DRD3 (R dopamine) localisé dans l’aire mésolimbique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1ère association entre le variant ser9gly BalI du gène DRD3 et la schizophrénie (Crocq et al., 1992)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "3 réplication consécutives (Nanko, 1994; Kennedy, 1995; Griffon, 1996)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "25 autres études négatives",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méta-analyse globale négative, mais présence d’un faible impact indirect",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "OR=1.09, 95%CI=0.98-1.22",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "OR=1.25, 95%CI=1.05-1.49 (Williams, 1998; Dubertret, 1998)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>Le phénotype concerné n’est pas le trouble mais est inconnu…",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La saga du gène DRD3 (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "-1ère association positive entre la dyskinésie tardive (TD) et le gène DRD3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "-Plusieurs réplications selon différentes approches",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "* 5% de la variance de la dyskinésie Orofaciale est expliquée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "*88% de l’incidence de l’akathisie aigüe (vs 47%)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "*Schizophrénie avec vs sans TD, vs contrôles (p=0.0008)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "* 112 patients avec DT induit par les neuroleptiques (p<0.0005)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Steen, 1997;Segman, 2000; Eichhammer, 2000; Segman, 1999; Basile, 1999)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La Schizophrénie : un carrefour neurobiologique (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La Schizophrénie : un carrefour neurobiologique (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neuroleptiques et schizophrénie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Des neuroleptiques aux antipsychotiques (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1950 : découverte de la chlorpromazine par deux médecins Français : Laborit et Huguenard",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1952 : chlorpromazine testée chez des patients schizophrènes par Delay et Denicker",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "D’autres molécules caractérisées par leur effet antidopaminergique : neuroleptique = « saisit le nerf »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "années 60 : découverte de la clozapine (Leponex®)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Des neuroleptiques aux antipsychotiques (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "XIXe siècle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Opiacés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Manipulations (bains d'eau glacée, chaise tournante, etc.)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1900",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "années",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "30",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "40",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "50",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "60",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "70",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "80",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "90",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2000",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ECT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cure de Sakel",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réserpine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chlorpromazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Halopéridol, Fluphénazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clozapine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Zotépine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Amisulpride",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rispéridone, Olanzapine,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quiétapine, Sertindole",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Asénapine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nafadotride",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Bifeprunox",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Loxapine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sulpiride",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Tranquilisant",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Majeur »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2014",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Molécules : nouvelles générations »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Molécules",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "«Antipsychotiques »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Osanetrant",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Glutamaergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etc.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aripripazole",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ziprasidone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Palinpéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Persepirone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ilopéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2010",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Multiples cibles aux antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénétique et pharmacogénomique de la schizophrénie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réponse à un antipsychotique et pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Gènes\t  Etudes positives\tTraitements\tSNPs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT2A\t\t11 / 21\t\tAtypiques\tT102C, 1438A/G, His452Tyr",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT2C\t\t 4 / 8\t\tClozapine\tCys23Ser",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT1A\t\t  1 / 1\t\tAtypiques\t1019C/G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT3A\t \t 0 / 1\t\tClozapine\t178C/T",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT3B\t \t 0 / 1\t\tClozapine\trépétition-CA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT5A\t \t 0 / 1\t\tClozapine\t19G/C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HT6\t \t 2 / 3\t\tClozapine\t167T/C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HTT\t \t 3 / 6\t\tClozapine\tHTTLPR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DRD2\t\t10 / 15\t\tTous types\tTaq1, 141Ins/Del, 241A/G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DRD3\t\t6 / 10\t\tTous types\tSer/Gly",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DRD4\t\t3 / 10\t\tClozapine\tVNTR 48pb",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DAT\t\t0 / 3\t\tAtypiques\tVNTR",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ADRA1A  \t0 / 2\t\tClozapine\t1291C/G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NET\t\t1 / 1\t\tRisp & Olan\t182T/C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H1, H2\t \t1 / 2\t\tClozapine\t1018G/A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Premières études pharmacogénomiques de la réponse aux traitements anti-psychotiques (I)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "738 Sz Etude CATIE et 500.000 SNPs génotypés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réponse au traitement selon PANSS",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identification de nouvelles voies cibles des traitements",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ankyrin Repeat and Sterile Alpha Motif Domain-Containing Protein 1B (ANKS1B)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Contactin-Associated Protein-Like 5 gene (CNTNAP5)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "108 Sz ; 67.000 SNPs ; Réponse TTT PANSS",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réplication 1564 Sz vs 3862 contrôles 14 SNPs TTT+",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Expression génome PFC souris exposé Rispéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Premières études pharmacogénomiques de la réponse aux traitements anti-psychotiques (II)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identification de nouvelles voies cibles TTT et Sz :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "PDE7B dégrade AMPc, mais pas GMPc, exprimé préférentiellement dans le cerveau",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt clinique de la pharmacogénétique : identification des effets indésirables ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "738 Sz et 500.000 SNPs génotypés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Identification et confirmation de nouvelles voies cibles :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Risperidone, MEIS homeobox 2 (MEIS2) et tour de hanche",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "PRKAR2B précédemment associé à la réponse au traitement",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Effets épigénétiques des antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets épigénétiques qui doivent avoir des conséquences sur la réponse aux traitements",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions : Pharmacogénétique et schizophrénie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions : SZ et PGx",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La réponse pharmacologique aux antipsychotiques dépend de nombreux facteurs, dont des spécificités cliniques et génétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La PGx de la SZ peut aider à comprendre la vulnérabilité génétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La PGx est une forme d’endophénotype pour constituer des sous-groupes de patients plus homogènes et pour identifier résistants, effets aversifs, etc…",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’évaluation clinique sera toujours nécessaire et complémentaire à la PGx avant de proposer une médecine personnalisée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

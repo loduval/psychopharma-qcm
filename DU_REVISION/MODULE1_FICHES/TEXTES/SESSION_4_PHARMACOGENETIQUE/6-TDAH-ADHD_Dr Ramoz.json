@@ -1,0 +1,998 @@
+{
+  "fichier": "6-TDAH-ADHD_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 25,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 6",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dr Nicolas RAMOZ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Psychopharmacogenetique et tdah/adhd",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 6Dr Nicolas RAMOZPsychopharmacogenetique et trouble de l’hyperactivité avec déficit de l’attention tdah/adhd",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Des gènes de vulnérabilité au TDAH/ADHD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du TDAH/ADHD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie spécifique du TDAH/ADHD : voie noradrénergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusion PGx et TDAH/ADHD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Des gènes de vulnérabilité au TDAH/ADHD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Des gènes de vulnérabilité au TDAH ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Triade: déficit d’attention, hyperactivité et impulsivité, neurodéveloppemental 4/1 garçons/fille",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ql (sévérité, stabilité) ou trait, donc phénotype aux frontières non délimitées",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Formes différentes (attentionnelle vs motrice-impulsive)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Facteur de risque pour addiction et psychopathie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voie DA :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Renforcement et DA (émotion/cognitions)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitements = Amphétamines (bloque DAT et libère dopamine et noradrénaline)",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Circuits de régulations dopaminergiques des aires préfrontales et ganglions de la base réduites de 10% chez les enfants hyperactifs (Castellanos, 1997 ; Swanson et al., 1998)",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Association génétique ADHD et gène DAT1/SLC6A3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Méta-analyse des études d’association intra-familiales du DAT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N=885 transmissions",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Total :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(X2=34.73; p=0.0009",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hétérogénéité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "X2=33.13; p=0.0009",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Association spécifique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "X2=1.60; df=1, p=0.21",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "OR=1.13",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "95%CI[0.94-1.36]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet taille++ rho=-0.505, p=0.08",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet temps- rho=-0.07, p=0.81",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Méta-analyse de gènes candidats associés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du TDAH/ADHD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "PHARMACOGÉNÉTIQUE:INTÉRETS DANS LE THADA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitement médicamenteux psychiatrique chez l’enfant",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Optimisation des stratégies thérapeutiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Profil génétique des intolérants",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Profil génétique des répondeurs/non-répondeurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mécanismes Physiopathologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hétérogénéité étiologique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valider les catégories cliniques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "PHARMACOGÉNÉTIQUEGÈNES CANDIDATS : Voie Dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DAT: disponibilité augmentée chez TDAH (1)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition du DAT par le MéthylPhénidate (2)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Lien génotype 10-R DAT et disponibilité (3)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Études d’association DAT1/SLC6A3, DRD4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=> DAT, DRD4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(1): Dougherty DD et al Lancet. 1999",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(2):Dresel et al. Eur J Nucl Medicine 2000; Krause et al. Neuroscience letters 2000",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(3) :Heinz et al. Neuropsychopharmacology 2000: Jacobsen Am J Psychiatry 2000; Martinez et al. Neuropsychopharmacology 2001",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "PGx du méthylphénidate dans ADHD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "PHARMACOGÉNÉTIQUEGÈNES CANDIDATS : Voie Noradrénergique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Système Noradrénergique: attention visuelle, vigilance, réponse adaptative",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Hypoactivité corticale (inattention), hyperactivité sous-corticale (excitabilité)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Efficacité des agonistes NA (atomoxétine),inhibiteur spécifique de la recapture de noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-NET-/-KO ont une sensibilité accrue à la cocaïne et aux amphétamines (Xu et al., 2000)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=> NET/SLC6A2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénétique et pharmacogénomique (1) : pharmacogénétique du MPH dans le TDAH",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Des mécanismes spécifiques d’actions des médicaments incluent le blocage des transporteurs de la dopamine (DAT1/SLC6A3) de la noradrénaline NET1/SLC6A2, l’inhibition de la mono-amine oxidase (qui métabolise la dopamine et la noradrénaline) et active la libération des catécholamines au niveau pré-synaptique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pas un gène à effet majeur mais des gènes à effet mineur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie spécifique du TDAH/ADHD : voie noradrénergique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réponse à l’atomoxétine (ATX)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A l’instar du MPH qui bloque les transporteurs de la dopamine SLC6A3 et de la noradrénaline SLC6A2, l’atomoxétine inhibe spécifiquement la recapture noradrénergique, ainsi SLC6A2 représente la cible majeure",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Réponse à l’ATX : cohorte ADHD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Répondeurs \nN =130",
+              "Non-répondeurs \nN=38",
+              "Total N=168"
+            ],
+            [
+              "Sexe (%)",
+              "17 (13.1)",
+              "5(13.2)",
+              "22(13.1)"
+            ],
+            [
+              "Age (SD)",
+              "10.6 (2.1)",
+              "9.3(2.1)",
+              "10.3(2.2)"
+            ],
+            [
+              "DSM-IV ADHD subtype\nHyp/Imp %\nInattentive %\nMixed %",
+              "6(  4.6)\n29(22.3)\n95(73.1)",
+              "2(  5.3)\n5(13.2)\n31(81.6)",
+              "8(4.8)\n34(20.2)\n126(75)"
+            ],
+            [
+              "Mean age at onset of ADHD",
+              "3.1 (1.9)",
+              "2.7 (1.7)",
+              "3.0(1.9)"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Le gène NET1/SLC6A2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "T-26C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "G1287A",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Génotypes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répondeurs vs réfractaires\t\tX²=0,36; df=2; p=0,84",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répondeurs vs réfractaires + Perdus\tX²=0,32; df=2; p=0,85",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fréquence allélique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répondeurs vs réfractaires \t\tX²=0,30; df=1; p=0,59 Répondeurs vs réfractaires + Perdus \t\tX²=0,34; df=1; p=0,56",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Présence de l’allèle",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répondeurs vs réfractaires \t\tX²=0,35; df=1; p=0,56",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répondeurs vs réfractaires + Perdus \tX²=0,12; df=1; p=0,73",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "ADHD, ATX et promoteur NET1/SLC6A2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Génotypes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires \t\tX²=7,75; df=2; p=0,021",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires + Perdus\tX²=5,14; df=2; p=0,077",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fréquences alléliques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires \t\tX²=6,33; df=1; p=0,012",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires + Perdus \tX²=4,32; df=1; p=0,038",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Présence de l’allèle C",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires \t\tX²=7,70; df=1; p=0,0055",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Répondeurs vs réfractaires + Perdus \tX²=5,12; df=1; p=0,0236",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Association PGx, entre ADHD, ATX et NET1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacogénétique et pharmacogénomique : Etude atomoxetine dans 2 cohortes indépendantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LYAF, N=160",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LYBI, N=105",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Washout",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "10-20 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "33 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement : 0,5-1,8 mg/kg",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "10 semaines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement : 0,8-1,8 mg/kg",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "6 semaines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Washout",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "T0",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ADHD-RatingScale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clinical Global Impression-Severity (CGI-S)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Semaine 6",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ADHD-RS",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CGI-S",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "TDAH Répondeur+ à l’atomoxétine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADHD-RS ↓ >25% de la baseline & CGI-S score ≤2 à 6 s",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Etude de 108 SNPs dans 2 cohortes indépendantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Association PGx, entre ADHD, ATX et variants NET1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Association haplotypiques (régions du gènes) observées dans les 2 cohortes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusion PGx et TDAH/ADHD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "La psychopharmacogénétique, pour une médecine avec un traitement personnalisé ?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nombreux avantages:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Adaptabilité clinique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Enrichissement du TTT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Compliance…et pronostic",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Qualité de vie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Coût de santé publique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mais…",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La variance expliquée est faible",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tous les problèmes (interactions) ne sont pas résolus",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le coût direct est élevé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’accès sera restreint",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

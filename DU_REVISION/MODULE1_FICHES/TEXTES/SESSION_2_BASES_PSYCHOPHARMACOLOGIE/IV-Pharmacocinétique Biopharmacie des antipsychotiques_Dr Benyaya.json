@@ -1,0 +1,1575 @@
+{
+  "fichier": "IV-Pharmacocinétique Biopharmacie des antipsychotiques_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 33,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Biopharmacie des Neuroleptiques et des antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "à libération prolongée et donc à action prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module d’autoformation e-learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biopharmacie des Neuroleptiques et des antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à libération prolongée et donc à action prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durablesEtude biopharmaceutique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Des neuroleptiques dits « retard »* aux antipsychotiques à action prolongées dits «APAP »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Sens anglais: retard = ralenti",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Avantages  des neuroleptiques dits « retard » ,soulignés il y a plus de  40 ans déjà:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Durée d’action étalée sur 2 à 4 semaines",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réduction de la dose mensuelle administrée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Certitude de l’administration du traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Moindre tentation pour le psychiatre de la modification anarchique de la chimiothérapie.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ainsi se met en place un cadre rigoureux du traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "facilitation du traitement ambulatoire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ce traitement souffre du désavantage d’une coercition apparente »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pr D. Ginestet et al.1979 et 1987",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« L’introduction des neuroleptiques \"retard \"  a rendu à la cause de la thérapeutique  extrahospitalière  ou ambulatoire ,les plus grands services",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dr H. Ey  1975",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Traitement des schizophrénies par les neuroleptiques à action prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement continu, maintien du gain thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prévention des rechutes qui  rendent le pronostic fâcheux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Importance de l’observance",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Encouragement à la prescription des formes à longue durée d’action, chez tout patient à traiter au long cours dès la résolution de l’épisode d’acuité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Injections régulières ,contacts réguliers",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nécessité de l’évaluation régulière  de la condition clinique et des doses administrées",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Conférence de consensus, Sienne 1995 (Eur . Neuropsychopharm.1998)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Traitement chimiothérapique des schizophréniques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Le traitement doit être long pour éviter les rechutes après un premier épisode.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La prescription intermittente n’est pas recommandée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La mauvaise observance est le problème majeur rencontré au cours du traitement des schizophrénies.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les formes à libération prolongée \"retard* \" :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Assurent l’observance et son contrôle et un contact régulier.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diminuent le risque de rechute",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ont un effet moins  stigmatisant »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "P. Vandel, E. Haffen, D. Sechter Encyclopédie Médico - Chirurgicale Psychiatrie 2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Toutes ces considérations ont conduit à la mise au point des  formes à libération prolongée des Antipsychotique ou Neuroleptiques atypiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Médicament neuroleptique à action  prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cas du Penfluridol",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Penfluridol: médicament de la série diphényl- butylpipéridine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diphényl",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Butyl",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pipéridine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Demi-vie d’élimination*=126 à 200 heures",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* In L. Colonna, M. Petit ,J.P. Lépine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administré per os une fois par semaine =SEMAP®=SEMaineAntiPsychotique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Action prolongée due à la lente élimination",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Formulation galénique pour augmenter la demi-vie de libération et donc  réduire la vitesse de mise à disposition biologique du principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Principe actif avec fonction alcool: Estérification par un acide gras:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Formation d’un pro-médicament lipophile  mis en solution dans un excipient huileux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le facteur limitant de la libération de la pro-drogue  est le coefficient de partage huile-eau qui règle la vitesse de dissolution de la pro-drogue dans les liquides extracellulaires aqueux du tissu musculaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’hydrolyse par les estérases tissulaires est très rapide dans le cas d’un alcool primaire. C’est un peu différent avec l’halopéridol qui est un alcool tertiaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(Aes-Jorgensen et al.,1977)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": false,
+      "textes": [],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "fonction alcool  primaire ou tertiaire des  molécules à activité neuroleptique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ester d’alcool tertiaire plus difficilement hydrolysable qu’un ester d’alcool primaire",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "C16:Acide Palmitique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C7 :  Acide  œnanthique ou heptanoïque",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C2: Acide acétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C10:Acide décanoïque          \t\t\t\tC11: Acide undécylénique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acides aliphatiques ou gras estérifiant la fonction alcool des  molécules à activité neuroleptique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Principe actif avec fonction alcool Estérification par un acide gras et mise en solution dans un excipient huileux:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Longueur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "de la chaîne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "carbonée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lipophilie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Coefficient",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "de partage",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Octanol Eau",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vitesse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’action",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Délai",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’action",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Durée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’action",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La biopharmacie dépend de la longueur de la chaine carbonée de l’acide gras estérifiant la fonction alcool",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "C2: Acide acétique  \t C7 :  Acide  œnanthique ou heptanoïque",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "C10:Acide décanoïque          C11: Acide undécylénique           C16:Acide Palmitique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Principe actif aminé salifié par un acide organique de masse moléculaire élevée:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Obtention d’un sel très insoluble: Olanzapine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "- OOC",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "- OOC",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(AP-NH3+)2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide Pamoïque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "HO",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "HO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide Pamoïque ou Embonique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Obtention d’un sel très insoluble : mis en suspension aqueuse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(AP-NH2)2-Pamoïque",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2 (AP-NH3+) + Pamoate 2-",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(AP-NH3+) 2 x Pamoate 2-",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ks",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Produit de solubilité",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La  vitesse  de dissolution est régie par le produit de solubilité.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tant que le produit des concentrations est inférieur à Ks, les ions sont en solution  peuvent être résorbés. Au fur et à mesure de la résorption du soluté, l’équilibre se déplace vers la droite.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Inclusion du principe actif dans une matrice polymérique  et  mise en suspension aqueuse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Co polymère de l’acide lactique et de l’acide glycolique,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2 acide-alcool inter estérifiables et métabolisables:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acide lactique, acide glycolique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hydratation du polymère",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La vitesse de libération du principe actif  est fonction  de la bio-érosion et de la  biodégradation enzymatique de la matrice.(Rispéridone à libération prolongée)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Pas de  fonction alcool « estérifiable »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence d’une fonction amine salifiable:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inconvénients liés à une salification incomplète:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dissolutions  rapides erratiques?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formulation de l’Aripiprazole à libération prolongée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Propriétés physico-chimiques de l’Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Mise à profit de ces propriétés pour la formulation galénique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole:  principe actif utilisé sous forme de base",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Très nombreuses formes cristallines",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "pK = 7,6                       Base faible",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Solubilité dans l’eau et dans l’alcool :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "très insoluble 0,00001 à 0,0001% m/v",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Solubilité dans le dichlorométhane: facilement soluble",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Coefficient de partage  P octanol /eau:   3,4  pH 2    à   1000 pH 6",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Profiles of Drug substances and Excipients Vol 37, Academic Press, 2013",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aripiprazole : Molécule très hydrophobe",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Reprendre le principe bien éprouvé de formulation d’une suspension aqueuse naturelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "de particules microcristallines(ou amorphes) d’un composé insoluble dans l’eau.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Suspension aqueuse  injectable  de microcristaux d’ Acétonide de Triamcinolone:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "durée d’action  15 à20 jours Kénacort® retard  (existe depuis plus de 47 ans)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Suspension aqueuse  injectable  de microcristaux  de Fluspirilène :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "durée d’action 7 jours IMAP ® *   Anti Psychotique Intra Musculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluspirilène: Neuroleptique de la famille des diphényl-butyl-pipéridine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "comme le Penfluridol",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* non-commercialisé en France",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Excipient aqueux  et Mise en suspension de particules  cristallines solides",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dissolution de ces particules cristallines est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "dW",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "dt",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "K (Css - Cs)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vitesse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "dissolution",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Suspension de particules microcristallines  d’Aripiprazole très hydrophobe",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dissolution de ces particules apolaires est régie par",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "DA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "δ",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "K ( Css-Cs)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vitesse de dissolution",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "K",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dW",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "dt",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D coefficient de diffusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A surface du solide",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "δ épaisseur de la couche de diffusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Css : concentration dans la   couche de diffusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cs: concentration dans le milieu",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La dissolution de ces particules apolaires est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les paramètres à faire varier pour moduler la vitesse de dissolution du  solide",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "D coefficient de diffusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "A surface du solide",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "δ épaisseur de la couche de diffusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Suspension de particules microcristallines  d’Aripiprazole très hydrophobe",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Division du volume",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modification et Augmentation de la surface",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation de la vitesse de dissolution",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dissolution de ces particules apolaires est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Exemple de relation division particulaire et surface totale du solide",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1mm",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1μm",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1nm",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "10-3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "10-3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1particule                             \t\t    109  particules                          1018 particules",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Surface: 6mm2                                \t\t   6x 109μm2\t\t  6x 1018 nm2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "6mm2 \t        \t\t   6x10 3 mm2 \t\t  6x106   mm2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La surface développée a été multipliée par 1000 000",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Modulation Division du volume",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Choix d’une distribution de taille des particules",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modulation de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "l’ Augmentation de la surface",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modulation de la vitesse de dissolution",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modulation de la vitesse de mise à la disposition biologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modulation de la demi vie de libération",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La dissolution de ces particules apolaires est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Mécanisme « Flip-Flop »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Libération du principe actif par  dissolution dans les liquides musculaires  \textracellulaires  puis absorption",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Étape  dissolution : facteur limitant du sort du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dès que le médicament est dissout  dans les liquides extracellulaires musculaires , il  passe dans la circulation générale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une nouvelle quantité peut se dissoudre pour être absorbée . On voit que la vitesse d’absorption est  fonction de la vitesse de dissolution.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La vitesse de dissolution  « Flip »  conditionne  la vitesse d’absorption «  Flop »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Suspension de particules microcristallines  d’Aripiprazole très hydrophobe",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aripiprazole à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Demi vie apparente de  résorption 28 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une fois que l’ Aripiprazole a atteint la circulation générale ,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il suit son sort, comme après  avoir été absorbé après   administration orale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La  clairance  systémique est inchangée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La demi-vie d’élimination vraie est d’environ 75 heures.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La demi vie apparente de Libération élimination est comprise entre 30 et 45",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "jours =>une injection mensuelle",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Fonction Alcool:   primaire= Palipéridone     tertiaire: Halopéridol",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Palipéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Halopéridol",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Décanoate d’Halopéridol  =  Ester d’alcool tertiaire:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "plus difficilement hydrolysable ; la vitesse d’hydrolyse va ici influencer la demi vie apparente de libération",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Palipéridone à libération prolongée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Formulation de la Palipéridone à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence d’une fonction alcool primaire « estérifiable »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Acide gras C16: acide palmitique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "palmitate de  Palipéridone en solution huileuse?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "huile de Sésame: fraction insaponifiable=allergène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "huile de Coco hydrogénée et huile de Sésame :Si grands volumes injectés, métabolisme lymphatique et risques micro- embolisations pulmonaires lors des études de toxicologie animale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Excipient aqueux? Mise en suspension de particules solides insolubles",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux de O. Svendsen &  T.  Aaes-Jorgensen Lundbeck",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Palipéridone à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La dissolution de ces particules apolaires est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "dW",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "dt",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "K (Css-Cs)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Vitesse de dissolution",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Excipient aqueux? Mise en suspension de particules solides insolubles",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Palipéridone à libération prolongée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La variation de la taille des particule va aussi  permettre une dissolution plus lente et une libération lente et prolongée pendant  un  mois  ou trois mois",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Suspension aqueuse de particules solides de Palmitate de  Palipéridone très hydrophobe",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La dissolution de ces particules apolaires est régie par la loi de Noyes et Whitney",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Obtention des particules de taille comprise entre 50 et 1000 nm",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Technique du « nano » broyage:   procédé  breveté NanoCrystals®",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le terme Crystals ® ne préjuge pas de la nature cristalline ou amorphe des particules",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formes à libération prolongée des médicaments du traitement des psychoses durables",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Palipéridone à libération prolongée données issues du Résumé des Caractéristiques du Produit  RCP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "RCP et Compendium CH Suisse",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formulation de Palipéridone à libération prolongée « 1 mois »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La libération du principe actif débute déjà le 1er jour et dure jusqu'à 126 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La demi-vie moyenne de la Palipéridone après administration, dans un intervalle posologique de 25",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "à 150 mg, était comprise entre 25 et 49 jours",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Formulation de Palipéridone à libération prolongée « 3 mois »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La libération du principe actif débute déjà le 1er jour et se poursuit jusqu'à 18 mois.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la demi-vie apparente médiane de la Palipéridone après l'administration de doses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "allant  de 175 à 525 mg était de 84 à 95 jours (injection dans le muscle deltoïde)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "RCP et Compendium CH Suisse",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

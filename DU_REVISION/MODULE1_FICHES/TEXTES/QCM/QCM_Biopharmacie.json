@@ -1,0 +1,228 @@
+{
+  "fichier": "QCM_Biopharmacie.pptx",
+  "session": "QCM",
+  "total_slides": 2,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM       Biopharmacie« NAP et APAP »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Neuroleptiques et les Antipsychotiques à action prolongée  sont formulés comme étant:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions  injectables huileuses d’un principe actif estérifié par un acide gras \t                          oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions  injectables aqueuses d’un principe actif estérifié par un acide gras  \t                          oui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des préparations  injectables aqueuses  d’une suspension d’un principe actif estérifié par un acide gras                  oui  non\t======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’action prolongée du Penfluridol est due :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à l ‘estérification d’une fonction alcool par un acide gras \t \t   \t                 oui      non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à la demi vie naturellement longue de son élimination \t\t\t\t      oui     non =============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme générique est dite équivalente à une forme princeps si :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "si l’intervalle de confiance de la moyenne des biodisponibilités relatives mesurées est compris entre 0,8 et 1,2  oui   non =============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les Antipsychotiques à action prolongée  sont formulés comme étant",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des formes matricielles\t\t\t\t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des suspensions aqueuses d’un sel \t\t\t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions huileuse d’un sel \t\t\t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des suspensions aqueuses de particules peu solubles \t\t\toui   non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un principe actif estérifié par un acide gras",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "peut être considéré comme une   « pro-drug » ,un « pro-médicament »\t oui   non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Neuroleptiques et les Antipsychotiques à action prolongée  sont formulés comme étant:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions  injectables huileuses d’un principe actif estérifié par un acide gras \t                          oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions  injectables aqueuses d’un principe actif estérifié par un acide gras  \t \t        non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des préparations  injectables aqueuses  d’une suspension d’un principe actif estérifié par un acide gras                  oui  \t======================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’action prolongée du Penfluridol est due :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à l ‘estérification d’une fonction alcool par un acide gras \t                                                              non \t           la demi vie naturellement longue de son élimination \t\t\t\t       oui     =============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les Antipsychotiques à action prolongée  sont formulés comme étant",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des formes matricielles\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des suspensions aqueuses d’un sel \t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des solutions huileuse d’un sel \t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "des suspensions aqueuses de particules peu solubles \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=============================================================================================",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Un principe actif estérifié par un acide gras",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "peut être considéré comme une   « pro-drug » ,un « pro-médicament »\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM       Biopharmacie« NAP et APAP »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

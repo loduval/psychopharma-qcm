@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<!-- DARK-MODE-FORCED-2026-05-17 -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fiches de révision — Psychopharma v6</title>
+<style>
+:root {
+  /* === DARK MODE FORCÉ (aligné palette fiches sessions style GitHub dark) === */
+  /* Indigo/violet : conservés pour personnalité v6, légèrement éclaircis sur dark */
+  --primary-50:  #1e1e4a;
+  --primary-100: #2a2a6e;
+  --primary-300: #818cf8;
+  --primary-500: #818cf8;
+  --primary-600: #6366f1;
+  --primary-700: #4f46e5;
+  --primary-900: #312e81;
+  --accent-500:  #a78bfa;
+  --accent-600:  #8b5cf6;
+
+  /* Feedback : palette GitHub dark (saturée pour dark bg) */
+  --success:       #3fb950;
+  --success-light: rgba(63, 185, 80, 0.16);
+  --success-dark:  #56d364;
+  --warning:       #d29922;
+  --warning-light: rgba(210, 153, 34, 0.16);
+  --warning-dark:  #e3b341;
+  --error:         #f85149;
+  --error-light:   rgba(248, 81, 73, 0.16);
+  --error-dark:    #ff7b72;
+  --info:          #58a6ff;
+  --info-light:    rgba(88, 166, 255, 0.16);
+
+  /* Neutres : alignés sur les fiches (GitHub dark) */
+  --bg:           #0d1117;
+  --bg-elevated:  #161b22;
+  --card:         #1c2333;
+  --card-hover:   #22263a;
+  --text:         #e6edf3;
+  --text-muted:   #8b949e;
+  --text-subtle:  #6e7681;
+  --border:       #30363d;
+  --border-strong:#484f58;
+  --neutral-50:   #161b22;
+  --neutral-100:  #1c2333;
+
+  /* Ombres adaptées au dark (plus marquées) */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow:    0 4px 12px rgba(0, 0, 0, 0.5), 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
+  --shadow-primary: 0 8px 20px rgba(99, 102, 241, 0.45);
+
+  --radius-sm: 6px;
+  --radius:    10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+
+  --sidebar-width: 280px;
+}
+
+
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,'Inter','Segoe UI',system-ui,sans-serif;
+  background:var(--bg); color:var(--text); line-height:1.55;
+  min-height:100vh; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+}
+
+/* LAYOUT */
+.app-shell{display:grid; grid-template-columns:var(--sidebar-width) 1fr; min-height:100vh;}
+
+/* SIDEBAR (identique v6) */
+.sidebar{
+  background:linear-gradient(180deg,var(--bg-elevated) 0%, var(--neutral-50) 100%);
+  border-right:1px solid var(--border); padding:28px 18px;
+  position:sticky; top:0; height:100vh; overflow-y:auto;
+  display:flex; flex-direction:column;
+}
+.sidebar-brand{
+  display:flex; align-items:center; gap:10px;
+  padding-bottom:16px; border-bottom:1px solid var(--border); margin-bottom:20px;
+}
+.brand-icon{
+  width:38px; height:38px; border-radius:10px;
+  background:linear-gradient(135deg,var(--primary-600),var(--accent-600));
+  display:flex; align-items:center; justify-content:center;
+  color:white; font-size:1.1rem; font-weight:700; box-shadow:var(--shadow-primary);
+}
+.brand-text h2{font-size:.95rem; font-weight:700; color:var(--text);}
+.brand-text p{font-size:.7rem; color:var(--text-muted);}
+
+.sidebar-section-title{
+  font-size:.65rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:.14em; color:var(--text-subtle); margin:8px 4px 10px;
+}
+.sidebar-section-title .count{
+  background:var(--primary-100); color:var(--primary-700);
+  padding:1px 7px; border-radius:999px; font-size:.6rem; margin-left:6px;
+}
+.synth-list{display:flex; flex-direction:column; gap:4px; margin-bottom:18px;}
+.synth-item{
+  display:flex; align-items:center; gap:10px;
+  padding:9px 10px; border-radius:var(--radius-sm);
+  text-decoration:none; color:var(--text);
+  transition:background .15s, transform .15s;
+  border:1px solid transparent;
+}
+.synth-item:hover{
+  background:var(--primary-50); border-color:var(--primary-100); transform:translateX(2px);
+}
+.synth-badge-mini{
+  background:linear-gradient(135deg,var(--primary-500),var(--accent-500));
+  color:white; font-size:9px; font-weight:800;
+  padding:3px 6px; border-radius:5px; min-width:32px; text-align:center;
+  letter-spacing:.04em; flex-shrink:0;
+}
+.synth-label{font-size:.78rem; font-weight:500;}
+.synth-arrow{margin-left:auto; color:var(--text-subtle); font-size:.7rem; opacity:0; transition:opacity .15s;}
+.synth-item:hover .synth-arrow{opacity:1;}
+
+.sidebar-nav-other{
+  border-top:1px solid var(--border); padding-top:14px; margin-bottom:18px;
+}
+.sidebar-nav-other .synth-item .synth-badge-mini{
+  background:linear-gradient(135deg, var(--success), #34d399);
+}
+.sidebar-footer{
+  margin-top:auto; padding-top:16px; border-top:1px solid var(--border);
+  font-size:.7rem; color:var(--text-muted); line-height:1.5;
+}
+.sidebar-footer strong{color:var(--text);}
+
+/* sidebar toggle mobile */
+.sidebar-toggle{
+  display:none; position:fixed; top:14px; left:14px; z-index:50;
+  background:var(--card); border:1px solid var(--border);
+  border-radius:8px; width:40px; height:40px;
+  font-size:1.2rem; cursor:pointer; box-shadow:var(--shadow);
+}
+.sidebar-backdrop{
+  display:none; position:fixed; inset:0; background:rgba(0,0,0,.4);
+  z-index:40; opacity:0; transition:opacity .2s;
+}
+.sidebar-backdrop.open{display:block; opacity:1;}
+@media (max-width:900px){
+  .app-shell{grid-template-columns:1fr;}
+  .sidebar{
+    position:fixed; top:0; left:0; transform:translateX(-100%);
+    transition:transform .25s ease; z-index:45; width:280px;
+  }
+  .sidebar.open{transform:translateX(0);}
+  .sidebar-toggle{display:flex; align-items:center; justify-content:center;}
+  .main{padding-top:64px;}
+}
+
+/* MAIN */
+.main{
+  padding:28px 32px 60px; max-width:1200px; width:100%; margin:0 auto;
+}
+@media (max-width:600px){.main{padding:64px 16px 40px;}}
+
+.page-header{
+  display:flex; align-items:flex-start; justify-content:space-between;
+  gap:16px; margin-bottom:24px;
+}
+.page-header h1{
+  font-size:1.4rem; font-weight:700;
+  background:linear-gradient(135deg,var(--primary-700),var(--accent-600));
+  -webkit-background-clip:text; -webkit-text-fill-color:transparent;
+  background-clip:text; margin-bottom:2px;
+}
+.page-header p{font-size:.85rem; color:var(--text-muted);}
+.version-pill{
+  padding:4px 10px; background:var(--primary-50); color:var(--primary-700);
+  border-radius:999px; font-size:.7rem; font-weight:700; letter-spacing:.04em;
+  border:1px solid var(--primary-100); white-space:nowrap;
+}
+
+/* STATS TUILES */
+.stats-grid{
+  display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:24px;
+}
+@media (max-width:600px){.stats-grid{grid-template-columns:repeat(2,1fr);}}
+.stat-tile{
+  background:var(--card); border:1px solid var(--border);
+  border-radius:var(--radius); padding:14px;
+  display:flex; flex-direction:column; gap:4px;
+  transition:transform .15s, box-shadow .15s;
+  position:relative; overflow:hidden;
+}
+.stat-tile::before{
+  content:''; position:absolute; top:0; left:0; right:0; height:3px;
+  background:linear-gradient(90deg,var(--primary-500),var(--accent-500)); opacity:.9;
+}
+.stat-tile:hover{transform:translateY(-2px); box-shadow:var(--shadow);}
+.stat-icon{font-size:1.1rem; opacity:.85;}
+.stat-value{font-size:1.6rem; font-weight:700; color:var(--primary-700); line-height:1.1;}
+.stat-label{
+  font-size:.7rem; color:var(--text-muted); text-transform:uppercase;
+  letter-spacing:.07em; font-weight:600;
+}
+.stat-tile.t-modules::before{background:linear-gradient(90deg,#6366f1,#8b5cf6);}
+.stat-tile.t-sessions::before{background:linear-gradient(90deg,var(--success),#34d399);}
+.stat-tile.t-available::before{background:linear-gradient(90deg,var(--info),#22d3ee);}
+.stat-tile.t-exam::before{background:linear-gradient(90deg,var(--warning),#fbbf24);}
+
+/* SECTION */
+.section-block{margin-bottom:22px;}
+.section-title{
+  font-size:.75rem; font-weight:700; text-transform:uppercase;
+  letter-spacing:.12em; color:var(--text-muted);
+  margin-bottom:14px; display:flex; align-items:center; gap:8px;
+}
+.section-title-line{flex:1; height:1px; background:var(--border);}
+
+/* MODULE CARDS GRID */
+.modules-grid{
+  display:grid; gap:16px;
+  grid-template-columns:repeat(auto-fill, minmax(360px, 1fr));
+}
+.mod-card{
+  background:var(--card); border:1px solid var(--border);
+  border-radius:var(--radius-lg); overflow:hidden;
+  transition:transform .2s, box-shadow .2s, border-color .2s;
+  scroll-margin-top:24px;  /* offset pour ancre */
+  box-shadow:var(--shadow-sm);
+}
+.mod-card:hover{transform:translateY(-2px); box-shadow:var(--shadow); border-color:var(--border-strong);}
+.mod-card-header{
+  display:flex; align-items:center; gap:12px;
+  padding:16px 18px;
+}
+.mod-card-badge{
+  color:white; font-size:.7rem; font-weight:800;
+  padding:5px 10px; border-radius:6px; letter-spacing:.04em; flex-shrink:0;
+}
+.mod-card-title{
+  font-size:.92rem; font-weight:600; color:var(--text); flex:1;
+  line-height:1.35;
+}
+.mod-card-count{
+  font-size:.7rem; color:var(--text-muted); background:var(--card);
+  padding:2px 8px; border-radius:999px; border:1px solid var(--border);
+  font-weight:600; white-space:nowrap;
+}
+.mod-card-body{padding:8px 12px 14px;}
+.sess-link{
+  display:flex; align-items:center; gap:10px;
+  padding:9px 10px; border-radius:var(--radius-sm);
+  text-decoration:none; color:var(--text);
+  font-size:.8rem;
+  transition:background .15s, transform .15s;
+}
+.sess-link:hover:not(.sess-disabled){
+  background:var(--neutral-100); transform:translateX(3px);
+}
+.sess-dot{
+  width:8px; height:8px; border-radius:50%; flex-shrink:0;
+}
+.sess-title{flex:1; line-height:1.4;}
+.sess-badge{
+  font-size:.65rem; font-weight:700; padding:2px 8px; border-radius:999px;
+  letter-spacing:.04em;
+}
+.sess-badge.ok{background:var(--success-light); color:var(--success-dark);}
+.sess-badge.pending{background:var(--warning-light); color:var(--warning-dark);}
+.sess-disabled{opacity:.55; cursor:not-allowed;}
+.sess-disabled .sess-title{font-style:italic;}
+
+/* Footer */
+footer.app-footer{
+  margin-top:30px; padding:18px 0;
+  text-align:center; font-size:.72rem; color:var(--text-muted);
+  border-top:1px solid var(--border);
+}
+footer.app-footer a{
+  color:var(--primary-600); text-decoration:none; font-weight:600;
+}
+footer.app-footer a:hover{text-decoration:underline;}
+</style>
+</head>
+<body>
+
+<button class="sidebar-toggle" id="sidebar-toggle" aria-label="Menu">☰</button>
+<div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+<div class="app-shell">
+
+  <!-- SIDEBAR (identique v6) -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">Ψ</div>
+      <div class="brand-text">
+        <h2>Psychopharma</h2>
+        <p>DU 2025-2026</p>
+      </div>
+    </div>
+
+    <div class="sidebar-section-title">
+      📚 Synthèses <span class="count">11</span>
+    </div>
+    <nav class="synth-list">
+      <a class="synth-item" href="#module-1">
+        <span class="synth-badge-mini">M01</span>
+        <span class="synth-label">Généralités</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-2">
+        <span class="synth-badge-mini">M02</span>
+        <span class="synth-label">Pop. spécifiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-3">
+        <span class="synth-badge-mini">M03</span>
+        <span class="synth-label">BZD & Anxiolytiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-4">
+        <span class="synth-badge-mini">M04</span>
+        <span class="synth-label">Hypnotiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-5">
+        <span class="synth-badge-mini">M05</span>
+        <span class="synth-label">ATD & Thymorég.</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-6">
+        <span class="synth-badge-mini">M06</span>
+        <span class="synth-label">Antipsychotiques</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-7">
+        <span class="synth-badge-mini">M07</span>
+        <span class="synth-label">Addictions</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-8">
+        <span class="synth-badge-mini">M08</span>
+        <span class="synth-label">Troubles sexuels</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-9">
+        <span class="synth-badge-mini">M09</span>
+        <span class="synth-label">Hors AMM</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-10">
+        <span class="synth-badge-mini">M10</span>
+        <span class="synth-label">Psychostimulants</span>
+        <span class="synth-arrow">→</span>
+      </a>
+      <a class="synth-item" href="#module-11">
+        <span class="synth-badge-mini">M11</span>
+        <span class="synth-label">Effets indésirables</span>
+        <span class="synth-arrow">→</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-nav-other">
+      <a class="synth-item" href="QCM_APP_2026_v6.html">
+        <span class="synth-badge-mini">QCM</span>
+        <span class="synth-label">QCM interactif</span>
+        <span class="synth-arrow">→</span>
+      </a>
+    </div>
+
+    <div class="sidebar-footer">
+      <strong>Sources vérifiées</strong><br>
+      ANSM · HAS · Manuel MSD<br><br>
+      Examen : 23 juin 2026
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+    <div class="page-header">
+      <div>
+        <h1>Fiches de révision</h1>
+        <p>DU 2025-2026 · Université Paris Cité · Examen 23 juin 2026</p>
+      </div>
+      <span class="version-pill">v6 — Synthèses</span>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats-grid">
+      <div class="stat-tile t-modules">
+        <span class="stat-icon">📚</span>
+        <span class="stat-value">11</span>
+        <span class="stat-label">Modules</span>
+      </div>
+      <div class="stat-tile t-sessions">
+        <span class="stat-icon">📝</span>
+        <span class="stat-value">35</span>
+        <span class="stat-label">Sessions</span>
+      </div>
+      <div class="stat-tile t-available">
+        <span class="stat-icon">✅</span>
+        <span class="stat-value">34</span>
+        <span class="stat-label">Disponibles</span>
+      </div>
+      <div class="stat-tile t-exam">
+        <span class="stat-icon">📅</span>
+        <span class="stat-value">23/06</span>
+        <span class="stat-label">Examen 2026</span>
+      </div>
+    </div>
+
+    <!-- MODULES GRID -->
+    <div class="section-block">
+      <div class="section-title">
+        🎯 Tous les modules
+        <span class="section-title-line"></span>
+      </div>
+      <div class="modules-grid">
+      <article class="mod-card" id="module-1">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #4f8ef722 0%, #4f8ef711 100%); border-left:4px solid #4f8ef7;">
+          <span class="mod-card-badge" style="background:#4f8ef7;">M01</span>
+          <h3 class="mod-card-title">GENERALITES PHARMACOLOGIQUES</h3>
+          <span class="mod-card-count">5 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_1_BASES_NEUROBIOLOGIQUES/index.html">
+          <span class="sess-dot" style="background:#4f8ef7"></span>
+          <span class="sess-title">1 BASES NEUROBIOLOGIQUES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_2_BASES_PSYCHOPHARMACOLOGIE/index.html">
+          <span class="sess-dot" style="background:#4f8ef7"></span>
+          <span class="sess-title">2 BASES PSYCHOPHARMACOLOGIE</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_3_AGENCES_MEDICAMENT/index.html">
+          <span class="sess-dot" style="background:#4f8ef7"></span>
+          <span class="sess-title">3 AGENCES MEDICAMENT</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_4_PHARMACOGENETIQUE/index.html">
+          <span class="sess-dot" style="background:#4f8ef7"></span>
+          <span class="sess-title">4 PHARMACOGENETIQUE</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <div class="sess-link sess-disabled">
+          <span class="sess-dot" style="background:#4f8ef7"></span>
+          <span class="sess-title">5 LECTURE CRITIQUE ARTICLE</span>
+          <span class="sess-badge pending">à venir</span>
+        </div>
+        </div>
+      </article>
+      <article class="mod-card" id="module-2">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #7c6af722 0%, #7c6af711 100%); border-left:4px solid #7c6af7;">
+          <span class="mod-card-badge" style="background:#7c6af7;">M02</span>
+          <h3 class="mod-card-title">PRESCRIPTIONS EN POPULATIONS SPECIFIQUES</h3>
+          <span class="mod-card-count">8 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_1_SUJET_AGE/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">1 SUJET AGE</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_2_ENFANT_ADOLESCENT/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">2 ENFANT ADOLESCENT</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_3_GROSSESSE_ALLAITEMENT/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">3 GROSSESSE ALLAITEMENT</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_4_MILIEU_CARCERAL/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">4 MILIEU CARCERAL</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_5_INSUFFISANCES_ORGANIQUES/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">5 INSUFFISANCES ORGANIQUES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_6_TROUBLES_COMPORTEMENT_ALIMENTAIRE/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">6 TROUBLES COMPORTEMENT ALIMENTAIRE</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_7_TROUBLES_NEUROCOGNITIFS/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">7 TROUBLES NEUROCOGNITIFS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_8_PSYCHIATRIE_LIAISON/index.html">
+          <span class="sess-dot" style="background:#7c6af7"></span>
+          <span class="sess-title">8 PSYCHIATRIE LIAISON</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-3">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #f76a6a22 0%, #f76a6a11 100%); border-left:4px solid #f76a6a;">
+          <span class="mod-card-badge" style="background:#f76a6a;">M03</span>
+          <h3 class="mod-card-title">BENZODIAZEPINES ET ANXIOLYTIQUES</h3>
+          <span class="mod-card-count">4 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_1_RAPPEL_CLINIQUE_TROUBLES_ANXIEUX/index.html">
+          <span class="sess-dot" style="background:#f76a6a"></span>
+          <span class="sess-title">1 RAPPEL CLINIQUE TROUBLES ANXIEUX</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_2_BENZODIAZEPINES/index.html">
+          <span class="sess-dot" style="background:#f76a6a"></span>
+          <span class="sess-title">2 BENZODIAZEPINES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_3_ANXIOLYTIQUES_NON_BZD/index.html">
+          <span class="sess-dot" style="background:#f76a6a"></span>
+          <span class="sess-title">3 ANXIOLYTIQUES NON BZD</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_4_RECOMMANDATIONS_TROUBLES_ANXIEUX/index.html">
+          <span class="sess-dot" style="background:#f76a6a"></span>
+          <span class="sess-title">4 RECOMMANDATIONS TROUBLES ANXIEUX</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-4">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #43d68e22 0%, #43d68e11 100%); border-left:4px solid #43d68e;">
+          <span class="mod-card-badge" style="background:#43d68e;">M04</span>
+          <h3 class="mod-card-title">HYPNOTIQUES ET SOMMEIL</h3>
+          <span class="mod-card-count">2 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 4 - HYPNOTIQUES ET SOMMEIL/SESSION_1_HYPNOTIQUES_BZD/index.html">
+          <span class="sess-dot" style="background:#43d68e"></span>
+          <span class="sess-title">1 HYPNOTIQUES BZD</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 4 - HYPNOTIQUES ET SOMMEIL/SESSION_2_HYPNOTIQUES_NON_BZD/index.html">
+          <span class="sess-dot" style="background:#43d68e"></span>
+          <span class="sess-title">2 HYPNOTIQUES NON BZD</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-5">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #f7a84f22 0%, #f7a84f11 100%); border-left:4px solid #f7a84f;">
+          <span class="mod-card-badge" style="background:#f7a84f;">M05</span>
+          <h3 class="mod-card-title">ANTIDEPRESSEURS ET THYMOREGULATEURS</h3>
+          <span class="mod-card-count">2 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS/SESSION_1_ANTIDEPRESSEURS/index.html">
+          <span class="sess-dot" style="background:#f7a84f"></span>
+          <span class="sess-title">1 ANTIDEPRESSEURS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS/SESSION_2_THYMOREGULATEURS/index.html">
+          <span class="sess-dot" style="background:#f7a84f"></span>
+          <span class="sess-title">2 THYMOREGULATEURS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-6">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #f74fb422 0%, #f74fb411 100%); border-left:4px solid #f74fb4;">
+          <span class="mod-card-badge" style="background:#f74fb4;">M06</span>
+          <h3 class="mod-card-title">ANTIPSYCHOTIQUES</h3>
+          <span class="mod-card-count">1 session</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 6 - ANTIPSYCHOTIQUES/SESSION_1_ANTIPSYCHOTIQUES/index.html">
+          <span class="sess-dot" style="background:#f74fb4"></span>
+          <span class="sess-title">1 ANTIPSYCHOTIQUES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-7">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #4ff7e822 0%, #4ff7e811 100%); border-left:4px solid #4ff7e8;">
+          <span class="mod-card-badge" style="background:#4ff7e8;">M07</span>
+          <h3 class="mod-card-title">ADDICTIONS</h3>
+          <span class="mod-card-count">5 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 7 - ADDICTIONS/SESSION_1_ALCOOL/index.html">
+          <span class="sess-dot" style="background:#4ff7e8"></span>
+          <span class="sess-title">1 ALCOOL</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 7 - ADDICTIONS/SESSION_2_TABAC/index.html">
+          <span class="sess-dot" style="background:#4ff7e8"></span>
+          <span class="sess-title">2 TABAC</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 7 - ADDICTIONS/SESSION_3_SUBSTANCES_ILLICITES/index.html">
+          <span class="sess-dot" style="background:#4ff7e8"></span>
+          <span class="sess-title">3 SUBSTANCES ILLICITES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 7 - ADDICTIONS/SESSION_4_ADDICTIONS_COMPORTEMENTALES/index.html">
+          <span class="sess-dot" style="background:#4ff7e8"></span>
+          <span class="sess-title">4 ADDICTIONS COMPORTEMENTALES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 7 - ADDICTIONS/SESSION_5_ADDICTIONS_MEDICAMENTS/index.html">
+          <span class="sess-dot" style="background:#4ff7e8"></span>
+          <span class="sess-title">5 ADDICTIONS MEDICAMENTS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-8">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #d4f74f22 0%, #d4f74f11 100%); border-left:4px solid #d4f74f;">
+          <span class="mod-card-badge" style="background:#d4f74f;">M08</span>
+          <h3 class="mod-card-title">TROUBLES SEXUELS</h3>
+          <span class="mod-card-count">3 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 8 - TROUBLES SEXUELS/SESSION_1_HYPOFONCTIONNEMENT/index.html">
+          <span class="sess-dot" style="background:#d4f74f"></span>
+          <span class="sess-title">1 HYPOFONCTIONNEMENT</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 8 - TROUBLES SEXUELS/SESSION_2_1_ADDICTIONS_SEXUELLES/index.html">
+          <span class="sess-dot" style="background:#d4f74f"></span>
+          <span class="sess-title">2 1 ADDICTIONS SEXUELLES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 8 - TROUBLES SEXUELS/SESSION_2_2_TROUBLES_PARAPHILIQUES/index.html">
+          <span class="sess-dot" style="background:#d4f74f"></span>
+          <span class="sess-title">2 2 TROUBLES PARAPHILIQUES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-9">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #f7d44f22 0%, #f7d44f11 100%); border-left:4px solid #f7d44f;">
+          <span class="mod-card-badge" style="background:#f7d44f;">M09</span>
+          <h3 class="mod-card-title">TRAITEMENTS HORS AMM</h3>
+          <span class="mod-card-count">1 session</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 9 - TRAITEMENTS HORS AMM/SESSION_1_HORS_AMM/index.html">
+          <span class="sess-dot" style="background:#f7d44f"></span>
+          <span class="sess-title">1 HORS AMM</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-10">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #a84ff722 0%, #a84ff711 100%); border-left:4px solid #a84ff7;">
+          <span class="mod-card-badge" style="background:#a84ff7;">M10</span>
+          <h3 class="mod-card-title">PSYCHOSTIMULANTS</h3>
+          <span class="mod-card-count">1 session</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 10 - PSYCHOSTIMULANTS/SESSION_1_PSYCHOSTIMULANTS/index.html">
+          <span class="sess-dot" style="background:#a84ff7"></span>
+          <span class="sess-title">1 PSYCHOSTIMULANTS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      <article class="mod-card" id="module-11">
+        <header class="mod-card-header" style="background:linear-gradient(135deg, #f7644f22 0%, #f7644f11 100%); border-left:4px solid #f7644f;">
+          <span class="mod-card-badge" style="background:#f7644f;">M11</span>
+          <h3 class="mod-card-title">EFFETS INDESIRABLES</h3>
+          <span class="mod-card-count">3 sessions</span>
+        </header>
+        <div class="mod-card-body">
+        <a class="sess-link" href="../../DU_REVISION/MODULE 11 - EFFETS INDESIRABLES/SESSIONS_1_2_EFFETS_AP_ATD/index.html">
+          <span class="sess-dot" style="background:#f7644f"></span>
+          <span class="sess-title">SESSIONS 1 2 EFFETS AP ATD</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 11 - EFFETS INDESIRABLES/SESSION_3_TROUBLES_METABOLIQUES/index.html">
+          <span class="sess-dot" style="background:#f7644f"></span>
+          <span class="sess-title">3 TROUBLES METABOLIQUES</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        <a class="sess-link" href="../../DU_REVISION/MODULE 11 - EFFETS INDESIRABLES/SESSION_4_EFFETS_SEXUELS/index.html">
+          <span class="sess-dot" style="background:#f7644f"></span>
+          <span class="sess-title">4 EFFETS SEXUELS</span>
+          <span class="sess-badge ok">✓</span>
+        </a>
+        </div>
+      </article>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      Page générée à partir de <a href="../../DU_REVISION/INDEX.html">DU_REVISION/INDEX.html</a> ·
+      Design unifié v6 · 2026-05-17
+      &nbsp;|&nbsp;
+      <a href="QCM_APP_2026_v6.html">🎯 Aller au QCM interactif</a>
+    </footer>
+  </main>
+</div>
+
+<script>
+// Sidebar toggle mobile
+(function(){
+  const toggle = document.getElementById('sidebar-toggle');
+  const sidebar = document.getElementById('sidebar');
+  const backdrop = document.getElementById('sidebar-backdrop');
+  const close = () => { sidebar.classList.remove('open'); backdrop.classList.remove('open'); };
+  toggle.addEventListener('click', () => { sidebar.classList.add('open'); backdrop.classList.add('open'); });
+  backdrop.addEventListener('click', close);
+  sidebar.querySelectorAll('.synth-item').forEach(a => {
+    if (a.getAttribute('href').startsWith('#')) {
+      a.addEventListener('click', close);
+    }
+  });
+})();
+</script>
+
+</body>
+</html>

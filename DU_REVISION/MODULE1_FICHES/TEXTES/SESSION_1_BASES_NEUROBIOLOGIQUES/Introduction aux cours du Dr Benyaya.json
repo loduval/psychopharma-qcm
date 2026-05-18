@@ -1,0 +1,50 @@
+{
+  "fichier": "Introduction aux cours du Dr Benyaya.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 1,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Propos Liminaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pour la rédaction de ces cours ,l’auteur n’ a jamais fait appel à des sites tels que: \t\t\t\tCHATGPT,MISTRAL etc…",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’auteur conseille la consultation des Dictionnaires de:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Académie de Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’Académie Nationale de Médecine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Accessibles « en ligne »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ressources — Module 1</title>
+<style>
+:root {
+  --bg: #0b0e18;
+  --bg2: #131827;
+  --bg3: #1a2035;
+  --text: #c8cdd8;
+  --text-dim: #8892a8;
+  --h1: #ffffff;
+  --h2: #b0bcd8;
+  --accent: #5b8af5;
+  --accent2: #3d6ce0;
+  --border: #232a3e;
+  --table-odd: #141929;
+  --table-even: #1a2035;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 16px 60px;
+}
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+  display: flex; align-items: center; gap: 12px;
+}
+.topbar a { color: var(--accent); text-decoration: none; font-size: 14px; }
+.topbar span { color: var(--text-dim); font-size: 13px; }
+.hero {
+  background: linear-gradient(135deg, var(--bg2), var(--bg3));
+  border-radius: 12px;
+  padding: 24px 20px;
+  margin: 20px 0;
+  border: 1px solid var(--border);
+}
+.hero h1 { color: var(--h1); font-size: 20px; margin-bottom: 8px; }
+.hero .meta { color: var(--text-dim); font-size: 13px; }
+.nav-cours {
+  display: flex; gap: 8px; overflow-x: auto;
+  padding: 12px 0; margin-bottom: 16px;
+  -webkit-overflow-scrolling: touch;
+}
+.nav-cours a {
+  flex-shrink: 0;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 14px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 13px;
+  white-space: nowrap;
+}
+.nav-cours a:hover, .nav-cours a.active { background: var(--accent2); color: #fff; }
+.cours-section { margin-bottom: 40px; }
+.cours-header {
+  background: var(--bg2);
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-bottom: 16px;
+  border-left: 4px solid var(--accent);
+}
+.cours-header h2 { color: var(--h1); font-size: 17px; margin-bottom: 4px; }
+.cours-header .info { color: var(--text-dim); font-size: 12px; }
+.slide {
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+}
+.slide-num {
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.sh1 { color: var(--h1); font-size: 18px; font-weight: 700; margin: 4px 0; }
+.sh2 { color: var(--h2); font-size: 15px; font-weight: 600; margin: 4px 0; }
+.sbody { color: var(--text); font-size: 14px; margin: 2px 0; }
+.indent-1 { padding-left: 20px; }
+.indent-2 { padding-left: 40px; }
+.indent-3 { padding-left: 60px; }
+.table-wrap { overflow-x: auto; margin: 10px 0; }
+table {
+  width: 100%; border-collapse: collapse;
+  font-size: 13px;
+}
+th, td {
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+th { background: var(--accent2); color: #fff; font-weight: 600; }
+tr:nth-child(odd) td { background: var(--table-odd); }
+tr:nth-child(even) td { background: var(--table-even); }
+.med-img {
+  width: 100%;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+.img-caption {
+  color: var(--text-dim);
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.notes {
+  background: var(--bg3);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin: 8px 0;
+  font-size: 13px;
+  color: var(--text-dim);
+  border-left: 3px solid var(--accent);
+}
+.nav-bottom {
+  display: flex; justify-content: space-between;
+  padding: 20px 0;
+  margin-top: 30px;
+  border-top: 1px solid var(--border);
+}
+.nav-bottom a { color: var(--accent); text-decoration: none; font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a href="../index.html">← Module 1</a>
+  <span>Généralités pharmacologiques</span>
+</div>
+
+<div class="hero">
+  <h1>Ressources</h1>
+  <div class="meta">2 cours — 7 slides — Auteurs divers</div>
+</div>
+
+<div class="nav-cours">
+  <a href="#cours-0">Psychotropes en psychiatrie</a><a href="#cours-1">Quelques ouvrages utiles</a>
+</div>
+
+
+<div class="cours-section" id="cours-0">
+  <div class="cours-header">
+    <h2>Psychotropes en psychiatrie</h2>
+    <div class="info"> — 3 slides</div>
+  </div>
+  <div class="slide"><div class="slide-num">Slide 1</div><div class="sh1">Module d’autoformation E-Learning</div><div class="sbody">QCM PSYCHOTROPES EN PSYCHIATRIE</div><div class="sbody">Pr C. LEMOGNE</div></div><div class="slide"><div class="slide-num">Slide 2</div><div class="sh1">Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) vraie(s) ?</div><div class="sbody">A- la prescription conjointe d&#x27;un inhibiteur de recapture de la sérotonine et de certains antalgiques augmente le risque de syndrome sérotoninergique</div><div class="sbody">B- la sertraline est déconseillée en cas d&#x27;insuffisance cardiaque</div><div class="sbody">C- la prescription d&#x27;un antidépresseur par le médecin référent plutôt que par le psychiatre de liaison augmente son efficience</div><div class="sbody">D- l&#x27;insuffisance rénale chronique est une contre-indication absolue du lithium</div><div class="sbody">E- le traitement pharmacologique du delirium repose en priorité sur le retrait des médicaments confusogènes</div><div class="sbody">2</div></div><div class="slide"><div class="slide-num">Slide 3</div><div class="sbody">Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) vraie(s) ?</div><div class="sbody">A- la prescription conjointe d&#x27;un inhibiteur de recapture de la sérotonine et de certains antalgiques augmente le risque de syndrome sérotoninergique</div><div class="sbody">B- la sertraline est déconseillée en cas d&#x27;insuffisance cardiaque</div><div class="sbody">C- la prescription d&#x27;un antidépresseur par le médecin référent plutôt que par le psychiatre de liaison augmente son efficience</div><div class="sbody">D- l&#x27;insuffisance rénale chronique est une contre-indication absolue du lithium</div><div class="sbody">E- le traitement pharmacologique du delirium repose en priorité sur le retrait des médicaments confusogènes</div><div class="sbody">Réponse : A, C et E</div><div class="sbody">3</div></div>
+</div>
+<div class="cours-section" id="cours-1">
+  <div class="cours-header">
+    <h2>Quelques ouvrages utiles</h2>
+    <div class="info"> — 4 slides</div>
+  </div>
+  <div class="slide"><div class="slide-num">Slide 1</div><div class="sh1">QUELQUES OUVRAGES UTILES</div></div><div class="slide"><div class="slide-num">Slide 2</div><div class="sbody">2</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_02_img_00.png" loading="lazy" alt="Figure slide 2"><div class="img-caption">Fig. slide 2 — Quelques ouvrages utiles</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_02_img_01.png" loading="lazy" alt="Figure slide 2"><div class="img-caption">Fig. slide 2 — Quelques ouvrages utiles</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_02_img_02.png" loading="lazy" alt="Figure slide 2"><div class="img-caption">Fig. slide 2 — Quelques ouvrages utiles</div></div><div class="slide"><div class="slide-num">Slide 3</div><div class="sh2">NeuroPsychopharmacotherapy</div><div class="sbody">Editors Peter Riederer, Gerd Laux, Toshiharu Nagatsu, Weidong Le and Christian Riederer</div><div class="sbody">eBook Springer 2021</div><div class="sbody">3</div></div><div class="slide"><div class="slide-num">Slide 4</div><div class="sbody">4</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_04_img_00.png" loading="lazy" alt="Figure slide 4"><div class="img-caption">Fig. slide 4 — Quelques ouvrages utiles</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_04_img_01.png" loading="lazy" alt="Figure slide 4"><div class="img-caption">Fig. slide 4 — Quelques ouvrages utiles</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_04_img_02.png" loading="lazy" alt="Figure slide 4"><div class="img-caption">Fig. slide 4 — Quelques ouvrages utiles</div><img class="med-img" src="../../IMAGES/RESSOURCES/Quelques ouvrages utiles/slide_04_img_03.png" loading="lazy" alt="Figure slide 4"><div class="img-caption">Fig. slide 4 — Quelques ouvrages utiles</div></div>
+</div>
+
+<div class="nav-bottom">
+  <div><a href="../QCM/index.html">← QCM d&#x27;entraînement</a></div>
+  <div></div>
+</div>
+
+<script>
+// Highlight active nav item on scroll
+const sections = document.querySelectorAll('.cours-section');
+const navLinks = document.querySelectorAll('.nav-cours a');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      navLinks.forEach(l => l.classList.remove('active'));
+      const id = e.target.id;
+      const link = document.querySelector(`.nav-cours a[href="#${id}"]`);
+      if (link) { link.classList.add('active'); link.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'}); }
+    }
+  });
+}, {threshold: 0.1});
+sections.forEach(s => observer.observe(s));
+</script>
+</body>
+</html>

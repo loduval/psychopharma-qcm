@@ -1,0 +1,2077 @@
+{
+  "fichier": "III-Pharmacocinétique Métabolisme_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 39,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Etude du Sort du médicament dans l’organisme:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dégradation des médicaments par voie enzymatique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module d’autoformation e-learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude du Sort du médicament dans l’organisme:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dégradation des médicaments par voie enzymatique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Interlude",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Les métabolites secondaires sont des molécules produites en dehors des voies métaboliques strictement nécessaires à la vie de la plante. »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces composés, tels les alcaloïdes, sont, selon le Pr J. Poisson, des « impasses métaboliques »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quel est le rôle supposé de ces métabolites secondaires(Plant Secondary Metabolites « PSM »?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Selon le principe évolutionniste de sélection naturelle émis par Darwin, tout trait de caractère ne conférant pas un avantage à la survie et à la reproduction d’une espèce est éliminé sous la pression de la sélection négative.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La biosynthèse des métabolites secondaires étant maintenue au cours de l’évolution. Ces métabolites joueraient donc nécessairement un rôle. Ce sont des molécules-clefs qui résultent de la coévolution flore- faune.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ils sont considérés comme des défenses du végétal face aux organismes pathogènes et aux animaux herbivores, prédateurs donc des végétaux »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Gaëlle  Fortin Thèse  Dr Vétérinaire ENV Alfort 22 Novembre 2012-pages 39 à 42",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Iason G. Proc. Nutritional Soc.,2005,64,123-131",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Exemples d’Alcaloïdes très toxiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Strychnine et Aconitine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Racine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aconit Napel",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Plante herbacée, vivace 50cm à 2m",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "«Plante la plus toxique de la flore de France*»",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "France, régions montagneuses",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Racine =>  Alcaloïdes,  Aconitine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*Pr J.L. Guignard",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Aconitine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aconitine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alcaloïde de structure di-terpénique avec deux fonctions ester et une fonction –NCH2CH3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un des alcaloïdes les plus toxiques;1 mg ingéré peut provoquer la mort d’un adulte.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les intoxications étaient provoquées par confusion avec des racines alimentaires: céleri, raifort, pissenlit",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Autrefois la teinture d’aconit était utilisée dans le traitement des névralgies faciales et comme antitussif",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Aconitine est maintenant parfois utilisée chez l’animal , en tant que réactif pharmacodynamique, pour",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "étudier les médicaments antiarythmiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’aconitine se fixe sur le site 2 du canal  ion Sodium. L’état activé est persistant. Le voltage nécessaire à",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "l’activation est réduit. Accès répétés de potentiels d’action",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "R.R Paris et H Moyse Précis de Matière Médicale, Tome II Masson",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Damien Gache. Thèse Pharmacie Lyon 1 n°136 25 11 2014",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Vomiquier Strychnos Nux Vomica",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fruit",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noix",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Arbre de 10 à 15 m",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Régions chaudes de l’Asie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fruit et Noix =>  Alcaloïdes, Strychnine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Strychnine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Strychnine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alcaloïde de structure indolique heptacyclique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Autrefois la  solution injectable de Stychnine,1mg/ml,  était utilisée comme antagoniste des Barbituriques lors des",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "intoxications par ces médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Strychnine est maintenant utilisée chez l’animal , en tant que réactif pharmacodynamique, pour",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "étudier les médicaments antiépileptiques actifs sur les crises tonico-cloniques et sur les épilepsies résistantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Strychnine est un antagoniste du récepteur de la glycine rGly( récepteurs de la cellule de Renshaw",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": ",régulatrice du motoneurone pour éviter son « emballement »).C’est un récepteur canal anionique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "inhibiteur(courant d’ions Chlorures) Ces récepteurs sont abondants dans la moelle épinière et le tronc cérébral.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Ce qui  a été dit à propos du récepteur GABA peut s’appliquer au rGly »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "R.R Paris et H Moyse Précis de Matière Médicale, Tome II Masson",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Goodman &  Gilman’s Pharmacological Basis of Therapeutics 12 th  Edition  page 379, Mac Graw Hill,2011",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Toxicités comparées de l ’Aconitine et de la Strychnine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Référence: National Institute of Health NIH US National Library of Medicine  Toxicology Data Network",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Souris  per os\nDL 50   mg/Kg",
+              "Souris  voie I.V.\nDL 50     mg/Kg",
+              "Souris voie I.P.\nDL 50     mg/Kg",
+              "Rat  per os\nDL 50    mg/Kg",
+              "Rat voie I.V.\nDL 50    mg/Kg",
+              "Rat voie I.P.\nDL 50     mg/Kg"
+            ],
+            [
+              "Aconitine",
+              "1",
+              "0,1",
+              "0,27",
+              "",
+              "0,08",
+              ""
+            ],
+            [
+              "Strychnine",
+              "2",
+              "0,410",
+              "0,980",
+              "2,35",
+              "0,582",
+              "1,1"
+            ],
+            [
+              "Diazépam",
+              "48",
+              "25",
+              "37",
+              "249",
+              "32",
+              "46,5"
+            ],
+            [
+              "Imipramine",
+              "188",
+              "21",
+              "51,6",
+              "385",
+              "9,3",
+              "79"
+            ],
+            [
+              "Phénobarbital",
+              "137",
+              "218",
+              "88",
+              "162",
+              "209",
+              "110"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "«Pour les alcaloïdes,  un rôle de défense est fréquemment avancé . Une vue finaliste fait dire que les diverses",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "plantes à alcaloïdes ne sont pas consommées par  les animaux sauvages en raison de leur amertume et de",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "leur mauvaise tolérance »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pr J. Poisson  Encyclopdia Universalis article Alcaloïdes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Coévolution Flore Faune: bataille pour la sélection et l’adaptation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les animaux ont à leur tour, dans cette bataille, “warfare”, développé des mesures de protection contre les  metabolites secondaires toxiques des plantes : habitudes alimentaires et induction de mécanismes enzymatiques de “détoxication”*.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Wöll S. et al., Nat. Prod. Bioprospect.,2013,3,1-7",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Détoxication: figure dans le Dictionnaire Robert; ne figure pas dans le Dictionnaire de l’Académie de Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Détoxification »: Anglicisme",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cette détoxication passe par la biosynthèse d’enzymes comme ceux de la famille du Cytochrome P450, dont la structure va s’adapter ,au cours de l’évolution, aux différents xénobiotiques. Chez les herbivores ces enzymes seront très exprimées dans le foie le rein et la muqueuse intestinale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Wöll S. et al., Nat. Prod. Bioprospect.,2013,3,1-7",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Exemple de l’Opossum: mammifère marsupial arboricole et herbivore (feuilles d’eucalyptus) peut absorber jusqu’à 10 grammes d’eucalyptole ou cinéole par jour(dose mortelle pour l’homme). Possède les  enzymes capables de dégrader ce composé terpénique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Wöll S. et al., Nat. Prod. Bioprospect.,2013,3,1-7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Aperçu simplifié de l’évolution des relations entre le monde végétal et monde animal phytophage",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôle des du métabolisme secondaire des végétaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemple de l’Opossum: mammifère marsupial",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Eucalyptus globulus",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Courtoisie Caroline Duros",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Quelques définitions issues du Dictionnaire des Sciences Pharmaceutiques et Biologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Microsomes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fraction du Réticulum Endoplasmique*  (R.E) lisse ou rugueux obtenue par centrifugation différentielle (d’un",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "broyat cellulaire) riche en enzymes de la famille du Cytochrome P450. (Ne sont pas des organites cellulaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "proprement dit,  mais ) un artéfact de la technique de fractionnement.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Xénobiotique: Se dit d’une substance étrangère introduite dans l’organisme:  substance médicamenteuse,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "toxique, pesticide, colorante etc..",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chromoprotéine: Protéine colorée . La coloration est due à la présence, dans le groupement prosthétique,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un ion métallique: Fer, Cuivre , Magnésium",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le R.E est l’organite cytoplasmique le plus étendu.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A. Vander et al. Physiologie Humaine ;Editions Chenelière McGraw Hill",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicament  =  xénobiotique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Accumulation néfaste =>  dégradation et élimination continues nécessaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Animaux: différences métaboliques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemple de l’opossum se nourrissant de l’eucalyptus",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemple du lapin",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Alcaloïdes avec une fonction ester comme l’atropine ou la cocaïne.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hydrolysés par les estérases du sérum de lapin ; ne sont pas hydrolysés par le sérum humain (J.Wépierre)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicament=  xénobiotique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemple du chien:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le métabolisme du Citalopram chez le chien produit une double déméthylation=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "didéméthyl- Citalopram;",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Concentrations circulantes élevées de citalopram  de ce métabolite chez le chien=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> Convulsions , augmentation de la durée de la repolarisation cardiaque:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> QT long, risque de tachyarythmie paroxystique avec tracé ECG en torsades de \t\t\tpointes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le didéméthyl-Citalopram n’est pratiquement pas formé chez l’homme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Communication personnelle)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les métabolites sont en général moins actifs. Cependant certains le sont comme:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’ Amoxapine (métabolite de la Loxapine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La déméthyl-Clomipramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Desméthyl-Venlafaxine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La 9 Hydroxy Rispéridone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Nordazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Nor- Fluoxétine ou N- déméthyl- Fluoxétine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Oxazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On doit donc tenir compte de la demi-vie des métabolites actifs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On distingue classiquement  dans les réactions mises en jeu dans le métabolisme des médicaments (et des toxiques):",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les réactions de dégradation ou de « fonctionnalisation »:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "réactions de Phase I",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les réactions de conjugaison, glycuro- e\tt sulfoconjugaison par exemple:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "réactions de Phase II",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cas des médicaments administrés par voie orale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Muqueuse intestinale => résorption => atteinte de la circulation porte=>  parenchyme hépatique => extraction hépatique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> Métabolisme éventuel  avec  perte éventuelle de principe actif et réduction de la mise à la disposition biologique (effet, dit, de premier passage hépatique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Puis atteinte de la circulation générale =>distribution tissulaire=> atteinte de la biophase",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "circulation générale=>  parenchyme hépatique => extraction hépatique => Métabolisme éventuel",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réactions de Phase 1 et de Phase  2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cas des médicaments administrés par voie parentérale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pas d’effet de premier passage hépatique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "atteinte de la circulation générale=>distribution tissulaire=> atteinte de la biophase=> circulation générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>  parenchyme hépatique => extraction hépatique => Métabolisme éventuel",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réactions de Phase 1 et de Phase  2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Elimination des Métabolites",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par les canalicules biliaires Clairance hépatique => Fèces",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Par retour vers les capillaires sinusoïdes pour une élimination rénale (Clairance rénale) =>  Urines",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Enzymes catalysant les différentes réactions de dégradation des médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Enzymes du Cytosol:  Estérases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Alcool  et Aldéhyde déshydrogénases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Enzymes Mitochondriales:  Monoamine Oxydases MAO",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "catalysent 2% des réactions de dégradation des xénobiotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Enzymes du Réticulum Endoplasmique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Flavines-monooxygénases \t\tcatalysent 2% des réactions de dégradation des xénobiotiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Epoxydes Hydrolases",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oxydases de la famille des isoenzymes du Cytochrome P450,  CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "catalysent 95 % des réactions de dégradation des xénobiotiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Oxydases de la famille des isoenzymes du Cytochrome P450,  CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Localisées dans le réticulum endoplasmique des cellules hépatiques, essentiellement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Assurent le métabolisme oxydatif des composés endogènes: Hormones stéroïdes, Vitamine D, Prostanoïdes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Assurent le métabolisme oxydatif des composés xénobiotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Isolement d’un composé jaune orangé à partir des microsomes hépatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "P= pigment  450=maximum d’absorbance à 450nm quand la protéine est combinée à l’oxyde de carbone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cytochrome: protéines apparentées aux protéines enzymatiques de la phosphorylation oxydative",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "qui vont dans un premier temps faciliter la fixation de l’oxygène sur NADH +H+  couple provenant du Cycle de Krebs et dont l‘énergie produite permettra de synthétiser l’ATP",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Oxydases de la famille des isoenzymes du Cytochrome P450,  CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce sont des Hémoprotéines: Protéine + groupement prosthétique Héme avec Fer ferrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Structure analogue à celle de l’Hémoglobine qui possède aussi des propriétés enzymatiques. Propriétés peroxydasiques=> décomposition de l’eau oxygénée, réaction qui était mise en œuvre pour  la recherche du sang dans les selles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chaine polypeptidique:  Masse moléculaire 45 à 60 KD",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La diversité des isoenzymes est traduite par la diversité des structures primaires peptidiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Héme est situé près de l’extrémité C terminale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le centre actif de l’enzyme est situé près de l’extrémité N terminale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les CYP450 sont des enzymes ubiquitaires mais  sont particulièrement abondants dans le parenchyme hépatique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Face Proximale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Face Distale Domaine Hydrophobe",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Centre actif de l’enzyme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Héme groupement prosthétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Protéine Chaine poly- peptique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Masse moléculaire 45 à 60 KD",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Représentation schématique de l’enzyme  Cytochrome P450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Thien-An-Nguyen Thèse  Paris VII 29/10/2007",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C terminal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "N terminal",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Métabolisme enzymatique des médicaments.  Elimination hépatique.  Elimination rénale",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Oxydases de la famille des isoenzymes du Cytochrome P450,  CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Les CYP450 sont dits auto-oxydables car ils fixent directement l’Oxygène et l’Oxyde de Carbone. Ce dernier  en limite le fonctionnement » (Pr E. Milgrom)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour les substrats endogènes la sélectivité  de l’enzyme impliquée est stricte:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "spécificité pour un substrat donné.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les différentes familles des isoenzymes sont classées en fonction de l’homologie de la séquence peptidique: exemple CYP450 3A4",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "similitude >40% pour constituer une famille    \t\t  Chiffre 3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "similitude >55% pour constituer une sous-famille  Lettre\tA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "identification de l’enzyme        \t\t  Chiffre 4",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les réactions catalysée sont:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oxydation, Hydroxylation, Epoxydation, Déalkykation oxydative, Désamination oxydative",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Mécanisme simplifié de l’oxydation d’une molécule médicamenteuse par la monooxygénase CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Électrons apportés par enzyme  CYP-Oxydoréductase ayant  le NADPH pour coenzyme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "imité et modifié d’après L Z Benet in Goodman and Gilman’s IX Ed",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hème",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Chaine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "protéïque",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "oxydé",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "CYP 450 et dégradation des médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Estimation  de la répartition des CYP 450 dans le parenchyme hépatique humain",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Thien-An-Nguyen Thèse  Paris VII 29/10/2007",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Estimation du pourcentage de médicaments dégradés lors de réactions catalysées par les isoenzymes de la famille du CYP 450",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CYP 450 et dégradation des médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CYP450 catalysent 95 % des réactions de dégradation des xénobiotiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Isoenzymes de la famille du Cytochrome P 450:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Statut des Psychotropes: Substrats, Inhibiteurs Inducteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Importance pour la Prescription",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CNS SPECTRUMS AUGUST 2009: VOL 14, NO 8",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mathis A. Thèse Pharmacie Nancy 31/08/2012",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CHU de Genève Centre d’informations thérapeutiques et de pharmacovigilance Service de pharmacologie et toxicologie cliniques, Hôpitaux Universitaires de Genève, 1211 Genève 1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Nous donnons quelques références , accessibles par internet, parmi les très nombreux articles et revus générales qui traitent ce sujet",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Anxiolytiques et Hypnotiques  et statut face aux isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les isoenzymes CYP 450 catalysant le métabolisme du Bromazépam ne sont pas précisés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Oxazépam et le Lorazépam ne sont pas des substrats de ces isoenzymes",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  1A2",
+              "CYP 450  2C9",
+              "CYP 450  2C19",
+              "CYP 450  2D6",
+              "CYP 450  3A4"
+            ],
+            [
+              "Alprazolam",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ],
+            [
+              "Clobazam",
+              "",
+              "",
+              "Substrat",
+              "",
+              "Substrat"
+            ],
+            [
+              "Clonazépam",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ],
+            [
+              "Diazépam",
+              "",
+              "",
+              "Substrat",
+              "",
+              "Substrat"
+            ],
+            [
+              "Midazolam",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ],
+            [
+              "Zopiclone",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ],
+            [
+              "Zolpidem",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ],
+            [
+              "Buspirone",
+              "",
+              "",
+              "",
+              "",
+              "Substrat"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Antidépresseurs   « modernes »  et statut face aux isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  1A2",
+              "CYP 450  2C9",
+              "CYP 450  2C19",
+              "CYP 450  2D6",
+              "CYP 450  3A4"
+            ],
+            [
+              "Agomélatine",
+              "Substrat",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Citalopram",
+              "",
+              "",
+              "Substrat",
+              "Substrat  Inh-faible",
+              ""
+            ],
+            [
+              "Duloxétine",
+              "",
+              "",
+              "",
+              "Substrat Inhibiteur",
+              ""
+            ],
+            [
+              "Escitalopram",
+              "",
+              "",
+              "",
+              "Substrat",
+              ""
+            ],
+            [
+              "Fluoxétine",
+              "",
+              "Substrat Inhibiteur",
+              "Substrat Inhibiteur",
+              "Substrat Inhibiteur",
+              "Substrat"
+            ],
+            [
+              "Fluvoxamine",
+              "Substrat Inhibiteur",
+              "",
+              "Inhibiteur",
+              "Substrat Inhibiteur",
+              "Inhibiteur"
+            ],
+            [
+              "Miansérine",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Mirtazapine",
+              "Substrat",
+              "",
+              "",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Milnacipran",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Paroxétine",
+              "Substrat Inhibiteur",
+              "",
+              "",
+              "Substrat Inhibiteur",
+              ""
+            ],
+            [
+              "Sertraline",
+              "",
+              "Substrat",
+              "Substrat",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Venlafaxine",
+              "",
+              "",
+              "",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Vortioxétine",
+              "",
+              "Substrat",
+              "Substrat",
+              "Substrat",
+              "Substrat"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Antidépresseurs imipraminiques  et statut face aux isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  1A2",
+              "CYP 450  2C9",
+              "CYP 450  2C19",
+              "CYP 450  2D6",
+              "CYP 450  3A4"
+            ],
+            [
+              "Amitriptyline",
+              "Substrat",
+              "Substrat",
+              "Substrat",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Clomipramine",
+              "Substrat",
+              "",
+              "Substrat",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Imipramine",
+              "Substrat",
+              "",
+              "Substrat",
+              "",
+              "Substrat"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Neuroleptiques classiques et statut face aux isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  1A2",
+              "CYP 450  2D6",
+              "CYP 450  3A4"
+            ],
+            [
+              "Chlorpromazine",
+              "Substrat",
+              "Inhibiteur",
+              ""
+            ],
+            [
+              "Fluphénazine",
+              "Substrat",
+              "Inhibiteur",
+              ""
+            ],
+            [
+              "Halopéridol",
+              "Substrat",
+              "Inhibiteur",
+              "Substrat"
+            ],
+            [
+              "Lévomépromazine",
+              "",
+              "Inhibiteur",
+              ""
+            ],
+            [
+              "Loxapine",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Pimozide",
+              "Substrat",
+              "Inhibiteur",
+              "Substrat"
+            ],
+            [
+              "Zuclopenthixol",
+              "",
+              "Substrat",
+              ""
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Antipsychotiques et statut face aux isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  1A2",
+              "CYP 450  2D6",
+              "CYP 450  3A4"
+            ],
+            [
+              "Amisulpride",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Aripiprazole",
+              "",
+              "Substrat",
+              ""
+            ],
+            [
+              "Clozapine",
+              "Substrat",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Olanzapine",
+              "Substrat",
+              "Substrat",
+              ""
+            ],
+            [
+              "Palipéridone",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Quétiapine",
+              "",
+              "Substrat",
+              "Substrat"
+            ],
+            [
+              "Rispéridone",
+              "",
+              "Substrat",
+              "Substrat"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Médicaments du Système Nerveux Central inducteurs de la biosynthèse  des isoenzymes de la famille du Cytochrome P 450",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "CYP 450  3A4"
+            ],
+            [
+              "Carbamazépine",
+              "Inducteur"
+            ],
+            [
+              "Phénobarbital",
+              "Inducteur"
+            ],
+            [
+              "Phénytoïne",
+              "inducteur"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pouvoir inhibiteur  du CYP450 3A4 des composés du jus de « pamplemousse »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il s’agit plutôt du jus de Pomelo Citrus paradisi  :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Obtenu aux Antilles par  croisement de Citrus maxima véritable pamplemousse, originaire d’Asie ayant peu de vertus alimentaires, et de l’oranger Citrus sinensis",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition du métabolisme pré- systémique si des  réactions sont  catalysées par le CYP 450 3A4 dans la muqueuse de l’intestin grêle.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Augmentation de la quantité de médicament biodisponible: risque d’augmentation des effets indésirables.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Jus de pamplemousse du commerce (contient une partie de l’écorce et du mésocarpe où se trouvent les flavones  la naringine et les coumarines)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Peu de risque avec le jus fraichement pressé à la maison »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mathis A. Thèse Pharmacie Nancy 31/08/2012",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pouvoir inhibiteur  du CYP450 3A4 des composés du jus de « pamplemousse »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Psychotropes dont le métabolisme peut être affecté.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mathis A. Thèse Pharmacie Nancy 31/08/2012",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "",
+              "Précautions d’emploi",
+              "Déconseillée",
+              "Contre-indication"
+            ],
+            [
+              "Buspirone",
+              "",
+              "",
+              "X"
+            ],
+            [
+              "Carbamazépine",
+              "",
+              "X",
+              ""
+            ],
+            [
+              "Clomipramine",
+              "",
+              "X",
+              ""
+            ],
+            [
+              "Fluoxétine",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Fluvoxamine",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Sertraline",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Diazépam",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Midazolam",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Zopiclone",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "Pimozide",
+              "",
+              "X",
+              ""
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}

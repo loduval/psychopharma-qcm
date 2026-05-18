@@ -1,0 +1,1201 @@
+{
+  "fichier": "VII. Les modèles animaux. Dr Noble.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 27,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Apports des modèles animaux en psychopharmacologie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dr Florence Noble, PhD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CNRS ERL 3649 Pharmacologie et thérapies des addictions",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inserm UMR1124, T3S",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Université Paris Descartes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "florence.noble@parisdescartes.fr",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Plan",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux pour étudier les addictions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux d’anxiété",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Plan",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux pour étudier les addictions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux d’anxiété",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Définition",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Définition du Modèle animal :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(American National Research Council Committee on Animal Models for Research and Aging)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En recherche biomédicale, un modèle animal est un modèle permettant:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’étude des données de référence sur la biologie ou le comportement,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’étude d’un processus pathologique spontané ou induit, celui-ci ayant un ou plusieurs aspects communs avec un phénomène équivalent chez l’homme.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Critères de validité d’un modèle animal:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Validité de prédiction (predictive validity): La réponse aux traitements du modèle animal doit être similaire à celle de la pathologie humaine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Isomorphisme des symptômes (face validity): Le modèle animal doit présenter des symptômes identiques à ceux de la pathologie humaine, malgré les différences anatomiques, physiologiques, …",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Validité de construction (construct validity): La connaissance des mécanismes du modèle et de la pathologie permet une comparaison qui s’affine avec l’utilisation du modèle.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pas de modèle parfait:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C’est avec l’expérience qu’un modèle démontre sa pertinence et son analogie avec l’atteinte pathologique humaine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nécessité d’adapter le modèle au cours du temps",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nécessité d’utiliser plusieurs modèles qui se complètent pour une pathologie complexe comme les maladies psychiatriques.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Plan",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux pour étudier les addictions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux d’anxiété",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "CRITÈRES DIAGNOSTIQUES",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Classification Internationale des Maladies (CIM-11, OMS)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Manuel Diagnostique et Statistique des troubles mentaux (DSM-5, American Psychiatric Association )",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "CRITÈRES DIAGNOSTIQUES",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Utilisation d’une seule et même substance sur une période de 12 mois",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Score",
+              "Degré\nd’addiction"
+            ],
+            [
+              "< 2",
+              "Absence d’addiction"
+            ],
+            [
+              "De 2 à 3",
+              "Légère"
+            ],
+            [
+              "De 4 à 5",
+              "Modérée"
+            ],
+            [
+              "≥ 6",
+              "Sévère"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "DSM-5"
+            ],
+            [
+              "1. La substance est souvent prise en quantité plus importante ou pendant une période plus prolongée que prévu"
+            ],
+            [
+              "2.   Il existe un désir persistant ou des efforts infructueux, pour diminuer ou contrôler l'utilisation de cette substance"
+            ],
+            [
+              "3. Beaucoup de temps est passé à des activités nécessaires pour obtenir la substance, utiliser la substance ou récupérer de ses effets"
+            ],
+            [
+              "4. Il existe un craving ou une envie intense de consommer la substance"
+            ],
+            [
+              "5.   L'utilisation répétée de la substance conduit à l'incapacité de remplir des obligations majeures, au travail, à l'école ou à la maison"
+            ],
+            [
+              "6. Il existe une utilisation de la substance malgré des problèmes interpersonnels ou sociaux, persistants ou récurrents, causés ou exacerbés par les effets de la substance"
+            ],
+            [
+              "7. Des activités sociales, occupationnelles ou récréatives importantes sont abandonnées ou réduites à cause de l'utilisation de la substance"
+            ],
+            [
+              "8. Il existe une utilisation répétée de la substance dans des situations où cela peut être physiquement dangereux"
+            ],
+            [
+              "9.   L'utilisation de la substance est poursuivie bien que la personne sache avoir un problème psychologique ou physique persistant ou récurrent susceptible d'avoir été causé ou exacerbé par cette substance"
+            ],
+            [
+              "10. Il existe une tolérance"
+            ],
+            [
+              "11. Il existe un sevrage"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Très nombreux modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur les effets positifs des drogues",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur les effets négatifs des drogues",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur l’escalade des doses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles de rechute",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Très nombreux modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur les effets positifs des drogues",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Auto-administration (i.v., p.o., simple, PR…)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préférence de place conditionnée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur les effets négatifs des drogues",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sevrage",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Aversion de place conditionnée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles basés sur l’escalade des doses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Auto-administration (i.v., p.o., simple, PR…)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préférence de place conditionnée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèles de rechute",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Auto-administration",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Préférence de place conditionnée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Préférence de place conditionnée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "PRE-TEST  20 min",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "TEST 20 min",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "CONDITIONNEMENT  30-45 min",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Drogue",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Saline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Jour 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Jour 2 à 4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Matin",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Après-midi",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Jour 5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Auto-administration intraveineuse de drogue",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Insertion du cathéter dans la veine jugulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cage opérante",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "MODÉLISATION ANIMALE DE LA TRANSITION ENTRE USAGE ET ADDICTION",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C'est un modèle de transition entre consommation modérée et consommation excessive",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Modèle ShA/LgA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L'accès prolongé ou restreint aux drogues affecte la modalité de consommation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Protocole d'auto-administration intraveineuse de drogue",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ShA (Short access, 1h): prise de drogue limitée et stable",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LgA (Long access, 6h ou plus):   prise de drogue excessive et compulsive",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Grimm, Nature, 2001",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "J1   J2      J4        J7            J15               J29                          J60",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "MODÈLE ANIMAL DE L’INCUBATION DU CRAVING",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Abstinence forcée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Auto-administration",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "intraveineuse de cocaïne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "J20",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les rats augmentent leur recherche de drogue au cours du temps",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Protocole d'auto-administration: modèle ShA/LgA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "LgA (Long access) =   prise de drogue excessif et compulsive",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "MODÉLISATION ANIMALE DE LA TRANSITION ENTRE USAGE ET ADDICTION",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vanderschuren and Ahmed, Cold Spring Harb Perspect Med., 2013",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "CRITÈRE DU DSM-5",
+              "Équivalent comportemental"
+            ],
+            [
+              "1. Utilisation plus prolongée que prévu",
+              "Contrôle altéré, déficits neurocognitifs"
+            ],
+            [
+              "2 and 4. Craving, difficulté à diminuer la prise",
+              "Résistance à l'extinction, craving"
+            ],
+            [
+              "3 and 5. Beaucoup de temps est passé à des activités dédiées à la substance",
+              "Augmentation de la motivation pour la drogue"
+            ],
+            [
+              "7. Autres activités abandonnées",
+              "Préférence de drogue par rapport aux autres récompenses"
+            ],
+            [
+              "8 and 9. Utilisation continue malgré des problèmes",
+              "Résistance à la punition"
+            ],
+            [
+              "10 and 11. Tolérance, sevrage",
+              "Tolérance, escalade de la consommation de drogue"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Plan",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux pour étudier les addictions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles animaux d’anxiété",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Psychobiologie des Emotions :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Modèles Animaux des Pathologies Anxieuses",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les pathologies Anxieuses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Stress Post Traumatique (PTSD)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Phobies",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Les attaques de Panique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Les Troubles Obsessionnels Compulsifs (TOC)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Anxiété généralisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Anxiété : Sentiment d’inquiétude, d’insécurité, de trouble physique ou psychique, d’attente d’un danger indéterminé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Comment mesurer cette anxiété chez l’animal ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Modélisation de l’anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exposition à la nouveauté (réponse non conditionnée) ou bien à une situation préalablement renforcée négativement (réponse conditionnée).",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": "Par commodité de langage, on utilise souvent l’expression : modèles animaux d’anxiété, alors qu’il s’agit le plus souvent de situations dans lesquelles seule la variable comportementale est mesurée. Notons également qu’il s’agit de comportements normaux, observés dans leurs manifestations les plus exacerbées, et non pas de phénomène pathologiques, lesquels se caractérisent par la chronicité de l’anxiété. Il faudrait donc parler de tests de comportements de type anxieux, plutôt que de modèles d’anxiété. Il existe différents tests: certains sont basés sur la nouveauté, avec des réponses spontanées, et d’autres sur des réponses conditionnée avec des renforcements négatifs. Dans les 2 situations il existe un danger potentiel."
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Modélisation de l’anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exposition à la nouveauté (réponse non conditionnée) ou bien à une situation préalablement renforcée négativement (réponse conditionnée).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’openfield (champ ouvert)  été le premier modèle mis en place chez le rat (1934), puis développé chez la souris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "L’open field face aux critères de validité d’un modèle animal ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Validité de prédiction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Bonne réponse générale aux anxiolytiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Notamment les benzodiazépines augmentent l’exploration",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Isomorphisme des symptômes anxieux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Physiologie : Défécation, axe corticotrope, monoamines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Comportement : Immobilité, toilettage",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Validité de construction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Nouveauté",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Lumière",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Milieu ouvert",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le Labyrinthe en Croix Surélevé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bras ouverts",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bras fermés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Variables comportementales classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Temps passé et Entrées dans les bras ouverts et les bras fermés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Le temps passé au centre",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Redressements",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Défécations",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Validité de prédiction :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bonne réponse générale pour ces différentes variables avec des médicaments:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Les benzodiazépines augmentent le temps dans les bras ouverts",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Des composés anxiogéniques le réduise",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Problèmes de mesure/d’interprétation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "pour ces variables",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets sédatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Les benzodiazépines réduisent la locomotion générale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effets excitants",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Les amphétamines augmentent la locomotion générale et par conséquent le nombre d’entrées dans les bras ouverts",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Faux positifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Antagonistes CCKB ou 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Faux négatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "• Exemple de la Buspirone, agoniste partiel des récepteurs 5HT1A qui possède des effets cliniques anxiolytiques mais qui ne sont pas détectés sur le Labyrinthe en Croix Surélevé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Peut-on utiliser d’autres variables?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Variables « éthologiques »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Latence de 1ère entrée dans un bras ouvert",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Nombre de retours en bras fermé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "• Nombre de postures étirées (Stretched Attend Postures)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Meilleur reflet du conflit",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Approche / Evitement ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Certainement car l’effet de la",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Buspirone est détecté",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Anxiété d’état vs. Anxiété de trait",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Labyrinthe en Croix surélevé : Anxiété d’état",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Anxiété liée à une situation ponctuelle dans laquelle se trouve le sujet. Ce processus anxieux est « normal »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Anxiété de trait : Anxiété constitutive d’un sujet. Elle est",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "permanente et indépendante d’une situation particulière. Ce",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "processus anxieux est « pathologique »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Comment mesurer l’anxiété de trait chez les rongeurs ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Le test d’exploration libre",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Variables comportementales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Latence d’entrée dans le compartiment nouveau",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombre de postures étirées  avant la première entrée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Temps passé dans le compartiment nouveau",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Locomotion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombre de retours dans le compartiment nouveau",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Situation « libre » pour l’animal.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’exposition à la nouveauté dans ce contexte ne provoque pas une libération de corticostérone comme dans les tests d’exposition forcée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si on empêche l’animal de retourner",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "librement dans le compartiment de départ il y a de nouveau libération d’hormone du stress.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Une anxiété de trait se caractérise par:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fort temps passé dans le compartiment familier",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Faible temps d’exploration du compartiment nouveau",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombreuses postures étirées avant d’entrer dans le compartiment nouveau",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le test d’exploration libre",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pour résumer:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il n’est pas toujours facile d’avoir de bons modèles animaux (reproductibles, prédictifs, perfectibles…)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En particuliers pour les maladies psychiatriques on modélise différents aspects de la pathologie.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En associant des études de biologie moléculaire, cellulaire, de biochimie, d’imagerie, ces modèles permettent de mieux comprendre la neurobiologie des pathologies étudiées (facteurs de vulnérabilités, maintien des comportements, rechutes…)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

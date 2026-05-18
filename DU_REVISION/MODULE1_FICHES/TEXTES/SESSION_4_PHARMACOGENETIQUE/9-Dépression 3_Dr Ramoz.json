@@ -1,0 +1,612 @@
+{
+  "fichier": "9-Dépression 3_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 15,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 9 Ramoz – Depression 3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 9 Ramoz – Dépression 3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et Pharmacoépigénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions générales",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perspectives : médecine de précision / médecine personnalisée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépression et Pharmacoépigénétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Mécanismes épigénétiques: Méthyation ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La méthylation de l’ADN réprime l’expression de gènes dans 75% des cas",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "DNMT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "TET enzymes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADN Hyperméthylé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Me",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ADN hypométhylé",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Expression de gènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ARN",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traduction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protéine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répression du gène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ARN",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traduction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Protéine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Long RNAs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dégradation de l’ARN du gène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répression de l’expression",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mécanismes épigénétiques : microARN/mirRNA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Traitement médicamenteux, dépression et effets épigénétiques.1",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Fluoxétine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sensibilité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "À la Fluoxétine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Traitement médicamenteux, dépression et effets épigénétiques.2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "14 MDD & 11Cont",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "BA44 MDD ↓ miR-1202",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Expression miR-1202",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Surexprimé cerveau",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "miR-1202 augmente si Antidep",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Replication",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "25MDD, 25MDD+A, 29C",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "miR-1202 inhibe + gènes surexprimés dans MDD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Traitement médicamenteux, dépression et effets épigénétiques.3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pas d’effet AD en aigu 24h",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effet AD en chronique 15J",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18C, 16 nonrépondeurs & 16 remissions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "miR-1202 biomarqueur de la réponse à un antidépresseur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions générales",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Conclusions",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La réponse pharmacologique dépend de nombreux facteurs, dont des spécificités cliniques, génétiques et épigénétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La PGx en psychiatrie peut aider à comprendre la vulnérabilité génétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La PGx est une forme d’endophénotype",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’évaluation clinique sera toujours nécessaire et complémentaire à la PGx",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Perspectives : médecine de précision / médecine personnalisée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Interactions gènes, environnements, épigénétiques, soins, traitements et pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Gènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépression",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Epigénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Facteurs environnementaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réponse aux soins et traitements",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Soins/Traitements",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacogénétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Il existe des gènes et des « épigènes » de la dépression et certains sont les cibles des traitements",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Perspectives : médecine de précision / médecine personnalisée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Population générale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Diagnostic:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "clinique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Outils Omics",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Patients",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Santé mentale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitement spécifique adapté",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biomarqueurs spécifiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de chaque trouble",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médecine de précision",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitement médicamenteux adapté",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médecine Personnalisée",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

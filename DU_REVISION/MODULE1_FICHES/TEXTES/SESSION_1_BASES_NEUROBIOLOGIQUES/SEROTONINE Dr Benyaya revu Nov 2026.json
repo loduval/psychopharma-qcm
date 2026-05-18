@@ -1,0 +1,4989 @@
+{
+  "fichier": "SEROTONINE Dr Benyaya revu Nov 2026.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 90,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph Benyaya",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10/2025",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5-HydroxyTryptamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine: facteur tonique du sérum en référence à ses propriétés vasoconstrictrices .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Monoamine primaire indolique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "OH => hydrophilie  => pas de passage  de la Barrière hémato- encéphalique (BHE )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Précurseur : aminoacide essentiel  Tryptophane [Try] transport actif à travers BHE. Try en compétition avec phénylalanine,  méthionine, leucine pour le passage de la BHE.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*(comme tous les médiateurs de la périphérie, car alors les régulations centrales, ne seraient plus possibles à cause de l’ excès de substrat )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noyau indole",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biosynthèse/Dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tryptophane",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Action d’une hydroxylase  =>5 hydroxy-Tryptophane",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Action d’une décarboxylase  => 5 Hydroxy Tryptamine   5 HT.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La tryptophane hydroxylase est synthétisée et transportée dans les terminaisons axonales. Dans le soma, elle est  inhibée par la parachloro-phénylalanine [PCPA ] et  la parachloro-amphétamine .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activité de l’enzyme augmentée par la « mise à feu »  des neurones 5HT.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activité de l’enzyme réduite  par activation des autorécepteurs présynaptiques 5HT1A.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stokage : vésicules présynaptiques. Capture à partir du cytoplasme par transporteur couplé à ATP/ATPase/ pompe à  protons [inhibé par Réserpine].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Libération sous influence d’un courant calcique [activée par fenfluramine].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biosynthèse/Dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recapture à partir du milieu extracellulaire par transporteur [protéine à 12 domaines transmembranaires couplés à ATP.  ATPase [pompe Na+, K+] : 50% d’homologie avec le transporteur NA ou DA [recapture inhibée par Clomipramine et ISRS].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dégradation par MAO A => acide 5 hydroxy indole acétique 5HIAA  [marqueur central, dans le LCR, du métabolisme de la 5 HT ] .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "MAO monoamine-oxydase; Na NorAdrénaline DA Dopamine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Découverte",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recherches sur les principes actifs d’origine tissulaire animale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-identification dans la muqueuse intestinale d‘une substance indolique  produite par les cellules entéro-chromaffines de l’intestin grêle. Extrait acétonique => contraction des muscles lisses    ʺEntéramineʺ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Recherches sur les causes de l’hypertension artérielle:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Sang défibriné => sérum => mise en évidence de propriétés vasoconstrictrices  =>  isolement de  la ʺSérotonineʺ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Détermination de la structure et synthèse de la Sérotonine.   Sérotonine = Entéramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "PM Whitaker-Azmitia , Neuroropsychopharmacology, 1999",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On parlait à l’époque de substances autacoïdes =  substances endogènes à rôle de messagers sécrétées  par des cellules autres que les neurones et agissant près de leur lieu de production sur des cellules proches(« hormones locales ») Dictionnaire des sciences pharmaceutiques et biologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Démonstration précoce de la  présence cérébrale de la Sérotonine(1957)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Administration de réserpine à des lapins",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réserpine agent dépléteur de vésicules de stockage des mono amines",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Evolution des concentrations en Réserpine et en Sérotonine dans le parenchyme cérébral de lapin(microgrammes par gramme de tissu",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réserpine I.V=  5mg/Kg",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après G. Valette",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Précis de Pharmacodynamie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Masson,1973",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voies de la transmission centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Somas des neurones 5HT : regroupés dans la substance grise médiane centrale de la calotte du tronc cérébral, au sein de la formation réticulée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Partie contenant ces noyaux : Raphé [aspect de 2 parties cousues].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Raphé :du bulbe au mésencéphale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurones 5HT issus de ces noyaux:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voies descendantes innervant le  Bulbe, Moelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voies ascendantes innervant : Cervelet,  Locus Niger, Axe Hypothalamo-Hypophysaire, Corps  \tStriés Striatum ,Système limbique et Cortex",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voies de la transmission centrale chez le chat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après  A. Consolazione , simplifié",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voies de la transmission centrale homme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après   B. & A. Greenstein , simplifié",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Caractéristiques du système sérotoninergique cérébral",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "250 000 neurones parmi les 1011  neurones cérébraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Arborisation terminale extrêmement importante  10 6  /  neurones",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Origine: Noyaux du raphé             Innervation de tout le névraxe",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Contrôle par voies descendantes (cortex hypothalamus)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "par voies ascendantes    (Locus Coeruleus )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Décharges neuronales toniques régulières 1cycle/seconde",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activité dépendante du cycle veille /sommeil: cessation d’activité pendant le sommeil paradoxal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurones très sensibles à l’activité auto-inhibitrice due à l’activation des récepteurs 5HT1A présynaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "14 récepteurs post synaptiques différents",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Noyaux du Raphé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Artigas F., Serotonin receptors involved in antidepressant effects. Pharmacol. Ther. 2013 ,137:119-31.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activités physiologiques et effets thérapeutiques : implication de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activités physiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comportement agressif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activité sexuelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nociception",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prise alimentaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rythme veille sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thermorégulation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles mentaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-dépression de l’humeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-anxiété",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-psychoses(?)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-   » suicidalité »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles somatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-nausée vomissements",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-migraines",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=> Différents types de récepteurs <=",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Multiples Actions Différentes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Différents types de récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "<=",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rapport dialectique effets/ récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "devient un",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "!!",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le Docteur Faust et Méphistophélès",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’épineuse question de la diversité des récepteurs  Sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Techniques  extrêmement complexes :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "immunochimie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "biologie moléculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sélection d’ADN à partir de banques d’ Acides Nucléiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "clonage des récepteurs dans diverses souches de cellules",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "séquençage peptidique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "récepteur canal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1  5HT2  5HT4  5HT5  5HT6  5HT7",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "7domaines transmembranaires",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "couplage protéine G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "7 familles de récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Représentation schématique  d’un récepteur sérotoninergique 5HT à 7 domaines protéiques  transmembranaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "[enchaînement peptidique de plusieurs centaines d’aminoacides]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Couplage Protéine G:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gi: inhibition Adénylate cyclase",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "pas d’AMPc formé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gs: Activation Adénylate cyclase",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "AMPc formé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gq: activation Phospholipase C",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inositol triphosphate IP3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "et Di Acyl Glycérol  DAG formés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Représentation schématique du récepteur canal  sérotoninergique 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Modulation allostérique: sites agonistes et sites allostériques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Activation: dépolarisation rapide due à perméabilité aux ions [Na+ et K+]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Similitude de  séquences peptidiques des sous-unités avec celles du:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur nicotinique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur GABA A.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5 sous-unités protéiques transmembranaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur 5HT3 et récepteur  nicotinique :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Similitude de comportement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Analogie structurale et médicaments sérotoninergiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibiteur de la recapture: Indalpine*, antidépresseur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste 5HT3: Ondansétron , anti-vomitif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agoniste 5HT1B:  Sumatriptan, anti-migraineux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Indalpine, Upstène®: antidépresseur ISRS , très prescrit en France au début de la décennie 1980;retrait en 1987",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agranulocytose(1985,  La Presse Médicale )",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "ʺL’élégance du « drug design » fondé sur l’analogie structuraleʺ(  J.B.)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "19",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Analogie structurale et médicaments sérotoninergiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibiteur de la recapture: Indalpine*, antidépresseur   Antagoniste 5HT3: Ondansétron , anti-vomitif,   Agoniste 5HT1B:  Sumatriptan, anti-migraineux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "20",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "récepteurs  Sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Sérotonine a plus d’affinité pour les récepteurs 5HT1 que pour les récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "21",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Présence en haute densité: récepteurs largement distribués dans le S.N.C.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Système Limbique: Hippocampe ;Amygdale; Septum Lucidum",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Néocortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothalamus",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition de l’Adénylate Cyclase => AMPc non formé (postsynaptique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Electrophysiologie:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Action sur les hétéro-récepteurs(portés par les neurones non sérotoninergiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hyperpolarisation cellulaire par  augmentation de la conductance potassique(postsynaptique)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Action sur les auto-récepteurs(portés par les neurones sérotoninergiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Inhibition de la mise à feu du neurone par activation des récepteurs somato-\tdendritiques(présynaptiques) ,inhibition de la libération de 5HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "22",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "23",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs largement distribués dans le S.N.C.  (Haute densité)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Système Limbique: Hippocampe ;Amygdale; Septum Lucidum",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Néocortex",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothalamus",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "24",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pour expliquer le rôle des récepteurs 5HT1A ,nous avons choisi, par commodité, la voie pharmacodynamique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On passera sous silence la sécrétion de Dopamine dans le  striatum et le cortex préfrontal chez l’animal, provoquée par l’administration d’agonistes synthétiques de ces récepteurs, de médicaments tels que la Clozapine et  l’Aripiprazole. D’après ce que nous avons compris, le mécanisme en est mal élucidé, étant donnée l’inhibition de la mise à feu des neurones porteurs de ces récepteurs post-synaptiques …",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Agonistes et agonistes partiels: 5HT1A  post-synaptiques. Activité anxiolytique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Anxiolytiques : Buspirone; Gépirone; Ipsapirone",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Test du labyrinthe en croix surélevé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Seule la Buspirone possède une A.M.M. en France",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "25",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "voir vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Test du labyrinthe en croix surélevé",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "26",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le labyrinthe en croix surélevé est un test communément utilisé pour l'évaluation des comportements liés à l'anxiété chez les animaux de laboratoire (rats et souris).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Reposant sur la peur naturelle des rongeurs pour les espaces ouverts et en hauteur, le Labyrinthe en Croix Surélevé est un outil de recherche général dans le domaine de l'anxiété neurobiologique, et est couramment utilisé pour le screening et l'évaluation des substances et anxiolytiques, qui réduiront cette peur.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "J.B.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Définition d’après Bioseb, avec son aimable autorisation- voir Dia n°38",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Agoniste expérimental 5HT1A  post-synaptique  8 OH-DPAT:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "mime ,chez l’animal, les effets des antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Test de la nage forcée de Roger Porsolt",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "27",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "voir vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Test de la nage forcée de Roger Porsolt",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "28",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce test, de  « désespoir comportemental », est utilisé pour le « screening » de  composés pouvant être antidépresseurs et anxiolytiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les rongeurs non-dépressifs (rats ou souris), même lorsqu'ils sont incapables de s'échapper de cylindres à moitié remplis d'eau, vont essayer de nager et de lutter pour  s’en échapper.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les rongeurs dépressifs vont cesser d'essayer plus tôt que les rongeurs non-dépressifs, et commencer à flotter dans les cylindres, démontrant un désespoir comportemental.Le temps de flottement ou d'immobilité durant le test de nage forcée est une indication précise des effets antidépresseurs et anxiolytiques putatifs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "J.B.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Définition d’après Bioseb, avec son aimable autorisation- voir Dia n°38",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5HT1A  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Antagonistes 5HT1A pré-synaptique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pindolol ( adjuvant du traitement par les ISRS) ;évite le délai de désensibilisation des récepteurs 5HT1A. Cette  désensibilisation   est nécessaire à la reprise de libération de sérotonine, qui verra sa recapture inhibée par le médicament et ainsi  donnera la pleine mesure de son effet thymoanaleptique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "29",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1B  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition de l’Adénylate Cyclase => AMPc non formé (post)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Electrophysiologie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inhibition des potentiels évoqués - hétéro-récepteurs (post)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hyperpolarisation cellulaire par  augmentation de la conductance potassique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(K+ sortant en grande quantité) (post)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Neurochimie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet  sur la sécrétion des neuromédiateurs  par les neurones porteurs de ces récepteurs:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5 HT: inhibition (autorécepteurs présynaptiques )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acétylcholine et Dopamine : inhibition de la libération (hétéro récepteurs présynaptiques)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "30",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1B  Récepteurs pré et post synaptiques et somato-dendritiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence en haute densité S.N.C:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Noyaux gris centraux Pallidum Locus Niger",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulations comportementales:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulation des comportements agressifs; activation 5HT1B=> effet agressolytique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypophagie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Motricité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes 5HT1B: périphérie= vasoconstriction des « shunts artérioveineux » centraux; action du",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sumatriptan ,antimigraineux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "31",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "32",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT1C et 5HT2A sont très proches",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "récepteurs  Sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tous ces récepteurs sont positivement couplés à la Phospholipase C membranaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Leur activation provoque l’entrée d’ions calcium Ca2+",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "et réduit la conductance potassique= pas de sortie d’ions K+ => dépolarisation",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "facilitée.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "33",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT2A Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Activation de la Phospholipase C: IP3 et DAG  = 2nd messagers",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Electrophysiologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Dépolarisation cellulaire facilitée par réduction de la conductance potassique(pas de K+ sortant) (post)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neurochimie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Libération des NM par les neurones porteurs de ces récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "34",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence en haute densité S.N.C:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex frontal; Noyau Accumbens (striatum ventral)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulations comportementales:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes 5HT2A  non sélectifs: LSD,  Psilocybine = Hallucinogènes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagoniste 5HT2 A  MDL 100 907: réactif pharmacodynamique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration à l’animal => protection contre les effets locomoteurs  de l’amphétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si défaut de 5HT(hypothèse sérotoninergique de la dépression): 5HT2A hypersensibles Traitement ISRS=> désensibilisation progressive des récepteurs =>sensibilité homéostatique retrouvée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Sérotonine, qui a aussi désensibilisé les récepteurs 5HT1A, va retrouver ainsi l’allure de croisière de son fonctionnement. Le Pindolol, inhibiteur des récepteurs béta adrénergiques « béta bloquant » ,inhibe aussi les R5 HT1A.L’étape de désensibilisation de ces récepteurs peut être ainsi évitée.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT2A Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "35",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT2B  Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation de la Phospholipase C: IP3 et DAG  = 2nd messagers",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Présence  dans le SNC: moins grande que celle des récepteurs 5HT2A et 5HT2C",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agoniste 5HT2B:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- se comporte comme un antidépresseur: test nage forcée (R. Porsolt) –temps de nage augmentée et temps     d’immobilité diminuée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- se comporte comme un anxiolytique (test interaction sociale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Injection agoniste 5HT2B dans l’ amygdale: temps d’interaction « sociale »  entre deux animaux*: augmenté proche de l’action du Chlordiazépoxide (benzodiazépine anxiolytique- Librium ® ). Agoniste 5HT2B",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation 5HT2B nécessaire à l’effet antidépresseur des ISRS",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Autre effet de l’activation des  récepteurs 5HT2B:  Hypophagie ; effet bloqué par la Cyproheptadine antagoniste 5HT2 non sélectif aux effets orexigènes bien connus (Périactine ® )",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "36",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "*voir vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "temps d’interaction « sociale »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "37",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "vignette pharmacodynamie animale expérimentale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le rat ou la souris va « explorer » librement un congénère inconnu, dans un environnement neutre.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« L’interaction sociale » est alors mesurée en prenant en compte le temps passé par l’animal à proximité de son congénère, ainsi que la durée et la fréquence de différents comportements caractéristiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "flairer sniffing , toiletter  grooming, combat entre les animaux, morsures etc..).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’étude de l’interaction sociale est largement utilisée  pour  évaluer des substances anxiolytiques putatives., qui vont augmenter ce temps.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Définition d’après Bioseb, image de Bioseb, avec son aimable autorisation- voir Dia n°38",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cages amovibles",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3 Chambres",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Commentaire audio voir dia 38",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "38",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bioseb est un grand  fabricant français, d'instruments de recherche pour l'étude expérimentale du comportement animal, de la douleur , du métabolisme.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vitrolles, Bouches du Rhône. Site Bioseb à consulter en ligne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Commentaire audio dia 37:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Inspiré de: Docteur François RUBY, E.N.V.A. Thèse 19/12/2024 U.P.E.C.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT2C  Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation de la Phospholipase C: IP3 et DAG  = 2nd messagers",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Localisation :plexus choroïdes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagonistes: effets mimant les effets des antidépresseurs chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "effets anxiolytiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets réducteurs de l’impulsivité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ISRS=>augmentation 5HTdans la  fente synaptique=>stimulation 5HT2C=> anxiété de début de traitement,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ensuite\t la désensibilisation progressive suit le cours de l’évolution de l’effet antidépresseur des ISRS",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "39",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT3  Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur canal: Canal cationique  Sodium",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Electrophysiologie:     Dépolarisation cellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurochimie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Libération des NM par les neurones porteurs de ces récepteurs:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5HT:     libération",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ACh:    inhibition de la libération",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GABA: libération",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DA:      libération       Activation 5HT3:  activation de la fonction dopaminergique     =>",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agonistes 5HT3: potentialisation de l’hyper-locomotion amphétaminique* chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Antagonistes 5HT3: inhibition de l’hyper-locomotion amphétaminique* chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*: injection amphétamine dans Noyau Accumbens",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "40",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT3  Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteur canal: Canal cationique  Sodium",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Seul récepteur monoaminergique associé à une transmission synaptique rapide.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "En agissant sur ce récepteur , la Sérotonine joue un rôle  de neurotransmetteur plutôt qu’un rôle de neuromédiateur modulateur.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "41",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes 5HT3:  inhibition du système de récompense dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "anti vomitifs (type Ondansétron)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "activité anxiolytique; activité antidépressive",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(essais thérapeutiques menés mais aucun médicament commercialisé )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Effet anxiolytique du au Blocage 5HT3=>  5HT va stimuler les récepteurs disponibles",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence en haute densité S.N.C:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Area Postréma (centre du vomissement plancher du 4éme ventricule)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Famille des récepteurs 5HT3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT3 Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "42",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 43,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2nd messager:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation Adénylate Cyclase => AMPc formé= second messager",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "inhibition du canal K+ voltage dépendant(donc fermeture, facilitation de la dépolarisation)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "facilitation entrée Ca2+",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Electrophysiologie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépolarisation cellulaire prolongée (post synaptique)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurochimie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Libération des NM par les neurones porteurs de ces récepteurs:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5HT;  ACh;  DA; :  libération augmentée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs 5HT4",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT4 Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "43",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 44,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présence S.N.C:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Noyaux gris centraux; Locus Niger ;Hippocampe; Noyau Accumbens (striatum ventral)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cortex (présence moindre)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Régulations comportementales:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agonistes: s’opposent aux effets amnésiant de la Scopolamine (animal)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "test nage forcée (R. Porsolt) –temps de nage augmentée et temps  d’immobilité   diminué",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antagonistes: effets anxiolytiques?( temps d’interaction sociale chez animal)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs 5HT4",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5HT4 Récepteurs  post synaptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "44",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 45,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "45",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs 5 HT 5, 5 HT 6, 5 HT 7",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Leur rôle physiologique, si ils en ont un, est peu ou pas connu",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "The American Psychiatric Association PublishingTextbook of Psychopharmacology, sixth edition, 2024,edited by A.F. Schatzberg and Charles B. Nemeroff Tome 1 Page:68",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "5 HT 5",
+              "Négativement couplé à l’Adénylate cyclase     inhibition de la formation du second messager  AMPc"
+            ],
+            [
+              "5 HT 6",
+              "Positivement couplé à l’Adénylate cyclase    Formation du second messager  AMPc"
+            ],
+            [
+              "5 HT 7",
+              "Positivement couplé à l’Adénylate cyclase    Formation du second messager  AMPc"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 46,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "46",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicament antidépresseur découvert par Lundbeck, commercialisé en France sous le nom de spécialité Brintellix®,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La formule structurale est relativement simple.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On retrouve un pharmacophore Phényl-Pipérazine, tel quel ou substitué, présent dans la structure de nombreux psychotropes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A bien y regarder ce pharmacophore est présent dans la structure de la Miansérine, sous forme métachlorée dans la Trazodone et sous forme dichlorée dans l’Aripiprazole et la Cariprazine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nous ne pensons pas qu’il s’agisse là de pures coïncidences…(observations personnelles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Vortioxetine, inhibiteur de la recapture de la sérotonine,  est entre autres, antagoniste des récepteurs 5 HT 3 et  5 HT 7 . Quelle en est la traduction clinique? La lecture de l’excellent article écrit par Connie Sanchez et ses collaborateurs ne nous a pas donné la réponse.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs 5 HT 5, 5 HT 6, 5 HT 7",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A propos de la Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sanchez C., Asin K.E., Artigas F., Pharmacol. And Ther.,2015,145,43-57   Cité par:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The American Psychiatric Association PublishingTextbook of Psychopharmacology, sixth edition, 2024,edited by A.F. Schatzberg and Charles B. Nemeroff Tome 1 Page:504",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 47,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "47",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A propos de la Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Miansérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trazodone",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 48,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "48",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Parenthèse:  à-propos du Pharmacophore Phényl-Pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Phényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méta Chloro Phényl-pipérazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Di Chloro Phényl-pipérazine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 49,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "49",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Miansérine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Trazodone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aripiprazole",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cariprazine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacophore Phényl-Pipérazine « dans tous ses états »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Miansérine, Trazodone :médicaments antidépresseurs .Aripiprazole et Cariprazine: médicaments antipsychotiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 50,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Récepteurs 5HT: Conclusion et interprétation personnelle (J. Benyaya)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il existe un corpus considérable de  travaux et de publications traitant des  7 familles de récepteurs sérotoninergiques. Quelques articles faisant des revues générales de ces travaux ont été consultés. Les résultats des travaux décrits  sont parfois contradictoires.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En dehors des récepteurs 5HT3 et de leurs antagonistes anti-vomitifs et des récepteurs 5HT1B et de leurs agonistes antimigraineux , les effets des agonistes et des antagonistes des autres récepteurs peuvent dérouter le lecteur.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si l’on fait l’hypothèse, certes réductrice, d’un dérèglement de la transmission sérotoninergique en tant que primum movens de certains troubles mentaux , le défaut de Sérotonine va conduire par rétrocontrôle positif à une sensibilisation des récepteurs. Les médicaments ISRS  arrivés dans la biophase*, augmentent la Sérotonine disponible dans l’espace synaptique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les récepteurs sont activés, ce qui peut entraîner une aggravation de la condition clinique des patients dans un premier temps.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Au cours du temps les récepteurs à nouveau activés vont être désensibilisés et retrouver une sensibilité adaptée et vont pouvoir recevoir l’agoniste naturel la sérotonine dans des conditions physiologiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ainsi les régulations sérotoninergiques vont atteindre une état homéostasique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*Biophase: compartiment théorique, lieu d’action du médicament sur son récepteur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Définition In Traité de Biopharmacie et de Pharmacocinétique , P.U Montréal et Editions Vigot",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "50",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 51,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Principaux articles consultés:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Artigas F. : Pharmacology and Therapeutics , 2013,137:119-131",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Barnes N.M., Sharp T.: Neuropharmacology ,1999,31:1108-1152",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Berg K.A. et al, in Textbook of Psychopharmacology,2024,APA 6th Edition,501-514.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Desfossés C. Y., Blier P. in Textbook of Psychopharmacology, 2024,APA 6th Edition,61-68. *",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nautiyal K.M., Hen R.: F1000 Research 09 February 2017;12 pages",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Polter A.M., Li X. :Cellular signalling ,2010,22:1406-1412",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sanchez C., Asin K.E., Artigas F., Pharmacol. And Ther.,2015,145,43-57. *",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Yohn C.N., Gergues M.M., Samuels B.A. :  Molecular Brain,2017,10:28 12 pages",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Documentation Tocris :        Peter J. Pauwels     5-HT Receptors and their Ligands,2003",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "51",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "* Vortioxetine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 52,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "52",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Répartition corporelle de la sérotonine totale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On voit ici l’importance de la Barrière Hémato-Encéphalique qui bloque le passage central des neuromédiateurs de la périphérie. Les régulations centrales  subtiles ne seraient alors impossible, étant donné l’excès de substrat.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Cellules Entéro-Chromaffines de l'intestin grêle",
+              "90 % de la sérotonine totale"
+            ],
+            [
+              "Plaquettes",
+              "8 % de la sérotonine totale"
+            ],
+            [
+              "Système Nerveux Central",
+              "1 % de la sérotonine totale"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 53,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets périphériques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vasodilatation post-prandiale, sécrétion pancréatique, hypermotricité, sécrétion d’eau et d’électrolytes. Activation du  centre du vomissement  [non protégé par la BHE],activation des  récepteurs  5HT3  de l’Area Postrema.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les plaquettes sont capables de capturer et de stocker la sérotonine. Lors de l’agrégation plaquettaire, temps  crucial de l’hémostase, la Sérotonine est libérée et contribue à une agrégation ultérieure et à consolider cette agrégation. (ISRS :plaquettes avec faible contenu en 5HT, car non capturée=> quelques troubles de l’hémostase)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Plaquettes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Voies digestives",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "53",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 54,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets périphériques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les actions cardiovasculaires, de la Sérotonine, sont complexes et dépendent de l’espèce animale, de l’état du tonus sympathique  et de la dose utilisée [dans le cadre de expérimentation animale ].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Sérotonine possède un effet vasoconstricteur sur les grosses artères et les veinules et un effet vasodilatateur sur  les artérioles. Chez le rat adulte spontanément hypertendu ou rendu hypertendu par ligature de l’artère rénale ou les corticostéroïdes, la  paroi des vaisseaux est très sensible à l’effet vasoconstricteur de la sérotonine. La Sérotonine a un effet inotrope positif. Elle exerce un effet vasoconstricteur sur les artères coronaires (effet malin car augmentation du travail du cœur nécessitant un apport d’oxygène, limité par l’effet constricteur sur les artères coronaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cœur et vaisseaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "54",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 55,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Sérotonine a longtemps été considérée comme le neuromédiateur du sommeil lent profond. On sait maintenant, qu’en  fonction des récepteurs activés et des aires cérébrales concernées, la Sérotonine prépare et déclenche le sommeil lent profond  ou a un effet anti-sommeil.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-5HT dans  les ventricules latéraux du chat • éveil puis sommeil prolongé.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-5HT dans 4ème ventricule du chat • EEG de sommeil.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Lésions des noyaux du raphé => éveil.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "-Inhibition de la biosynthèse de la 5HT [par la parachloro-phénylalanine]  éveil, abolition du sommeil lent profond",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "► insomnie inversée par le 5 hydroxy-tryptophane [précurseur de la  biosynthèse de la Sérotonine].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En général, les précurseurs de la biosynthèse* de la Sérotonine réduisent le temps d ’endormissement  et provoquent  une somnolence.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "55",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*5Hydroxy-Tryptophane 5HTP (Prétonine®)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 56,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les travaux de M. Jouvet ont montré que l’activité des neurones des noyaux du raphé, sérotoninergiques, était maximale  en période diurne.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En fait, cette Sérotonine produite dans la journée, prépare la sécrétion de \"l’hypnotoxine\" du soir qui  déclenchera le sommeil.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les antidépresseurs inhibiteurs  sélectifs de la recapture de la Sérotonine[ISRS] et la Clomipramine, réduisent la quantité de  sommeil  paradoxal des  sujets souffrant de dépression.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chez le chat, les ISRS augmentent l’éveil puis augmentent deux heures après l’administration,  le sommeil lent profond [sommeil à ondes lentes]",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’Ipsapirone ,agoniste 5HT1A réduit la quantité de sommeil paradoxal et augmente la durée du délai   de son apparition (augmentation de la latence  ʺREM ʺ Rapid Eye Movement sleep sommeil avec mouvements oculaires rapides MOR ou sommeil paradoxal –sommeil comportemental avec tracé cortical EEG d’éveil)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vigilance et sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "56",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 57,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "« En Russie, depuis 1967, un processus de domestication des renards de Sibérie {Vulpes vulpes} a été entamé par Dmitri Belyaev {43}, basé sur la sélection de renards peu craintifs face à l'Homme. Plusieurs études ont été menées concernant l'évolution de ces renards, notamment sur les origines moléculaires de leur changement comportemental {44} : il semblerait que l'encéphale et l'hypothalamus des renards domestiqués contiennent davantage de Sérotonine et ses métabolites que ceux de leurs cousins sauvages. De plus, l'activité de la monoamine oxydase, enzyme responsable de la dégradation de la sérotonine, est significativement diminuée chez l'espèce domestiquée {44}. Ces conclusions sont en faveur de l'implication du système sérotoninergique dans la « domesticabilité » et la réduction de la peur chez le renard de Sibérie {45}. »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vignette éthologique vétérinaire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Comportements agressifs: Rôles dans la régulation des comportements: hostilité /aménité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "57",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Redeuil, Sandra. Thèse d'exercice, Médecine vétérinaire, Ecole Nationale Vétérinaire de Toulouse  2015",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 58,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rôles dans la régulation des comportements: agressivité/aménité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "43  Balyaev, DK. Destabilizing selection as a factor in domestication. Journal of Heredity n°70. 1979, pp. 301-308.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "44    Popova, NK and al. Evidence of the involvement of central serotonin in mechanism of domestication of silver foxes . Pharmacology Biochemistry and Behavior n°40. 1991, pp. 751-756.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "45   Routine, K and al. Long-term effects of tryptophan on behavioural response and growing- furring \t\t\tperformance in silver fox {Vulpes vulpes}. Applied Animal Behaviour Science n°63. 1999, pp.6577.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduit avec l’aimable autorisation du Docteur Sandra Redeuil   ( 15 Mars 2019)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Redeuil, Sandra. Effet de la supplémentation en tryptophane de l’aliment sur le comportement du chien : étude bibliographique. Thèse d'exercice, Médecine vétérinaire, Ecole Nationale Vétérinaire de Toulouse - ENVT, 2015, 124 p.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "58",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 59,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Contrôle de l’impulsivité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Sérotonine est considérée, en première approche, comme le neuromédiateur   régulant les comportements impulsifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "On montre qu’un  animal de laboratoire peut être entraîné à choisir un comportement renforcé par une récompense importante qui viendra  tardivement plutôt qu’un comportement renforcé par une récompense immédiate mais plus petite.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La régulation de  ce choix comportemental est sérotoninergique. En effet, la réduction des signaux sérotoninergiques* va provoquer, chez  l’animal, le choix du comportement renforcé immédiatement, même faiblement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Par stimulation GABA, par inhibition de la biosynthèse de la 5HT - par la p.chlorophénylalanine pcpa,-par destruction des voies 5HT par une  neutotoxine.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "59",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 60,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Contrôle de l’impulsivité : modèle de la capacité à différer une conduite",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Un des modèles est fondé sur le comportement de l’animal dans un labyrinthe en Y conduisant à des situations  où le renforcement est différent : une branche où il est immédiat mais peu important, une branche où il est important mais  exige de l’animal un temps d’attente.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux classiques de INSERM U 288, CHU Pitié-Salpêtrière (M. Hamon)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "60",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 61,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Contrôle de l’impulsivité : modèle de la capacité à différer une conduite",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Travaux classiques de INSERM U 288, CHU Pitié-Salpêtrière(M.Hamon)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rats entraînés:  exploration des 2 couloirs:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "reconnaissance du couloir B- attente 15 à 25 secondes puis ouverture  pour accès => 10 granulés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "reconnaissance du couloir A   accès immédiat  => 2 granulés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Après entraînement, 60 à 70% des rats: choix du couloir  chambre B, malgré l’attente, de 15 secondes.  Si attente= 25 secondes, 40%  des rats =choix  couloir B.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réduction des signaux 5HT : prépondérance du choix de la branche A  => 2  granulés.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les inhibiteurs de la recapture de la Sérotonine  augmentent la capacité à différer la conduite du choix du renforcement  de la récompense faible mais immédiate, au profit de la récompense du renforcement plus important mais plus tardif  [d’après J.-C. Bizot, 1999].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "61",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 62,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etats Dépressifs, déficit en Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réserpine , effet dépresseur central:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "déplétion des vésicules de stockage de la Sérotonine=> dépression de l’humeur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Arguments pharmacologiques classiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "MAO : inhibition de la dégradation de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clomipramine : inhibition non sélective  de la recapture de la  Sérotonine ;la Clomipramine possède une des plus  grandes affinités pour le transporteur membranaire de la HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antidépresseurs ISRS: inhibition sélective  de la recapture de la  Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "augmentation de la Sérotonine disponible dans la synapse",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=>",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "62",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 63,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etats Dépressifs, déficit en Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Arguments classiques fondés sur une rechute provoquée",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2     Privation de tryptophane dans l’alimentation « artificielle »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> rechute dépressive après obtention d’une rémission par \t\t\t\t\t      traitement  médicamenteux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux du Pr Pedro L.  Delgado",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ruhe HG et al. Molecular Psychiatry volume 12, pages 331–359 (2007)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les mesures 1 et 2 ne provoquent pas d’état dépressif chez le sujet sain, mais chez les sujets ainsi  porteurs d’un trait signant une vulnérabilité, pouvant être « mise à nue »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1   Administration de parachloro- phénylalanine, inhibiteur de la biosynthèse de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=> rechute dépressive après obtention d’une rémission par \t\t\t\t\t      traitement  médicamenteux(Tranylcypromine IMAO)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux du Pr  Baron Shopsin (travaux discutés)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "63",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 64,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etats Dépressifs, déficit en Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Arguments classiques fondés  des mesures faites  dans le LCR",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "M. Asberg et coll. ont montré en 1976, dans une étude cruciale ayant inclus 68 patients déprimés, une distribution bimodale  du taux de 5HIAA dans le LCR. Le taux de tentatives de suicide et de suicides est significativement plus élevé chez  les patients déprimés   chez qui la   concentration en 5HIAA ] est plutôt faible",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "64",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 65,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etats Dépressifs, déficit en Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces arguments peuvent apparaître comme étant réducteurs et simplificateurs; néanmoins ce sont eux qui ont présidé à la mise au point de médicaments antidépresseurs les plus prescrits.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "65",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 66,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse « sérotoninergique » de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse  fondée sur  l’action des substances hallucinogènes  antagonistes des récepteurs 5HT2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Le LSD est un alcaloïde obtenu  par hémisynthèse à partir des alcaloïdes de l’ergot de seigle.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diéthylamide de l’acide Lysergique (Lysergic Saür Diethylamid)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Son administration provoque un épisode pharmaco-psychotique hallucinatoire(hallucinations visuelles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-La psilocyne et la psylocybine sont présentes ans un champignon du Mexique méridional et leur  administration provoque un épisode pharmaco-psychotique hallucinatoire(hallucinations visuelles ) qui est réduit par l’administration de Kétansérine (antagoniste 5HT2A), la Rispéridone mais non par l’Halopéridol.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il faut toutefois rappeler que le délire schizophrénique à mécanisme hallucinatoire est fait d’hallucinations auditives, cénesthésiques intrapsychiques( automatisme mental) et rarement d’hallucinations visuelles",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "66",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 67,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse « sérotoninergique » de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "67",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Substances hallucinogènes indoliques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 68,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse « sérotoninergique » de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse  fondée sur les propriétés antagonistes 5HT2A des neuroleptiques et des antipsychotiques atypiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "constantes d’inhibition Ki  d’un ligand radiomarqué",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Kétansérine, tissu cérébral de rat)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ki 5HT2A                                      Ki DA2 (ligand radiomarqué Spipérone)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chlorpromazine  \t ≈ 3 à 4 \t\t\t\t    3 à  25  nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chlorprothixène\t\t ≈  0,4   nM\t\t\t    3 à  8    nM   (non disponible en France)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clozapine (atypique)\t ≈     10   nM\t\t\t 248 à 347 nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Rispéridone (atypique) \t ≈ 0,09 à   0,6      nM\t\t ≈  4           nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(Halopéridol) \t\t ≈ (98 nM)\t\t\t ≈  2           nM",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Chlorpromazine, Chlorprothixène, Clozapine et Rispéridone: très haute  affinité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "pour le récepteur 5HT2A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH PDSP Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "68",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 69,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse « sérotoninergique » de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ces composés ont donc d’après les valeurs ci-dessus une:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très haute  affinité pour le récepteur 5HT2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très faible  affinité pour le récepteur dopaminergique D2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recherche de médicaments  aux propriétés antipsychotiques fondées sur un antagonisme sélectif  des récepteurs 5HT2A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essais thérapeutiques  dans le traitement des psychoses schizophréniques:  ECHECS!!",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "69",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Constantes d’inhibition Ki",
+              "Ki  5HT 2A nM",
+              "KI DA 2 nM"
+            ],
+            [
+              "Ampérozide",
+              "12 à 20",
+              "500"
+            ],
+            [
+              "Eplivanserine",
+              "0,047",
+              ">10 000"
+            ],
+            [
+              "Fananserine",
+              "0,26",
+              "726"
+            ],
+            [
+              "MDL100 907",
+              "0,030",
+              "2250"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 70,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypothèse « sérotoninergique » de la schizophrénie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Le faisceau d’arguments  en faveur d’un trouble de la régulation  des signaux produits par la Sérotonine dans la schizophrénie est moins fourni que celui  présenté pour la Dopamine. On ne dispose  pas encore de médicament dit antipsychotique qui ne soit pas antagoniste ,plein ou partiel, des récepteurs dopaminergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "«  La Dopamine, forcément la Dopamine… » ( Dr Renaud de Beaurepaire)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "70",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 71,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs (T.O.C.)et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Introduction à l’étude des antidépresseurs sérotoninergiques dans le traitement symptomatique des T.O.C.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "De l’observation clinique à l’empirisme  thérapeutique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "71",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 72,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Névrose obsessionnelle :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "psychiatrie classique : associe syndrome clinique et  organisation de la  personnalité sous jacente",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Trouble Obsessionnel Compulsif  : DSM –disparition du concept de névrose-abord descriptif sous forme de critères diagnostiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Débat théorique complexe :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très bien décrit dans l’Abrégé de Psychiatrie de l’Adulte, Prs  Th. Lemperière, A. Féline  et al., Masson,2006",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« il est reproché au DSM IV de ne pas prendre en compte le polymorphisme clinique des états névrotiques ,les associations fréquentes entre états névrotiques et états dépressifs » (page 130 )",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Les avatars de la nosographie »  Pr  J.D. Guelfi",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "72",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 73,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Syndrome obsessionnel et  syndrome dépressif, dans la psychiatrie classique-abord simplifié",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "73",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 74,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux de N.L. Gittleson : intrication d’un syndrome obsessionnel et d’un syndrome dépressif --éclosion de pensées obsessionnelles dans la maladie dépressive.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Emergence d’un état dépressif ou  de troubles de l’humeur dans la névrose obsessionnelle.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "398 patients examinés : névrose  obsessionnelle et syndrome dépressif qualifié de dépression psychotique  :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "52 patients: névrose obsessionnelle franche avant éclosion de la maladie dépressive  névrose d’origine héréditaire possible et, parmi les parents et les descendants de ces  patients: plus de personnalités obsessionnelles que pour  les autres patients.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La présence d’une névrose obsessionnelle favoriserait la survenue précoce de la dépression de l’humeur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "398 patients: 31%  syndrome obsessionnel survenant au décours de la dépression ; éclosion de ce syndrome: due à la révélation des traits de la personnalité pré- morbide.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "in British Journal of Psychiatry ,1966",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "74",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 75,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "H. Ey, P. Bernard et Ch. Brisset",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Chez l’obsédé, la lutte névrotique peut faire place à la dépression ou bien c’est l’émergence de l’obsession qui signale  la dépression. En effet, comme tout névrosé, l’obsédé risque de voir ses défenses débordées. Peuvent alors émerger  :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une forme mono-symptomatique de la mélancolie sous forme d’un thème obsédant,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "une asthénie pénible,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "un vécu délirant ,de l’obsession, à teinte mélancolique. »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Observation au cours de l’évolution, en général progressive, de crises d’obsessions ou des accès dépressifs à forme anxieuse »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Un chimiothérapie mérite d’être tentée ,à la recherche d’une amélioration de la tendance dépressive, parfois évidente mais souvent latente »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments antidépresseurs  pour le traitement du versant dépressif => médicaments analyseurs du comportement?",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "75",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 76,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments antidépresseurs  pour le traitement du versant dépressif des TOC: médicaments analyseurs du comportement?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Travaux de  M. Flament  J. Rapoport, H. Leonard",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1985",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement de 19 enfants , Clomipramine   141mg/j  contre   Placebo -  5 semaines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clomipramine => réduction d l’intensité des signes et des symptômes > placébo",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1989 1990",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement de 48 enfants ,  10 semaines ,Clomipramine   150 mg /j (± 53 ) contre   153 (± 55 ) mg/j Désipramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clomipramine => réduction d l’intensité des signes et des symptômes supérieure à celle due à la Désipramine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "76",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Essai thérapeutique croisé Clomipramine / Désipramine puis : Désipramine/ Clomipramine: Substitution de la Clomipramine, par la Désipramine  se traduit par résurgence des pensées obsédantes et des actes compulsifs.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 77,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Clomipramine : Très haute affinité pour  le Transporteur de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pouvoir élevé d’inhibition de la capture de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très faible affinité pour  le transporteur de la Noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Désipramine : Très haute affinité pour  le transporteur de la Noradrénaline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très faible affinité pour  le transporteur de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Très faible capacité d’inhibition de la capture de la Sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH PDSP Ki Database",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "NIMH PDSP Ki Database: Base de données du National Mental Health Institute",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "répertoriant les constantes d’inhibition de liaison  aux récepteurs et transporteurs, de différents « ligands » médicaments",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ou réactifs pharmacodynamiques. Accès libre en ligne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments antidépresseurs  pour le traitement du versant dépressif des TOC: médicaments analyseurs du comportement?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Constantes d’inhibitions   Ki",
+              "Ki Transporteur  Sérotonine",
+              "Ki Transporteur  Noradrénaline",
+              "Ki Capture  Sérotonine"
+            ],
+            [
+              "Clomipramine",
+              "0,67 nM",
+              "45,8 nM",
+              "5,7 nM"
+            ],
+            [
+              "Désipramine",
+              "363 nM",
+              "0,55 nM",
+              "340 nM"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 78,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Restauration d’un signal sérotoninergique : bénéfique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Signal défaillant  entraine, suivant un rétrocontrôle, une compensation par une hypersensibilité des récepteurs 5HT?  Alors l’administration d’un agoniste 5HT activant des récepteurs hypersensibles devrait provoquer une aggravation?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Métachloro-phénylpipérazine  (mCPP)  agoniste 5HT1A,1D et 2C: son administration provoque une  aggravation des  signes et des symptômes chez des patients souffrant de TOC .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "78",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments antidépresseurs  pour le traitement du versant dépressif    => médicaments analyseurs du comportement?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Antidépresseur sérotoninergique plus efficace qu’un Antidépresseur noradrénergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>Hypothèse   T.O.C.: Défaillance des signaux sérotoninergiques?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 79,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Troubles obsessionnels compulsifs et antidépresseurs sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "79",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments antidépresseurs  pour le traitement du versant dépressif    => médicaments analyseurs du comportement?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse   T.O.C.:  \tDéfaillance des signaux sérotoninergiques *",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments ISRS: efficace dans le traitement symptomatique * des T.O.C.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(N.B:  inefficacité chez 40% des patients )",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "*(de façon simplifiée)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Recommandations de la World Federation of Societies of Biological Psychiatry (WFSBP)  pour le traitement  pharmacologique  des T.O.C.:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Niveau de preuve A( nombreux essais contrôlés),  reconnu pour ISRS :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Escitalopram, Fluvoxamine, Fluoxetine, Paroxetine, Sertraline",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Niveau de preuve A( nombreux essais contrôlés),  reconnu pour la Clomipramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "(et ce, à l’exclusion de tout autre médicament)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Michael Kellner  2010",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etats-Unis (USA): Clomipramine  -pas d’indication dans le traitement des états dépressifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ISRS: inhibiteurs sélectifs de la recapture de la Sérotonine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 80,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "80",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pour mémoire : Traitement médicamenteux souvent, voire toujours,  associé à des mesures psychothérapeutiques d’inspirations diverses",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "« Les thérapeutiques biologiques, sont , pour la plupart des auteurs, au centre du  traitement.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Elles ne doivent pas être isolées; elles permettent d’élargir les indications des sociothérapies et des psychothérapies.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le traitement doit être longtemps prolongé, même au cours des rémissions »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce que disaient des Internistes en 1965",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(Pr H. Péquignot et al. )",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 81,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« La physiologie est la science des allures stabilisées »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Georges Canguilhem",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Déstabilisation des régulations sérotoninergiques par stimulations excessives des récepteurs sérotoninergiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5HT1A  =>  Syndrome sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "5HT2B => Maladies valvulaires acquises",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "81",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 82,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Syndrome sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etiologie:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Complication des traitements par les",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antidépresseurs:  ISRS , IMAO, Imipraminiques, Venlafaxine . Association ISRS +Moclobémide",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "agonistes des récepteurs 5HT1A: Buspirone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conséquences de l’absorption de substances augmentant le libération de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Amphétamine , MDMA* , Fenfluramine, Cocaïne",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diagnostic: Diagnostic d’exclusion(d’après Ph. Birmes);absence d’infection de prises de toxiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différentiel: syndrome malin des neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Présence de médicaments sérotoninergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Signes et symptômes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Troubles mentaux et neurovégétatifs et neuromusculaires",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "confusion agitation hypomanie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "diarrhées  fièvre frissons sudation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "myoclonies tremblements",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "82",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*MDMA Méthylène-Dioxy-Méthyl-Amphétamine\"",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 83,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique centrale",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Syndrome sérotoninergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mécanisme physiopathologique:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Excès de stimulation des récepteurs  5HT1A  et 5HT2A : noyaux gris centraux ,tronc cérébral, moëlle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Diagnostic différentiel: syndrome malin des neuroleptiques; infections; intoxications",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Traitement:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Arrêt du médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Traitement évacuateur par augmentation de la diurèse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépines",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Propranolol",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cyproheptadine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evolution: favorable",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Ph.  Birmes ,CMAJ,2003  et  Pharma-Flash  2006",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "83",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Alors que le syndrome Malin des Neuroleptiques est idiosyncrasique le syndrome sérotoninergiques est un syndrome toxique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 84,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique périphérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Maladies valvulaires acquises",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation de la prévalence des valvulopathies acquises:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sujets consommant un dérivé amphétaminique :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "MDMA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Patients traités par des anorexigènes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fenfluramine , Dextrofenfluramine (Isoméride ® ), Benfluorex, (Médiator®)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "84",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Méthylène-Dioxy-Méthyl-Amphétamine « Ecstasy »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 85,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Formules développées des anorexigènes; mise évidence des analogies structurales",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "85",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 86,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique périphérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Rappels",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation de la concentration circulante de sérotonine  -> veine cave->cœur droit",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "-> valvule tricuspide->valvule artérielle pulmonaire-> poumon Clairance pulmonaire de la sérotonine -> cœur gauche épargné",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cardiopathie par insuffisance tricuspidienne chez 40% des malades souffrant de telles tumeurs: sérotonine => sécrétion d’un facteur de croissance=> synthèse de collagène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Répercussions centrales",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tumeur => consommation périphérique excessive de Tryptophane(Try)=> carence centrale en Try=> carence en sérotonine centrale => 75% des patients souffrent de troubles de la régulation du contrôle des impulsions avec agressivité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après Mitry E.,  in: Baudin E. et Ducreux M., Tumeurs endocrines thoraciques et digestives,Springer,2008",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tumeurs endocrines digestives sécrétant de la sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "86",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 87,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique périphérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Maladies valvulaires acquises",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation de la prévalence des valvulopathies acquises:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sujets consommant un dérivé amphétaminique : MDMA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Méthylène Dioxy Méth Amphétamine: inhibiteur de la recapture de la dopamine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Agoniste des récepteurs 5HT2B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "In vitro:  Stimulation de la croissance des cellules interstitielles valvulaires => formation d’un tissu fibreux",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "(stimulation des mitoses , effet anti-apoptose)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "87",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 88,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique périphérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Maladies valvulaires acquises",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Augmentation de la prévalence des valvulopathies acquises:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Sujets traités par la Fenfluramine et la Dextrofenfluramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Activation de la libération de sérotonine , agonistes des récepteurs 5HT2B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Fibrose de l’artère pulmonaire(hypertension artérielle pulmonaire)  et risque d’atteinte valvulaire multiplié par 22",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "=> retrait du marché de la Dextrofenfluramine en 1997(AMM 1985)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "88",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 89,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pathologie sérotoninergique périphérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sérotonine     5 Hydroxy-Tryptamine 5 HT",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Maladies valvulaires acquises",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Augmentation de la prévalence des valvulopathies acquises:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sujets traités par le Benfluorex (Médiator ®), adjuvant du traitement anti-diabétique en cas de surpoids",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valvulopathies et réduction de la compliance des gros vaisseaux par dépôts fibreux dans la matrice des vaisseaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fenfluramine, Dextrofenfluramine et Benfluorex -> métabolisme=> formation de NOR –Fenfluramine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "NOR –Fenfluramine, agoniste 5HT2B    Ki ≈ 56 nM  =>  fixation sur les récepteurs 5HT2B des valvules et de la paroi des gros vaisseaux =>  stimulation des mitoses => formation d’un néo-tissu fibreux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "89",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 90,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "« La santé , c’est la vie dans le silence des organes »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "in , Georges Canguilhem",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "90",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 1 — Rappel Clinique Troubles Anxieux — M3</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 3</a><div class="tb-crumb">M3 · <em>Session 1 — Rappel Clinique Troubles Anxieux</em></div></div><div class="sess-hero"><div class="sh-tag">Module 3 — Session 1/4</div><h1>Session 1 — Rappel Clinique Troubles Anxieux</h1><div class="sh-meta">1 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Module 3 : Benzodiazépines et anxiolytiques non benzodiazépiniques</h3>
+<h4>Partie I : Rappel clinique sur les troubles anxieux</h4>
+<p><strong>Professeur Florence THIBAUT</strong> - CHU Cochin, Université de Paris, INSERM U1266, Centre Psychiatrie et Neurosciences, Paris</p>
+
+<h3>Généralités</h3>
+<p>L'anxiété est normale sauf si :</p>
+<ul>
+<li>elle est excessive et entrave la vie quotidienne</li>
+<li>elle est associée à certains symptômes complexes tels que :
+<ul>
+<li>attaques de panique (crises aiguës d'angoisse)</li>
+<li>phobies</li>
+<li>obsessions</li>
+</ul>
+</li>
+</ul>
+<p>Elle est fréquente (20% des consultations de médecine générale)</p>
+<p><strong>Héritabilité :</strong> 30% + facteurs environnementaux (traumatismes précoces…)</p>
+<p>Pas de marqueurs spécifiques connus du risque</p>
+
+<p><strong>Note importante :</strong> Les troubles obsessionnels compulsifs (TOC) et l'état de stress post traumatique (ESPT) ne sont plus classés dans les troubles anxieux dans le DSM-5 mais seront brièvement abordés dans ce chapitre</p>
+
+<h3>Epidémiologie</h3>
+<p>Concerne plus souvent des <strong>femmes (2 fois plus)</strong></p>
+<p>Débute en général à l'<strong>adolescence post pubertaire</strong> (sauf pour phobies (enfance) et phobies sociales (13 ans))</p>
+
+<h4>Prévalence dans le monde : 7.3% (4.8-10.9%)</h4>
+<ul>
+<li>Troubles phobiques (10%)</li>
+<li>Trouble panique (6%)</li>
+<li>Phobie sociale (2.7%)</li>
+<li>Trouble Anxieux Généralisé (TAG) (2%)</li>
+</ul>
+
+<p>Associés entre eux dans <strong>50% des cas</strong> (OR: 20/13 pour TAG avec TP/ou phobie sociale)</p>
+<p>En dehors du TAG, leur prévalence diminue après 50 ans</p>
+
+<h4>Risques évolutifs ou comorbidité des troubles anxieux :</h4>
+<ul>
+<li>Dépression (OR: 30) surtout trouble panique et TAG</li>
+<li>Dépendance à l'alcool, aux benzodiazépines</li>
+<li>Risque suicidaire (risque X 1.7-2.5) surtout TAG, ESPT, Trouble panique et si dépression associée</li>
+<li>Isolement social</li>
+<li>Evolution chronique (phobie sociale); ou avec rémissions et rechutes</li>
+<li>Comorbidité fréquente avec dépression et ADHD (50% des cas)</li>
+<li>Comorbidité fréquente avec troubles gastro-intestinaux, migraine, allergies, asthme, maladies cardio-pulmonaires, HTA, arthrite, maladies de la thyroïde</li>
+</ul>
+
+<h3>Rappel des éléments clefs des troubles anxieux</h3>
+<ul>
+<li><strong>Trouble panique :</strong> épisodes récurrents inattendus d'attaques de panique sans facteur déclenchant, peur de récidive des accès (avec ou sans agoraphobie avec évitement actif)</li>
+<li><strong>Phobie spécifique :</strong> évitement actif d'un objet ou d'une situation qui n'a pas de caractère dangereux</li>
+<li><strong>Phobie sociale :</strong> peur excessive du jugement des autres en situation sociale avec évitement de ces situations</li>
+<li><strong>TAG :</strong> anxiété excessive et quasi permanente</li>
+<li><strong>TOC :</strong>
+<ul>
+<li>Obsessions : pensées, impulsions ou images obsédantes, involontaires et intrusives</li>
+<li>Compulsions : comportements ou actes mentaux répétés et compulsifs pour réduire les obsessions</li>
+</ul>
+</li>
+<li><strong>ESPT :</strong> exposition à un traumatisme puis, syndrome de répétition de l'évènement, évitement, émoussement affectif</li>
+</ul>
+
+<h3>Diagnostic et prise en charge</h3>
+<ul>
+<li>Diagnostic du trouble anxieux et de son type</li>
+<li>Evaluer la sévérité (Hamilton Anxiety Scale (HAM-A)), le retentissement fonctionnel</li>
+<li>Evaluer l'âge de début, les antécédents traumatiques dans l'enfance, les comorbidités somatiques et/ou psychiatriques, la consommation de médicaments ou de substances (alcool, toxiques), les antécédents somatiques favorisants (hyperthyroïdie, maladies cardio-pulmonaires, traumatisme crânien, diabète, obésité…), les antécédents familiaux de troubles anxieux…</li>
+<li>Eliminer les diagnostics différentiels (maladies somatiques) et prendre en compte les pathologies somatiques associées</li>
+<li>Rechercher les comorbidités psychiatriques incluant les troubles de personnalité</li>
+<li>Bilan si nécessaire (NFS, bilan lipidique, glycémie, recherche toxiques urinaires, électrolytes; si nécessaire, bilan hépatique, ECG, TSH..)</li>
+</ul></div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/1</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">12 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-sm">MODULE 3 :</div><div class="t-h1">Benzodiazépines et anxiolytiques non benzodiazépiniques</div><div class="t-h1">PARTIE I : RAPPEL CLINIQUE SUR LES TROUBLES ANXIEUX</div></div><div class="slide-card top"><div class="sn">Slide 2</div><div class="t-h1">MODULE 3 : Benzodiazépines et anxiolytiques non benzodiazépiniques Partie I : Rappel clinique sur les troubles anxieux</div><div class="t-h1">Professeur Florence THIBAUTCHU Cochin</div><div class="t-h2">Université de Paris</div><div class="t-h1">INSERM U1266, Centre Psychiatrie et Neurosciences, Paris</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Bienvenue dans ce module</div><div class="t-h1">Afin de le suivre dans les meilleures conditions, nous vous invitons à :</div><div class="t-sm">Vous isoler</div><div class="t-h2">Mettre un casque</div></div><div class="slide-card top"><div class="sn">Slide 4</div><div class="t-h1">Partie I. Rappel clinique sur les troubles anxieux</div></div><div class="slide-card top"><div class="sn">Slide 5</div><div class="t-h1">MODULE 3 : Benzodiazépines et anxiolytiques non benzodiazépiniques</div><div class="t-h1">Partie I : Rappel clinique sur les troubles anxieux</div><div class="t-sm">Généralités</div><div class="t-sm">Epidémiologie</div><div class="t-h1">Brefs rappels cliniques sur les troubles anxieux</div><div class="t-h2">Diagnostic et prise en charge</div></div><div class="slide-card"><div class="sn">Slide 6</div><div class="t-sm">Généralités</div><div class="t-h2">L’anxiété est normale sauf si :</div><div class="t-h1">- elle est excessive et entrave la vie quotidienne,</div><div class="t-h1">- elle est associée à certains symptômes complexes tels que :</div><div class="t-h1">• attaques de panique (crises aiguës d’angoisse),</div><div class="t-sm">• phobies,</div><div class="t-sm">• obsessions…</div><div class="t-h1">Elle est fréquente (20% des consultations de médecine générale)</div><div class="t-h1">Héritabilité 30% + facteurs environnementaux (traumatismes précoces…)</div><div class="t-h1">Pas de marqueurs spécifiques connus du risque</div></div><div class="slide-card"><div class="sn">Slide 7</div><div class="t-sm">Généralités</div><div class="t-h1">Les troubles obsessionnels compulsifs (TOC) et l’état de stress post traumatique (ESPT) ne sont plus classés dans les troubles anxieux dans le DSM-5 mais seront brièvement abordés dans ce chapitre</div></div><div class="slide-card"><div class="sn">Slide 8</div><div class="t-sm">Epidémiologie</div><div class="t-h1">Concerne plus souvent des femmes (2 fois plus)</div><div class="t-h1">Débute en général à l’adolescence post pubertaire (sauf pour phobies (enfance) et phobies sociales (13 ans))</div><div class="t-h1">Prévalence dans le monde : 7.3% (4.8-10.9%)) – Tr phobiques (10%) – Tr panique (6%) – Phobie sociale (2.7%) – Trouble Anxieux Généralisé (TAG)  (2%)</div><div class="t-h1">Associés entre eux dans 50% des cas (OR: 20/13 pour TAG avec TP/ou phobie sociale)</div><div class="t-h1">En dehors du TAG, leur prévalence diminue après 50 ans</div></div><div class="slide-card"><div class="sn">Slide 9</div><div class="t-sm">Epidémiologie</div><div class="t-h1">Risques évolutifs ou comorbidité des troubles anxieux :</div><div class="t-h1">Dépression (OR: 30) surtout trouble panique et TAG</div><div class="t-h1">Dépendance à l’alcool, aux benzodiazépines</div><div class="t-h1">Risque suicidaire (risque X 1.7-2.5) surtout TAG, ESPT, Trouble panique et si dépression associée</div><div class="t-h2">Isolement social</div><div class="t-h1">Evolution chronique (phobie sociale); ou avec rémissions et rechutes</div><div class="t-h1">Comorbidité fréquente avec dépression et ADHD (50% des cas)</div><div class="t-h1">Comorbidité fréquente avec troubles gastro-intestinaux, migraine, allergies, asthme, maladies cardio-pulmonaires, HTA,  arthrite, maladies de la thyroïde.</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">Rappel des éléments clefs des troubles anxieux</div><div class="t-h1">Trouble panique: épisodes récurrents inattendus d’attaques de panique sans facteur déclenchant, peur de récidive des accès (avec ou sans agoraphobie avec évitement actif)</div><div class="t-h1">Phobie spécifique: évitement actif d’un objet ou d’une situation qui n’a pas de caractère dangereux</div><div class="t-h1">Phobie sociale: peur excessive du jugement des autres en situation sociale avec évitement de ces situations</div><div class="t-h1">TAG: anxiété excessive et quasi permanente</div><div class="t-h1">TOC;  Obsessions: pensées, impulsions ou images obsédantes, involontaires et intrusives• Compulsions: comportements ou actes mentaux répétés et compulsifs pour réduire les obsessions</div><div class="t-h1">ESPT: exposition à un traumatisme puis, syndrome de répétition de l’évènement , évitement, émoussement affectif</div></div><div class="slide-card"><div class="sn">Slide 11</div><div class="t-h2">Diagnostic et prise en charge</div><div class="t-h1">Diagnostic du trouble anxieux et de son type</div><div class="t-h1">Evaluer la sévérité (Hamilton Anxiety Scale (HAM-A)), le retentissement fonctionnel</div><div class="t-h1">Evaluer l’âge de début, les antécédents traumatiques dans l’enfance, les comorbidités somatiques et/ou psychiatriques, la consommation de médicaments ou de substances (alcool, toxiques), les antécédents somatiques favorisants (hyperthyroïdie, maladies cardio-pulmonaires, traumatisme crânien, diabète, obésité…), les antécédents familiaux de troubles anxieux…</div></div><div class="slide-card"><div class="sn">Slide 12</div><div class="t-h2">Diagnostic et prise en charge</div><div class="t-h1">Eliminer les diagnostics différentiels (maladies somatiques) et prendre en compte les pathologies somatiques associées</div><div class="t-h1">Rechercher les comorbidités psychiatriques incluant les troubles de personnalité</div><div class="t-h1">Bilan si nécessaire (NFS, bilan lipidique, glycémie, recherche toxiques urinaires, électrolytes; si nécessaire, bilan hépatique, ECG, TSH..)</div></div></div></div><div class="bot-nav"><span></span><div class="bn-info">Session 1/4<br>Module 3</div><a class="bn-btn" href="../SESSION_2_BENZODIAZEPINES/index.html">Session suiv. →</a></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>

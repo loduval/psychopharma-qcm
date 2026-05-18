@@ -1,0 +1,207 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 1 — Hypnotiques Bzd — M4</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 4</a><div class="tb-crumb">M4 · <em>Session 1 — Hypnotiques Bzd</em></div></div><div class="sess-hero"><div class="sh-tag">Module 4 — Session 1/2</div><h1>Session 1 — Hypnotiques Bzd</h1><div class="sh-meta">1 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Module d'autoformation E-Learning - Hypnotiques de type benzodiazépinique</h3>
+
+<p><strong>Intervenant :</strong> Dr Luc STANER - Unité d'exploration des rythmes veille/sommeil, Centre Hospitalier de Rouffach</p>
+
+<h3>QCM Module 4.1 - Hypnotiques de type benzodiazépinique</h3>
+
+<p><strong>Format :</strong> Cinq questions à choix multiples avec cinq propositions chacune. Au moins une des cinq propositions est vraie pour chaque question.</p>
+
+<h4>Question 1 - Cas clinique : Patiente de 35 ans avec insomnie chronique</h4>
+
+<p><strong>Contexte :</strong> Patiente présentant une plainte d'insomnie débutée il y a 10 ans après la naissance de son premier enfant. Consommation quotidienne de lorazépam (actuellement 2 mg) qui ne semble plus efficace.</p>
+
+<p><strong>Options thérapeutiques proposées :</strong></p>
+<ul>
+<li>Augmenter la posologie du lorazépam à 3 mg</li>
+<li>Remplacer le lorazépam par de la zopiclone 7 mg</li>
+<li>Avant de modifier le traitement, demander à la patiente de remplir quotidiennement un agenda de sommeil et revoir dans un mois</li>
+<li>Avant de modifier le traitement, prescrire un examen polysomnographique</li>
+<li>Refuser de renouveler l'ordonnance et adresser à un thérapeute pratiquant la TCC</li>
+</ul>
+
+<h4>Question 2 - Caractéristiques d'un hypnotique idéal</h4>
+
+<p><strong>Propriétés d'une molécule hypnotique idéale :</strong></p>
+<ul>
+<li>Rapidement absorbée</li>
+<li>Ayant une durée d'action prolongée pour être encore active le matin au réveil</li>
+<li>Sans potentialité addictive</li>
+<li>Favorisant la transmission GABAergique</li>
+<li>Sans métabolite actif</li>
+</ul>
+
+<h4>Question 3 - Cas clinique : Commercial de 50 ans</h4>
+
+<p><strong>Contexte :</strong> Patient consultant tous les trimestres pour HTA dans le cadre d'un syndrome métabolique. Prescription de zolpidem 10 mg depuis des années (+/- 1 boîte/trimestre) suite à des insomnies transitoires (voyages fréquents, stress professionnel). Se retrouve à court de zolpidem après un mois en raison d'une période professionnelle chargée. Patient fatigué, plus stressé, prise de poids, TA à 16/9,5.</p>
+
+<p><strong>Options complémentaires au renouvellement d'ordonnance :</strong></p>
+<ul>
+<li>Un enregistrement polysomnographique</li>
+<li>Une mise en garde sur les risques de dépendance</li>
+<li>Une prescription d'anxiolytique</li>
+<li>Une thérapie cognitive et comportementale centrée sur l'insomnie</li>
+<li>Une évaluation de ses conditions de travail</li>
+</ul>
+
+<h4>Question 4 - Hypnotiques GABAergiques</h4>
+
+<p><strong>Caractéristiques des hypnotiques GABAergiques :</strong></p>
+<ul>
+<li>Augmentent le sommeil profond (ou sommeil à ondes lentes)</li>
+<li>Ne sont pas des agonistes des récepteurs GABA</li>
+<li>Peuvent provoquer du somnambulisme</li>
+<li>Potentialisent l'action de l'alcool au niveau du récepteur GABA</li>
+<li>Sont indiqués pour toute forme d'insomnie</li>
+</ul>
+
+<h4>Question 5 - Cas clinique : Adolescent de 16 ans</h4>
+
+<p><strong>Contexte :</strong> Depuis quelques mois, délai d'endormissement de 1 à 2h et difficultés scolaires. Les professeurs ont remarqué un manque d'attention et de motivation, l'adolescent s'endormant même pendant le cours de mathématiques le matin. Le sommeil du week-end se caractérise par les mêmes difficultés d'endormissement et un réveil tardif (10:00-12:00).</p>
+
+<p><strong>Options thérapeutiques proposées :</strong></p>
+<ul>
+<li>Un enregistrement polysomnographique</li>
+<li>Une prise en charge de la phobie scolaire</li>
+<li>Une prescription d'hypnotique à action courte (type zolpidem) 5j/7 en période scolaire</li>
+<li>Une thérapie cognitive et comportementale centrée sur l'insomnie</li>
+<li>Aucune de ces propositions</li>
+</ul>
+
+<p><strong>Note :</strong> QCM corrigé en fin de diaporama (correction non fournie dans le texte source).</p></div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/1</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">12 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-h1">QCM Module n°4 Hypnotique et sommeil</div><div class="t-sm">Luc STANER</div><div class="t-h1">Unite d’exploration des rythmes veille/sommeil</div><div class="t-h2">Centre Hospitalier de Rouffach</div></div><div class="slide-card top"><div class="sn">Slide 2</div><div class="t-h1">QCM Module 4.1 Hypnotiques de type benzodiazépinique</div><div class="t-h2">Cinq questions à choix multiples</div><div class="t-h1">Pour chaque question, cinq propositions</div><div class="t-h1">Au moins une des cinq proposition est vraie</div><div class="t-h2">QCM corrigé en fin de diaporama</div></div><div class="slide-card top"><div class="sn">Slide 3</div><div class="t-h1">1. Une patiente de 35 ans se présente à votre consultation pour une plainte d’insomnie ayant débuté il y a 10 ans après la naissance de son 1er enfant. Ces dernières années, elle consomme quotidiennement du lorazepam (actuellement 2 mg) qui ne lui semble plus efficace. Que proposez-vous ?</div><div class="t-h1">Vous augmentez la posologie du lorazepam à 3 mg</div><div class="t-h1">Vous remplacez le lorazepam par de la zopiclone 7 mg</div><div class="t-h1">Avant de modifier le traitement, vous demandez à votre patiente de remplir quotidiennement un agenda de sommeil et de vous revoir dans un mois</div><div class="t-h1">Avant de modifier le traitement, vous prescrivez un examen polysomnographique</div><div class="t-h1">Vous refusez de renouveler l’ordonnance et vous l’adressez à un thérapeute pratiquant la TCC</div></div><div class="slide-card top"><div class="sn">Slide 4</div><div class="t-h1">2. Un hypnotique idéal est une molécule</div><div class="t-h2">rapidement absorbée</div><div class="t-h1">ayant une durée d’action prolongée pour être encore active le matin au réveil</div><div class="t-h2">sans potentialité addictive</div><div class="t-h1">favorisant la transmission GABAergique</div><div class="t-h2">sans métabolite actif</div></div><div class="slide-card top"><div class="sn">Slide 5</div><div class="t-h1">3. Commercial 50 ans consulte tous les trimestres pour HTA dans le cadre d’un syndrome métabolique. Depuis des années, vous lui prescrivez aussi zolpidem 10 mg (+/- 1 boîte/trimestre) suite à des insomnies transitoires (voyages fréquents, stress professionnel). Cette fois-ci il se retrouve à court de zolpidem après un mois en raison selon lui d’une période professionnelle chargée. En effet le patient se dit fatigué, vous semble plus stressé que d’habitude, a pris quelques kg et sa TA est à 16/9,5. Vous acceptez de lui renouveler l’ordonnance mais que proposez-vous en plus ?</div><div class="t-h1">Un enregistrement polysomnographique</div><div class="t-h1">Une mise en garde sur les risques de dépendance</div><div class="t-h2">Une prescription d’anxiolytique</div><div class="t-h1">Une thérapie cognitive et comportementale centrée sur l’insomnie</div><div class="t-h1">Une évaluation de ses conditions de travail</div></div><div class="slide-card top"><div class="sn">Slide 6</div><div class="t-h2">4. Les hypnotiques GABAergiques :</div><div class="t-h1">augmentent le sommeil profond (ou sommeil à ondes lentes)</div><div class="t-h1">ne sont pas des agonistes des récepteurs GABA</div><div class="t-h2">peuvent provoquer du somnambulisme</div><div class="t-h1">potentient l’action de l’alcool au niveau du récepteur GABA</div><div class="t-h1">sont indiqués pour toute forme d’insomnie</div></div><div class="slide-card top"><div class="sn">Slide 7</div><div class="t-h1">5. Depuis quelques mois, un adolescent de 16 ans met 1 à 2h à s’endormir et présente des difficultés scolaires; ses professeurs ont remarqué un manque d’attention et de motivation, l’adolescent ayant même été surpris à s’endormir pendant le cours de math le matin. Le sommeil du week-end se caractérise par les mêmes difficultés d’endormissement et par un réveil tardif (10:00-12:00). Que préconisez-vous ?</div><div class="t-h1">Un enregistrement polysomnographique</div><div class="t-h1">Une prise en charge de la phobie scolaire</div><div class="t-h1">Une prescription d’hypnotique à action courte (type zolpidem) 5j/7 en période scolaire</div><div class="t-h1">Une thérapie cognitive et comportementale centrée sur l’insomnie</div><div class="t-h2">Aucune de ces propositions</div></div><div class="slide-card top"><div class="sn">Slide 8</div><div class="t-h1">1. Une patiente de 35 ans se présente à votre consultation pour une plainte d’insomnie ayant débuté il y a 10 ans après la naissance de son 1er enfant. Ces dernières années, elle consomme quotidiennement du lorazepam (actuellement 2 mg) qui ne lui semble plus efficace. Que proposez-vous ?</div><div class="t-h1">Vous augmentez la posologie du lorazepam à 3 mg</div><div class="t-h1">Vous remplacez le lorazepam par de la zopiclone 7 mg</div><div class="t-h1">Avant de modifier le traitement, vous demandez à votre patiente de remplir quotidiennement un agenda de sommeil et de vous revoir dans un mois</div><div class="t-h1">Avant de modifier le traitement, vous prescrivez un examen polysomnographique</div><div class="t-h1">Vous refusez de renouveler l’ordonnance et vous l’adressez à un thérapeute pratiquant la TCC</div></div><div class="slide-card top"><div class="sn">Slide 9</div><div class="t-h1">2. Un hypnotique idéal est une molécule</div><div class="t-h2">rapidement absorbée</div><div class="t-h1">ayant une durée d’action prolongée pour être encore active le matin au réveil</div><div class="t-h2">sans potentialité addictive</div><div class="t-h1">favorisant la transmission GABAergique</div><div class="t-h2">sans métabolite actif</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">3. Commercial 50 ans consulte tous les trimestres pour HTA dans le cadre d’un syndrome métabolique. Depuis des années, vous lui prescrivez aussi zolpidem 10 mg (+/- 1 boîte/trimestre) suite à des insomnies transitoires (voyages fréquents, stress professionnel). Cette fois-ci il se retrouve à court de zolpidem après un mois en raison selon lui d’une période professionnelle chargée. En effet le patient se dit fatigué, vous semble plus stressé que d’habitude, a pris quelques kg et sa TA est à 16/9,5. Vous acceptez de lui renouveler l’ordonnance mais que proposez-vous en plus ?</div><div class="t-h1">Un enregistrement polysomnographique</div><div class="t-h1">Une mise en garde sur les risques de dépendance</div><div class="t-h2">Une prescription d’anxiolytique</div><div class="t-h1">Une thérapie cognitive et comportementale centrée sur l’insomnie</div><div class="t-h1">Une évaluation de ses conditions de travail</div></div><div class="slide-card top"><div class="sn">Slide 11</div><div class="t-h2">4. Les hypnotiques GABAergiques :</div><div class="t-h1">augmentent le sommeil profond (ou sommeil à ondes lentes)</div><div class="t-h1">ne sont pas des agonistes des récepteurs GABA</div><div class="t-h2">peuvent provoquer du somnambulisme</div><div class="t-h1">potentient l’action de l’alcool au niveau du récepteur GABA</div><div class="t-h1">sont indiqués pour toute forme d’insomnie</div></div><div class="slide-card top"><div class="sn">Slide 12</div><div class="t-h1">5. Depuis quelques mois, un adolescent de 16 ans met 1 à 2h à s’endormir et présente des difficultés scolaires; ses professeurs ont remarqué un manque d’attention et de motivation, l’adolescent ayant même été surpris à s’endormir pendant le cours de math le matin. Le sommeil du week-end se caractérise par les mêmes difficultés d’endormissement et par un réveil tardif (10:00-12:00). Que préconisez-vous ?</div><div class="t-h1">Un enregistrement polysomnographique</div><div class="t-h1">Une prise en charge de la phobie scolaire</div><div class="t-h1">Une prescription d’hypnotique à action courte (type zolpidem) 5j/7 en période scolaire</div><div class="t-h1">Une thérapie cognitive et comportementale centrée sur l’insomnie</div><div class="t-h2">Aucune de ces propositions</div></div></div></div><div class="bot-nav"><span></span><div class="bn-info">Session 1/2<br>Module 4</div><a class="bn-btn" href="../SESSION_2_HYPNOTIQUES_NON_BZD/index.html">Session suiv. →</a></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>

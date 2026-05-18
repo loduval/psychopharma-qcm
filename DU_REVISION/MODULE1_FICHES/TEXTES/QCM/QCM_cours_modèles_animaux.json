@@ -1,0 +1,202 @@
+{
+  "fichier": "QCM_cours_modèles_animaux.pptx",
+  "session": "QCM",
+  "total_slides": 5,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM cours modeles animaux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pr F Thibaut",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Quelles sont les propositions exactes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Quels sont les critères de validité d’un modèle animal ? (réponses multiples possibles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Validité de prédiction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Isomorphismes des symptômes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Validé de construction",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le modèle doit obligatoirement modéliser tous les symptômes de la pathologie étudiée.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Quelles sont les propositions exactes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Peut-on avoir des modèles animaux des pathologies psychiatriques ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oui, tous les symptômes d’une maladie psychiatriques donnée peuvent être modélisés au travers d’un modèle unique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oui,  tous les symptômes d’une maladie psychiatriques donnée peuvent être modélisés au travers de différents modèles.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Non, les aspects complexes des maladies psychiatriques ne peuvent pas être modélisés.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les modèles primates non humains, sont les seuls modèles qui permettent de modéliser les pathologies psychiatriques.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Quelles sont les propositions exactes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Comment peut-on modéliser l’anxiété chez les rongeurs ? (réponses multiples possibles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En les exposant à des environnements nouveaux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En les mettant dans le noir.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En les mettant dans un grand environnement ouvert.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il faut induire des stress répétés.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Quelles sont les propositions exactes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Peut-on avoir des modèles animaux d’addiction ? (réponses multiples possibles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oui si on utilise obligatoirement des modèles primates non humains.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Oui avec différents modèles chez le rongeur qui modélisent différents symptômes.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le craving défini dans le DSM-5 n’est pas modélisable chez le rongeur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les phénomènes de tolérance, et d’augmentation des consommations (escalade) de drogue chez l’homme ne sont pas modélisables chez le rongeur.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

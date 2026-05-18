@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>DU Psychopharmacologie 2025-2026 — Index</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ── BASE ── */
+:root {
+  --bg:#0f1117; --surface:#1a1d26; --card:#22263a; --text:#e8eaf6;
+  --muted:#8892b0; --border:#2d3351;
+  /* QCM palette */
+  --qbg:#0d1117; --qsurf:#161b22; --qsurf2:#1c2333; --qborder:#30363d;
+  --qtext:#e6edf3; --qtext2:#8b949e; --accent:#58a6ff; --accent2:#1f6feb;
+  --green:#3fb950; --red:#f85149; --yellow:#d29922; --purple:#bc8cff;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html{font-size:16px;scroll-behavior:smooth;}
+body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+
+/* ── HEADER ── */
+header{background:linear-gradient(135deg,#1a1d26,#22263a);border-bottom:2px solid #4f8ef7;padding:32px;text-align:center;}
+header h1{font-size:2rem;font-weight:800;background:linear-gradient(90deg,#4f8ef7,#7c6af7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+header p{color:var(--muted);margin-top:8px;font-size:0.95rem;}
+.search-bar{max-width:500px;margin:24px auto 0;position:relative;}
+.search-bar input{width:100%;padding:12px 20px 12px 44px;border-radius:30px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:1rem;outline:none;font-family:'Inter',sans-serif;}
+.search-bar input:focus{border-color:#4f8ef7;}
+.search-bar::before{content:'🔍';position:absolute;left:16px;top:12px;font-size:1rem;}
+#search-wrap{transition:opacity .2s;}
+
+/* ── TAB NAV ── */
+.tab-nav{display:flex;gap:0;background:var(--surface);border-bottom:1px solid var(--border);padding:0 32px;}
+.tab-btn{padding:14px 28px;font-size:0.92rem;font-weight:600;font-family:'Inter',sans-serif;background:none;border:none;border-bottom:3px solid transparent;color:var(--muted);cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:8px;margin-bottom:-1px;}
+.tab-btn:hover{color:var(--text);}
+.tab-btn.active{color:#4f8ef7;border-bottom-color:#4f8ef7;}
+.tab-btn .tab-badge{background:rgba(79,142,247,.15);color:#4f8ef7;font-size:0.7rem;padding:2px 7px;border-radius:10px;font-family:'DM Mono',monospace;}
+.tab-btn.active-qcm{color:#bc8cff;border-bottom-color:#bc8cff;}
+.tab-btn.active-qcm .tab-badge{background:rgba(188,140,255,.15);color:#bc8cff;}
+
+/* ── TAB PANELS ── */
+.tab-panel{display:none;}
+.tab-panel.active{display:block;animation:fadeIn .25s ease;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:none;}}
+
+/* ── FICHES TAB (original) ── */
+.stats-row{display:flex;gap:32px;justify-content:center;padding:24px 32px;background:var(--surface);border-bottom:1px solid var(--border);}
+.stat{text-align:center;}
+.stat-val{font-size:2rem;font-weight:800;color:#4f8ef7;}
+.stat-lbl{font-size:0.78rem;color:var(--muted);margin-top:4px;}
+.main{padding:40px 32px;max-width:1300px;margin:0 auto;}
+.modules-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:24px;}
+.module-card{background:var(--card);border-radius:16px;border:1px solid var(--border);overflow:hidden;transition:transform .2s;}
+.module-card:hover{transform:translateY(-3px);}
+.module-header{padding:18px 22px;font-weight:700;font-size:1rem;}
+.module-body{padding:8px 0 16px;}
+.session-link{display:flex;align-items:center;padding:10px 22px;text-decoration:none;color:var(--muted);font-size:0.88rem;transition:background .15s;border-radius:8px;margin:0 8px;}
+.session-link:hover{background:rgba(79,142,247,.1);color:var(--text);}
+.session-link .dot{width:8px;height:8px;border-radius:50%;margin-right:12px;flex-shrink:0;}
+.badge{margin-left:auto;font-size:0.72rem;background:rgba(255,255,255,.08);padding:2px 8px;border-radius:10px;}
+footer{text-align:center;padding:32px;color:var(--muted);font-size:0.82rem;border-top:1px solid var(--border);margin-top:48px;}
+.hidden{display:none;}
+
+/* ══════════════════════════════════
+   QCM TAB STYLES
+══════════════════════════════════ */
+#tab-qcm{background:var(--qbg);min-height:80vh;}
+.qcm-wrap{max-width:860px;margin:0 auto;padding:32px 20px 80px;}
+
+/* setup */
+.setup-hero{background:linear-gradient(135deg,#1a2332,#1c1f2e);border:1px solid var(--qborder);border-radius:16px;padding:36px 32px;margin-bottom:28px;}
+.setup-hero h2{font-family:'DM Serif Display',serif;font-size:1.7rem;margin-bottom:8px;color:var(--qtext);}
+.setup-hero p{color:var(--qtext2);font-size:0.9rem;line-height:1.7;}
+.section-label{font-family:'DM Mono',monospace;font-size:0.72rem;text-transform:uppercase;letter-spacing:1.5px;color:var(--qtext2);margin-bottom:12px;}
+.section-block{margin-bottom:28px;}
+.module-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;}
+.qmod-btn{background:var(--qsurf);border:1.5px solid var(--qborder);border-radius:10px;padding:12px 14px;cursor:pointer;transition:all .2s;text-align:left;color:var(--qtext);font-size:0.82rem;font-family:'Inter',sans-serif;line-height:1.4;}
+.qmod-btn .mod-tag{font-family:'DM Mono',monospace;font-size:0.7rem;font-weight:500;display:block;margin-bottom:4px;}
+.qmod-btn:hover{border-color:var(--accent);background:var(--qsurf2);transform:translateY(-1px);}
+.qmod-btn.selected{background:var(--qsurf2);}
+.count-row{display:flex;gap:10px;flex-wrap:wrap;}
+.count-btn{background:var(--qsurf);border:1.5px solid var(--qborder);border-radius:8px;padding:9px 20px;cursor:pointer;color:var(--qtext);font-size:0.9rem;font-weight:600;font-family:'DM Mono',monospace;transition:all .2s;}
+.count-btn:hover{border-color:var(--accent);background:var(--qsurf2);}
+.count-btn.selected{background:var(--accent2);border-color:var(--accent);color:#fff;}
+.start-btn{width:100%;background:linear-gradient(135deg,var(--accent2),#388bfd);color:#fff;border:none;border-radius:10px;padding:15px 24px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;font-family:'Inter',sans-serif;}
+.start-btn:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(31,111,235,.35);}
+.start-btn:disabled{opacity:.4;cursor:not-allowed;transform:none;box-shadow:none;}
+
+/* quiz */
+.qscreen{display:none;}
+.qscreen.active{display:block;animation:fadeIn .3s ease;}
+.progress-bar-wrap{background:var(--qsurf);border-radius:4px;height:5px;margin-bottom:28px;overflow:hidden;border:1px solid var(--qborder);}
+.progress-bar-fill{height:100%;background:linear-gradient(90deg,var(--accent2),var(--purple));border-radius:4px;transition:width .4s ease;}
+.quiz-meta{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;}
+.quiz-counter{font-family:'DM Mono',monospace;font-size:0.8rem;color:var(--qtext2);}
+.quiz-mod-badge{font-family:'DM Mono',monospace;font-size:0.7rem;padding:3px 9px;border-radius:20px;border:1px solid;font-weight:500;}
+.question-card{background:var(--qsurf);border:1px solid var(--qborder);border-radius:14px;padding:28px;margin-bottom:20px;}
+.question-type-tag{font-family:'DM Mono',monospace;font-size:0.68rem;text-transform:uppercase;letter-spacing:1px;color:var(--qtext2);margin-bottom:12px;}
+.question-text{font-size:1.05rem;font-weight:500;line-height:1.65;color:var(--qtext);}
+.options-list{display:flex;flex-direction:column;gap:10px;margin-top:20px;}
+.option-btn{background:var(--qsurf2);border:1.5px solid var(--qborder);border-radius:10px;padding:13px 18px;cursor:pointer;text-align:left;color:var(--qtext);font-size:0.92rem;font-family:'Inter',sans-serif;line-height:1.5;transition:all .15s;display:flex;align-items:flex-start;gap:12px;}
+.option-btn:hover:not(:disabled){border-color:var(--accent);background:#1f2a3c;}
+.option-btn:disabled{cursor:default;}
+.option-label{font-family:'DM Mono',monospace;font-size:0.75rem;font-weight:500;color:var(--qtext2);min-width:22px;margin-top:2px;}
+.option-btn.correct{border-color:var(--green);background:rgba(63,185,80,.08);}
+.option-btn.correct .option-label{color:var(--green);}
+.option-btn.wrong{border-color:var(--red);background:rgba(248,81,73,.08);}
+.option-btn.wrong .option-label{color:var(--red);}
+.option-icon{margin-left:auto;font-size:1rem;flex-shrink:0;}
+.explanation-box{background:var(--qsurf2);border:1px solid var(--qborder);border-left:3px solid var(--accent);border-radius:8px;padding:14px 18px;font-size:0.85rem;color:var(--qtext2);line-height:1.65;display:none;}
+.explanation-box.show{display:block;animation:fadeIn .2s ease;}
+.explanation-box strong{color:var(--qtext);}
+.quiz-nav{display:flex;justify-content:flex-end;gap:12px;margin-top:12px;}
+.btn-secondary{background:var(--qsurf);border:1.5px solid var(--qborder);border-radius:8px;padding:10px 20px;color:var(--qtext2);font-size:0.88rem;cursor:pointer;font-family:'Inter',sans-serif;transition:all .2s;}
+.btn-secondary:hover{border-color:var(--accent);color:var(--qtext);}
+.btn-primary{background:var(--accent2);border:none;border-radius:8px;padding:10px 22px;color:#fff;font-size:0.88rem;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;transition:all .2s;}
+.btn-primary:hover{background:#388bfd;transform:translateY(-1px);}
+.btn-primary:disabled{opacity:.4;cursor:not-allowed;transform:none;}
+
+/* results */
+.results-hero{background:var(--qsurf);border:1px solid var(--qborder);border-radius:16px;padding:40px 32px;text-align:center;margin-bottom:28px;position:relative;overflow:hidden;}
+.results-hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 0%,rgba(31,111,235,.12),transparent 70%);pointer-events:none;}
+.score-ring{width:130px;height:130px;margin:0 auto 20px;position:relative;}
+.score-ring svg{transform:rotate(-90deg);}
+.score-ring-text{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;}
+.score-big{font-family:'DM Serif Display',serif;font-size:2.4rem;line-height:1;color:var(--qtext);}
+.score-denom{font-size:0.78rem;color:var(--qtext2);font-family:'DM Mono',monospace;}
+.results-title{font-family:'DM Serif Display',serif;font-size:1.6rem;margin-bottom:8px;color:var(--qtext);}
+.results-sub{color:var(--qtext2);font-size:0.88rem;}
+.mention-badge{display:inline-block;margin-top:16px;padding:5px 14px;border-radius:20px;font-size:0.82rem;font-weight:600;font-family:'DM Mono',monospace;}
+.mention-badge.excellent{background:rgba(63,185,80,.15);border:1px solid var(--green);color:var(--green);}
+.mention-badge.bien{background:rgba(88,166,255,.15);border:1px solid var(--accent);color:var(--accent);}
+.mention-badge.passable{background:rgba(210,153,34,.15);border:1px solid var(--yellow);color:var(--yellow);}
+.mention-badge.insuffisant{background:rgba(248,81,73,.15);border:1px solid var(--red);color:var(--red);}
+.stats-row-qcm{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:28px;}
+.stat-card{background:var(--qsurf);border:1px solid var(--qborder);border-radius:10px;padding:18px;text-align:center;}
+.stat-card .stat-num{font-family:'DM Mono',monospace;font-size:1.6rem;font-weight:500;}
+.stat-card .stat-label{font-size:0.75rem;color:var(--qtext2);margin-top:4px;}
+.stat-card.correct .stat-num{color:var(--green);}
+.stat-card.wrong .stat-num{color:var(--red);}
+.stat-card.skip .stat-num{color:var(--qtext2);}
+.review-section h3{font-size:0.9rem;font-weight:600;margin-bottom:14px;color:var(--qtext2);}
+.review-item{background:var(--qsurf);border:1px solid var(--qborder);border-radius:10px;padding:16px 18px;margin-bottom:10px;font-size:0.85rem;line-height:1.6;}
+.review-item .ri-q{color:var(--qtext);margin-bottom:8px;font-weight:500;}
+.review-item .ri-correct{color:var(--green);font-size:0.8rem;}
+.review-item .ri-wrong{color:var(--red);font-size:0.8rem;}
+.review-item .ri-exp{color:var(--qtext2);font-size:0.8rem;margin-top:6px;border-top:1px solid var(--qborder);padding-top:6px;}
+.review-status{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:12px;font-size:0.72rem;font-family:'DM Mono',monospace;font-weight:500;float:right;margin-top:2px;}
+.review-status.ok{background:rgba(63,185,80,.12);color:var(--green);}
+.review-status.ko{background:rgba(248,81,73,.12);color:var(--red);}
+.restart-row{display:flex;gap:12px;margin-top:24px;flex-wrap:wrap;}
+.restart-row .btn-primary,.restart-row .btn-secondary{flex:1;text-align:center;padding:12px;}
+.avail-info{font-family:'DM Mono',monospace;font-size:0.72rem;text-transform:uppercase;letter-spacing:1.5px;color:var(--qtext2);margin-bottom:16px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>DU Psychopharmacologie 2025-2026</h1>
+  <p>Université Paris Cité · Examen 23 juin 2026</p>
+  <div class="search-bar" id="search-wrap">
+    <input type="text" id="search" placeholder="Rechercher un module ou une session…" oninput="filterCards()">
+  </div>
+</header>
+
+<!-- ── TAB NAV ── -->
+<nav class="tab-nav">
+  <button class="tab-btn active" id="tab-fiches-btn" onclick="switchTab('fiches')">
+    📚 Fiches de révision <span class="tab-badge">34</span>
+  </button>
+  <button class="tab-btn" id="tab-qcm-btn" onclick="switchTab('qcm')">
+    ⚗️ QCM interactif <span class="tab-badge">60 Q</span>
+  </button>
+</nav>
+
+<!-- ══════════════════════════════════
+     TAB 1 : FICHES
+══════════════════════════════════ -->
+<div class="tab-panel active" id="tab-fiches">
+  <div class="stats-row">
+    <div class="stat"><div class="stat-val">11</div><div class="stat-lbl">Modules</div></div>
+    <div class="stat"><div class="stat-val">35</div><div class="stat-lbl">Sessions</div></div>
+    <div class="stat"><div class="stat-val">34</div><div class="stat-lbl">HTML générés</div></div>
+    <div class="stat"><div class="stat-val">23/06/26</div><div class="stat-lbl">Examen</div></div>
+  </div>
+  <main class="main">
+    <div class="modules-grid" id="grid">
+      <div class="module-card" data-search="module 1 - generalites pharmacologiques">
+        <div id="module-1" class="module-header" style="background:linear-gradient(90deg,#4f8ef722,#4f8ef711);border-left:4px solid #4f8ef7;">MODULE 1 - GENERALITES PHARMACOLOGIQUES</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_1_BASES_NEUROBIOLOGIQUES/index.html" data-search="session_1_bases_neurobiologiques"><span class="dot" style="background:#4f8ef7"></span>SESSION 1 BASES NEUROBIOLOGIQUES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_2_BASES_PSYCHOPHARMACOLOGIE/index.html" data-search="session_2_bases_psychopharmacologie"><span class="dot" style="background:#4f8ef7"></span>SESSION 2 BASES PSYCHOPHARMACOLOGIE<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_3_AGENCES_MEDICAMENT/index.html" data-search="session_3_agences_medicament"><span class="dot" style="background:#4f8ef7"></span>SESSION 3 AGENCES MEDICAMENT<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 1 - GENERALITES PHARMACOLOGIQUES/SESSION_4_PHARMACOGENETIQUE/index.html" data-search="session_4_pharmacogenetique"><span class="dot" style="background:#4f8ef7"></span>SESSION 4 PHARMACOGENETIQUE<span class="badge">✓</span></a>
+          <a class="session-link" style="opacity:.4" href="#" data-search="session_5_lecture_critique_article"><span class="dot" style="background:#4f8ef7"></span>SESSION 5 LECTURE CRITIQUE ARTICLE<span class="badge">…</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 10 - psychostimulants">
+        <div id="module-10" class="module-header" style="background:linear-gradient(90deg,#a84ff722,#a84ff711);border-left:4px solid #a84ff7;">MODULE 10 - PSYCHOSTIMULANTS</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 10 - PSYCHOSTIMULANTS/SESSION_1_PSYCHOSTIMULANTS/index.html" data-search="session_1_psychostimulants"><span class="dot" style="background:#a84ff7"></span>SESSION 1 PSYCHOSTIMULANTS<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 11 - effets indesirables">
+        <div id="module-11" class="module-header" style="background:linear-gradient(90deg,#f7644f22,#f7644f11);border-left:4px solid #f7644f;">MODULE 11 - EFFETS INDESIRABLES</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 11 - EFFETS INDESIRABLES/SESSIONS_1_2_EFFETS_AP_ATD/index.html" data-search="sessions_1_2_effets_ap_atd"><span class="dot" style="background:#f7644f"></span>SESSIONS 1 2 EFFETS AP ATD<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 11 - EFFETS INDESIRABLES/SESSION_3_TROUBLES_METABOLIQUES/index.html" data-search="session_3_troubles_metaboliques"><span class="dot" style="background:#f7644f"></span>SESSION 3 TROUBLES METABOLIQUES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 11 - EFFETS INDESIRABLES/SESSION_4_EFFETS_SEXUELS/index.html" data-search="session_4_effets_sexuels"><span class="dot" style="background:#f7644f"></span>SESSION 4 EFFETS SEXUELS<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 2 - prescriptions en populations specifiques">
+        <div id="module-2" class="module-header" style="background:linear-gradient(90deg,#7c6af722,#7c6af711);border-left:4px solid #7c6af7;">MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_1_SUJET_AGE/index.html" data-search="session_1_sujet_age"><span class="dot" style="background:#7c6af7"></span>SESSION 1 SUJET AGE<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_2_ENFANT_ADOLESCENT/index.html" data-search="session_2_enfant_adolescent"><span class="dot" style="background:#7c6af7"></span>SESSION 2 ENFANT ADOLESCENT<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_3_GROSSESSE_ALLAITEMENT/index.html" data-search="session_3_grossesse_allaitement"><span class="dot" style="background:#7c6af7"></span>SESSION 3 GROSSESSE ALLAITEMENT<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_4_MILIEU_CARCERAL/index.html" data-search="session_4_milieu_carceral"><span class="dot" style="background:#7c6af7"></span>SESSION 4 MILIEU CARCERAL<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_5_INSUFFISANCES_ORGANIQUES/index.html" data-search="session_5_insuffisances_organiques"><span class="dot" style="background:#7c6af7"></span>SESSION 5 INSUFFISANCES ORGANIQUES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_6_TROUBLES_COMPORTEMENT_ALIMENTAIRE/index.html" data-search="session_6_troubles_comportement_alimentaire"><span class="dot" style="background:#7c6af7"></span>SESSION 6 TROUBLES COMPORTEMENT ALIMENTAIRE<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_7_TROUBLES_NEUROCOGNITIFS/index.html" data-search="session_7_troubles_neurocognitifs"><span class="dot" style="background:#7c6af7"></span>SESSION 7 TROUBLES NEUROCOGNITIFS<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 2 - PRESCRIPTIONS EN POPULATIONS SPECIFIQUES/SESSION_8_PSYCHIATRIE_LIAISON/index.html" data-search="session_8_psychiatrie_liaison"><span class="dot" style="background:#7c6af7"></span>SESSION 8 PSYCHIATRIE LIAISON<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 3 - benzodiazepines et anxiolytiques">
+        <div id="module-3" class="module-header" style="background:linear-gradient(90deg,#f76a6a22,#f76a6a11);border-left:4px solid #f76a6a;">MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_1_RAPPEL_CLINIQUE_TROUBLES_ANXIEUX/index.html" data-search="session_1_rappel_clinique_troubles_anxieux"><span class="dot" style="background:#f76a6a"></span>SESSION 1 RAPPEL CLINIQUE TROUBLES ANXIEUX<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_2_BENZODIAZEPINES/index.html" data-search="session_2_benzodiazepines"><span class="dot" style="background:#f76a6a"></span>SESSION 2 BENZODIAZEPINES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_3_ANXIOLYTIQUES_NON_BZD/index.html" data-search="session_3_anxiolytiques_non_bzd"><span class="dot" style="background:#f76a6a"></span>SESSION 3 ANXIOLYTIQUES NON BZD<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 3 - BENZODIAZEPINES ET ANXIOLYTIQUES/SESSION_4_RECOMMANDATIONS_TROUBLES_ANXIEUX/index.html" data-search="session_4_recommandations_troubles_anxieux"><span class="dot" style="background:#f76a6a"></span>SESSION 4 RECOMMANDATIONS TROUBLES ANXIEUX<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 4 - hypnotiques et sommeil">
+        <div id="module-4" class="module-header" style="background:linear-gradient(90deg,#43d68e22,#43d68e11);border-left:4px solid #43d68e;">MODULE 4 - HYPNOTIQUES ET SOMMEIL</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 4 - HYPNOTIQUES ET SOMMEIL/SESSION_1_HYPNOTIQUES_BZD/index.html" data-search="session_1_hypnotiques_bzd"><span class="dot" style="background:#43d68e"></span>SESSION 1 HYPNOTIQUES BZD<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 4 - HYPNOTIQUES ET SOMMEIL/SESSION_2_HYPNOTIQUES_NON_BZD/index.html" data-search="session_2_hypnotiques_non_bzd"><span class="dot" style="background:#43d68e"></span>SESSION 2 HYPNOTIQUES NON BZD<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 5 - antidepresseurs et thymoregulateurs">
+        <div id="module-5" class="module-header" style="background:linear-gradient(90deg,#f7a84f22,#f7a84f11);border-left:4px solid #f7a84f;">MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS/SESSION_1_ANTIDEPRESSEURS/index.html" data-search="session_1_antidepresseurs"><span class="dot" style="background:#f7a84f"></span>SESSION 1 ANTIDEPRESSEURS<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 5 - ANTIDEPRESSEURS ET THYMOREGULATEURS/SESSION_2_THYMOREGULATEURS/index.html" data-search="session_2_thymoregulateurs"><span class="dot" style="background:#f7a84f"></span>SESSION 2 THYMOREGULATEURS<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 6 - antipsychotiques">
+        <div id="module-6" class="module-header" style="background:linear-gradient(90deg,#f74fb422,#f74fb411);border-left:4px solid #f74fb4;">MODULE 6 - ANTIPSYCHOTIQUES</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 6 - ANTIPSYCHOTIQUES/SESSION_1_ANTIPSYCHOTIQUES/index.html" data-search="session_1_antipsychotiques"><span class="dot" style="background:#f74fb4"></span>SESSION 1 ANTIPSYCHOTIQUES<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 7 - addictions">
+        <div id="module-7" class="module-header" style="background:linear-gradient(90deg,#4ff7e822,#4ff7e811);border-left:4px solid #4ff7e8;">MODULE 7 - ADDICTIONS</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 7 - ADDICTIONS/SESSION_1_ALCOOL/index.html" data-search="session_1_alcool"><span class="dot" style="background:#4ff7e8"></span>SESSION 1 ALCOOL<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 7 - ADDICTIONS/SESSION_2_TABAC/index.html" data-search="session_2_tabac"><span class="dot" style="background:#4ff7e8"></span>SESSION 2 TABAC<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 7 - ADDICTIONS/SESSION_3_SUBSTANCES_ILLICITES/index.html" data-search="session_3_substances_illicites"><span class="dot" style="background:#4ff7e8"></span>SESSION 3 SUBSTANCES ILLICITES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 7 - ADDICTIONS/SESSION_4_ADDICTIONS_COMPORTEMENTALES/index.html" data-search="session_4_addictions_comportementales"><span class="dot" style="background:#4ff7e8"></span>SESSION 4 ADDICTIONS COMPORTEMENTALES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 7 - ADDICTIONS/SESSION_5_ADDICTIONS_MEDICAMENTS/index.html" data-search="session_5_addictions_medicaments"><span class="dot" style="background:#4ff7e8"></span>SESSION 5 ADDICTIONS MEDICAMENTS<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 8 - troubles sexuels">
+        <div id="module-8" class="module-header" style="background:linear-gradient(90deg,#d4f74f22,#d4f74f11);border-left:4px solid #d4f74f;">MODULE 8 - TROUBLES SEXUELS</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 8 - TROUBLES SEXUELS/SESSION_1_HYPOFONCTIONNEMENT/index.html" data-search="session_1_hypofonctionnement"><span class="dot" style="background:#d4f74f"></span>SESSION 1 HYPOFONCTIONNEMENT<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 8 - TROUBLES SEXUELS/SESSION_2_1_ADDICTIONS_SEXUELLES/index.html" data-search="session_2_1_addictions_sexuelles"><span class="dot" style="background:#d4f74f"></span>SESSION 2 1 ADDICTIONS SEXUELLES<span class="badge">✓</span></a>
+          <a class="session-link" href="MODULE 8 - TROUBLES SEXUELS/SESSION_2_2_TROUBLES_PARAPHILIQUES/index.html" data-search="session_2_2_troubles_paraphiliques"><span class="dot" style="background:#d4f74f"></span>SESSION 2 2 TROUBLES PARAPHILIQUES<span class="badge">✓</span></a>
+        </div>
+      </div>
+      <div class="module-card" data-search="module 9 - traitements hors amm">
+        <div id="module-9" class="module-header" style="background:linear-gradient(90deg,#f7d44f22,#f7d44f11);border-left:4px solid #f7d44f;">MODULE 9 - TRAITEMENTS HORS AMM</div>
+        <div class="module-body">
+          <a class="session-link" href="MODULE 9 - TRAITEMENTS HORS AMM/SESSION_1_HORS_AMM/index.html" data-search="session_1_hors_amm"><span class="dot" style="background:#f7d44f"></span>SESSION 1 HORS AMM<span class="badge">✓</span></a>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>Généré le 28/03/2026 · DU Psychopharmacologie · <a href="#" onclick="switchTab('qcm');return false;" style="color:#4f8ef7;text-decoration:none;">→ Lancer les QCM</a></footer>
+</div>
+
+<!-- ══════════════════════════════════
+     TAB 2 : QCM
+══════════════════════════════════ -->
+<div class="tab-panel" id="tab-qcm">
+<div class="qcm-wrap">
+
+  <!-- SETUP SCREEN -->
+  <div class="qscreen active" id="qscreen-setup">
+    <div class="setup-hero">
+      <h2>Session de révision QCM</h2>
+      <p>Choisissez un ou plusieurs modules, le nombre de questions, puis lancez. Feedback et explication clinique après chaque réponse. Note /20 à la fin.</p>
+    </div>
+    <div class="section-block">
+      <div class="section-label">Filtre par module</div>
+      <div class="module-grid">
+        <button class="qmod-btn selected" data-mod="all" onclick="qToggleMod('all')"><span class="mod-tag" style="color:#e8eaf6">TOUS</span>Tous modules</button>
+        <button class="qmod-btn" data-mod="1"  onclick="qToggleMod('1')"><span class="mod-tag" style="color:#58a6ff">M1</span>Pharmaco générale</button>
+        <button class="qmod-btn" data-mod="2"  onclick="qToggleMod('2')"><span class="mod-tag" style="color:#ff7b72">M2</span>Pop. spécifiques</button>
+        <button class="qmod-btn" data-mod="3"  onclick="qToggleMod('3')"><span class="mod-tag" style="color:#ffa657">M3</span>BZD / Anxiolytiques</button>
+        <button class="qmod-btn" data-mod="4"  onclick="qToggleMod('4')"><span class="mod-tag" style="color:#d2a8ff">M4</span>Hypnotiques</button>
+        <button class="qmod-btn" data-mod="5"  onclick="qToggleMod('5')"><span class="mod-tag" style="color:#79c0ff">M5</span>Antidépresseurs</button>
+        <button class="qmod-btn" data-mod="6"  onclick="qToggleMod('6')"><span class="mod-tag" style="color:#56d364">M6</span>Antipsychotiques</button>
+        <button class="qmod-btn" data-mod="7"  onclick="qToggleMod('7')"><span class="mod-tag" style="color:#f78166">M7</span>Addictions</button>
+        <button class="qmod-btn" data-mod="8"  onclick="qToggleMod('8')"><span class="mod-tag" style="color:#ffa657">M8</span>Troubles sexuels</button>
+        <button class="qmod-btn" data-mod="9"  onclick="qToggleMod('9')"><span class="mod-tag" style="color:#ff7b72">M9</span>Hors AMM</button>
+        <button class="qmod-btn" data-mod="10" onclick="qToggleMod('10')"><span class="mod-tag" style="color:#79c0ff">M10</span>Psychostimulants</button>
+        <button class="qmod-btn" data-mod="11" onclick="qToggleMod('11')"><span class="mod-tag" style="color:#d2a8ff">M11</span>Effets indés.</button>
+      </div>
+    </div>
+    <div class="section-block">
+      <div class="section-label">Nombre de questions</div>
+      <div class="count-row">
+        <button class="count-btn" data-n="10" onclick="qSelectCount(10)">10</button>
+        <button class="count-btn selected" data-n="20" onclick="qSelectCount(20)">20</button>
+        <button class="count-btn" data-n="30" onclick="qSelectCount(30)">30</button>
+        <button class="count-btn" data-n="40" onclick="qSelectCount(40)">40</button>
+        <button class="count-btn" data-n="50" onclick="qSelectCount(50)">50</button>
+      </div>
+    </div>
+    <div class="section-block">
+      <div class="avail-info" id="q-avail-info"></div>
+      <button class="start-btn" id="q-start-btn" onclick="qStartQuiz()">▶ &nbsp;Lancer le QCM</button>
+    </div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div class="qscreen" id="qscreen-quiz">
+    <div class="progress-bar-wrap"><div class="progress-bar-fill" id="q-progress-fill" style="width:0%"></div></div>
+    <div class="quiz-meta">
+      <span class="quiz-counter" id="q-counter">Question 1 / 20</span>
+      <span class="quiz-mod-badge" id="q-mod-badge">M1</span>
+    </div>
+    <div class="question-card">
+      <div class="question-type-tag">QCM · Réponse unique</div>
+      <div class="question-text" id="q-text"></div>
+      <div class="options-list" id="q-options"></div>
+    </div>
+    <div class="explanation-box" id="q-exp"></div>
+    <div class="quiz-nav">
+      <button class="btn-secondary" onclick="qEndEarly()">Terminer</button>
+      <button class="btn-primary" id="q-btn-next" onclick="qNextQuestion()" disabled>Suivant →</button>
+    </div>
+  </div>
+
+  <!-- RESULTS SCREEN -->
+  <div class="qscreen" id="qscreen-results">
+    <div class="results-hero">
+      <div class="score-ring">
+        <svg width="130" height="130" viewBox="0 0 130 130">
+          <circle cx="65" cy="65" r="55" fill="none" stroke="#30363d" stroke-width="10"/>
+          <circle cx="65" cy="65" r="55" fill="none" stroke-width="10" stroke-linecap="round"
+            id="q-score-circle" stroke="url(#qgrad)"
+            stroke-dasharray="345.6" stroke-dashoffset="345.6"/>
+          <defs><linearGradient id="qgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#1f6feb"/>
+            <stop offset="100%" stop-color="#bc8cff"/>
+          </linearGradient></defs>
+        </svg>
+        <div class="score-ring-text">
+          <span class="score-big" id="q-score-num">—</span>
+          <span class="score-denom">/ 20</span>
+        </div>
+      </div>
+      <div class="results-title" id="q-results-title">Bilan</div>
+      <div class="results-sub" id="q-results-sub"></div>
+      <div class="mention-badge" id="q-mention"></div>
+    </div>
+    <div class="stats-row-qcm">
+      <div class="stat-card correct"><div class="stat-num" id="q-stat-correct">0</div><div class="stat-label">Correctes ✓</div></div>
+      <div class="stat-card wrong"><div class="stat-num" id="q-stat-wrong">0</div><div class="stat-label">Incorrectes ✗</div></div>
+      <div class="stat-card skip"><div class="stat-num" id="q-stat-skip">0</div><div class="stat-label">Non répondues</div></div>
+    </div>
+    <div class="review-section"><h3>📋 Questions incorrectes</h3><div id="q-review-list"></div></div>
+    <div class="restart-row">
+      <button class="btn-primary" onclick="qShowSetup()">↺ Nouvelle session</button>
+      <button class="btn-secondary" onclick="qRepeatWrong()">Reprendre les erreurs</button>
+    </div>
+  </div>
+
+</div><!-- /qcm-wrap -->
+</div><!-- /tab-qcm -->
+
+
+<script>
+/* ══ TAB SWITCHING ══ */
+function switchTab(t) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active','active-qcm'));
+  document.getElementById('tab-'+t).classList.add('active');
+  const btn = document.getElementById('tab-'+t+'-btn');
+  btn.classList.add(t==='qcm'?'active-qcm':'active');
+  document.getElementById('search-wrap').style.display = t==='fiches'?'':'none';
+  if(t==='qcm') qUpdateAvail();
+}
+
+/* ══ FICHES SEARCH ══ */
+function filterCards() {
+  const q = document.getElementById('search').value.toLowerCase();
+  document.querySelectorAll('.module-card').forEach(card => {
+    const match = card.dataset.search.includes(q);
+    card.classList.toggle('hidden', !match);
+    if(match) {
+      card.querySelectorAll('.session-link').forEach(link => {
+        link.classList.toggle('hidden', q.length>2 && !link.dataset.search.includes(q));
+      });
+    }
+  });
+}
+
+/* ══ QCM DATABASE — 60 questions ══ */
+const QDB = [
+{m:1,q:"Quelle propriété physicochimique est la PLUS déterminante pour le passage de la barrière hémato-encéphalique (BHE) ?",o:["Forte liaison aux protéines plasmatiques","Liposolubilité élevée et faible poids moléculaire","Ionisation complète à pH physiologique","Solubilité aqueuse maximale"],a:1,e:"Le passage de la BHE requiert liposolubilité élevée, faible poids moléculaire (<500 Da) et faible ionisation à pH 7,4. Les molécules très liées aux protéines ou très hydrophiles traversent mal la BHE."},
+{m:1,q:"Le CYP2D6 — quel phénotype (~7-10 % Caucasiens) expose à des effets indésirables dose-dépendants ?",o:["Métaboliseur ultrarapide","Métaboliseur extensif normal","Métaboliseur lent (poor metabolizer)","Métaboliseur intermédiaire"],a:2,e:"Les métaboliseurs lents CYP2D6 (allèles *3,*4,*5) accumulent les substrats (paroxétine, halopéridol…) → effets indésirables dose-dépendants. Les ultrarapides catabolisent trop vite."},
+{m:1,q:"La demi-vie d'élimination totale de la fluoxétine + norfluoxétine est de :",o:["6-12h","12-24h","1-4 jours","4-16 jours"],a:3,e:"Fluoxétine t½ ~1-4j, norfluoxétine t½ ~4-16j. C'est la demi-vie la plus longue des ISRS, d'où bonne tolérance à l'arrêt mais interactions prolongées."},
+{m:1,q:"La carbamazépine induit le CYP3A4. Quel est l'effet sur un antipsychotique substrat de ce CYP ?",o:["Augmentation des concentrations","Diminution des concentrations","Aucune modification","Augmentation de la demi-vie"],a:1,e:"Un inducteur enzymatique augmente le métabolisme → diminution des concentrations plasmatiques du substrat. Risque de rechute si co-prescription."},
+{m:1,q:"La P-glycoprotéine (Pgp) au niveau de la BHE joue le rôle de :",o:["Transporteur d'influx facilitant le passage cérébral","Pompe d'efflux limitant l'accumulation cérébrale","Récepteur de surface neuronal","Enzyme de phase I intraneuronale"],a:1,e:"La Pgp (ABCB1) est une pompe d'efflux ATP-dépendante qui recycle de nombreux médicaments vers le plasma, limitant leur accumulation cérébrale."},
+{m:1,q:"Un Vd très élevé (>100 L/kg) indique que :",o:["Le médicament reste majoritairement dans le plasma","Il se distribue largement dans les tissus et est peu extrait par dialyse","Il est rapidement éliminé par le rein","Il traverse mal la BHE"],a:1,e:"Vd élevé = concentration dans les tissus (liposolubilité, liaison tissulaire). Conséquences : longue t½, difficultés de dialyse, accumulation après arrêt."},
+{m:1,q:"La BHE est constituée principalement de :",o:["Cellules de Schwann","Cellules endothéliales avec jonctions serrées renforcées par les astrocytes","Méningocytes","Oligodendrocytes encapsulant les capillaires"],a:1,e:"La BHE est formée par l'endothélium cérébral (jonctions serrées : occludines, claudines), les pieds astrocytaires, les péricytes et la Pgp assurant l'efflux."},
+{m:1,q:"La biodisponibilité orale est réduite par l'effet de premier passage hépatique. Cela signifie que :",o:["Le médicament est dégradé dans l'estomac","Une fraction absorbée est métabolisée au foie avant la circulation systémique","Le médicament est éliminé par les reins avant d'agir","Il est absorbé en excès dans l'intestin"],a:1,e:"L'effet first-pass réduit la quantité atteignant la circulation systémique. Ex : morphine biodisponibilité ~25-30% par voie orale vs ~100% SC/IV."},
+{m:2,q:"Le mécanisme principal de la venlafaxine (IRSN) est :",o:["Inhibition sélective de la recapture de 5-HT uniquement","Inhibition de la MAO-A et MAO-B","Inhibition de la recapture de 5-HT ET NA","Antagonisme des récepteurs 5-HT2A"],a:2,e:"La venlafaxine est un IRSN. À faibles doses elle agit surtout sur 5-HT, l'effet noradrénergique se manifeste à partir de 150 mg/j."},
+{m:2,q:"Quel antidépresseur risque le plus le syndrome sérotoninergique avec un IMAO irréversible ?",o:["Mirtazapine","Tianeptine","Clomipramine","Agomélatine"],a:2,e:"La clomipramine (tricyclique sérotoninergique puissant) est la plus à risque. Délai : 14 j après arrêt IMAO (21 j pour iproniazide) avant introduction."},
+{m:2,q:"L'agomélatine agit sur quels récepteurs ?",o:["Agoniste MT1/MT2, antagoniste 5-HT2C","Agoniste 5-HT1A, antagoniste 5-HT2A","Inhibiteur NA, antagoniste α2","IMAO-A sélectif réversible"],a:0,e:"L'agomélatine (Valdoxan®) est agoniste MT1/MT2 et antagoniste 5-HT2C. Surveillance hépatique obligatoire (S0, S3, S6, S12, S24)."},
+{m:2,q:"Le délai d'efficacité clinique attendu d'un antidépresseur est généralement de :",o:["2-5 jours","2-4 semaines","3-6 mois","Plus de 6 mois"],a:1,e:"Le délai est de 2-4 semaines (parfois 6). Il s'explique par la désensibilisation des autorécepteurs 5-HT1A et β-adrénergiques présynaptiques."},
+{m:2,q:"Quel ISRS est le mieux documenté pendant la grossesse et souvent recommandé en 1ère intention ?",o:["Fluoxétine","Paroxétine","Sertraline","Fluvoxamine"],a:2,e:"La sertraline est l'ISRS avec le plus grand recul en grossesse. La paroxétine est déconseillée au 1er trimestre (risque cardiaque fœtal)."},
+{m:2,q:"Durée minimale recommandée de traitement après un 1er épisode dépressif :",o:["1 mois","3-6 mois","6 mois à 1 an","3-5 ans"],a:2,e:"Après rémission d'un 1er épisode : maintien minimum 6 mois à 1 an. Après 2 épisodes ou plus : durée prolongée. Arrêt toujours progressif."},
+{m:2,q:"Les antidépresseurs tricycliques sont moins utilisés en 1ère intention en raison de :",o:["Leur inefficacité dans les épisodes sévères","Cardiotoxicité (QRS/QT), effets anticholinergiques, létalité en surdosage","Absence de remboursement","Absence d'essais cliniques"],a:1,e:"Les tricycliques sont efficaces mais supplantés par leur mauvaise tolérance : cardiotoxicité, effets anticholinergiques, sédation, risque vital en surdosage."},
+{m:2,q:"Quel ISRS est DÉCONSEILLÉ au 1er trimestre (signal malformations cardiaques fœtales) ?",o:["Sertraline","Escitalopram","Paroxétine","Citalopram"],a:2,e:"La paroxétine est associée à un risque augmenté de cardiopathies congénitales (CIA, CIV) au 1er trimestre. L'AMM indique de l'éviter en début de grossesse."},
+{m:3,q:"La lithiémie résiduelle thérapeutique recommandée par l'ANSM en entretien est :",o:["0,2-0,4 mEq/L","0,5-0,8 mEq/L","1,0-1,5 mEq/L","1,8-2,5 mEq/L"],a:1,e:"ANSM RCP : Cmin 0,5-0,8 mEq/L en entretien (prélevée 12h après la dernière prise). Au-delà de 1,5 mEq/L : risque de toxicité."},
+{m:3,q:"Quel signe est caractéristique de la toxicité aiguë au lithium ?",o:["Mydriase bilatérale","Tremblements grossiers, confusion, ataxie","Hyperthermie isolée","Bradycardie sinusale asymptomatique"],a:1,e:"Toxicité Li+ : tremblements grossiers, confusion, ataxie. À >2 mEq/L : convulsions, coma, arythmies, IRA. Conduite : arrêt, réhydratation, EER si grave."},
+{m:3,q:"Le valproate est contre-indiqué chez la femme en âge de procréer sans contraception efficace car :",o:["Tératogène (spina bifida, TND) et majore le risque de troubles du développement","Inhibe le CYP2C19 perturbant la contraception","Provoque une aménorrhée irréversible","Est néphrotoxique en grossesse"],a:0,e:"Valproate tératogène : spina bifida, malformations cardiaques, TSA, retard de développement. Programme de prévention des grossesses obligatoire en France."},
+{m:3,q:"La lamotrigine agit principalement en :",o:["Bloquant les canaux Na+ voltage-dépendants et inhibant la libération de glutamate","Augmentant la transmission GABAergique","Inhibant la recapture de la noradrénaline","Bloquant les récepteurs D2"],a:0,e:"Lamotrigine : bloque les canaux Na+ → réduit libération de glutamate. Efficace en prophylaxie des épisodes dépressifs bipolaires. Risque Stevens-Johnson si titration trop rapide."},
+{m:3,q:"Quelle interaction majore le risque de toxicité au lithium par réduction de son excrétion rénale ?",o:["Aspirine à faibles doses","AINS ou diurétiques thiazidiques","Antidépresseurs ISRS","Caféine"],a:1,e:"AINS et thiazidiques réduisent l'excrétion rénale du Li+ (réabsorption tubulaire accrue), pouvant doubler la lithiémie → risque d'intoxication."},
+{m:3,q:"La carbamazépine induit son propre métabolisme (auto-induction CYP3A4). Conséquence :",o:["Stabilité des concentrations à long terme","Diminution des concentrations après 3-4 semaines nécessitant une augmentation de dose","Inhibition des CYP hépatiques","Augmentation de la t½"],a:1,e:"Auto-induction : la carbamazépine induit le CYP3A4 → baisse de 30-50% de ses propres concentrations après 3-4 semaines. Réévaluation de la posologie nécessaire."},
+{m:4,q:"Quel antipsychotique nécessite une surveillance hématologique (NFS) en raison du risque d'agranulocytose ?",o:["Rispéridone","Olanzapine","Clozapine","Aripiprazole"],a:2,e:"Clozapine : risque d'agranulocytose ~1-2%. NFS hebdomadaire 18 semaines puis mensuelle. Prescription communautaire possible depuis avril 2025 (révision ANSM/EMA sept. 2025)."},
+{m:4,q:"Le syndrome malin des neuroleptiques (SMN) se caractérise par :",o:["Hyperthermie, rigidité musculaire, instabilité végétative, CPK élevée","Hyperthermie, diarrhée, myoclonies, agitation","Hypotension, bradycardie, hypersalivation","Coma, convulsions, hypoglycémie"],a:0,e:"SMN (urgence vitale) : hyperthermie >38,5°C, rigidité extrapyramidale, instabilité neurovégétative, CPK très élevée. Conduite : arrêt AP, refroidissement, dantrolène, bromocriptine."},
+{m:4,q:"L'akathisie correspond à :",o:["Impatience motrice subjective et objective, impossibilité de rester immobile","Contractions involontaires du cou et du tronc","Raideur en roue dentée","Mouvements choréiques tardifs"],a:0,e:"Akathisie : impatience motrice, incapacité à rester assis. Souvent sous-diagnostiquée, confondue avec agitation psychotique. Traitement : dose réduction, propranolol 30-80 mg/j."},
+{m:4,q:"Quel antipsychotique a la plus haute affinité D2, expliquant ses EPS fréquents ?",o:["Clozapine","Quétiapine","Halopéridol","Aripiprazole"],a:2,e:"Halopéridol : affinité D2 très élevée (Ki ~1 nM) → efficacité antihallucinatoire + EPS fréquents. Clozapine et quétiapine ont faible affinité D2, peu d'EPS."},
+{m:4,q:"L'aripiprazole, agoniste partiel D2, se comporte comme :",o:["Bloquant complet D2","Antagoniste fonctionnel en hyperdopaminergie, agoniste partiel en hypodopaminergie","Inhibiteur de synthèse dopaminergique","Augmentant la libération présynaptique de DA"],a:1,e:"Agoniste partiel D2 : antagoniste fonctionnel dans les voies mésolimbiques (hyperdopaminergie), préserve le tonus DA dans les voies nigrostriée et tubéroinfundibulaire. D'où peu d'EPS et peu d'hyperprolactinémie."},
+{m:4,q:"L'hyperprolactinémie induite par les AP est due au blocage D2 dans quelle voie ?",o:["Voie mésolimbique","Voie nigrostriée","Voie tubéro-infundibulaire","Voie mésocorticale"],a:2,e:"La voie tubéro-infundibulaire (hypothalamus→hypophyse) assure l'inhibition tonique de la prolactine par la DA. Son blocage D2 → aménorrhée, galactorrhée, gynécomastie."},
+{m:4,q:"Quel AP de 2ème génération est le plus souvent associé à un syndrome métabolique ?",o:["Aripiprazole","Ziprasidone","Olanzapine","Amisulpride"],a:2,e:"Olanzapine : prise de poids +4-5 kg/10 semaines, dyslipidémie, risque DT2 (antagonisme H1, M3, 5-HT2C). Aripiprazole et ziprasidone ont le profil métabolique le plus favorable."},
+{m:3,q:"Quel est l'effet du lithium sur l'anomalie d'Ebstein lors d'une exposition au 1er trimestre ?",o:["Aucun risque documenté","Risque faible mais augmenté de malformation valve tricuspide (organogenèse S5-10)","Risque uniquement au 3ème trimestre","Risque uniquement à l'accouchement"],a:1,e:"Anomalie d'Ebstein (valve tricuspide) associée au lithium au 1er trimestre (S5-10). Risque absolu ~0,1% mais augmenté. Échocardiographie fœtale recommandée à S22-24."},
+{m:5,q:"Les BZD agissent sur quel complexe récepteur ?",o:["Récepteurs NMDA (glutamate)","Complexe GABA-A/BZ/canal Cl-","Récepteurs 5-HT1A","Récepteurs β-adrénergiques"],a:1,e:"Les BZD se fixent sur le site allostérique du GABA-A, potentialisant le GABA en augmentant la fréquence d'ouverture des canaux Cl-."},
+{m:5,q:"Quelle différence pharmacocinétique explique que l'alprazolam est plus addictogène que le diazépam ?",o:["Alprazolam : demi-vie longue ; diazépam : demi-vie courte","Alprazolam : t½ courte (6-12h), début rapide → rebond entre prises ; diazépam : t½ très longue (>50h métabolites)","Alprazolam est un précurseur inactif","Diazépam n'est pas métabolisé"],a:1,e:"t½ courte + début rapide = potentiel de dépendance plus élevé (rebond anxieux entre prises). Diazépam et ses métabolites actifs (nordiazépam t½>50h) ont moins de rebond."},
+{m:5,q:"La buspirone anxiolytique non-BZD agit via :",o:["Antagonisme GABA-A","Agonisme partiel 5-HT1A","Inhibition du canal Na+","Antagonisme NMDA"],a:1,e:"La buspirone est agoniste partiel 5-HT1A. Pas de dépendance, pas de sédation immédiate. Délai : 2-4 semaines. Inefficace chez les patients prétraités par BZD."},
+{m:5,q:"En cas de sevrage brutal aux BZD après usage prolongé, quel risque grave doit être prévenu ?",o:["Psychose maniaque aiguë","Convulsions (épilepsie de sevrage)","Syndrome sérotoninergique","Neutropénie sévère"],a:1,e:"Arrêt brutal BZD → syndrome de sevrage sévère : anxiété, tremblements, convulsions, delirium. Sevrage progressif obligatoire (paliers de 10-25% toutes les 1-2 semaines)."},
+{m:5,q:"L'hydroxyzine (Atarax®) est un anxiolytique non BZD dont le mécanisme principal est :",o:["Potentialisation GABAergique","Antagonisme des récepteurs H1 histaminiques","Agonisme 5-HT1A","Inhibition du canal Na+"],a:1,e:"Hydroxyzine : antihistaminique H1 à propriétés anticholinergiques. Sédation et anxiolyse via effet antihistaminique central. Pas de dépendance. Durée max 4 semaines recommandée."},
+{m:6,q:"Les Z-drugs diffèrent des BZD principalement par :",o:["Mécanisme totalement différent (antagonistes GABA-B)","Sélectivité pour les sous-unités α1 du GABA-A (hypnose > anxiolyse/myorelaxation)","Demi-vie plus longue que les BZD","Absence de métabolisme hépatique"],a:1,e:"Z-drugs : même mécanisme que BZD mais sélectivité α1 (hypnose). En pratique, potentiel de dépendance similaire aux BZD."},
+{m:6,q:"La courte t½ du zolpidem (~2-3h) explique que :",o:["Il est adapté aux insomnies de maintien nocturne","Il est inadapté aux difficultés d'endormissement","Il peut provoquer des parasomnies mais laisse peu de somnolence résiduelle","Il nécessite 3 prises par jour"],a:2,e:"t½ courte = efficace sur l'induction du sommeil, peu d'effet sur le maintien, peu de somnolence résiduelle. Mais parasomnies possibles (somnambulisme, conduites automatiques), surtout avec alcool."},
+{m:6,q:"La TCC-I (thérapie cognitivo-comportementale pour l'insomnie) est recommandée :",o:["En 2ème ligne après zolpidem 4 semaines","En 1ère intention dans l'insomnie chronique (>3 mois)","Uniquement chez les patients >65 ans","Uniquement en association avec la mélatonine"],a:1,e:"HAS et AASM placent la TCC-I en 1ère intention dans l'insomnie chronique : restriction de sommeil, contrôle du stimulus, hygiène du sommeil, restructuration cognitive."},
+{m:6,q:"La mélatonine LP (Circadin® 2mg) agit via :",o:["Antagonisme des récepteurs orexiniques","Agonisme MT1/MT2, facilitant la resynchronisation circadienne","Potentialisation GABAergique","Inhibition de la phosphodiestérase"],a:1,e:"Mélatonine LP : agoniste MT1 (inhibition du signal d'éveil) et MT2 (synchronisation circadienne). Indiquée ≥55 ans. Pas de risque de dépendance."},
+{m:7,q:"Le méthylphénidate agit sur le TDAH principalement via :",o:["Augmentation des concentrations synaptiques de DA et NA par inhibition de DAT et NET","Antagonisme des récepteurs D2","Libération massive de 5-HT","Inhibition de la MAO-B"],a:0,e:"Méthylphénidate bloque DAT et NET → augmente DA et NA dans la fente synaptique. Effet DA dans le striatum (impulsivité), effet NA dans le CPF (attention)."},
+{m:7,q:"L'avantage clinique majeur des formes LP du méthylphénidate chez l'enfant est :",o:["Évite la prise médicamenteuse à l'école (prise unique matinale)","Permet un surdosage sans risque","Élimine le rebond dopaminergique","Améliore la tolérance GI exclusivement"],a:0,e:"Formes LP (Concerta®, Ritaline LP®) : prise unique le matin, effet 8-12h. Évite la prise à l'école, réduit la stigmatisation. Rebond fin d'après-midi reste possible."},
+{m:7,q:"L'atomoxétine (Strattera®) est un :",o:["Agoniste α2 central","Inhibiteur sélectif de la recapture de la noradrénaline","Inhibiteur de recapture de la dopamine","Agoniste partiel D2"],a:1,e:"Atomoxétine : ISRN, pas de potentiel d'abus (pas d'action DA striatale). Utile si CI aux stimulants ou TDAH + anxiété. Délai d'action : 4-8 semaines."},
+{m:7,q:"Les tics moteurs représentent une contre-indication relative au méthylphénidate car :",o:["Il augmente la DA striatale, pouvant aggraver les tics dans le syndrome de Gilles de la Tourette","Il bloque les récepteurs D1 corticaux","Il réduit le seuil convulsif","Il provoque une dystonie aiguë"],a:0,e:"Méthylphénidate + tics : risque d'exacerbation. Préférer atomoxétine ou guanfacine/clonidine (agonistes α2) chez les patients avec syndrome de Gilles de la Tourette."},
+{m:7,q:"La guanfacine (Intuniv®) agit via :",o:["Augmentation de libération DA présynaptique","Stimulation des récepteurs α2A postsynaptiques préfrontaux (renforcement réseau CPF)","Antagonisme β1 adrénergique","Inhibition du DAT striatale"],a:1,e:"Guanfacine : agoniste α2A central sélectif agissant sur le CPF (attention, impulsivité). Pas de potentiel d'abus, utile si tics ou anxiété comorbide."},
+{m:8,q:"La naltrexone (Révia®) dans le sevrage alcoolique agit comme :",o:["Agoniste opioïde partiel réduisant le manque","Antagoniste opioïde pur, bloquant le renforcement positif de l'alcool","Inhibiteur de l'aldéhyde déshydrogénase","Modulateur des récepteurs GABA-A"],a:1,e:"Naltrexone : antagoniste μ, κ, δ. Bloque la libération de DA mésolimbique induite par l'alcool → réduction du renforcement positif. Indiquée après sevrage complet."},
+{m:8,q:"L'acamprosate (Campral®) prévient les rechutes alcooliques par :",o:["Antagonisme opioïde","Modulation du système glutamatergique (antagonisme NMDA)","Action agoniste GABA-A","Inhibition de l'aldéhyde déshydrogénase"],a:1,e:"Acamprosate : antagonise les récepteurs NMDA hyperactivés lors du sevrage. Réduit anxiété post-sevrage et craving. Poursuivi 12 mois. Pas de réaction antabuse."},
+{m:8,q:"La buprénorphine haut dosage (Subutex®/Suboxone®) est :",o:["Agoniste complet μ","Antagoniste complet μ","Agoniste partiel μ (plafond d'effet) et antagoniste κ","Agoniste κ sélectif"],a:2,e:"Buprénorphine : agoniste partiel μ (très haute affinité, longue t½, plafond d'effet → sécurité respiratoire). Suboxone® contient naloxone pour limiter le détournement IV."},
+{m:8,q:"Le disulfirame (Espéral®) provoque une réaction antabuse en inhibant :",o:["L'alcool déshydrogénase (ADH)","L'aldéhyde déshydrogénase (ALDH) → accumulation d'acétaldéhyde","La catalase","Le CYP2E1"],a:1,e:"Disulfirame inhibe ALDH → accumulation d'acétaldéhyde → flush, tachycardie, nausées, vomissements, hypotension. CI si cardiopathie. Peu utilisé actuellement."},
+{m:8,q:"La méthadone (TSO) — quelle caractéristique pharmacocinétique est importante ?",o:["t½ très courte (2-4h), 4 prises/j","t½ longue et variable (15-60h), 1 prise/j, risque d'accumulation","Voie exclusive : patch transdermique","Absorption orale nulle"],a:1,e:"Méthadone : t½ 15-60h (très variable). Risque : accumulation à l'initiation (surdosage retardé), allongement QT (ECG avant/pendant), interactions CYP3A4/CYP2D6."},
+{m:9,q:"La morphine est principalement métabolisée par :",o:["CYP3A4 en M3G","Glucuronoconjugaison (UGT) en M3G (inactif) et M6G (actif)","MAO en normorphine","CYP2D6 en dihydromorphine"],a:1,e:"Morphine → M3G (GABA antagoniste) et M6G (agoniste μ actif). M6G s'accumule en IRC → dépression respiratoire retardée. Prudence des opioïdes en insuffisance rénale."},
+{m:9,q:"Le tramadol est un analgésique à double mécanisme :",o:["Agoniste NMDA + ISRS","Agoniste μ faible + inhibition de recapture 5-HT et NA","Inhibiteur COX-2 + agoniste μ","Antagoniste GABA-A + agoniste κ"],a:1,e:"Tramadol : agoniste μ faible (via O-déméthyltramadol, CYP2D6-dépendant) + inhibition recapture 5-HT/NA. Risque de syndrome sérotoninergique avec ISRS/IRSN. Effet antalgique opioïde réduit chez les métaboliseurs lents CYP2D6."},
+{m:9,q:"Quel antagonisme est responsable de la constipation induite par les opioïdes (CIO) ?",o:["Récepteurs μ périphériques du plexus myentérique","Récepteurs κ centraux","Récepteurs δ spinaux","Récepteurs NMDA gastro-intestinaux"],a:0,e:"Les opioïdes activent les récepteurs μ du plexus myentérique → inhibition de la motilité colique. Méthylnaltrexone et naloxégol (antagonistes μ périphériques) traitent la CIO sans lever l'analgésie centrale."},
+{m:9,q:"La douleur neuropathique répond préférentiellement à :",o:["AINS en 1ère intention","Antidépresseurs (tricycliques, duloxétine) et antiépileptiques (prégabaline, gabapentine)","Morphine seule en 1ère intention","Aspirine à forte dose"],a:1,e:"SFETD/IASP : 1ère ligne de la douleur neuropathique = antidépresseurs (AMT, duloxétine) + antiépileptiques (prégabaline, gabapentine) + lidocaïne topique. Opioïdes en 2ème-3ème ligne."},
+{m:10,q:"Les IAChE (donépézil, rivastigmine, galantamine) agissent en :",o:["Augmentant la synthèse d'ACh","Inhibant la dégradation de l'ACh dans la fente synaptique","Antagonisant les récepteurs M1","Activant les récepteurs nicotiniques α7"],a:1,e:"IAChE : inhibent l'acétylcholinestérase → compensation du déficit cholinergique de la MA. EI cholinergiques : nausées, bradycardie (prudence si trouble de conduction)."},
+{m:10,q:"La mémantine (Ebixa®) est indiquée dans la MA modérée à sévère. Son mécanisme est :",o:["Inhibition de l'acétylcholinestérase","Antagoniste non compétitif des récepteurs NMDA","Agoniste dopaminergique D1","Inhibiteur de la PDE-5"],a:1,e:"Mémantine : antagoniste non compétitif voltage-dépendant du NMDA → protection contre l'excitotoxicité glutamatergique. Peut être associée aux IAChE à partir du stade modéré."},
+{m:10,q:"Lequel n'est PAS indiqué dans la MA légère à modérée ?",o:["Donépézil","Rivastigmine","Galantamine","Mémantine"],a:3,e:"La mémantine est indiquée dans la MA modérée à sévère (MMSE <20). Les IAChE couvrent les stades léger à modérément sévère."},
+{m:10,q:"Le DaTscan (SPECT aux transporteurs DA) dans la démence à corps de Lewy montre :",o:["Atrophie hippocampique","Réduction bilatérale de la fixation striatale (perte neurones nigro-striataux)","Ondes triphasiques à l'EEG","Tau élevée dans le LCR"],a:1,e:"DCL : DaTscan montre réduction bilatérale de fixation striatale. Critère diagnostique majeur. Attention : les AP sont contre-indiqués dans la DCL (réactions de neurosensibilité sévères)."},
+{m:11,q:"Pour traiter un trouble bipolaire pendant la grossesse (valproate CI), quelle alternative ?",o:["Carbamazépine à forte dose","Lithium ou lamotrigine (sous surveillance) après évaluation bénéfice-risque","Halopéridol en monothérapie","Olanzapine à dose maximale"],a:1,e:"Valproate CI en grossesse. Lithium possible (surveillance lithiémie renforcée, écho cardiaque fœtale). Lamotrigine utile si prédominance dépressive. Décision multidisciplinaire individualisée."},
+{m:11,q:"Le syndrome de sevrage néonatal aux opioïdes (SSNO) se manifeste par :",o:["Somnolence profonde, bradycardie, hypotonie","Tremblements, irritabilité, hypertonie, difficultés alimentaires, pleurs excessifs","Paralysie faciale, ichtyose","Hypoglycémie isolée"],a:1,e:"SSNO (NAS) : irritabilité, tremblements, hypertonie, cris aigus, difficultés alimentaires, vomissements, diarrhée, sudation. Score de Finnegan. Traitement : morphine orale ou méthadone si score élevé + nursing."},
+{m:11,q:"L'exposition aux BZD en fin de grossesse peut provoquer chez le nouveau-né :",o:["Syndrome de sevrage néonatal : hyperexcitabilité, tremblements","Syndrome du bébé flasque (hypotonie, difficultés respiratoires) OU syndrome de sevrage néonatal selon l'exposition","Ictère néonatal isolé","Hypoglycémie sévère"],a:1,e:"BZD en fin de grossesse : (1) bébé flasque si exposition proche de l'accouchement ; (2) sevrage néonatal si usage chronique. La BZD traverse librement la barrière placentaire."}
+];
+
+/* ══ QCM STATE ══ */
+let qSelMods = new Set(["all"]);
+let qSelCount = 20;
+let qQuestions = [];
+let qIdx = 0;
+let qAnswers = [];
+let qAnswered = false;
+
+const MOD_COLORS = {1:'#58a6ff',2:'#ff7b72',3:'#ffa657',4:'#d2a8ff',5:'#79c0ff',6:'#56d364',7:'#f78166',8:'#ffa657',9:'#ff7b72',10:'#79c0ff',11:'#d2a8ff'};
+
+function qToggleMod(mod) {
+  if(mod==="all"){qSelMods.clear();qSelMods.add("all");}
+  else{
+    qSelMods.delete("all");
+    if(qSelMods.has(mod)){qSelMods.delete(mod);if(qSelMods.size===0)qSelMods.add("all");}
+    else qSelMods.add(mod);
+  }
+  document.querySelectorAll('.qmod-btn').forEach(b=>b.classList.toggle('selected',qSelMods.has(b.dataset.mod)));
+  qUpdateAvail();
+}
+
+function qSelectCount(n){
+  qSelCount=n;
+  document.querySelectorAll('.count-btn').forEach(b=>b.classList.toggle('selected',parseInt(b.dataset.n)===n));
+  qUpdateAvail();
+}
+
+function qGetPool(){
+  return qSelMods.has("all")?QDB:QDB.filter(q=>qSelMods.has(String(q.m)));
+}
+
+function qUpdateAvail(){
+  const pool=qGetPool();
+  const avail=pool.length;
+  const will=Math.min(qSelCount,avail);
+  const el=document.getElementById('q-avail-info');
+  if(avail===0){el.textContent='⚠ Aucune question disponible pour ces modules.';document.getElementById('q-start-btn').disabled=true;}
+  else{el.textContent=`${avail} question${avail>1?'s':''} disponible${avail>1?'s':''} · ${will} seront tirées au sort`;document.getElementById('q-start-btn').disabled=false;}
+}
+
+function qShuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+
+function qStartQuiz(){
+  const pool=qGetPool();
+  qQuestions=qShuffle(pool).slice(0,Math.min(qSelCount,pool.length));
+  qIdx=0;
+  qAnswers=qQuestions.map(()=>({answered:false,correct:false,chosen:-1}));
+  qShowQScreen('qscreen-quiz');
+  qRenderQuestion();
+}
+
+function qShowQScreen(id){
+  document.querySelectorAll('.qscreen').forEach(s=>s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+
+function qRenderQuestion(){
+  qAnswered=false;
+  const q=qQuestions[qIdx];
+  const total=qQuestions.length;
+  document.getElementById('q-progress-fill').style.width=`${(qIdx/total)*100}%`;
+  document.getElementById('q-counter').textContent=`Question ${qIdx+1} / ${total}`;
+  const badge=document.getElementById('q-mod-badge');
+  badge.textContent=`M${q.m}`;
+  badge.style.color=MOD_COLORS[q.m]||'#8b949e';
+  badge.style.borderColor=MOD_COLORS[q.m]||'#8b949e';
+  document.getElementById('q-text').textContent=q.q;
+  const opts=document.getElementById('q-options');
+  opts.innerHTML='';
+  const labels=['A','B','C','D','E'];
+  q.o.forEach((opt,i)=>{
+    const btn=document.createElement('button');
+    btn.className='option-btn';
+    btn.onclick=()=>qSelectAnswer(i);
+    btn.innerHTML=`<span class="option-label">${labels[i]}</span><span>${opt}</span><span class="option-icon"></span>`;
+    opts.appendChild(btn);
+  });
+  const expBox=document.getElementById('q-exp');
+  expBox.classList.remove('show');expBox.innerHTML='';
+  document.getElementById('q-btn-next').disabled=true;
+}
+
+function qSelectAnswer(chosen){
+  if(qAnswered)return;
+  qAnswered=true;
+  const q=qQuestions[qIdx];
+  const isCorrect=chosen===q.a;
+  qAnswers[qIdx]={answered:true,correct:isCorrect,chosen};
+  document.querySelectorAll('#q-options .option-btn').forEach((btn,i)=>{
+    btn.disabled=true;
+    if(i===q.a){btn.classList.add('correct');btn.querySelector('.option-icon').textContent='✓';}
+    else if(i===chosen&&!isCorrect){btn.classList.add('wrong');btn.querySelector('.option-icon').textContent='✗';}
+  });
+  const expBox=document.getElementById('q-exp');
+  expBox.innerHTML=`<strong>${isCorrect?'✓ Bonne réponse !':'✗ Réponse incorrecte.'}</strong> ${q.e}`;
+  expBox.classList.add('show');
+  document.getElementById('q-btn-next').disabled=false;
+}
+
+function qNextQuestion(){
+  if(qIdx<qQuestions.length-1){qIdx++;qRenderQuestion();}
+  else qShowResults();
+}
+
+function qEndEarly(){if(confirm('Terminer le quiz et voir le bilan ?'))qShowResults();}
+
+function qShowResults(){
+  qShowQScreen('qscreen-results');
+  const total=qQuestions.length;
+  const correct=qAnswers.filter(a=>a.correct).length;
+  const wrong=qAnswers.filter(a=>a.answered&&!a.correct).length;
+  const skip=qAnswers.filter(a=>!a.answered).length;
+  const score20=Math.round((correct/total)*20*10)/10;
+  const pct=correct/total;
+  document.getElementById('q-stat-correct').textContent=correct;
+  document.getElementById('q-stat-wrong').textContent=wrong;
+  document.getElementById('q-stat-skip').textContent=skip;
+  document.getElementById('q-score-num').textContent=score20.toFixed(1);
+  const circ=document.getElementById('q-score-circle');
+  const circumference=2*Math.PI*55;
+  setTimeout(()=>{circ.style.strokeDashoffset=circumference*(1-pct);circ.style.transition='stroke-dashoffset 1s ease';},100);
+  let mention,cls;
+  if(score20>=16){mention='🏆 Excellent';cls='excellent';}
+  else if(score20>=12){mention='👍 Bien';cls='bien';}
+  else if(score20>=10){mention='📘 Passable';cls='passable';}
+  else{mention='📖 À retravailler';cls='insuffisant';}
+  document.getElementById('q-results-title').textContent=`${correct}/${total} bonnes réponses`;
+  document.getElementById('q-results-sub').textContent=`Taux de réussite : ${Math.round(pct*100)}%`;
+  const mb=document.getElementById('q-mention');mb.textContent=mention;mb.className='mention-badge '+cls;
+  const list=document.getElementById('q-review-list');
+  list.innerHTML='';
+  const labels=['A','B','C','D','E'];
+  qQuestions.forEach((q,i)=>{
+    const ua=qAnswers[i];
+    if(!ua.answered||ua.correct)return;
+    const item=document.createElement('div');
+    item.className='review-item';
+    item.innerHTML=`<span class="review-status ko">✗</span><div class="ri-q">${q.q}</div><div class="ri-wrong">Votre réponse : ${ua.chosen>=0?labels[ua.chosen]+'. '+q.o[ua.chosen]:'(non répondue)'}</div><div class="ri-correct">Bonne réponse : ${labels[q.a]}. ${q.o[q.a]}</div><div class="ri-exp">${q.e}</div>`;
+    list.appendChild(item);
+  });
+  if(!list.innerHTML)list.innerHTML='<div class="review-item" style="color:var(--green);font-weight:600;text-align:center">🎉 Toutes les réponses sont correctes !</div>';
+}
+
+function qShowSetup(){qShowQScreen('qscreen-setup');qUpdateAvail();}
+
+function qRepeatWrong(){
+  const wrongQ=qQuestions.filter((_,i)=>!qAnswers[i].correct);
+  if(!wrongQ.length){alert('Aucune erreur à reprendre !');return;}
+  qQuestions=wrongQ;qIdx=0;
+  qAnswers=qQuestions.map(()=>({answered:false,correct:false,chosen:-1}));
+  qShowQScreen('qscreen-quiz');qRenderQuestion();
+}
+
+// Init
+qUpdateAvail();
+</script>
+</body>
+</html>

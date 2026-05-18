@@ -1,0 +1,429 @@
+{
+  "fichier": "QCM_Introduction_générale.pptx",
+  "session": "QCM",
+  "total_slides": 4,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Introduction générale Bases Neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le terme « drogue »:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est polysémique\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "s’applique aux médicaments d’origine végétale\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est synonyme de psychotrope\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne des substances entrainant une accoutumance et une assuétude(addiction)\t \toui non \t\tdésigne, en pharmacologie expérimentale  une substance se liant à des récepteurs membranaires    oui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Chlorpromazine est dérivée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "du Chloral\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Imipramine est dérivée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament neuroleptique\t\t\t\toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Introduction générale Bases Neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le terme « drogue »:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est polysémique\t\t\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "s’applique aux médicaments d’origine végétale\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "est synonyme de psychotrope\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne des substances entrainant une accoutumance et une assuétude(addiction)\t \toui \tdésigne, en pharmacologie expérimentale  une substance se liant à des récepteurs membranaires    oui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La Chlorpromazine est dérivée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "du Chloral\t\t\t\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’Imipramine est dérivée:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\t non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament neuroleptique\t\t\t\toui",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Introduction générale Bases Neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les premiers Inhibiteurs de la Mono Amine Oxydase sont dérivés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de l’Imipramine\t\t\t\t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le terme Benzodiazépine :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne une famille chimique \t\t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne aussi  une sous classe pharmacologique \t\t\toui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ne s’applique qu’à des composés psychotropes \t\t\tnon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(exemple du médicament du traitement des ulcères gastriques, Pirenzépine Gastrozépine®,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "antagoniste cholinergique M1,utilisé pour réduire l’hypersalivation  indésirable due à certains neuroleptiques \tatypiques)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Psychotrope",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Anglais : psychoactive drug",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Étymologie : grec ψυχή psukhế, du verbe ψύχω psúkô, souffle de la vie, être vivant, âme, siège des sentiments, de la passion, tempérament, esprit, siège des désirs et τροπός tropós manière, direction, tour, façon, mode",
+          "indent": 1
+        },
+        {
+          "niveau": "H2",
+          "texte": "adj. Substance endogène ou exogène capable d'agir directement sur l'activité du système nerveux central, en induisant des modifications de ses capacités perceptives, cognitives et idéatives, mnésiques, émotionnelles ou comportementales. Peut corriger certaines des perturbations exprimées dans une pathologie perturbant ces fonctions.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "QCM Introduction générale Bases Neurobiologiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les premiers Inhibiteurs de la Mono Amine Oxydase sont dérivés:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antihistaminique\t\t\t\toui  non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament antituberculeux\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’un médicament de la famille des barbituriques\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de l’Imipramine\t\t\t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "============================================",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le terme Benzodiazépine :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne une famille chimique \t\t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "désigne aussi  une sous classe pharmacologique \t\t\toui non",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ne s’applique qu’à des composés psychotropes \t\t\toui non",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

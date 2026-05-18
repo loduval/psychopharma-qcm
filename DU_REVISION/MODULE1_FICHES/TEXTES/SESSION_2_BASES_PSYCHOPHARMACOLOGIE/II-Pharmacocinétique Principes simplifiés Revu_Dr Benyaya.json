@@ -1,0 +1,3098 @@
+{
+  "fichier": "II-Pharmacocinétique Principes simplifiés Revu_Dr Benyaya.pptx",
+  "session": "SESSION_2_BASES_PSYCHOPHARMACOLOGIE",
+  "total_slides": 71,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Etude du Sort du médicament dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Principes généraux et pratiques de Pharmacocinétique appliquée aux médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Module d’autoformation e-learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Etude du « Sort du médicament dans l’organisme »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Principes généraux  et pratiques  simplifiés",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "de Pharmacocinétique appliquée aux médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Joseph BENYAYA",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie",
+          "indent": 3
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien Interne des Hôpitaux de Paris",
+          "indent": 3
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Traités de Pharmacocinétique et de Biopharmacie qui sont à la base de ce cours",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Nous remercions sincèrement les auteurs qui rendent  ces disciplines attrayantes et abordables",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "J.M. AÏACHE et al.          E.CHATELUT et al.             Enseignants\t\t                          J.P. LABAUNE (J.P.L.)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de pharmacie galénique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Editions Vigot\t      Editions  Edimark              Editions Lavoisier\t\t\t Editions Masson Elsevier",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": false,
+      "textes": [],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique :Quelques repères historiques et évolution conceptuelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Torsten Teorell  ,Professeur de physiologie, Université d’ Uppsala:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Proposition des premiers modèles de l’étude du sort du médicament dans l’organisme",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dr Friedrich Dost: Pédiatre autrichien; préoccupé d’adapter chez l’enfant  les doses de médicaments administrés à l’adulte ; créateur du terme « Pharmacokinetik »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Evolution hypothétique  des  concentrations du médicament dans l’organisme selon le Pr Torsten Teorell  1937",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Schéma général du sort du médicament dans l’organisme selon le Pr Torsten Teorell 1937",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique :Quelques repères historiques et évolution conceptuelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Les facilités apportées par l’informatique ont conduit à la description de modèles(compartimentaux)  de plus en plus complexes, parfois fantaisistes, ne tenant pas compte des données de la physiologie.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "C’est ainsi que de nombreux  pharmacologues et cliniciens se sont  désintéressés de cet aspect  de la pharmacocinétique et l’ont considéré comme conduisant à des constructions de l’esprit n’ayant que peu de rapport avec la réalité.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Peu à peu les concepts essentiels de la pharmacocinétique sont apparus et leur intérêt est maintenant amplement démontré »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Professeur Jacques Wépierre",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Préface de l’ouvrage de J.P. Labaune",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique :Quelques repères historiques et évolution conceptuelle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Malcolm Rowland ,Professeur à l’Université de Manchester",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Thomas N. Tozer, Professeur à l’Université de Californie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ont redonné à la Pharmacocinétique son statut de discipline physiologique (1980)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« La pharmacocinétique est une discipline qui a pour objet l’étude descriptive et quantitative du devenir du médicament dans l’organisme auquel il est administré »    J.P Labaune",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les progrès de la pharmacocinétique ont été conditionnés par le progrès des méthodes et techniques de la chimie analytique et par la possibilité d’utiliser des molécules marquées par un radio-isotope",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« La pharmacocinétique est une discipline qui a pour objet l’étude descriptive et quantitative du devenir du médicament dans l’organisme auquel il est administré »    J.P Labaune*",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les étapes du devenir du médicament sont les suivantes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absorption (ou résorption)      Distribution   Métabolisme     Elimination",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Avant absorption: libération du principe actif à partir de sa forme galénique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La Biopharmacie étudie le rôle de la forme galénique sur la mise à la disposition  biologique de ce principe actif",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "( Ce point sera développé à propos de l’étude biopharmaceutique des neuroleptiques et antipsychotiques à libération prolongée et , partant, à action prolongée)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*On utilisera l’abréviation J.P. L. quand on se réfèrera   à cet auteur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les étapes du devenir du médicament sont les suivantes:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absorption (ou résorption)      Distribution   Métabolisme     Elimination",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le métabolisme enzymatique des médicaments  fait l’objet d’un cours séparé de celui-ci",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’administration de médicaments psychotropes ou neurotropes par voie intranasale, fait l’objet d’un cours particulier donné à titre d’information",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Administration des médicaments à effet systémique par voie nasale:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "une voie d’administration « exotique »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Peu à peu les concepts essentiels de la pharmacocinétique sont apparus et leur intérêt",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "est maintenant amplement démontré »  Pr J.Wépierre",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les concepts que nous décrirons , en nous fondant sur les ouvrages cités et notre expérience professionnelle sont:",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tracé de la courbe Concentrations sériques=  f(temps) et déductions :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tmax,  Cmax",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Surface ou Aire sous la Courbe des concentrations sériques ou plasmatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(administration unique ou répétée)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biodisponibilité absolue et relative ; Bioéquivalence",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etat d’équilibre des concentrations sériques ou plasmatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Volume de distribution,    Clairance systémique, Demi-vie d ’élimination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Linéarité de la pharmacocinétique en fonction des doses et en fonction du temps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentrations circulantes efficaces",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intérêt du suivi des concentrations sériques du médicament",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Etude du « Sort du médicament dans l’organisme »   Conditions expérimentales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sujets volontaires (dose unique) ou patients traités( doses répétées)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Nombre de sujets",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Critères d’inclusion et de non inclusion",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Détermination des concentrations du principe actif dans le milieu intérieur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Choix du liquide biologique : sang(plasma ou sérum) urine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prélèvement ,veineux en général pour concentrations circulantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Opportunité  et nombre de prélèvements en fonction des données obtenues chez l’animal",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Temps de prélèvement rapprochés au début de l’étude pour mieux définir Cmax et Tmax",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Conditions de conservation des échantillons prélevés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dosage du principe actif",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "La qualité des résultats dépend de la qualité des  conditions des prélèvements et des qualités de la méthode d’analyse.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Aucun programme informatique aucun logiciel aussi complexe soit-il  ne pourra compenser des conditions médiocres de prélèvement et d’analyse.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Diapositive suivante : Qualités d’une méthode  en chimie analytique*",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* à titre d’orientation et d’information",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D’après :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Christian Ducauze, Arlette Baillet-Guffroy et Thanh X. Bui",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Choix et validation d'une méthode d'analyse.    Agroparistech.fr",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Etude du « Sort du médicament dans l’organisme »   Conditions expérimentales",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Qualités d’une méthode  en chimie analytique*",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Spécificité : la mesure n’est pas perturbée par des composés autres que la substance considérée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Limite de détection : c’est la plus petite quantité d’analyte pouvant être détectée dans l’échantillon",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Justesse: écart entre les valeurs expérimentales et la valeur théorique attendue",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fidélité : écart type de la moyenne    de différentes mesures (le plus faible possible)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Répétabilité: écart type  de la moyenne    de différentes mesures faites sur un même échantillon par le même laboratoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "( s   faible)",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Reproductibilité:  écart type de la moyenne    de différentes mesures faites sur un même échantillon par des laboratoires différents  ( s   faible)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sensibilité: Plus la sensibilité est élevée plus il  est facile de distinguer 2 échantillons de",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "concentration voisine",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Robustesse:  écart type de la moyenne    de différentes mesures faites sur un même échantillon  avec  des modifications de quelques conditions expérimentales par des laboratoires différents  ( s   faible)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique  Absorption (ou résorption*)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’administration par voie parentérale , intraveineuse  ou intramusculaire, ne pose pas de difficultés de résorption du médicament pour atteindre le milieu intérieur.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résorption du principe actif:   Dépend de plusieurs facteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la solubilité",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la nature  basique ou acide",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’ionisation qui dépend du pH de la zone du tractus digestif;",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Théoriquement:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "les médicaments acides sont mieux résorbés dans l’estomac et les premières parties du duodénum e ceux ayant des caractéristiques basiques faibles (comme la plupart des psychotropes), dans les parties plus basses de l’intestin grêle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Toutefois la muqueuse gastrique n’’est pas un tissu qui va permettre une bonne résorption(faible surface, faible vascularisation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Résorption*,terme employé par J.P.L.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Pharmacocinétique  Absorption (ou résorption)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Résorption du principe actif (suite) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’intestin grêle, de par sa nature tissulaire va être une zone favorable à la résorption",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "surface totale développée= 300m2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Trois paramètres vont réguler la résorption:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "l’ionisation*",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la  solubilité dans les liquides digestifs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "la lipophilie (nécessaire au transfert transmembranaire)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La mise à la disposition biologique dépend de la résorption. Elle s’évalue par la biodisponibilité et sa",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "vitesse est évaluée par le Tmax ou t max ,comme nous le verrons plus loin",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Rappel: les curares, ammoniums quaternaires fortement ionisés,  (R3N)+-(CH2)10-(NR3)+ , par exemple ne sont pas résorbés par le tractus digestif.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Courbe de l’évolution des concentrations circulantes en fonction du temps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Courtoisie Caroline Duros d’après une photographie de Julius Axelrod",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "C concentrations sériques ou plasmatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Temps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Surface sous la courbe SSC des concentrations",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sériques ou plasmatiques ) Aire sous la courbe  Area Under the Curve AUC",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(unité :ng/ml.h )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Détermination de Cmax Tmax   et intégrale de la fonction C=f(t) pour obtenir la SSC",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phase de résorption",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phase de distribution et d’élimination",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Méthode Graphique de calcul de la Surface sous la courbe SSC des concentrations sériques ou plasmatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Papier millimétré , avant l’avènement des ordinateurs et des logiciels de calcul pharmacocinétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Conc.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Temps",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcul de la surface de chaque trapèze",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Demi somme des bases x  hauteur (!)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Somme des surfaces des trapèzes =SSC",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Surface sous la courbe des concentrations circulantes , en fonction du temps , est une intégrale. Elle représente la quantité de médicament résorbé qui a pu atteindre la circulation générale ( J.P. L.) ng/ml/h ou ng.h /ml",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Méthode Graphique de calcul de la Surface sous la courbe SSC des concentrations sériques ou plasmatiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Méthode Graphique de calcul de la Surface sous la courbe SSC des concentrations sériques ou plasmatiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité  Absolue",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Biodisponibilité  Absolue de D Rapport des SSC =( SSC D p.o/ SSC D i.v.) x100=F",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Administration de  D  voie i.v                           Administration de  D  voie orale p.o;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C concentrations sériques ou plasmatiques                           C concentrations sériques ou plasmatiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité  Absolue Exemples   Tranquillisant ou anxiolytiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’homogénéité de la famille chimique se reflète dans l’homogénéité des valeurs de la biodisponibilité absolue.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique",
+              "Biodisponibilité\nAbsolue %"
+            ],
+            [
+              "Alprazolam",
+              "88"
+            ],
+            [
+              "Clonazépam",
+              "98"
+            ],
+            [
+              "Clorazépate",
+              "91"
+            ],
+            [
+              "Diazépam",
+              "100"
+            ],
+            [
+              "Lorazépam",
+              "93"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité  Absolue Exemples          Médicaments antidépresseurs et régulateurs de l’humeur",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseur",
+              "Biodisponibilité \nAbsolue %"
+            ],
+            [
+              "Agomélatine",
+              "5\nImportant effet de 1er passage hépatique"
+            ],
+            [
+              "Citalopram",
+              "80"
+            ],
+            [
+              "Duloxétine",
+              "42"
+            ],
+            [
+              "Miansérine",
+              "30"
+            ],
+            [
+              "Mirtazapine",
+              "50"
+            ],
+            [
+              "Venlafaxine",
+              "10 à 45"
+            ],
+            [
+              "Vortioxétine",
+              "75"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Régulateur de l’humeur",
+              "Biodisponibilité \nAbsolue %"
+            ],
+            [
+              "Acide Valproïque",
+              "100"
+            ],
+            [
+              "Carbamazépine",
+              ">70"
+            ],
+            [
+              "Sel de Lithium",
+              "100"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité  Absolue Exemples          Médicaments neuroleptiques et antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "*Dans certains texte ,la valeur 100% est parfois mentionnée, pour la Quétiapine .",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il s‘agit de la biodisponibilité relative comprimé/solution buvable.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Neuroleptique classique",
+              "Biodisponibilité \nAbsolue %"
+            ],
+            [
+              "Chlorpromazine",
+              "32"
+            ],
+            [
+              "Flupenthixol",
+              "55"
+            ],
+            [
+              "Halopéridol",
+              "60"
+            ],
+            [
+              "Lévomépromazine",
+              "53"
+            ],
+            [
+              "Pipotiazine",
+              "40"
+            ],
+            [
+              "Zuclopenthixol",
+              "44"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Neuroleptique atypique \nou Antipsychotique",
+              "Biodisponibilité \nAbsolue %"
+            ],
+            [
+              "Amisulpride",
+              "48"
+            ],
+            [
+              "Aripiprazole",
+              "87"
+            ],
+            [
+              "Asénapine",
+              "5      Voie orale \n 35   Voie perlinguale"
+            ],
+            [
+              "Clozapine",
+              "55"
+            ],
+            [
+              "Olanzapine",
+              "60"
+            ],
+            [
+              "Quétiapine",
+              "9 *  Important effet de 1er passage hépatique"
+            ],
+            [
+              "Rispéridone",
+              "66"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Tmax  Exemples (voie orale)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’atteinte rapide du maximum de concentration Cmax (faible valeur de Tmax ) est importante lorsqu’un effet sédatif anxiolytique anticonvulsivant ou hypnotique  est  attendu rapidement .",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique ou « non BZD »",
+              "Tmax \nHeures ou minutes"
+            ],
+            [
+              "Alprazolam",
+              "1,5 h"
+            ],
+            [
+              "Clonazépam",
+              "2,5 h"
+            ],
+            [
+              "Clorazépate",
+              "0,72\n(42 minutes)"
+            ],
+            [
+              "Diazépam",
+              "78 minutes"
+            ],
+            [
+              "Lorazépam",
+              "72 minutes\n à 2,5 h"
+            ],
+            [
+              "Zolpidem",
+              "1 à 2,5 h"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité relative",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Cmax Tmax   et  SSC vont nous permettre de calculer la biodisponibilité relative",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "du principe actif D  administré sous deux formes galéniques différentes et voir si elles sont",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "bio-équivalentes  (12 volontaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration de  D  solution buvable               Administration de  D  forme solide comprimé ou gélule",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Moyennes des 12 rapports des valeurs  V forme solide f s /  V  forme buvable  f b",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r Cmax =Cmax f s / Cmax f b",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r Tmax =Tmax f s / Tmax f b",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r SSC = SSC f s / SSC f b",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pour  pouvoir conclure à la bioéquivalence des deux formes,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "l’intervalle de confiance de ces moyennes doit être compris entre 0,80 et 1,20",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Administration de  D  solution buvable               Administration de  D  forme solide comprimé ou gélule",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C concentrations sériques ou plasmatiques                           C concentrations sériques ou plasmatiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La biodisponibilité  relative  du principe actif sous différentes est  fondée sur les comparaisons des  Cmax   Tmax   et SSC",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité relative",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Moyenne des rapports des valeurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "V forme solide /  V  forme buvable",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intervalle de confiance de la Moyenne       IC 90%",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Etude de  Bioéquivalence  de deux formes galéniques d’un médicament  D",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "D  solution buvable               D  forme solide comprimé ou gélule",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité relative et bioéquivalence d’un médicament générique comparé au médicament dit princeps",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les Cmax Tmax   et  SSC vont nous permettre de calculer la biodisponibilité relative",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "du principe actif D générique et formulation  générique face au D princeps et formulation princeps et  voir si elles sont bio-équivalentes  (12 volontaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administration de A princeps   (AP)             Administration de  B générique (BG)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Moyennes des 12 rapports des valeurs  V BG /  V AP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r Cmax =Cmax BG / Cmax AP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r Tmax =Tmax BG /  Tmax AP",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "r SSC = SSC BG  / SSC AP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pour  pouvoir conclure à la bioéquivalence de la forme générique l’intervalle de confiance de ces moyennes doit être compris entre 0,80 et 1,20",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité relative et bioéquivalence d’un médicament générique comparé au médicament dit princeps",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Moyenne des rapports des",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "valeurs V générique/V princeps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "V BG /  V AP",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intervalle de confiance de la Moyenne          I C 90%",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Biodisponibilité relative et bioéquivalence d’un médicament générique comparé au médicament dit princeps",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Courbe de l’évolution des concentrations circulantes en fonction du temps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les valeurs sont reportées sur un repère semi logarithmique(ordonnées  en log",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Concentrations",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "temps",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Tmax « peak-Time »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Permet le calcul  graphique de",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "la demi-vie d’élimination t1/2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La demi-vie d’élimination t1/2 est le temps nécessaire pour passer d’une valeur Ct à une valeur Ct /2 : Réduction de moitié des concentrations circulantes dans la phase d’élimination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phase de distribution et d’élimination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Phase de résorption",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "T1/2 Détermination graphique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Méthode des « Résidus »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "t1/2 Absorption       t1/ 2Elimination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Valeurs expé. Coordonnées semi-log",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Extrapolation de la droite",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcul des différences valeurs de la droite – valeurs de la courbe",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Report des valeurs de ces différences Coordonnées semi-log",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcul graphique des t ½",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absorption Elimination",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "d’après J.P.L.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Demi-vie d’élimination   t1/2  : Exemples",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments neuroleptiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments  antipsychotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicaments  anxiolytiques et hypnotiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Diverses sources bibliographiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Goodman& Gilman’s Pharmacological Basis of Therapeutics 12ème Edition;",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Résumés des caractéristiques des produits « RCP »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C. Hiemke,  P. Baumann et al.:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011  Review",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacopsychiatry 2011; 44(06): 195-235",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Demi-vie d’élimination   t1/2  : Médicaments antidépresseurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemples",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseur +\nMétabolite actif",
+              "Demi-vie d’élimination heures (h)  jours(j)"
+            ],
+            [
+              "Agomélatine",
+              "1-2 h"
+            ],
+            [
+              "Citalopram",
+              "33 h"
+            ],
+            [
+              "Fluoxétine+\n\nNor fluoxétine",
+              "53 h administration unique puis 4 à 6 j\n4 à 16 j"
+            ],
+            [
+              "Mirtazapine",
+              "20 à 40 h"
+            ],
+            [
+              "Moclobémide",
+              "2 à 7 h"
+            ],
+            [
+              "Venlafaxine \n+O desméthyl Venlafax.",
+              "5 h\n\n11 h"
+            ],
+            [
+              "Vortioxétine",
+              "66 h"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Antidépresseurs imipraminiques",
+              "Demi-vie d’élimination\nheures"
+            ],
+            [
+              "Amitriptyline",
+              "9 à 25"
+            ],
+            [
+              "Clomipramine",
+              "12 à 36"
+            ],
+            [
+              "Imipramine",
+              "4 à 18"
+            ],
+            [
+              "Maprotiline",
+              "51"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Demi-vie d’élimination   t1/2  :  médicaments  neuroleptiques et antipsychotiques  Exemples",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* In L. Colonna, M. Petit ,J.P. Lépine",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Administré per os une fois par semaine =SEMAP®=SEMaineAntiPsychotique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Neuroleptique classique",
+              "Demi-vie d’élimination\nheures"
+            ],
+            [
+              "Chlorpromazine",
+              "15 à 30"
+            ],
+            [
+              "Flupenthixol",
+              "20 à 40"
+            ],
+            [
+              "Lévomépromazine",
+              "16  à  78"
+            ],
+            [
+              "Penfluridol\nSemap®  **",
+              "125 à 200*"
+            ],
+            [
+              "Zuclopenthixol",
+              "15 à 25"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Neuroleptique atypique ou Antipsychotique",
+              "Demi-vie d’élimination\nheures"
+            ],
+            [
+              "Aripiprazole",
+              "60 à 80"
+            ],
+            [
+              "Clozapine",
+              "12 à 16"
+            ],
+            [
+              "Olanzapine",
+              "30 à 60"
+            ],
+            [
+              "Palipéridone",
+              "23"
+            ],
+            [
+              "Quétiapine",
+              "7"
+            ],
+            [
+              "Rispéridone\n+ 9 OH Rispéridone",
+              "3\n23"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Demi-vie d’élimination   t1/2  : Exemples",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique",
+              "Demi-vie d’élimination\nheures"
+            ],
+            [
+              "Alprazolam",
+              "12 - 15"
+            ],
+            [
+              "Bromazépam",
+              "15 - 35"
+            ],
+            [
+              "Diazépam et métabolites",
+              "24 - 48"
+            ],
+            [
+              "Lorazépam",
+              "12 – 16"
+            ],
+            [
+              "Oxazépam",
+              "4 - 15"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique et non-BZD",
+              "Demi-vie d’élimination\nheures"
+            ],
+            [
+              "Lormétazépam\n(Hypnotique)",
+              "8 à 14 h"
+            ],
+            [
+              "Témazépam\n(Hypnotique)",
+              "5 à  13"
+            ],
+            [
+              "Zolpidem",
+              "1 – 4"
+            ],
+            [
+              "Zopiclone",
+              "5"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "Psychostimulant",
+              "t 1/2  élim.  h"
+            ],
+            [
+              "Méthylphénidate",
+              "2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 42,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Surface sous la courbe SSC des concentrations sériques ou plasmatiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcul de la Clairance Systémique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 43,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Surface sous la courbe SSC des concentrations sériques ou plasmatiques:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Calcul de la Clairance Systémique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 44,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Notion de Volume de Distribution",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Atteinte de la circulation générale :  « Distribution »   dans le volume  sanguin total",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Atteinte de la biophase où se trouvent les sites d’action: distribution tissulaire « utile »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fixation dans des tissus « lieux de perte » ou lieux d’accumulation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Imaginons un médicament dont la demi-vie est grande et la clairance  systémique assez importante cela voudra dire que malgré la capacité  importante de l’organisme à « se débarrasser »  du xénobiotique qu’est le médicament ,celui-ci il est réparti dans un grand volume à « épurer »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Imaginons un médicament dont la valeur de la demi-vie est faible demi-vie ʺ courteʺ",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "et la  clairance  systémique assez importante cela voudra dire que cette capacité  importante de l’organisme à « se débarrasser »  du médicament va  s’exercer sur un  petit volume à « épurer ».",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 45,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Notion de Volume de Distribution Vd:  Volume à épurer V   et  clairance systémique qui va l’épurer V/T",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "donc Vd= Vx T-1 x T =V",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 46,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Notion de Volume de Distribution Vd:  Volume à épurer V   et  clairance systémique qui va l’épurer V/T",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 47,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Volume de Distribution Vd: quelques exemples",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ce volume de distribution n’a que rarement un équivalent physiologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agomélatine \t35 litres\tfaible demi vie  1 heure\t\t\tclairance \t\t1100ml/mn",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tianeptine\t56 litres\tfaible demi vie   2,5 heures",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Valproate\t10 litres\tdemi-vie  plus importante   15 à 17 heures   car     clairance plus faible 10ml/mn",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(Vd limité au sang et aux liquides extracellulaires)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fluoxétine\t2450 litres  demi vie importante  53  heures     \t\tclairance \t700ml/mn",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Vortioxétine\t2600 litres  demi vie importante   66 heures\t\t \tclairance \t600ml/mn",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 48,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Volume de Distribution Vd",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 49,
+      "has_content": false,
+      "textes": [],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 50,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Notion d’état d’équilibre des concentrations circulantes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors du traitement de maladies durables ou de traitement durable pour la prévention des rechutes et des récidives les médicaments sont administrés de façon répétée. Le plasma donc et a fortiori l’organisme entier contiendra  t,out le temps du traitement, le principe actif. Si certaines règles sont respectées, les concentrations circulantes vont ,théoriquement, évoluer autour d’une valeur moyenne avec des valeurs  extrêmes appelées Cmax et Cmin (concentration minimale). Cependant Cmax ne doit pas  se situer dans une zone de toxicité et Cmin ne doit pas  se situer dans une zone d’inefficacité.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Lors de l’atteinte de l’état d’équilibre les entrées sont égales aux sorties.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Théoriquement , si on administre le médicament toute les demi-vie, l’équilibre  des concentrations circulantes est atteint après 6 demi-vie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 51,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Démonstration arithmétique simple de la règle des 6 demi-vie pour atteindre un état d’équilibre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 52,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Après ajout",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Après élimination",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 53,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Max",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Moyenne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Min",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 54,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "d’après E. Chatelut",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evolution des concentrations après administration  répétée d’un médicament par voie orale avec atteinte  d’état d’équilibre",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "A l’état d'équilibre les  concentrations circulantes vont ,théoriquement, évoluer autour d’une valeur moyenne avec des valeurs  extrêmes appelées Cmax et Cmin (concentration minimale).",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’état d’équilibre est aussi défini par  l’égalité des surfaces sous les courbes:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "celle calculée  entre deux administrations et celle calculée lors d’une administration unique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "SSC1=SSC equil.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 55,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "d’après E. Chatelut",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evolution des concentrations après administration  répétée d’un médicament par voie orale avec atteinte  d’état d’équilibre",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Si SSC1= SSC equil.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "alors SSC equil / SSC1 = 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il n’ y a pas d’accumulation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le rapport SSC equil / SSC1 est appelé coefficient d’accumulation.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une valeur  >1 indique une accumulation et donc une absence de linéarité en fonction du temps.(voir plus loin)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 56,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Evolution des concentrations après administration  répétée d’un médicament par voie orale avec atteinte  d’état d’équilibre et notion de coefficient d’accumulation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le rapport SSC equil / SSC1 est appelé coefficient d’accumulation.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une valeur  >1 indique une accumulation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La  demi – vie d’élimination de la Vortioxétine est égale  à 66 heures. Le médicament est administré toutes les 24 h ; à l’ état d’équilibre apparent   SSC equil   =  SSC1 x 5 le coefficient d’accumulation est égal à 5 !",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "La  demi – vie d’élimination de la Fluoxétine est égale  à 4-6 jours et celle  du métabolite actif la Norfluoxétine est égale  à 4-16 jours. Ce médicament  est administré tous les jours! Le Laboratoire peut ainsi affirmer qu’en cas d’arrêt soudain du traitement, le patient ne souffrira pas du syndrome d’arrêt brutal; c’est tout à fait probable ( étant donnée l’accumulation du médicament )",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Une forme à libération prolongée de Fluoxétine  per os a obtenu une autorisation de la FDA , ce qui est aberrant. Notre expérience nous fait dire qu’une telle forme n’aura jamais une AMM en France.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 57,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Linéarité de la pharmacocinétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On dit que la cinétique d’un médicament est linéaire en fonction des doses quand la surface sous la courbe des concentration sériques est proportionnelle aux doses administrées",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cette linéarité peut être perdue par saturation du processus de transfert digestif (Paroxétine) ou par induction d’une activité enzymatique entrainant une dégradation du principe actif (Carbamazépine).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "On dit que la cinétique d’un médicament est linéaire en fonction du temps quand  la surface sous la courbe des concentration sériques   entre deux administrations reste égale, pour une même dose, à la surface sous la courbe des concentrations sériques lors d’une administration unique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Autrement dit quand la demi-vie d’élimination est constante au cours du temps.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La linéarité est perdue:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- quand une  inhibition enzymatique  porte sur la dégradation du principe actif avec augmentation de la demi vie au cours du temps  ( Fluoxétine, Norfluoxétine).",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- quand le médicament est administré dans un intervalle de temps inférieur à la demi-vie (Vortioxétine)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 58,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Théoriquement :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "on a toujours intérêt pour une même famille pharmacologique:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A choisir un médicament dont la biodisponibilité est élevée pour éviter la variabilité inter- et intra-individuelle.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A choisir un médicament dont la pharmacocinétique est linéaire en fonction des doses et du temps.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A choisir un médicament  peu inducteur ou peu inhibiteur enzymatique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "on a toujours intérêt à administrer un médicament toutes ses demi-vie pour éviter les accumulations",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacocinétique et prescription :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Notre point de vue",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 59,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Marge thérapeutique faible(sels de Lithium)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Evaluation de l’adhésion au traitement",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Particularité Génétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Absence d’efficacité ou effets indésirables prononcés",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Suspicion ‘interaction médicamenteuse métabolique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sujet âgé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sujet souffrant d’insuffisance rénale, hépatique ou cardiaque",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Raisons médico-légales(surdosage volontaire ou à des fins nuisibles)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Justifications du dosage sérique ou plasmatique du principe actif circulant",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C. Hiemke,  P. Baumann et al.:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011  Review",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacopsychiatry 2011; 44(06): 195-235",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 60,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Justifications de la du dosage sérique ou plasmatique du principe actif circulant",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "« Les effets d’un médicament sont mieux corrélés aux concentrations plasmatiques (ou sériques ) qu’ils ne le sont aux doses administrées »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Pr Etienne Chatelut",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 61,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Déterminés à l’état d’équilibre des concentrations circulantes, 16 à 18 h après la dernière administration orale aux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "En respectant la posologie recommandée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Différents niveaux de recommandation sont préconisés:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "1  Détermination  fortement recommandée: marge thérapeutique faible, suivi obligatoire",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "2 Détermination recommandée: pour s’assurer de l’efficacité en respectant l’intervalle  thérapeutique ,",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "suivi  recommandé",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "3 Utile: réponse thérapeutique probable si les concentrations circulantes se trouvent dans cet intervalle",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "4 Probablement utile",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "C. Hiemke,  P. Baumann et al.:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011  Review",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacopsychiatry 2011; 44(06): 195-235",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 62,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Antidépresseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseur +\nMétabolite actif",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination heures (h)  jours(j)",
+              "Taux d’alerte du laboratoire ng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Agomélatine",
+              "7 - 300  (C Max)",
+              "1-2 h",
+              "600",
+              "4"
+            ],
+            [
+              "Amitriptyline+ Nortriptyline",
+              "00-200",
+              "10-28 h\n30 h",
+              "300",
+              "1"
+            ],
+            [
+              "Citalopram",
+              "50-110",
+              "33 h",
+              "220",
+              "2"
+            ],
+            [
+              "Clomipramine \n+ Nor- Clomipramine",
+              "230-450",
+              "16-60 h\n36 h",
+              "450",
+              "1"
+            ],
+            [
+              "Duloxétine",
+              "30-120",
+              "9-19 h",
+              "240",
+              "2"
+            ],
+            [
+              "Escitalopram",
+              "15-80",
+              "30h",
+              "160",
+              "2"
+            ],
+            [
+              "Fluoxétine+\nNor fluoxétine",
+              "120-500",
+              "4 à 6 j\n4 à 16 j",
+              "1000",
+              "2"
+            ],
+            [
+              "Fluvoxamine",
+              "60-230",
+              "20",
+              "500",
+              "2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 63,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Antidépresseurs",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Antidépresseur +\nMétabolite actif",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Maprotiline",
+              "75-130",
+              "20-58",
+              "220",
+              "2"
+            ],
+            [
+              "Miansérine",
+              "15-70",
+              "14-33",
+              "140",
+              "3"
+            ],
+            [
+              "Milnacipran",
+              "50-110",
+              "5-8",
+              "220",
+              "2"
+            ],
+            [
+              "Mirtazapine",
+              "30-80",
+              "20-40",
+              "160",
+              "2"
+            ],
+            [
+              "Paroxétine",
+              "30-120",
+              "12-44",
+              "240",
+              "3"
+            ],
+            [
+              "Sertraline",
+              "10-150",
+              "26",
+              "300",
+              "2"
+            ],
+            [
+              "Venlafaxine \n+O desméthyl Venlafax.",
+              "100-400",
+              "5\n\n11",
+              "800",
+              "2"
+            ],
+            [
+              "Vortioxétine",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 64,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments Régulateurs de l’Humeur",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :   IMAO réversible et compétitif Moclobémide",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Régulateur de l’humeur",
+              "Intervalle thérapeutique de référence",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire",
+              "Niveau de recommandation"
+            ],
+            [
+              "Carbamazépine",
+              "4 à 10 µg/ml microgrammes/l",
+              "10 à 20",
+              "20  µg/l",
+              "2"
+            ],
+            [
+              "Ion Lithium",
+              "0,5 à1,2 meq./l\nmilli équivalent/l",
+              "24",
+              "1,2  meq./l",
+              "1"
+            ],
+            [
+              "Valproate",
+              "50 à 100   µg/ml  microgrammes/ml",
+              "18 h",
+              "120   µg/l",
+              "2"
+            ]
+          ]
+        },
+        {
+          "lignes": [
+            [
+              "IMAO Réversible",
+              "Intervalle thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire",
+              "Niveau de recommandation"
+            ],
+            [
+              "Moclobémide",
+              "300 à 1000",
+              "2 à 7 h",
+              "2000",
+              "3"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 65,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence :  Médicaments  Neuroleptiques classiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Neuroleptique classique",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Chlorpromazine",
+              "30  -  300",
+              "15 à 30",
+              "600",
+              "2"
+            ],
+            [
+              "Flupenthixol",
+              "> 2",
+              "20 à 40",
+              "15",
+              "2"
+            ],
+            [
+              "Fluphénazine",
+              "0,5  -  2",
+              "16",
+              "15",
+              "1"
+            ],
+            [
+              "Lévomépromazine",
+              "30 à 160",
+              "16  à  78h",
+              "320",
+              "3"
+            ],
+            [
+              "Pimozide",
+              "15 -  20",
+              "23 à 43",
+              "20",
+              "4"
+            ],
+            [
+              "Zuclopenthixol",
+              "4 - 50",
+              "15 à 25",
+              "100",
+              "3"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 66,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence: Médicaments  Neuroleptiques atypiques ou  Antipsychotiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Neuroleptique atypique ou Antipsychotique",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Amisulpride",
+              "100 - 400",
+              "10 à 20",
+              "640",
+              "2003"
+            ],
+            [
+              "Aripiprazole",
+              "150-500",
+              "60 à 80",
+              "1000",
+              "2"
+            ],
+            [
+              "Clozapine",
+              "350 - 600",
+              "12 à 16",
+              "1000",
+              "1"
+            ],
+            [
+              "Olanzapine",
+              "20 - 80",
+              "30 à 60",
+              "150",
+              "1"
+            ],
+            [
+              "Palipéridone",
+              "20 - 60",
+              "23",
+              "120",
+              "2"
+            ],
+            [
+              "Quétiapine",
+              "100 à 500",
+              "7",
+              "1000",
+              "3"
+            ],
+            [
+              "Rispéridone\n+ 9 OH Rispéridone",
+              "20 - 60",
+              "3\n23",
+              "120",
+              "2"
+            ],
+            [
+              "Sulpiride",
+              "200 - 1000",
+              "8 à 14",
+              "1000",
+              "2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 67,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence: Médicaments  Anxiolytiques de la famille des Benzodiazépines BZD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Alprazolam",
+              "5 - 50",
+              "12 - 15",
+              "100",
+              "4"
+            ],
+            [
+              "Bromazépam",
+              "50 - 200",
+              "15 - 35",
+              "300",
+              "4"
+            ],
+            [
+              "Diazépam et métabolites",
+              "200 – 2500",
+              "24 - 48",
+              "3000",
+              "4"
+            ],
+            [
+              "Lorazépam",
+              "10 - 15",
+              "12 – 16",
+              "30",
+              "4"
+            ],
+            [
+              "Nordazépam",
+              "20 - 800",
+              "50 – 90",
+              "1500",
+              "4"
+            ],
+            [
+              "Oxazépam",
+              "200 - 1500",
+              "4 - 15",
+              "2000",
+              "4"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 68,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence: Médicaments  Hypnotiques BZD et non- BZD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament Benzodiazépinique",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Lormétazépam\n(Hypnotique)",
+              "2 - 10",
+              "8 à 14 h",
+              "100",
+              "4"
+            ],
+            [
+              "Témazépam\n(Hypnotique)",
+              "20 - 900",
+              "5 à  13",
+              "1000",
+              "3"
+            ],
+            [
+              "Médicament\nHypnotique \nnon-BZD",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Zolpidem",
+              "80 - 150",
+              "1 – 4",
+              "300",
+              "4"
+            ],
+            [
+              "Zopiclone",
+              "10 - 50",
+              "5",
+              "150",
+              "4"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 69,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence: Médicaments  Anxiolytiques  non- BZD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament\nAnxiolytique \nNon- Benzodiazépinique",
+              "Taux thérapeutique de référence ng/ml",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Buspirone",
+              "5 - 50",
+              "12 - 15",
+              "100",
+              "4"
+            ],
+            [
+              "Prégabaline",
+              "2000 – 5000\nOu 2 – 5 µg/ml",
+              "15 - 35",
+              "300",
+              "4"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 70,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Intervalles thérapeutiques de référence: Médicament Psychostimulant",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Médicament\nPsychostimulant",
+              "Taux thérapeutique de référence ng/ml\n(Cmax)",
+              "Demi-vie d’élimination\nheures",
+              "Taux d’alerte du laboratoire\nng/ml",
+              "Niveau de recommandation\n de la détermination"
+            ],
+            [
+              "Méthylphénidate",
+              "13 - 22",
+              "2",
+              "44",
+              "2"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 71,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "C. Hiemke,  P. Baumann et al.:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "AGNP Consensus Guidelines for Therapeutic Drug Monitoring in Psychiatry: Update 2011  Review",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pharmacopsychiatry 2011; 44(06): 195-235",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Article général exhaustif . 27 auteurs, 749 références bibliographiques,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "accès libre sur internet",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Toutes les valeurs reprises dans les différents tableaux présentés ci dessus",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "proviennent de la publication suivante",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

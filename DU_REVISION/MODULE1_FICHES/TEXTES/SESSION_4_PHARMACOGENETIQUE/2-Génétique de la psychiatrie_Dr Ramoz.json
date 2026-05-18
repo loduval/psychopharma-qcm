@@ -1,0 +1,781 @@
+{
+  "fichier": "2-Génétique de la psychiatrie_Dr Ramoz.pptx",
+  "session": "SESSION_4_PHARMACOGENETIQUE",
+  "total_slides": 18,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "DR Nicolas ramoz, phd, inserm",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Génétique de la psychiatrie",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Notions de pharmacogénétique des psychotropes 2 Ramoz – Génétique de la psychiatrie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Origine des troubles neuropsychiatriques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rappel de notions de génétique moléculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stratégies d’analyse des variants génétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "5",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Origine des troubles neuropsychiatriques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Facteurs neurobiologiques : cibles des traitements médicamenteux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’effet neurobiologique dans un trouble neuropsychiatrique est la conséquence de différentes composantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Composante organique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Composante génétique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Environnement",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Biologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Environnement",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Psychologique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effet(s) neurobiologique(s) : plus ou moins persistant(s)",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Variabilité de la réponse médicamenteuse : interaction entre la génétique et l’environnement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sexe, Age, Poids, Alimentation, Exposition(s) chimique(s), Alcool, Tabac, drogues",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "7",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Absorption",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Distribution",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Métabolisme",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Excrétion",
+          "indent": 1
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cibles du",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Médicament",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Voie biologique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Physiopathologie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "de la maladie",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Facteurs Génétiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Facteurs Environnementaux",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Composante génétique dans les troubles psychiatriques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Des gènes de vulnérabilité peuvent être identifiés",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "pour la schizophrénie, le trouble bipolaire, la dépression, etc",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "8",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Trouble\nPsychiatrique",
+              "Héritabilité",
+              "Risque relatif"
+            ],
+            [
+              "Autisme",
+              "0,80-0,90",
+              "50-100"
+            ],
+            [
+              "Schizophrénie",
+              "0,80-0,84",
+              "8-10"
+            ],
+            [
+              "Anorexie mentale",
+              "0,50-0,80",
+              "7-12"
+            ],
+            [
+              "Bipolaire",
+              "0,60-0,70",
+              "7-10"
+            ],
+            [
+              "Panique",
+              "0,50-0,60",
+              "3-8"
+            ],
+            [
+              "Addictions",
+              "0,30-0,50",
+              "4-8"
+            ],
+            [
+              "Anxiété",
+              "0,30-0,40",
+              "4-6"
+            ],
+            [
+              "Dépression",
+              "0,28-0,40",
+              "2-3"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "9",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Rappel de notions de génétique moléculaire",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "De l’organe, à la cellule, au chromosome et vers l’ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "10",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "A",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "G",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "T",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "C",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "De l’ADN au gène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le génome humain, c’est 3 milliards de nucléotides",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "et un gène c’est 50.000 nucléotides en moyenne",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "11",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Molécule d’ADN",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exon 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exon 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exon 3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exon 4",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "intron 1",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intron 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Intron 3",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "CCGAATCCGCCACCGAATCCGCCACCGAATCCGCCA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Séquence",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’ADN",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Du gène à la protéine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "12",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Gène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intra",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Extra",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Protéines",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "traduction",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "épissage - maturation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "transcription",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Pré-ARN messager",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "ARN messager",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Transporteur sérotonine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur dopamine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Variants génétiques : Différentes formes du même gène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’exemple le plus fréquent : Polymorphisme de séquence d’un seul acide nucléotidique (SNP ou Snip)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "13",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ces variants SNP peuvent modifier",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "les caractéristiques de la protéine",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Stratégies d’analyse des variants génétiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Génotypage automatisé des Snip : SNPlexTM, Taqman™",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Génotypage de 1 ou 48 SNP en parallèle pour 96/384 sujet par réaction",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "15",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Génotype 11",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "homozygote",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Génotype 12",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "hétérozygote",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Génotype 22",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "homozygote",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bases de données et cartes de SNPs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "https://www.ncbi.nlm.nih.gov/snp",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "16",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Exemple de",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hapmap.org",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Consortium international",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Criblage du génome/Etude pan-génomique : Genome Wide Association Study  (GWAS)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’effet neurobiologique dans un trouble neuropsychiatrique est la conséquence de différentes composantes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "17",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "600000-1000000 SNP",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Expériences",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "& analyse des données",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Séquençage de gène ou de tous les exons (Whole-Exome Sequencing WES)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Séquençage classique Sanger et séquençage haut débit",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "18",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

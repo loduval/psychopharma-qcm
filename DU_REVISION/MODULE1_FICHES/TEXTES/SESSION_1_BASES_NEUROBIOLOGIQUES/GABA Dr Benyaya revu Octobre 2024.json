@@ -1,0 +1,2125 @@
+{
+  "fichier": "GABA Dr Benyaya revu Octobre 2024.pptx",
+  "session": "SESSION_1_BASES_NEUROBIOLOGIQUES",
+  "total_slides": 41,
+  "slides": [
+    {
+      "num": 1,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Module d’autoformation E-Learning",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GABA Acide Gamma- Amino- Butyrique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 2,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Bienvenue dans ce module",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Afin de le suivre dans les meilleures conditions, nous vous invitons à :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Vous isoler",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Mettre un casque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 3,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "3",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Bases neurobiologiques des effets des médicaments psychotropes",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Revue générale des principaux neuromédiateurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GABA    Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "J. BENYAYA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Docteur en Pharmacie,",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Ancien interne des Hôpitaux de Paris",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 4,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dénomination",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Sort neuronal et extraneuronal du neurotransmetteur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs ionotropes et allostérie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteurs métabotropes et Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médicaments analogues structuraux du Gaba",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépines et sites allostériques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets Centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Aspects pharmacologiques  insomnie et épilepsie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "4",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 5,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Acide Gamma- Amino- butyrique GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’acide gamma aminobutyrique est un neurotransmetteur type.  Le signal transmis est toujours inhibiteur. L’activation des récepteurs gaba entraine une entrée d’ions chlorures, chargés négativement, dans la cellule qui devient hyperpolarisée et donc difficilement excitable.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "L’acide gamma hydroxy butyrique est un anesthésique général, introduit  en thérapeutique par Henri Laborit.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Gamma OH  était présenté , dans le Dictionnaire Vidal édition 1971, comme",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« Anesthésique général atoxique  »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 6,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "acide butyrique COOH- CH2- CH2- CH3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "butane  CH3 - CH2- CH2- CH3",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "acide  amino- butyrique  COOH- CH2- CH2- CH2NH2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "0             α        β       γ",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "acide  gamma- amino- butyrique  COOH- CH2- CH2-CH2- NH2",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La fonction amine est sur le carbone gamma compté à partir de  la fonction acide notée 0",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dénomination",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acide Gamma- Amino- butyrique GABA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 7,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Biosynthèse",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dans le neurone",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- à partir de son  acide aminé précurseur : l’acide glutamique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "[décarboxylation de cet acide aminé diacide]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ou par transamination de l’acide alpha-cétoglutarique venant du cycle de Krebs [métabolisme du glucose => formation d’acides carboxyliques avec production d’ATP].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le GABA est présent à haute concentration dans de nombreuses régions du cerveau [10.000 fois plus que les neuromédiateurs monoamines]. La biosynthèse du GABA peut être bloquée par l’isoniazide [INH].",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acide Gamma- Amino- butyrique GABA",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 8,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Dégradation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Dans les cellules gliales et le neurone",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "par transamination: le groupement -NH2 va se  fixer  sur l’ acide alpha-cétoglutarique => acide glutamique =>  par décarboxylation=> GABA. Ce système assure la biosynthèse, la dégradation et la conservation du GABA. Le GABA est recapturé par les neurones et les cellules gliales.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GABA : neurotransmetteur  typiquement  inhibiteur .",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Neurones gabaergiques ≈ 40% des neurones cérébraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après Y Landry et JP Gies, Pharmacologie 3ème édition, Dunod ,2014",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« A la différence des autres systèmes de neuromédiateurs l’organisation  du système GABA ergique n’ a pas de localisation anatomique bien individualisée »",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après  R. Bordet  et al. ,Neuropsychopharmacologie , Elsevier  Masson ,2019",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 9,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Glutamine, Métabolite et précurseur aux deux visages",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 10,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "The American Psychiatric Association Publishing",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Textbook of Psychopharmacology, sixth edition, 2024,edited by A.F. Schatzberg and Charles B. Nemeroff",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tome 1 Page: 89 ;  modifié",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Référence du schéma de la diapositive 9",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La Glutamine, métabolite et précurseur aux deux visages",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le catabolisme du GABA et du Glutamate  se déroule dans les cellules gliales et produit la Glutamine.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "L’anabolisme  du GABA et du Glutamate à partir d’un même précurseur, la  Glutamine, va se produire dans",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Leurs neurones respectifs.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le neurotransmetteur inhibiteur, par excellence, et le neurotransmetteur excitateur ,aussi par excellence, ont le même précurseur et leur catabolisme donne le même produit.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« l’organisme humain est partisan du moindre effort »",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 11,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs GABAA : famille des récepteurs canaux. Ils sont formés de 5 sous-unités protéiques   ayant des propriétés allostériques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "5 sous-unités α β γ  =>  formation du canal chlorure.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ce sont des sous unités protéiques avec :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- site agoniste propre au neurotransmetteur ( NT) GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- site allostérique : pour une coopérativité positive ou négative du ligand et du NT",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Ligand  sur site allostérique + agoniste naturel => modification de la conformation du récepteur => potentialisation de l’activité du NT ou inhibition.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le site reconnaissant les benzodiazépines est précipité par les anticorps reconnaissant le site GABA. La  stimulation de ces sites augmente le courant CI -  entrant et entraîne une hyperpolarisation de la cellule",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 12,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "Représentation schématique d’un récepteur GABA  A –récepteur  canal chlorure*",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Récepteur structure quaternaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "5 sous unités protéiques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "récepteur « nicotinoïde »",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Cerveau humain :     2 sous unités α2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "2  ʺ  ʺ           β2",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "1   ʺ  ʺ          γ2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs     Récepteur ionotrope GABA A récepteur canal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "* Canal chlorure : appelé par abus de langage canal \"chlore\", mais le chlore est un  gaz !",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il existe plusieurs types de sous unités alpha, béta, gamma.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La présence de sous unités alpha est indispensable à la liaison des BZD",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "En majorité",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 13,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "- Benzodiazépines  « BZD »:   taux d’ouverture du canal Cl -  augmenté\t\t \t Propofol",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- Barbituriques :  temps d’ouverture du canal Cl – augmenté",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- Propofol: anesthésique général dont la formule est étonnamment simple!",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Réduction de la vitesse de dissociation du ligand propofol du récepteur GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Très lipophile=> liaison à des poches hydrophobes du récepteur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- Alcool: potentialisation néfaste des « BZD »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- Stéroïdes: anesthésiques généraux stéroïdiens dérivés de la progestérone.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Connus depuis assez longtemps (hydroxydione= Viadril®; alphaxalone (Alphatésine® ); ne sont plus disponibles. \tUtilisés en médecine vétérinaire.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "- Muscimol: alcaloïde présent dans les champignons de la famille des Amanites Amanita muscaria",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sites allostériques des ligands: coopérativité positive",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Amanita muscaria",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 14,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sites allostériques des ligands :coopérativité négative",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Picrotoxine :non-alcaloïde; dérivé terpénique; poison type des interneurones de la formation réticulée => convulsions cloniques abolies par section du tronc cérébral faite au niveau du pont.  Était utilisée comme antidote  dans  les intoxication barbiturique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Convulsivant : réactif pharmacodynamique des méthodes d’étude des médicaments antiépileptiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Bicuculline :  alcaloïde issu de plantes de la famille des fumariacées proche des papavéracées (pavot)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Bicuculline proche de la noscapine, alcaloïde de l’opium (pavot),aux propriétés antitussives.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Convulsivant ; réactif pharmacodynamique pour reproduire épilepsies temporales chez l’animal.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 15,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs   Récepteur Métabotrope GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur métabotrope avec 7 domaines protéiques hélicoïdaux trans membranaires,  forme dimérique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs pré et post- synaptiques .Moins exprimés que les récepteurs GABA A.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Couplage à une protéine Gi => inhibition de l’adénylate-cyclase =>  AMPc",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Présynaptiques sur neurones glutamatergiques: inhibition de la libération de glutamate",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Post synaptiques sur neurones sécrétant   Dopamine , Sérotonine, Noradrénaline => entrée ions calcium  bloquée=> libération  des neuromédiateurs  inhibée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les canaux potassiques sont aussi activés=>conductance potassique augmentée  sortie de K+ des la cellule=> hyperpolarisation",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Agoniste: Baclofène (1974) traitement de la spasticité musculaire de la sclérose en plaques,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "d’origine médullaire ou cérébrale.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "X",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 16,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteur Métabotrope GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "The American Psychiatric Association Publishing",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Textbook of Psychopharmacology, sixth edition, 2024,edited by A.F. Schatzberg and Charles B. Nemeroff",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Tome 1 Page: 104;  modifié",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Intra Cell.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Extra Cell.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 17,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Médicaments analogues structuraux du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Les médicaments agissant sur les différents sites allostériques n’ont pas de parenté structurale avec l’acide gamma –amino butyrique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Différents médicaments sont des analogues structuraux du GABA et",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "exception faite du Baclofène(agoniste  GABA B), paradoxalement, ils n’agissent pas par fixation sur le récepteur GABA !",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 18,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Médicaments analogues structuraux du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Groupement  lipophile facilitant  le passage de la barrière hémato-encéphalique B.H.E.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA  substitué par Parachlorophényl en 2",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "BACLOFENE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide valproïque",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 19,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "Médicaments analogues structuraux du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Baclofène est un analogue structural et  agoniste du récepteur GABA B métabotrope. Il se fixe sur le récepteur. GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les autres analogues structuraux, médicaments antiépileptiques ne se fixent pas sur les récepteurs GABA A!",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Gabapentine : stimule la biosynthèse du GABA ; inhibe sa dégradation.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Gamma vinyl-GABA : inhibe la dégradation du GABA.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Prégabaline : inhibe entrée des ions Calcium Ca2+",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acide Valproïque : stimule la biosynthèse du GABA ; inhibe sa dégradation.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 20,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Récepteurs",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "-Benzodiazépines  « BZD »:  Ki  constante d’inhibition de la liaison du ligand à son récepteur",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "( nanomoles/L  nM 10-9 M)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sites allostériques des ligands: coopérativité positive",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Il existe plusieurs types de sous unités alpha, béta, gamma. La présence des sous unités alpha est indispensable à la liaison des BZD",
+          "indent": 0
+        }
+      ],
+      "tableaux": [
+        {
+          "lignes": [
+            [
+              "Ligand allostérique",
+              "Récepteur GABA α1 β2 γ2",
+              "Récepteur GABA α2 β2γ2"
+            ],
+            [
+              "Diazépam",
+              "16,1",
+              "16,9"
+            ],
+            [
+              "Clonazépam",
+              "1,3",
+              "1,7"
+            ],
+            [
+              "Triazolam",
+              "1,8",
+              "1,2"
+            ],
+            [
+              "Zolpidem",
+              "17",
+              "291"
+            ]
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "num": 21,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Rappels sur l’allostérie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Allostérie enzymatique classique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Interaction drogue récepteur ou ligand récepteur  calquée sur interaction enzyme substrat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Relation enzyme substrat classique (« michaelienne ») : saturation enzyme par substrat= progressive; vitesse de réaction en relation linéaire avec la  concentration substrat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Régulation allostérique : relation illustrée par une  sigmoïde : facilitation de la fixation de molécules de substrat par les  molécules déjà fixées.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "substrat fixé =>modification de la conformation =>augmentation de l’affinité de l’enzyme pour son substrat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Site catalytique pour réaction enzymatique proprement dite, distinct du site allostérique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 22,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H1",
+          "texte": "Rappels sur l’allostérie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Allostérie enzymatique classique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "6) Modèle oligomérique de Monod Wyman et Changeux:  enzyme composée  de plusieurs unités protéiques es (structure quaternaire)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "la modification de la conformation du premier oligomère formant la protéine enzymatique=>transmission aux autres oligomères",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=> augmentation affinité ou réduction affinité  pour le substrat",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hémoglobine  protéine allostérique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "4 sous unités protéiques avec un hème . Pas d’affinité pour oxygène. 1ère  fixation d’O2=> modification de la conformation des autre sous unités  et augmentation de l’affinité pour l’oxygène,  courbes de saturation en oxygène  de l’ Hb =  Courbe Sigmoïde caractéristique",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 23,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Excitabilité cellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "On peut dire très schématiquement que l’excitabilité d’un neurone dépend de la composition ionique du milieu extracellulaire  et du taux d’activité des neurotransmetteurs, dans le liquide extracellulaire, confronté aux récepteurs neuronaux. Cette  concentration, dans le liquide extracellulaire, est régulée par les cellules gliales et d’un point de vue finaliste, l’équilibre  des concentrations glutamate/GABA règle l’excitabilité neuronale",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Motricité",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si l’on se reporte à ce qui a été dit à propos du rôle des noyaux gris centraux, dans le contrôle de la motricité [dopamine] on constate que :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La double inhibition gabaergique dans la voie directe, activée par la dopamine, aboutit à l’activation de cette voie  directe activatrice.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "La double inhibition gabaergique dans la voie indirecte,  faiblement inhibée par la dopamine, aboutit à une faible l’inhibition de la  voie indirecte inhibitrice.",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 24,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Régulation du système de récompense",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les voies dopaminergiques mésolimbiques sont activées lors de la recherche d’une récompense et  lors de l’auto-administration de substances psychostimulantes.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les neurones dopaminergiques mésolimbiques  sont soumis à une influence inhibitrice venant:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de neurones gabaergiques corticaux   [dont la membrane porte  des récepteurs NMDA]",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "ou mésencéphaliques   [dont la membrane porte des récepteurs GABA].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Ainsi on pense que l’activation du système de récompense et son renforcement [effets addictifs ?] seraient dus :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "pour les benzodiazépines:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à l’activation des récepteurs GABA des neurones gabaergiques du mésencéphale  régulant les neurones DA mésolimbiques => levée de l’inhibition,",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "pour la phénylcyclidine, [PCP, \"angel dust\"]  proche de la kétamine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "à l’inhibition des récepteurs NMDA des neurones gabaergiques corticaux=>",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "levée de l’activation des neurones régulateurs inhibiteurs des neurones DA mésolimbiques",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 25,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Régulation du système de récompense",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurone Dopaminergique mésolimbique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation lors du renforcement du système de récompense",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Soumis à une inhibition tonique gabaergique corticale et mésencéphalique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurone GABA ergique cortical, soma porteur de récepteurs NMDA, si  activés par glutamate => inhibition du neurone DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Neurone GABA ergique mésencéphalique, soma porteur de récepteurs GABA  ;  si  activés par GABA =>  neurones inhibés=> perte de l’inhibition du neurone DA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Activation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "inhibition",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 26,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Effets centraux",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Fonctions cognitives et mémoire  Approche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Régulation des fonctions cognitives [mémoire] : observations des effets de l’administration de réactifs pharmacodynamiques à des animaux de laboratoire soumis à des tests évaluant la mémoire et l’apprentissage [labyrinthes, reconnaissance de stimulus efficace par exemple].",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Picrotoxine,  Bicuculline, antagonistes GABA => amélioration des  performances.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Muscimol,  Baclofène, agonistes GABA => détérioration des performances.",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Liens avec l’acétylcholine :",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Oxotrémorine, agoniste cholinergique muscarinique=> annulation ou inversion des effets amnésiants du Baclofène .",
+          "indent": 1
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Baclofène =>augmentation des effets amnésiants de la scopolamine, antagoniste muscarinique",
+          "indent": 1
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 27,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Approche simplifiée",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Médicaments agissant  par activation directe ou indirecte  des transmissions gabaergiques",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "=>Mise au repos des activités neuronales",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Sédation d’un fonctionnement neuronal excessif par médicaments favorisant l’action du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "catatonie : Zolpidem",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "épilepsie: nombreux médicaments (Cf. supra)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Hypervigilance anxieuse: Benzodiazépines",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Insomnie: Benzodiazépines, Zolpidem",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Spasticité musculaire: Baclofène (GABA B)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 28,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Diazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Clonazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Représentation qualitative et quantitative des effets thérapeutiques selon le Professeur Marc Ansseau",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Faculté de Médecine Université de Liège          «Etoile de Liège » Ecole du Pr Jean Bobon",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Reproduction et adaptation avec l’aimable autorisation du Professeur M. Ansseau",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 29,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gaboxadol=analogue structural du Muscimol. Agoniste  des récepteurs GABA A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Augmente la durée totale su sommeil; sommeil à ondes lentes",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Assure la continuité de la nuit de sommeil; ne modifie pas le sommeil paradoxal",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypnotiques =  médicaments=> réduction de la vigilance et état proche du sommeil physiologique.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Substances essentiellement anti-éveil.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Action principale= dépression  de la Formation Réticulée Activatrice Ascendante; sur les récepteurs GABA A.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Indication: traitement de patients avec plainte d'insomnie:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "difficulté d’endormissement",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "quantité de sommeil continu insuffisante",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "sommeil ressenti comme étant de mauvaise qualité et non réparateur",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 30,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Muscimol; Agoniste  des récepteurs GABA A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Gaboxadol=analogue structural du Muscimol.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Agoniste  des récepteurs GABA A. Hypnotique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 31,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépine et Imidazopyridine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zolpidem :fruit dune élégante démarche de Drug Design",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Cycle diazépine , 7 sommets et  2 hétéroatomes d’azote",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "« compacté » en 1 cycle à 5 sommets 2 hétéroatomes d’azote =  diazole ou imidazole",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "1 hétéroatome d’azote «remplace » 1 atome de carbone dans le cycle benzénique =>hydro-pyridine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Diazépam",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zolpidem",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 32,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Benzodiazépine et Imidazopyridine",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zolpidem :fruit dune élégante démarche de Drug Design",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zolpidem :Agoniste allostérique du récepteur GABA A",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Affinité pour les sites benzodiazépines  du cervelet (déplacement de Diazépam marqué au tritium)",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Zolpidem déplace antagoniste GABA des sites corticaux de fixation",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hypnotique: réduction de la latence d’apparition du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "allongement de la durée totale du sommeil",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "tolérance et dépendance physique rarement observées",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 33,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "exemple de l’épilepsie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Décharge excessive paroxystique et hypersynchrone d’une population de neurones",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "=>manifestations cliniques paroxystiques=épilepsie",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Dépolarisation neuronale d’une amplitude anormalement grande; début et fin brusques",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Crise d'épilepsie consécutive à une hyperexcitabilité cellulaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Hyperexcitabilité due à plusieurs facteurs parmi lesquels:",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "insuffisance des afférences inhibitrices qui dépendent du GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "D’après  le Pr Jean de Recondo, Sémiologie du Système Nerveux   Flammarion Médecine Sciences",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 34,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "exemple de l’épilepsie",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acide Nipécotique ou  Acide Pipéridine carboxylique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(analogue hydrogéné de l’acide pyridine carboxylique ou",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "acide nicotinique) :",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réactif pharmacodynamique, inhibiteur de la recapture du GABA par neurones et cellules gliales.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Action préventive, chez l’animal des crises convulsives audiogéniques, électriques, ou dues au pentétrazole",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Acide Nipécotique traverse difficilement la BHE",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Si azote substitué par une chaine latérale très lipophile => traversée de BHE=> Tiagabine=inhibition de la  recapture du  GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Médicament antiépileptique: traitement des épilepsies partielles avec ou sans généralisation en tant qu’adjuvant d’un traitement déjà présent.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA A",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 35,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Baclofène est un analogue structural et agoniste du récepteur GABA B métabotrope. Il se fixe sur le récepteur GABA B.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Les médicaments antiépileptiques analogues structuraux du GABA ne se fixent pas sur le récepteur GABA A!",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Baclofène:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Acide gamma aminobutyrique avec substitution d’un H par un groupement lipophile",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "para-Chloro-Phényl",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "sur le carbone Béta",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "p-Chloro-Phényl",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 36,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Baclofène est un analogue structural et agoniste du récepteur GABA B métabotrope. Il se fixe sur le récepteur GABA B.",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "GABA",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "p-Chloro-Phényl",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Carbone asymétrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "2 configurations absolues possibles",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "R et S",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Seul le « configuromère R est actif »",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Chez l’animal",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 37,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Le Baclofène, commercialisé sous le nom de Liorésal ® est un médicament myorelaxant . Il agit par inhibition des réflexes polysynaptiques. Il est indiqué dans le traitement de la spasticité musculaire",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "(e.g. Sclérose en Plaques)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Il est aussi indiqué pour réduire la consommation d’alcool, après échec des autres traitements médicamenteux disponibles, chez les patients adultes ayant une dépendance à l’alcool et une consommation d’alcool à risque élevé (> 60 g/jour pour les hommes ou > 40 g/jour pour les femmes).(Trouble de l’usage de l’alcool DSM5)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "La démarche  scientifique empirique qui a conduit à cette indication est bien résumée par un médecin genevois, le docteur Pascal Gache*",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les docteurs R. de Beaurepaire et B. Rolland ont publié les résultats du suivi d’une cohorte, de 2014 à 2017,  constituée de 6939 patients.**",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "*L’affaire Baclofène: une question d’indifférence. Revue « Dépendances »,Juin 2013, n°49.,p12-14",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Accès libre \"en ligne \"  .",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "** de Beaurepaire R., Rolland B.: Frontiers in Psychiatry,2022,Oct.,13,949750. Accès libre \"en ligne \"",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 38,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Réduction la consommation d’alcool: Hypothèses du mécanisme d’action du Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "de Beaurepaire R., R.: Frontiers in Psychiatry, 2018,Oct.,9, .00506. Accès libre \"en ligne \"",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Analyse dense et exhaustive, parfois difficile d’abord, de la revue de la littérature",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Propositions de différentes hypothèses du mécanisme d’action du Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Tentative de simplification de deux hypothèses :",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse Dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse du traitement de substitution de la dépendance à l’alcool ?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 39,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction la consommation d’alcool: Hypothèses du mécanisme d’action du Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de Beaurepaire R., R.: Frontiers in Psychiatry, 2018,Oct.,9, .00506. Accès libre \"en ligne \"",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse Dopaminergique",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Micro-injections de Baclofène dans l’aire tegmentale ventrale du cerveau du rat (somas des neurones dopaminergiques): suppression de la consommation d’alcool chez les rats rendus alcoolodépendants(inhibition de la sécrétion de dopamine)",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Apparition de comportements apathiques, de tristesse, de dépression majeure chez 15% des patients traités",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cela signerait- il un antagonisme dopaminergique?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Apparition de comportements hypomanes chez 30% des patients traités:",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Cela signerait- il une ,à l’opposé, une synergie dopaminergique ?",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Contradiction interne?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 40,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "H2",
+          "texte": "GABA       Acide Gamma-Amino-butyrique",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "Pharmacologie du récepteur  GABA B",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Réduction la consommation d’alcool: Hypothèses du mécanisme d’action du Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "BODY",
+          "texte": "de Beaurepaire R., R.: Frontiers in Psychiatry, 2018,Oct.,9, .00506. Accès libre \"en ligne \"",
+          "indent": 0
+        },
+        {
+          "niveau": "H1",
+          "texte": "Hypothèse du traitement de substitution de la dépendance à l’alcool?",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les effets généraux, rapportés par les patients, produits par l’alcool et le Baclofène sont similaires.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "L’effet anxiolytique de  l’alcool et du Baclofène sont identiques.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Les signe et les symptômes de l’interruption brutale du traitement par des doses élevées de Baclofène",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "sont similaires à ceux du sevrage alcoolique.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Baclofène supprime les signes de sevrage alcoolique chez les animaux rendus dépendants à l’alcool.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Mais l’alcool se fixe sur un site du récepteur GABA A, alors que nous savons que le Baclofène est un agoniste sélectif du récepteur GABA B.",
+          "indent": 0
+        },
+        {
+          "niveau": "H2",
+          "texte": "Le Baclofène entrainerait- il , chez les patients, un état d’indifférence à l’égard des situations stimulant l’envie de boire de l’alcool?",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    },
+    {
+      "num": 41,
+      "has_content": true,
+      "textes": [
+        {
+          "niveau": "BODY",
+          "texte": "41",
+          "indent": 0
+        }
+      ],
+      "tableaux": [],
+      "notes": ""
+    }
+  ]
+}

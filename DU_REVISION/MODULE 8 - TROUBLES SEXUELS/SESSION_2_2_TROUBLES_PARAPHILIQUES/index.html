@@ -1,0 +1,232 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3.0"><title>Session 3 — 2 Troubles Paraphiliques — M8</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@400;500;600;700&display=swap');
+:root{
+  --bg:#070b14;--s:#0e1425;--c:#141d32;--c2:#1a2540;
+  --a:#6b9fff;--a2:#9b87f5;--am:#f5a623;--g:#3ecf7a;
+  --t:#e2e8ff;--m:#7a90bf;--b:#1e2d4a;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html{scroll-behavior:smooth;}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--t);
+  font-size:15px;line-height:1.75;max-width:740px;margin:0 auto;}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:200;background:rgba(7,11,20,.96);
+  backdrop-filter:blur(16px);border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:10px;padding:10px 16px;flex-wrap:wrap;}
+.tb-back{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:8px;padding:5px 12px;font-size:12px;
+  font-family:inherit;text-decoration:none;white-space:nowrap;}
+.tb-crumb{font-size:12px;color:var(--m);flex:1;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.tb-crumb em{color:var(--a);font-style:normal;font-weight:600;}
+
+/* ── HERO ── */
+.sess-hero{padding:24px 20px 18px;
+  background:linear-gradient(135deg,var(--s),var(--c));
+  border-bottom:1px solid var(--b);}
+.sh-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.12em;color:var(--a2);margin-bottom:6px;}
+.sess-hero h1{font-family:'Crimson Pro',Georgia,serif;font-size:26px;
+  font-weight:700;line-height:1.3;margin-bottom:8px;}
+.sh-meta{font-size:12px;color:var(--m);}
+
+/* ── NAVIGATION COURS (accordéon) ── */
+.cours-nav{background:var(--s);border-bottom:1px solid var(--b);
+  padding:10px 16px;}
+.cn-title{font-size:11px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--m);margin-bottom:6px;}
+.cn-links{display:flex;gap:6px;flex-wrap:wrap;}
+.cn-link{background:var(--c);border:1px solid var(--b);color:var(--m);
+  border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;
+  text-decoration:none;cursor:pointer;white-space:nowrap;}
+.cn-link:hover{background:var(--a);color:#fff;border-color:var(--a);}
+
+/* ── RÉSUMÉ ── */
+.resume-block{margin:16px;background:var(--c);border:1px solid var(--b);
+  border-left:4px solid var(--a2);border-radius:12px;padding:18px 20px;}
+.resume-tag{font-size:10px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a2);margin-bottom:12px;
+  display:flex;align-items:center;gap:6px;}
+.resume-tag::before{content:'✦';}
+.resume-block h3{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;margin:14px 0 6px;}
+.resume-block h3:first-child{margin-top:0;}
+.resume-block h4{font-size:14px;font-weight:700;color:var(--a);margin:10px 0 4px;}
+.resume-block p{font-size:13px;color:var(--t);line-height:1.7;margin:4px 0;}
+.resume-block ul{padding-left:18px;margin:4px 0 8px;}
+.resume-block li{font-size:13px;color:var(--t);line-height:1.7;margin:2px 0;}
+.resume-block strong{color:#fff;font-weight:700;}
+
+/* ── COURS BLOCK ── */
+.cours-section{border-top:2px solid var(--b);margin-top:6px;}
+.cours-head{padding:14px 20px 10px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+  background:rgba(107,159,255,.04);}
+.cours-head:hover{background:rgba(107,159,255,.08);}
+.ch-num{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--a);flex-shrink:0;}
+.ch-title{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;line-height:1.3;flex:1;}
+.ch-meta{font-size:10px;color:var(--m);white-space:nowrap;}
+.ch-toggle{color:var(--m);font-size:18px;transition:transform .2s;flex-shrink:0;}
+.cours-section.open .ch-toggle{transform:rotate(90deg);}
+.slides-wrap{display:none;padding:0 14px 16px;}
+.cours-section.open .slides-wrap{display:block;}
+
+/* ── SLIDES ── */
+.slide-card{background:var(--c);border-radius:10px;
+  border-left:3px solid var(--b);margin-bottom:8px;padding:11px 13px;}
+.slide-card.top{border-left-color:var(--a);}
+.slide-card.has-img{border-left-color:var(--am);}
+.sn{font-size:9px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.1em;color:var(--m);margin-bottom:6px;}
+.t-h1{font-family:'Crimson Pro',Georgia,serif;font-size:19px;
+  font-weight:700;color:#fff;line-height:1.35;margin:3px 0 5px;}
+.t-h2{font-family:'Crimson Pro',Georgia,serif;font-size:16px;
+  font-weight:600;color:#c5d3f0;margin:3px 0 4px;}
+.t-sm{font-size:11px;color:var(--m);margin:2px 0;}
+
+/* ── IMAGES ── */
+.med-fig{margin:12px 0;border:1px solid var(--b);border-radius:10px;
+  overflow:hidden;cursor:zoom-in;}
+.med-fig img{width:100%;height:auto;display:block;background:#fff;}
+.med-fig figcaption{font-size:10px;color:var(--m);padding:5px 10px;
+  background:var(--c2);border-top:1px solid var(--b);font-style:italic;}
+
+/* ── LIGHTBOX ── */
+#lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,.94);
+  z-index:500;align-items:center;justify-content:center;
+  flex-direction:column;gap:12px;padding:16px;}
+#lb.open{display:flex;}
+#lbi{max-width:92vw;max-height:85vh;object-fit:contain;
+  border-radius:8px;background:#fff;}
+.lbx{position:fixed;top:14px;right:18px;color:#fff;font-size:28px;
+  cursor:pointer;width:44px;height:44px;
+  display:flex;align-items:center;justify-content:center;}
+
+/* ── NAV BAS ── */
+.bot-nav{display:flex;justify-content:space-between;align-items:center;
+  padding:12px 18px;border-top:1px solid var(--b);
+  background:rgba(7,11,20,.97);backdrop-filter:blur(16px);
+  position:sticky;bottom:0;}
+.bn-btn{background:var(--c2);border:1px solid var(--b);color:var(--m);
+  border-radius:10px;padding:8px 14px;font-size:12px;font-weight:600;
+  font-family:inherit;text-decoration:none;}
+.bn-btn:hover{border-color:var(--a);color:var(--a);}
+.bn-info{font-size:11px;color:var(--m);text-align:center;}
+</style></head><body><div class="topbar"><a class="tb-back" href="../../../DIVERS/_INDEX/SYNTHESES_v6.html">← Module 8</a><div class="tb-crumb">M8 · <em>Session 3 — 2 Troubles Paraphiliques</em></div></div><div class="sess-hero"><div class="sh-tag">Module 8 — Session 3/3</div><h1>Session 3 — 2 Troubles Paraphiliques</h1><div class="sh-meta">2 cours · 0 images médicales validées</div></div><div class="cours-nav"><div class="cn-title">Cours de cette session</div><div class="cn-links"><a class="cn-link" href="#cours-1">1. Module d’autoformation E-Learn</a><a class="cn-link" href="#cours-2">2. Module d’autoformation E-Learn</a></div></div><div class="resume-block"><div class="resume-tag">Résumé de la session</div><h3>Troubles paraphiliques et agresseurs sexuels</h3>
+
+<h4>Définitions</h4>
+
+<p><strong>Paraphilies (DSM-5; ICD-11)</strong> : Troubles sexuels caractérisés par des fantasmes, envies ou comportements sexuels atypiques, récurrents, intenses, sexuellement excitants, pendant une période d'au moins 6 mois impliquant :</p>
+<ul>
+<li>des objets inanimés ou des animaux</li>
+<li>la souffrance et/ou l'humiliation de soi et/ou de son partenaire</li>
+<li>un ou des enfants prébubères (en général âgés de 13 ans au plus)</li>
+<li>d'autres personnes non consentantes</li>
+</ul>
+
+<p><strong>Troubles paraphiliques</strong> : Le DSM-5 a distingué les paraphilies (intérêt sexuel atypique) des troubles paraphiliques. Un trouble paraphilique se définit quand la personne a mis en acte ses besoins sexuels atypiques ou encore ses besoins et fantasmes lui causent une souffrance ou des difficultés interpersonnelles.</p>
+
+<p>L'ICD-11 a également retenu la notion de trouble paraphilique : désir sexuel atypique impliquant d'autres personnes dont l'âge ou le statut rendent leur consentement impossible à obtenir ou l'acte contraire à leur volonté. La durée de 6 mois est réduite à quelques mois.</p>
+
+<h4>Principaux troubles paraphiliques (DSM-5 et ICD-11)</h4>
+
+<ul>
+<li>Trouble exhibitionnisme (même définition que Code Pénal)</li>
+<li>Trouble frotteurisme (prévalence 8-10%, Johnson et al. 2014)</li>
+<li>Trouble voyeurisme</li>
+<li>Trouble pédophilie (enfant de 13 ans ou moins, agresseur au moins 16 ans et 5 ans de différence avec victime)</li>
+<li>Le trouble sadisme sexuel (renommé sadisme sexuel avec coercition dans l'ICD-11 pour le différencier du sadisme sexuel consenti)</li>
+<li>Le trouble masochisme sexuel</li>
+<li>Les autres troubles paraphiliques comprennent par ex : scatologie téléphonique, zoophilie, coprophilie, urophilie…</li>
+</ul>
+
+<p>Il existe des agresseurs sexuels d'enfants adolescents. Le DSM-5 distingue le caractère exclusif ou non, le sexe des victimes, le caractère limité ou non à l'inceste.</p>
+
+<p>Le trouble masochisme sexuel a été supprimé de l'ICD-11 et réintroduit dans autres troubles paraphiliques avec activité solitaire et consentie pour qualifier l'autoasphyxie (risque de décès en particulier chez les adolescents).</p>
+
+<p>Le trouble fétichisme et le transvestisme ont été supprimés des troubles paraphiliques dans l'ICD-11.</p>
+
+<h4>Liens entre paraphilies et agression sexuelle</h4>
+
+<p>Les types de troubles paraphiliques les plus étudiés sont les troubles pédophiliques. Environ 50% de ces derniers deviennent des agresseurs sexuels d'enfants.</p>
+
+<p>A l'inverse environ 50% des agresseurs d'enfants présentent un trouble pédophilique (dans les autres cas il peut s'agir : d'une déficience intellectuelle, d'une immaturité affective avec peur de l'adulte, d'un opportunisme…).</p>
+
+<h4>Aspects législatifs : Code Pénal</h4>
+
+<ul>
+<li><strong>Agression sexuelle</strong> : toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise (Article 222-22)</li>
+<li><strong>Viol</strong> (Article 222-23) : acte de pénétration sexuelle de quelque nature que ce soit</li>
+<li><strong>Exhibition</strong> (Article 222-32) (identique au trouble paraphilique)</li>
+<li>Circonstances aggravantes si mineur de moins de 15 ans</li>
+<li>L'inceste est également reconnu</li>
+</ul>
+
+<p>Le viol ne fait pas partie des troubles paraphiliques. Il s'agit d'un terme juridique qui renvoie à des situations cliniques très hétérogènes.</p>
+
+<h4>Caractéristiques cliniques</h4>
+
+<p>Des <strong>comorbidités psychiatriques</strong> sont fréquemment associées (30-50% des cas). La schizophrénie et les troubles bipolaires sont peu fréquents (< 15%). Par contre les addictions (surtout alcool) sont fréquentes ainsi que les troubles anxieux, dépressifs et le THADA et enfin les lésions cérébrales ou la déficience intellectuelle.</p>
+
+<p>Des <strong>troubles de personnalité</strong> sont présents dans 50% des cas.</p>
+
+<h4>Risque de récidive pour un agresseur sexuel</h4>
+
+<p>Le risque de récidive demeure difficile à évaluer (en moyenne 15% sans traitement mais il augmente au cours du temps).</p>
+
+<p><strong>Facteurs de risque</strong> :</p>
+<ul>
+<li>Surtout absence de traitement</li>
+<li>Pédophilie avec intérêt pour jeunes garçons</li>
+<li>Début précoce et pédophilie exclusive</li>
+<li>Personnalité antisociale</li>
+<li>Délits sexuels antérieurs</li>
+<li>Comorbidités psychiatriques non traitées</li>
+<li>Hypersexualité</li>
+<li>Déficience intellectuelle ou lésion cérébrale</li>
+<li>Des antécédents d'abus sexuels dans l'enfance</li>
+</ul>
+
+<h4>Evaluation d'un sujet agresseur sexuel</h4>
+
+<ul>
+<li>Recherche d'un trouble paraphilique</li>
+<li>Diagnostic et évaluation de la sévérité du trouble paraphilique (nombre et type(s) de trouble(s) paraphilique(s), âge et sexe des victimes, intra ou extrafamilial)</li>
+<li>Recherche de troubles de personnalité</li>
+<li>Recherche de comorbidités psychiatriques incluant les conduites addictives</li>
+<li>Recherche de comorbidités somatiques</li>
+<li>Recherche d'une hypersexualité, d'impulsivité, d'antécédents de violence sexuelle et/ou non sexuelle</li>
+<li>Recherche d'antécédents de violence physique et /ou sexuelle dans l'enfance et d'un état post traumatique associé</li>
+<li>Evaluation neuropsychologique si antécédents de lésions cérébrales</li>
+<li>Evaluation de la motivation au traitement</li>
+<li>Evaluation du risque de récidive (des échelles actuarielles peuvent aider)</li>
+<li>Evaluation de la situation judiciaire</li>
+<li>Si nécessité d'un traitement hormonal prévoir un bilan préalable et un consentement libre et éclairé</li>
+</ul>
+
+<h3>Prise en charge thérapeutique</h3>
+
+</div><div class="cours-section open" id="cours-1"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 1/2</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">18 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-h2">MODULE 8. Troubles sexuels</div><div class="t-h1">Session 2. Addictions et deviances sexuelles</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h1">Partie 2.2.1 : diagnostic et evaluation</div></div><div class="slide-card top"><div class="sn">Slide 2</div><div class="t-h1">MODULE 8. Troubles sexuelsSession 2. Addictions et déviances sexuellesSession 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuelsPartie 2.2.1 : diagnostic et évaluation</div><div class="t-sm">Pr F Thibaut</div><div class="t-sm">CHU Cochin</div><div class="t-h2">Université de Paris</div><div class="t-h2">INSERM U1266 - IPNP</div><div class="t-h2">Email: florence.thibaut@aphp.fr</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Module 8 -  Troubles sexuels</div><div class="t-h1">Session 2. Addictions et déviances sexuelles</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h1">Partie 2.2.1 : diagnostic et évaluation</div></div><div class="slide-card"><div class="sn">Slide 4</div><div class="t-h2">Bienvenue dans ce module</div><div class="t-h1">Afin de le suivre dans les meilleures conditions, nous vous invitons à :</div><div class="t-sm">Vous isoler</div><div class="t-h2">Mettre un casque</div></div><div class="slide-card"><div class="sn">Slide 5</div><div class="t-sm">Module 8 :</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h1">I. Savoir diagnostiquer les principaux troubles paraphiliques. Connaître les principes de l’évaluation d’un délinquant sexuel</div><div class="t-h1">II. Connaitre les principales options thérapeutiques pour la prise en charge des troubles paraphiliques, y compris lorsqu’ils sont associés à la délinquance sexuelle</div></div><div class="slide-card"><div class="sn">Slide 6</div><div class="t-sm">1ère Partie</div><div class="t-h1">I. Savoir diagnostiquer les principaux troubles paraphiliques. Connaître les principes de l’évaluation d’un délinquant sexuel</div></div><div class="slide-card top"><div class="sn">Slide 7</div><div class="t-h1">Définition des paraphilies (DSM-5; ICD-11)</div><div class="t-h1">Troubles sexuels caractérisés par des fantasmes, envies ou comportements sexuels atypiques, récurrents, intenses, sexuellement excitants, pendant une période d’au moins 6 mois impliquant :</div><div class="t-h1">des objets inanimés ou des animaux,</div><div class="t-h1">la souffrance et/ou l’humiliation de soi et/ou de son partenaire,</div><div class="t-h1">un ou des enfants prébubères (en général âgés de 13 ans au plus)</div><div class="t-h1">d’autres personnes non consentantes</div></div><div class="slide-card top"><div class="sn">Slide 8</div><div class="t-h1">Définition des troubles paraphiliques (DSM-5 et ICD-11)</div><div class="t-h1">Le DSM-5 a distingué les paraphilies (intérêt sexuel atypique) des troubles paraphiliques</div><div class="t-h1">Trouble paraphilique : la personne a mis en acte ses besoins sexuels atypiques ou encore ses besoins et fantasmes lui causent une souffrance ou des difficultés interpersonnelles</div><div class="t-h1">L’ICD-11 a également retenu la notion de trouble paraphilique : désir sexuel atypique impliquant d’autres personnes dont l’âge ou le statut rendent leur consentement impossible à obtenir ou l’acte contraire à leur volonté (par exemple, un enfant, un animal, un individu non consentant exposé à un exhibitionniste…). La durée de 6 mois est réduite à quelques mois.</div></div><div class="slide-card top"><div class="sn">Slide 9</div><div class="t-h1">Principaux troubles paraphiliques (DSM-5 et ICD-11)</div><div class="t-h1">Trouble exhibitionnisme (même définition que Code Pénal)</div><div class="t-h1">Trouble frotteurisme (prévalence 8-10%, Johnson et al. 2014)</div><div class="t-h2">Trouble voyeurisme</div><div class="t-h1">Trouble pédophilie (enfant de 13 ans ou moins, agresseur au moins 16 ans et 5 ans de différence avec victime).</div><div class="t-h1">Il existe des agresseurs sexuels d’enfants adolescents.</div><div class="t-h1">Le DSM-5 distingue le caractère exclusif ou non, le sexe des victimes, le caractère limité ou non à l’inceste</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">Principaux troubles paraphiliques (DSM-5 et ICD-11)</div><div class="t-h1">Certains pédophiles regardent seulement des images pédopornographiques (risque de passage à l’acte ?)</div><div class="t-h1">Le fait, en vue de sa diffusion, de fixer, d&#x27;enregistrer ou de transmettre l&#x27;image ou la représentation d&#x27;un mineur lorsque cette image ou cette représentation présente un caractère pornographique est puni par la loi (Article 227-23 Code Pénal)</div><div class="t-h1">DES PSY Psychiatrie légale. F. Thibaut. Les auteurs de violence sexuelle</div></div><div class="slide-card top"><div class="sn">Slide 11</div><div class="t-h1">Principaux troubles paraphiliques (DSM-5 et ICD-11)</div><div class="t-h1">Le trouble sadisme sexuel (renommé sadisme sexuel avec coercition dans l’ICD-11 pour le différencier du sadisme sexuel consenti)</div><div class="t-h1">Le trouble masochisme sexuel. Il a été supprimé de l’ICD-11 et réintroduit dans autres troubles paraphiliques avec activité solitaire et consentie pour qualifier l’autoasphyxie (risque de décès en particulier chez les adolescents)</div><div class="t-h1">Le trouble fétichisme et le transvestisme ont été supprimés des troubles paraphiliques dans l’ICD-11</div></div><div class="slide-card top"><div class="sn">Slide 12</div><div class="t-h1">Principaux troubles paraphiliques (DSM-5 et ICD-11)</div><div class="t-h1">Les autres troubles paraphiliques comprennent par ex :</div><div class="t-h1">scatologie téléphonique, zoophilie, coprophilie, 	urophilie…</div></div><div class="slide-card top"><div class="sn">Slide 13</div><div class="t-h1">Liens entre paraphilies et agression sexuelle</div><div class="t-h1">Les types de troubles paraphiliques les plus étudiés sont les troubles pédophiliques. Environ 50% de ces derniers deviennent des agresseurs sexuels d’enfants</div><div class="t-h1">A l’inverse environ 50% des agresseurs d’enfants présentent un trouble pédophilique (dans les autres cas il peut s’agir : d’une déficience intellectuelle, d’une immaturité affective avec peur de l’adulte, d’un opportunisme…)</div></div><div class="slide-card top"><div class="sn">Slide 14</div><div class="t-h2">Aspects législatifs : Code Pénal</div><div class="t-h1">Agression sexuelle : toute atteinte sexuelle commise avec violence, contrainte, menace ou surprise. (Article 222-22)</div><div class="t-h1">Lorsque les agressions sexuelles sont commises à l&#x27;étranger contre un mineur par un Français ou par une personne résidant habituellement sur le territoire français, la loi française est applicable</div><div class="t-h1">Viol (Article 222-23) : acte de pénétration sexuelle de quelque nature que ce soit</div><div class="t-h1">Exhibition (Article 222-32) (identique au trouble paraphilique)</div><div class="t-h1">Circonstances aggravantes si mineur de moins de 15 ans</div><div class="t-h2">L’inceste est également reconnu</div><div class="t-h1">(les viols et les agressions sexuelles sont qualifiés d&#x27;incestueux lorsqu&#x27;ils sont commis par : Un ascendant ; Un frère, une sœur, un oncle, une tante, un neveu ou une nièce ; Le conjoint, le concubin d&#x27;une des personnes mentionnées aux 1° et 2° ou le partenaire lié par un pacte civil de solidarité avec l&#x27;une des personnes mentionnées aux mêmes 1° et 2°, s&#x27;il a sur la victime une autorité de droit ou de fait.</div><div class="t-h1">Textes:  https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006165281&amp;cidTexte=LEGITEXT000006070719</div></div><div class="slide-card"><div class="sn">Slide 15</div><div class="t-sm">Viol</div><div class="t-h1">Ne fait pas partie des troubles paraphiliques</div><div class="t-h1">Il s’agit d’un terme juridique qui renvoie à des situations cliniques très hétérogènes</div><div class="t-h1">Le sadisme sexuel avec comportement coercitif peut favoriser le viol</div><div class="t-h1">Le trouble pédophilique peut être associé à un viol d’enfant</div><div class="t-h1">DES PSY Psychiatrie légale. F. Thibaut. Les auteurs de violence sexuelle</div></div><div class="slide-card top"><div class="sn">Slide 16</div><div class="t-h1">Caractéristiques cliniques des paraphilies (surtout étudiées chez les agresseurs sexuels)</div><div class="t-h1">Des comorbidités psychiatriques sont fréquemment associées (30-50% des cas) (la schizophrénie et les troubles bipolaires sont peu fréquents (&lt; 15%). Par contre les addictions (surtout alcool) sont fréquentes ainsi que les troubles anxieux, dépressifs et le THADA et enfin les lésions cérébrales ou la déficience intellectuelle. Elles font alors l’objet d’un traitement spécifique (voir modules consacrés à ces sujets)</div><div class="t-h1">Des troubles de personnalité sont présents dans 50% des cas, les thérapies proposées sont des thérapies psychologiques en association</div><div class="t-h1">DES PSY Psychiatrie légale. F. Thibaut. Les auteurs de violence sexuelle</div></div><div class="slide-card top"><div class="sn">Slide 17</div><div class="t-h1">Risque de récidive pour un agresseur sexuel</div><div class="t-h1">Le risque de récidive demeure difficile à évaluer (en moyenne 15% sans traitement mais il augmente au cours du temps)</div><div class="t-h2">Facteurs de risque :</div><div class="t-h1">Surtout absence de traitement, pédophilie avec intérêt pour jeunes garçons, début précoce et pédophilie exclusive, personnalité antisociale, délits sexuels antérieurs, comorbidités psychiatriques non traitées, hypersexualité, déficience intellectuelle ou lésion cérébrale, des antécédents d’abus sexuels dans l’enfance…)</div><div class="t-h1">Des échelles actuarielles d’évaluation du risque peuvent aider à l’évaluer</div><div class="t-h1">DES PSY Psychiatrie légale. F. Thibaut. Les auteurs de violence sexuelle</div></div><div class="slide-card top"><div class="sn">Slide 18</div><div class="t-h1">Evaluation d’un sujet agresseur sexuel</div><div class="t-h1">Recherche d’un trouble paraphilique;</div><div class="t-h1">Diagnostic et évaluation de la sévérité du trouble paraphilique  (nombre et type(s) de trouble(s) paraphilique(s), âge et sexe des victimes, intra ou extrafamilial);</div><div class="t-h1">Recherche de troubles de personnalité;</div><div class="t-h1">Recherche de comorbidités psychiatriques incluant les conduites addictives;</div><div class="t-h1">Recherche de comorbidités somatiques (pouvant CI les traitements ou induire des interactions, rechercher une pathologie hormonale ou neurologique notamment);</div><div class="t-h1">Recherche d’une hypersexualité, d’impulsivité, d’antécédents de violence sexuelle et/ou non sexuelle;</div><div class="t-h1">Recherche d’antécédents de violence physique et /ou sexuelle dans l’enfance et d’un état post traumatique associé;</div><div class="t-h1">Evaluation neuropsychologique si antécédents de lésions cérébrales;</div><div class="t-h1">Evaluation de la motivation au traitement;</div><div class="t-h1">Evaluation du risque de récidive (des échelles actuarielles peuvent aider);</div><div class="t-h1">Evaluation de la situation judiciaire (antécédents judiciaires, injonction de soins en cours);</div><div class="t-h1">Si nécessité d’un traitement hormonal prévoir un bilan préalable et un consentement libre et éclairé</div></div></div></div><div class="cours-section open" id="cours-2"><div class="cours-head" onclick="toggleCours(this)"><span class="ch-num">Cours 2/2</span><span class="ch-title">Module d’autoformation E-Learning</span><span class="ch-meta">13 slides · 0 images</span><span class="ch-toggle">&#9656;</span></div><div class="slides-wrap"><div class="slide-card top"><div class="sn">Slide 1</div><div class="t-h2">Module d’autoformation E-Learning</div><div class="t-h2">MODULE 8. Troubles sexuels</div><div class="t-h1">Session 2. Addictions et deviances sexuelles</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h2">Partie 2.2.1 : Prise en charge</div></div><div class="slide-card top"><div class="sn">Slide 2</div><div class="t-h1">MODULE 8. Troubles sexuelsSession 2. Addictions et déviances sexuellesSession 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuelsPartie 2.2.1 : Prise en charge</div><div class="t-sm">Pr F Thibaut</div><div class="t-sm">CHU Cochin</div><div class="t-h2">Université de Paris</div><div class="t-h2">INSERM U1266 - IPNP</div><div class="t-h2">Email: florence.thibaut@aphp.fr</div></div><div class="slide-card"><div class="sn">Slide 3</div><div class="t-h2">Module 8 -  Troubles sexuels</div><div class="t-h1">Session 2. Addictions et déviances sexuelles</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h2">Partie 2.2.1 : Prise en charge</div></div><div class="slide-card"><div class="sn">Slide 4</div><div class="t-sm">Module 8 :</div><div class="t-h1">Session 2.2 : Prise en charge des troubles paraphiliques et des agresseurs sexuels</div><div class="t-h1">I. Savoir diagnostiquer les principaux troubles paraphiliques. Connaître les principes de l’évaluation d’un agresseur sexuel</div><div class="t-h1">II. Connaitre les principales options thérapeutiques pour la prise en charge des troubles paraphiliques, y compris lorsqu’ils sont associés à la délinquance sexuelle</div></div><div class="slide-card"><div class="sn">Slide 5</div><div class="t-sm">2ème partie</div><div class="t-h1">II. Connaitre les principales options thérapeutiques pour la prise en charge des troubles paraphiliques, y compris lorsqu’ils sont associés à la délinquance sexuelle</div></div><div class="slide-card"><div class="sn">Slide 6</div><div class="t-h2">Modalités de prise en charge</div><div class="t-h1">S’il existe une comorbidité psychiatrique (psychose, trouble bipolaire…) ou addictive : traitement spécifique</div><div class="t-h2">Thérapie cognitivo-comportementale</div><div class="t-h1">Antidépresseurs sérotoninergiques (IRS)</div><div class="t-h1">Traitements hormonaux (acétate de cyprotérone ou analogues de la GnRH):</div><div class="t-h1">2 médications ont l’AMM en Europe : l’acétate de cyprotérone (Androcur*) dans sa formulation per os à 100 mg; la triptoréline (Salvacyl*) dans sa formulation trimestrielle en injection i.m.</div></div><div class="slide-card"><div class="sn">Slide 7</div><div class="t-h2">Recommandations WFSBP 2019*</div><div class="t-h1">* Thibaut et al. World J Biol Psy 2019</div><div class="t-sm">www.wfsbp.org</div></div><div class="slide-card"><div class="sn">Slide 8</div><div class="t-h2">Recommandations WFSBP 2019*</div><div class="t-h1">* Thibaut et al. World J Biol Psy 2019</div><div class="t-sm">www.wfsbp.org</div></div><div class="slide-card top"><div class="sn">Slide 9</div><div class="t-h1">Depo-Provera Scale (Maletzki  et al. 2006)</div><div class="t-h1">Un score &gt; 6 (maximum 17) sur cette échelle de 13 items ou la présence de 3 items ou encore d’au moins 2 items marqués avec un a , pourrait constituer une indication à un traitement hormonal.</div><div class="t-h1">Le jugement clinique doit cependant demeurer le facteur le plus important dans la décision finale du choix d’un traitement antiandrogène.</div><div class="t-h2">a: items avec a;</div><div class="t-h2">PP: plethysmographie pénienne;</div><div class="t-h2">SNC: système nerveux central;</div></div><div class="slide-card top"><div class="sn">Slide 10</div><div class="t-h1">Evaluation d’un patient si traitement pharmacologique nécessaire puis surveillance sous traitement</div><div class="t-h1">°Attention au risque accru de suicide chez les adolescents avec les IRS</div><div class="t-h1">°° Puberté et croissance osseuse doivent être achevées</div><div class="t-h1">* Nécessaire si risque accru d’ostéoporose</div><div class="t-h1">** si CPA: IRM avant et à 5 ans puis tous les 2 ans</div><div class="t-h1">*** testostéronémie si risque d’interruption du traitement suspectée</div><div class="t-h2">CPA: acétate de cyprotérone</div></div><div class="slide-card"><div class="sn">Slide 11</div><div class="t-h2">Pour en savoir plus</div></div><div class="slide-card"><div class="sn">Slide 12</div><div class="t-sm">References</div><div class="t-h1">The World Federation of Societies of Biological Psychiatry (WFSBP): guidelines for the biological treatment of paraphilias. F. THIBAUT, F TORRES de la BARRA, H. GORDON, P. COSYNS, J. BRADFORD, WFSBP Task Force on sexual Disorders. World Journal of Biological Psychiatry 2010 11(4):604-55. Actualisation en 2019 à paraître (www.wfsbp.org) accès libre</div><div class="t-h1">Conférence de consensus HAS 2010 (prise en charge des auteurs d’agression sexuelle à l’encontre des mineurs de moins de 15 ans) accès libre (www.has-sante.fr)</div><div class="t-h1">The World Federation of Societies of Biological Psychiatry (WFSBP) : guidelines for the treatment of adolescent sexual offenders with paraphilic disorders. THIBAUT F., Bradford JMW, Briken P. de la Barra F, HassLer F, Cosyns P and the WFSBP Task Force on sexual disorders. Word Journal of Biological Psychiatry 2016;17(1):2-38. (www.wfsbp.org) accès libre</div><div class="t-h1">Approche Psychiatrique des Déviances Sexuelles. F. THIBAUT. Ed Springer, Paris, 2013, 130 pp.</div><div class="t-h1">Les abus sexuels. F. THIBAUT. Ed Odile Jacob, Paris, 2015, 235 pp.</div><div class="t-h1">Traduction française du module de formation à la prise en charge des violences interpersonnelles et sexuelles (World Psychiatric Association) www.wpanet.org/detail.php?section_id=7&amp;content_id=1876</div></div><div class="slide-card top"><div class="sn">Slide 13</div><div class="t-h2">Thérapie cognitivo-comportementale</div><div class="t-sm">Objectifs :</div><div class="t-h1">Amélioration des distorsions cognitives sur la sexualité et les relations avec les partenaires sexuels</div><div class="t-h1">Amélioration des relations sociales</div><div class="t-h1">Contrôle de l’impulsivité (sexuelle...), de la colère, de l’hypersexualité</div><div class="t-h2">Gestion du stress</div><div class="t-h1">Contrôle de la consommation d’alcool et de substances illicites</div><div class="t-h2">Responsabilité/acte</div><div class="t-h2">Reconnaissance de la pathologie</div></div></div></div><div class="bot-nav"><a class="bn-btn" href="../SESSION_2_1_ADDICTIONS_SEXUELLES/index.html">← Session préc.</a><div class="bn-info">Session 3/3<br>Module 8</div><span></span></div><div id="lb"><span class="lbx" onclick="document.getElementById('lb').classList.remove('open')">✕</span><img id="lbi" src="" alt="Schéma médical"></div><script>
+function openLB(src) {
+  document.getElementById('lbi').src = src;
+  document.getElementById('lb').classList.add('open');
+}
+function toggleCours(el) {
+  el.closest('.cours-section').classList.toggle('open');
+}
+// Ouvrir tous les cours par défaut
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.cours-section').forEach(function(s) {
+    s.classList.add('open');
+  });
+  document.getElementById('lb').addEventListener('click', function(e) {
+    if (e.target === this) this.classList.remove('open');
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') document.getElementById('lb').classList.remove('open');
+  });
+});
+</script></body></html>
